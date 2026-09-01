@@ -1,0 +1,63 @@
+# Hemisferio — feeds de origen. Una URL por línea. Las cabeceras "## " definen la carpeta.
+# Versión 3 — 1 sept 2026. Eliminados: Acta Sanitaria, Distrito, PlantaDoce, MobiHealthNews (feeds muertos)
+
+## 01 ESPAÑA
+https://www.redaccionmedica.com/rss
+https://www.consalud.es/rss
+https://gacetamedica.com/feed/
+https://www.europapress.es/rss/rss.aspx?ch=74
+https://elreferente.es/feed/
+https://www.diariomedico.com/rss
+https://www.aemps.gob.es/feed/
+
+## 02 LATAM
+https://www.contxto.com/en/feed/
+https://latamlist.com/feed/
+https://lavca.org/feed/
+https://www.saludiario.com/feed/
+https://www.iproup.com/rss/home
+
+## 03 BRASIL
+https://www.saudebusiness.com/feed/
+https://futurodasaude.com.br/feed/
+https://medicinasa.com.br/feed/
+https://startups.com.br/feed/
+https://feeds.feedburner.com/startupi
+https://braziljournal.com/feed/
+https://site.cfp.org.br/feed/
+https://portal.cfm.org.br/feed/
+https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/RSS
+
+## 04 GLOBAL (solo con ángulo local)
+https://www.fiercehealthcare.com/rss/xml
+
+## 05 GOOGLE NEWS
+ES deals:
+https://news.google.com/news/rss/search?q=%22salud%20mental%22%20AND%20%28startup%20OR%20ronda%20OR%20inversi%C3%B3n%20OR%20adquisici%C3%B3n%29&hl=es-419-ES&gl=ES&ceid=ES:es-419
+
+ES regulación:
+https://news.google.com/news/rss/search?q=%22salud%20mental%22%20AND%20%28ley%20OR%20regulaci%C3%B3n%20OR%20decreto%20OR%20Sanidad%29&hl=es-419-ES&gl=ES&ceid=ES:es-419
+
+MX / LATAM:
+https://news.google.com/news/rss/search?q=%22salud%20mental%22%20AND%20%28startup%20OR%20inversi%C3%B3n%20OR%20app%20OR%20telemedicina%29&hl=es-419-MX&gl=MX&ceid=MX:es-419
+
+BR deals:
+https://news.google.com/news/rss/search?q=%22sa%C3%BAde%20mental%22%20AND%20%28startup%20OR%20rodada%20OR%20investimento%20OR%20aquisi%C3%A7%C3%A3o%29&hl=pt-419-BR&gl=BR&ceid=BR:pt-419
+
+BR regulación:
+https://news.google.com/news/rss/search?q=%22sa%C3%BAde%20mental%22%20AND%20%28ANVISA%20OR%20CFP%20OR%20ANS%20OR%20regulamenta%C3%A7%C3%A3o%20OR%20telepsicologia%29&hl=pt-419-BR&gl=BR&ceid=BR:pt-419
+
+PT Portugal:
+https://news.google.com/news/rss/search?q=%22sa%C3%BAde%20mental%22%20AND%20%28startup%20OR%20rodada%20OR%20investimento%20OR%20aquisi%C3%A7%C3%A3o%29&hl=pt-150-PT&gl=PT&ceid=PT:pt-150
+
+ES deals (edición US, hl=en):
+https://news.google.com/news/rss/search?q=%22salud%20mental%22%20AND%20%28startup%20OR%20ronda%20OR%20inversi%C3%B3n%20OR%20adquisici%C3%B3n%29&hl=en
+
+ES regulación (edición US, hl=en):
+https://news.google.com/news/rss/search?q=%22salud%20mental%22%20AND%20%28ley%20OR%20regulaci%C3%B3n%20OR%20decreto%20OR%20Sanidad%29&hl=en
+
+EN sobre nuestros mercados:
+https://news.google.com/news/rss/search?q=%22mental%20health%22%20AND%20%28Spain%20OR%20Brazil%20OR%20Mexico%20OR%20%22Latin%20America%22%20OR%20LATAM%29&hl=en
+
+## 06 PUBMED
+(pegar aquí la URL que genera "Create RSS" en PubMed)
