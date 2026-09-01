@@ -1,5 +1,5 @@
 # Hemisferio — feeds de origen. Una URL por línea. Las cabeceras "## " definen la carpeta.
-# Versión 3 — 1 sept 2026. Eliminados: Acta Sanitaria, Distrito, PlantaDoce, MobiHealthNews (feeds muertos)
+# v4 — 1 sept 2026. Fuera: Acta Sanitaria, Distrito, PlantaDoce, MobiHealthNews, ANVISA gov.br (sustituido por Google News)
 
 ## 01 ESPAÑA
 https://www.redaccionmedica.com/rss
@@ -26,7 +26,6 @@ https://feeds.feedburner.com/startupi
 https://braziljournal.com/feed/
 https://site.cfp.org.br/feed/
 https://portal.cfm.org.br/feed/
-https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/RSS
 
 ## 04 GLOBAL (solo con ángulo local)
 https://www.fiercehealthcare.com/rss/xml
@@ -58,6 +57,9 @@ https://news.google.com/news/rss/search?q=%22salud%20mental%22%20AND%20%28ley%20
 
 EN sobre nuestros mercados:
 https://news.google.com/news/rss/search?q=%22mental%20health%22%20AND%20%28Spain%20OR%20Brazil%20OR%20Mexico%20OR%20%22Latin%20America%22%20OR%20LATAM%29&hl=en
+
+BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones):
+https://news.google.com/news/rss/search?q=ANVISA%20AND%20%28%22sa%C3%BAde%20mental%22%20OR%20psiqui%C3%A1trico%20OR%20antidepressivo%20OR%20ansiol%C3%ADtico%20OR%20psicod%C3%A9lico%29&hl=pt-419-BR&gl=BR&ceid=BR:pt-419
 
 ## 06 PUBMED
 (pegar aquí la URL que genera "Create RSS" en PubMed)
