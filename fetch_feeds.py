@@ -157,7 +157,8 @@ def entry_date(e):
 
 def main():
     now = datetime.now(timezone.utc)
-    items = {i["id"]: i for i in (json.loads(JSON_FILE.read_text(encoding="utf-8")) if JSON_FILE.exists() else [])}
+    old = json.loads(JSON_FILE.read_text(encoding="utf-8")) if JSON_FILE.exists() else []
+    items = {i["id"]: i for i in old if "puntos" in i}  # descarta entradas de versiones antiguas del script
     stats = []
     for folder, label, url in read_feeds():
         n_total = n_kept = 0
@@ -196,7 +197,7 @@ def main():
 
     cutoff = (now - timedelta(days=KEEP_DAYS)).date().isoformat()
     items = {k: v for k, v in items.items() if v["fecha"] >= cutoff}
-    JSON_FILE.write_text(json.dumps(sorted(items.values(), key=lambda x: (x["fecha"], x["puntos"]), reverse=True),
+    JSON_FILE.write_text(json.dumps(sorted(items.values(), key=lambda x: (x["fecha"], x.get("puntos", 0)), reverse=True),
                                     ensure_ascii=False, indent=1), encoding="utf-8")
 
     # ---- latest.md: últimos 8 días, deduplicado por historia, ordenado por prioridad ----
