@@ -1,5 +1,5 @@
-# Hemisferio — señales 2026-08-28 → 2026-09-05
-73 ítems con tema salud mental de 1181 leídos · 69 historias únicas · A=10 B=23 C=36
+# Hemisferio — señales 2026-08-29 → 2026-09-06
+76 ítems con tema salud mental de 1185 leídos · 73 historias únicas · A=11 B=24 C=38
 
 ## PRIORIDAD A — hechos con datos (leer artículo completo)
 - [2026-09-04] [01] **Sanidad e Ingesa movilizan más de 400.000 euros para ascensores, un láser multifunción y un medicamento exclusivo** — Redacción médica - Home · cat≈partnership · 10 pts
@@ -12,6 +12,8 @@
 - [2026-09-04] [04] **<a href="https://www.fiercehealthcare.com/finance/healthcare-dealmakers-uhs-closes-talkspace-acquisition-sanfords-north-memorial-deal-clears" hreflang="en">Healthcare Dealmakers—UHS closes Talkspace acquisition, Sanford's North Memorial deal clears and more</a>** — Fierce Healthcare · cat≈ma · 7 pts
   sword health nears headspace all-cash acquisition, hca healthcare adds dozens of texas urgent care centers and more healthcare merger and acquisition news from august.
   https://www.fiercehealthcare.com/finance/healthcare-dealmakers-uhs-closes-talkspace-acquisition-sanfords-north-memorial-deal-clears
+- [2026-09-05] [05] **Senado debate restrição à publicidade de bets e reúne dados sobre saúde mental, endividamento e mercado de apostas** — Jornal Grande Bahia · cat≈regulacion · 7 pts
+  https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLVVleHNyTDF5YU1lWGNjZ2VmWHZwajlpcnRyNy0wWEFxU0d6MXdPZy1iNFFscmQxdGY3TzQ2NFp1NUJZSWE2YW9OeHN6T1JyNnBndWtMSXZDdE1xQi1GVWNCN29LTXdwYVZjYm9vYzFpTTJXdmMzSzJOd1J5R3g4bjVUYl90QlRMbGpPTUVTNnN4RXoyLWlmWVFrVTFlRkt1ZmVwMWh5LWMyWjBuOFhxM2R5TkVWQy1yUUJIU2hkeWxBa05aejFad2VKYUtOdGFLRndGYS1PNmxUanV4aGdRS0NlVGc5SE9iUmJv?oc=5
 - [2026-09-01] [03] **Psicologia: Ciência e Profisssão lança edital para publicação de artigos sobre Crise Climática e Racismo Ambiental** — Conselho Federal de Psicologia · cat≈producto · 6 pts
   com o objetivo de reunir estudos no campo da psicologia que contribuam para a compreensao e o enfrentamento da crise climatica e do racismo ambiental, considerando seus impactos psicossociais, eticos, politicos e territo
   https://site.cfp.org.br/psicologia-ciencia-e-profisssao-lanca-edital-para-publicacao-de-artigos-sobre-crise-climatica-e-racismo-ambiental/
@@ -65,9 +67,8 @@
   https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2dKYmdEbmI1VE1rUzJhNHpzU1lzRXNRTHc4RXpfZW5heVJDMmhSSlAyWWVzYi1OM2dTM1dxdlNzUlpyRGZfTUI2WGl1TkFLelVvYTBlV0RlVGpPdjlaZ3FkbFZ1R3RJS1RkWGhuU2lsZk80dWpaY1kxV1BGbngzR2cwblIwSEpvcHIxaVZPSmpqSFpvVnpmWEt1ZEk?oc=5
 - [2026-09-03] [05] **Diputado pide aprobar una Ley de Salud Mental ante creciente afectación psicológica** — Proceso Digital · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3V3M21zOXByeUluS0N4bTRSNmRtXzNOdkNaaEZHZEUyazdUMzhGZmtRNzRRVTdEMk5YVWJsNHk2aENtd0ZsN3FLV0VZUDNaSXRHejh2WnlweEF0dUhvU1BSd1ZUVk5YSVpJSDRVWU5iWGVLX29oWFBBR2l3YlAyMmZsbXBJdWZaNXNzdDh0SlpONjdjNGVCSmh2MnplMzVPZE1Mb3JB?oc=5
-- [2026-08-28] [03] **Conselho Federal de Psicologia e DPU firmam acordo para promover a saúde mental no Sistema Penitenciário Federal** — Conselho Federal de Psicologia (+1 medios más) · cat≈partnership · 3 pts
-  o conselho federal de psicologia e a defensoria publica da uniao firmaram acordo de cooperacao tecnica para desenvolver acoes voltadas a promocao e a protecao da saude mental no sistema penitenciario federal. a parceria 
-  https://site.cfp.org.br/conselho-federal-de-psicologia-e-dpu-firmam-acordo-para-promover-a-saude-mental-no-sistema-penitenciario-federal-2/
+- [2026-09-05] [05] **Salud mental en alerta: advierten por la presión sobre el sistema público y cuestionan la reforma de la ley** — 0223.com.ar · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQlFUTUtCbzZCenFkbHlGLW1pOG1ySDBpRTZkeWNJbUx2Vkh1SFRwaVl0YmVYYnBxVFZWci1vb08zZHh2WjJZRjgzV1UzT2ItWV9pRGZLaGZ6S2QwbGRlWnU0WmFHbG1pQUlXMHo0b0MwTUxFTWttckl3WW1yR0hkakFPMC1VYzdGRDJmUl95Rl94OEpRaDd2NnpTZXhjTlVIV2ZTWUFTd09RandwZWhHOUNyTEktSGd3WVBKUUtzNG4xZU9WZGwwbU03NkRjODRraUhpczhZaDBFSzlMXzdJeklTdlgtQVU?oc=5
 - [2026-08-31] [05] **Kaiser y Rogers: el triaje con IA en salud mental preocupa a clínicos** — El Ecosistema Startup · cat≈producto · 3 pts
   https://news.google.com/rss/articles/CBMioAFBVV95cUxQVlY2Nk1MdFR0Z05mZldSd2xNU0FhOFo0YTNJb2Izb3VGYTBWNHFZcVIteEtNVWJ3SFhQVWZIRlJMbGtmSjlnYnNNaml5SV9RaDhaR3ZKdklwRUtKN0dQQXExU21qNERUVlROdVhtV3hkUFdJSHBicjQ2STlDNERUajA3YlB0a2VhQ1FRSzVYOXZmb2dzeVVyMkp4RmdpLU4t?oc=5
 - [2026-09-02] [05] **Cats are the only pet linked to more mental health problems in children, study finds** — The Independent · cat≈research · 3 pts
@@ -79,9 +80,11 @@
   https://news.google.com/rss/articles/CBMi5wFBVV95cUxONm5nblk2alp2cmpfT1A2empCYlgtbFpzZVRUYUYzMkIyQzBHY25rRmxmc2NjcUVCM1lPOHh2Y3RvUXk4WFBMekJEUE5pZXE5VHlXdDNwRWdqaldRY19NbVBvX01VSDctVjZBS1h1QXVpNGI5S2tqZE82bDNDSXdTX3dZTDhpdDZqNWo2cUp4TUNWYmFPc2dPSkJ3cjVvdHhPQnVBWHA1N0pYaWhUN0tSMHVaRmVqVEF1SnpQUTNLeHNhT2gwSktXdW5qZWdscWNzNm8zNmJ2d1c5dUJIYzlGU1hseEduUXc?oc=5
 - [2026-09-04] [05] **Saúde mental virou indicador de risco e mudou a rotina das empresas** — miriangasparin.com.br · cat≈empleador_aseguradora · 3 pts
   https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWDBYV3hoOFFvYVBldXlkSHg1RFBUYzRPZG5XRTJURWRJc00yOWJqME1IblRJRXNKVnRjXzNIcjVzLUNPaDFVSjcwUzI5Nm55ajdxdEthRXFCZUYzcTNZaTlVbDBwSzdsbWhjY0NOS2VBYmpkaFhjbWx2VzVWdFBTNXoyY3FSRVZrdkVZeEM2RXBab1Y1Tm9fUWFUM2o4MU04dS00bU9yTl9HQQ?oc=5
+- [2026-09-06] [01] **Al descubierto el blindaje del cáncer de hígado agresivo** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈research · 3 pts
+  oncologia mariasanchezmonge nueva via terapeutica el escudo antiquimioterapia del cancer de vias biliares intrahepatico se encuentra en los fibroblastos , unas celulas del microambiente tumoral, lo que abre una nueva via
+  https://www.diariomedico.com/medicina/oncologia/descubierto-blindaje-cancer-higado-agresivo.html
 
 ## PRIORIDAD C — probable ruido (solo títulos)
-- [2026-08-28] Sword Health prepara aquisição da Headspace por até 257 M€ — SAPO
 - [2026-09-02] ZILIOTTO FIRMÓ EL CONTRATO PARA AMPLIAR SALUD MENTAL DEL FAVALORO-MOLAS: LA INVERSIÓN SUPERA LOS $6.300 MILLONES — Impacto Castex
 - [2026-09-04] <a href="https://www.fiercehealthcare.com/regulatory/hhs-announces-77m-grants-substance-use-prevention-treatment" hreflang="en">HHS announces $77M in grants for substance use prevention, treatment</a> — Fierce Healthcare
 - [2026-09-04] Satse arremete contra Sanidad por destinar solo tres nuevas enfermeras de Salud Mental a Alicante — Información
@@ -89,6 +92,8 @@
 - [2026-09-04] Medio año sin cita en Psiquiatría de la sanidad pública gallega tras ingresar por riesgo de suicidio — infoLibre
 - [2026-09-04] profesionales | Sanidad acuerda nuevas medidas para los profesionales en Ceuta: traductores, equipo de apoyo terapéutico y refuerzos — https://www.consalud.es/rss
 - [2026-09-05] Salud mental y unidades del cáncer de mama sumarán 33 profesionales — castellonaldia.elmundo.es
+- [2026-09-05] política | 'Acércate, escucha, acompaña… repara', la nueva campaña de Sanidad contra el estigma de la salud mental — https://www.consalud.es/rss
+- [2026-09-05] 'Acércate, escucha, acompaña… repara', la nueva campaña de Sanidad contra el estigma de la salud mental — consalud.es
 - [2026-08-31] 4ª Mostra SUAS: inscrições para a Etapa Sul já podem ser feitas no site da CONPAS/CFP — Conselho Federal de Psicologia
 - [2026-09-01] Ziliotto firmó contrato para iniciar la ampliación de Salud Mental del Favaloro-Molas — Maraco Digital (+2 medios más)
 - [2026-09-01] Saúde mental é política de Estado — JOTA Info
@@ -112,19 +117,20 @@
 - [2026-09-04] Kadomoto advirtió sobre la “crisis de salud mental” y respaldó el proyecto de emergencia nacional — EQSnotas
 - [2026-09-04] Corte de Santiago ordena a Isapre Banmédica equiparar cobertura de salud mental con la de enfermedades físicas — Diario Constitucional
 - [2026-09-05] La felicidad de cumplir un deseo, el tratamiento no farmacológico más potente — DiarioMedico - Plataforma de profesionales sanitarios
+- [2026-09-05] Nota de solidariedade à Deputada Duda Salabert e o assessor  Felipe Gomes — Conselho Federal de Psicologia
+- [2026-09-05] Corte de Valdivia ordena a Isapre equiparar cobertura de salud mental mental y física — Diario Constitucional
 - [2026-09-03] Las consecuencias del uso masivo de GLP-1: entre la medicalización y la brecha social — DiarioMedico - Plataforma de profesionales sanitarios
-- [2026-08-28] 4ª Mostra SUAS: CFP realiza diálogo para mobilizar participação da categoria na etapa Sul — Conselho Federal de Psicologia
 - [2026-09-04] Encontro das Comissões de Orientação, Ética e Fiscalização fortalece práticas éticas e qualificadas — Conselho Federal de Psicologia
 - [2026-09-05] Jesús San Miguel: "Hoy podemos soñar con duplicar la tasa de curación del mieloma" — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-09-05] El caso de Julián Álvarez, jugador del Atlético de Madrid, reabre el debate sobre la falta al trabajo por depresión: ¿qué dice la ley? — Infobae
 
 ## Estado de los feeds (hoy)
 - 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 0 · ok
-- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 2 · ok
+- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 1 · ok
 - 01 ESPAÑA · https://gacetamedica.com/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
 - 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · El Referente · leídos 10 · nuevos 0 · ok
-- 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 2 · ok
+- 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 1 · ok
 - 01 ESPAÑA · Agencia Española de Medicamentos y Productos Sanitarios · leídos 30 · nuevos 0 · ok
 - 02 LATAM · https://www.contxto.com/en/feed/ · leídos 100 · nuevos 0 · ok
 - 02 LATAM · LatamList · leídos 10 · nuevos 0 · ok
@@ -137,16 +143,16 @@
 - 03 BRASIL · Startups · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startupi · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Brazil Journal · leídos 10 · nuevos 0 · ok
-- 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 2 · ok
+- 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 1 · ok
 - 03 BRASIL · Portal Médico · leídos 1 · nuevos 0 · ok
 - 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 23 · ok
-- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 27 · ok
-- 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 5 · ok
-- 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 2 · ok
-- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 12 · ok
+- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 6 · ok
+- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 8 · ok
+- 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 4 · ok
+- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 5 · ok
 - 05 GOOGLE  · Google News · PT Portugal · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 21 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 50 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 78 · nuevos 2 · ok
+- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 23 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 52 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 78 · nuevos 0 · ok
