@@ -1,5 +1,5 @@
-# Hemisferio — señales 2026-08-29 → 2026-09-06
-76 ítems con tema salud mental de 1185 leídos · 73 historias únicas · A=11 B=24 C=38
+# Hemisferio — señales 2026-08-30 → 2026-09-07
+82 ítems con tema salud mental de 1184 leídos · 79 historias únicas · A=11 B=27 C=41
 
 ## PRIORIDAD A — hechos con datos (leer artículo completo)
 - [2026-09-04] [01] **Sanidad e Ingesa movilizan más de 400.000 euros para ascensores, un láser multifunción y un medicamento exclusivo** — Redacción médica - Home · cat≈partnership · 10 pts
@@ -37,6 +37,8 @@
   https://www.consalud.es/pacientes/casi-el-40-de-los-adolescentes-sufre-insomnio-los-expertos-alertan-del-jet-lag-social-ante-la-vuelta-al-cole.html
 - [2026-09-04] [05] **El cierre psiquiátrico ya dura 169 días en el Mancha Centro: Salud Mental exige al Sescam contratar sanitarios y reabrir** — El Español · cat≈mercado · 5 pts
   https://news.google.com/rss/articles/CBMiowJBVV95cUxQVC13cVl6bkNzVndhQ0xELXA3TUFXb1BhWlFQVEQ5bmhVNzJuWUVuV0ZvYkIzcENJdkU0ejFkVTBZWmozdlZSZUJXaWhIODRjckRXc2xRZzRrdFk5NHhBYUN6OTZ0anlBTHpNSUFJclZVVFY4VURkeDM3Rl9tci1EYzN5QVVPTy1oNm9ScEFIUTFjZnBwTEpWUURTWFpiT2RJYXhkTGZ4N0RrUkdmcXhsT0NaUDNTbTR3RlRnbm5sbTd0T2pub3doSUhWVEE1RGdScWJZNzdLOFV5WUhsRVdTaUctYndiNVZMd2YzUXV6TDJpUEFlY0paa1h4NVdmS09vOVRva21rUXpxdmwxOE5TRzZrZHV3YWJ1alBsVjI1bGFRdEnSAagCQVVfeXFMTTY5TkdlMjFzYXV5T3pPYk9VbnRxbWFPeDVsQ2ZFXzloNmlfQUhQR1VnUndINmQ3dWdBNDI4ajh6Y25CLTQ4eUFBRW9NNElSWVJCRkRtSDNpS1hudTk4d20tazQ0WTZRdVhSUHY5UHRlQmVVQnBvYkt6MDVvQVhobGtGc1IzRU45dVJ2YVA1NkFWZnV0OENLbVF3X2FXYkhKNzlMQzNFR0kzVHRxQ0UtYlNBVmpMS0NKMkcwUjFCSW9kZTZ2VVJDaHlzbkZ0NFhOUnY5UGlYRnJKR003eWd0akVRSlpodmIzSjAyUDhtT3VyM0hqZzZlWGhaMzVncV9tamkySEFibGxKUHBYb2NGcDFHWWU0U1JreVFhaXRyWUNuYzNwZ0hTbGo?oc=5
+- [2026-09-07] [05] **Consultas por salud mental crecieron 23% en un año** — AHORA Mar del Plata · cat≈research · 5 pts
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEVIcXFkamotOF92NDMtZ2p5OTlnaXNBeEE4NnFPTHJoRXpkNmd5ekF0OWNiTElHWnZTMFJiT0xlWFdTWHNuOE1FLWFSZjgxcmRjeV9VckdMbTVUemtqWHE1OTVaaHpDVXowV1hFaVJHOGlZc25tRk1UUG1DQnZMX1JzQVUwWGFnUDZF?oc=5
 - [2026-08-30] [05] **Reforma de la Ley de Salud Mental: cuándo el cuidado puede convertirse en control** — MDZ Online · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1k5LTN6UUxKOXJNdkl1ZTZLdzJyRDhUTUNUcDZ5SHpleDJqUkNUWnF2cXJyNXhTcW5PMWUzUHBFcGhDajNtb2k4cGJ5eE95eXNqbjV3eVZuOWJhU1g3ODlSUHVTUy05MDV0eTdxNG4za2xzOGR0cUVwZGp0ZzVsaXNUWk9lTEVjSWxqWFV1WER1U0JzcWxJRFo4VmZKRkV4UUtDVTYyYWFRTmdxc1hKcdIBtgFBVV95cUxOODAzU3BKUU9SbTlJN2ZSRm8xRTB0blhVZUU4bXlmbWxaWVFQaXV1Y24xX19EdlJlS1RxengwVi14RDlTVkYycGE1V3BuOUNLVk9fdUNMZUdBTXROajZMV1VNYXJ3bFZCYWJHMzdqakgya0Q1dUE1bWtub2U5d3RraTdra3pWZUY0TUtGUGJwbWNPQkRiMk9QekRvQWR1RUc4LWJoaHl2anFEZGdVX0tBOWpWWnJfQQ?oc=5
 - [2026-08-30] [05] **Reforma de la ley de Salud Mental: “Es un retroceso en el acceso a la atención"** — REALPOLITIK · cat≈regulacion · 4 pts
@@ -67,6 +69,8 @@
   https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2dKYmdEbmI1VE1rUzJhNHpzU1lzRXNRTHc4RXpfZW5heVJDMmhSSlAyWWVzYi1OM2dTM1dxdlNzUlpyRGZfTUI2WGl1TkFLelVvYTBlV0RlVGpPdjlaZ3FkbFZ1R3RJS1RkWGhuU2lsZk80dWpaY1kxV1BGbngzR2cwblIwSEpvcHIxaVZPSmpqSFpvVnpmWEt1ZEk?oc=5
 - [2026-09-03] [05] **Diputado pide aprobar una Ley de Salud Mental ante creciente afectación psicológica** — Proceso Digital · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3V3M21zOXByeUluS0N4bTRSNmRtXzNOdkNaaEZHZEUyazdUMzhGZmtRNzRRVTdEMk5YVWJsNHk2aENtd0ZsN3FLV0VZUDNaSXRHejh2WnlweEF0dUhvU1BSd1ZUVk5YSVpJSDRVWU5iWGVLX29oWFBBR2l3YlAyMmZsbXBJdWZaNXNzdDh0SlpONjdjNGVCSmh2MnplMzVPZE1Mb3JB?oc=5
+- [2026-09-03] [05] **Proposta de cidadão sobre exercício da psicoterapia vira projeto de lei** — Senado Federal · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2RMdnNUY0ZxOFJHc3Uxak5UWmRxVFpFdFg1dUFhRXJYTGFHRDBiQzVha21YbFRORXJ4UWNscV8zbk4wUXZEX2RIcnluMWFobGh1NFZqVkcyejVQdHExdFJuNS1xcEUxOW1CR05kZWFEZ25wbUhFdjZmczN3MUZpZjlNY0ZOU3N6VGFuZXNaQWIxR0QtUWxRbWE5aGtUZ2VXYnZkV3VQdWNGZ2pnNUJkZWxXcUx2OGRIU3dReGZMSng4XzdiRXFJ?oc=5
 - [2026-09-05] [05] **Salud mental en alerta: advierten por la presión sobre el sistema público y cuestionan la reforma de la ley** — 0223.com.ar · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQlFUTUtCbzZCenFkbHlGLW1pOG1ySDBpRTZkeWNJbUx2Vkh1SFRwaVl0YmVYYnBxVFZWci1vb08zZHh2WjJZRjgzV1UzT2ItWV9pRGZLaGZ6S2QwbGRlWnU0WmFHbG1pQUlXMHo0b0MwTUxFTWttckl3WW1yR0hkakFPMC1VYzdGRDJmUl95Rl94OEpRaDd2NnpTZXhjTlVIV2ZTWUFTd09RandwZWhHOUNyTEktSGd3WVBKUUtzNG4xZU9WZGwwbU03NkRjODRraUhpczhZaDBFSzlMXzdJeklTdlgtQVU?oc=5
 - [2026-08-31] [05] **Kaiser y Rogers: el triaje con IA en salud mental preocupa a clínicos** — El Ecosistema Startup · cat≈producto · 3 pts
@@ -80,6 +84,8 @@
   https://news.google.com/rss/articles/CBMi5wFBVV95cUxONm5nblk2alp2cmpfT1A2empCYlgtbFpzZVRUYUYzMkIyQzBHY25rRmxmc2NjcUVCM1lPOHh2Y3RvUXk4WFBMekJEUE5pZXE5VHlXdDNwRWdqaldRY19NbVBvX01VSDctVjZBS1h1QXVpNGI5S2tqZE82bDNDSXdTX3dZTDhpdDZqNWo2cUp4TUNWYmFPc2dPSkJ3cjVvdHhPQnVBWHA1N0pYaWhUN0tSMHVaRmVqVEF1SnpQUTNLeHNhT2gwSktXdW5qZWdscWNzNm8zNmJ2d1c5dUJIYzlGU1hseEduUXc?oc=5
 - [2026-09-04] [05] **Saúde mental virou indicador de risco e mudou a rotina das empresas** — miriangasparin.com.br · cat≈empleador_aseguradora · 3 pts
   https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWDBYV3hoOFFvYVBldXlkSHg1RFBUYzRPZG5XRTJURWRJc00yOWJqME1IblRJRXNKVnRjXzNIcjVzLUNPaDFVSjcwUzI5Nm55ajdxdEthRXFCZUYzcTNZaTlVbDBwSzdsbWhjY0NOS2VBYmpkaFhjbWx2VzVWdFBTNXoyY3FSRVZrdkVZeEM2RXBab1Y1Tm9fUWFUM2o4MU04dS00bU9yTl9HQQ?oc=5
+- [2026-09-05] [05] **Ordem defende estudo sobre saúde mental** — PressReader · cat≈research · 3 pts
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxQZUhCbEJSLXVxOUd2SEtjTnVKOG1yY2RkV2xwVGRVUDB4UndUR2RCUmc3MEJKOVFfU2djU21wc1Z2WEZiTGlfa1d0YjlyTE9jcVZxV0xkWnplTVpTQ2Q1aWZCdEZYM1lNQ2Y5RGJLR0o4djdQUmc2U0lZOE82QVkwUVln?oc=5
 - [2026-09-06] [01] **Al descubierto el blindaje del cáncer de hígado agresivo** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈research · 3 pts
   oncologia mariasanchezmonge nueva via terapeutica el escudo antiquimioterapia del cancer de vias biliares intrahepatico se encuentra en los fibroblastos , unas celulas del microambiente tumoral, lo que abre una nueva via
   https://www.diariomedico.com/medicina/oncologia/descubierto-blindaje-cancer-higado-agresivo.html
@@ -91,6 +97,7 @@
 - [2026-09-04] SATSE ve "insuficientes" las plazas de enfermería que Sanidad creará para atender problemas mentales y adicciones — Levante-EMV
 - [2026-09-04] Medio año sin cita en Psiquiatría de la sanidad pública gallega tras ingresar por riesgo de suicidio — infoLibre
 - [2026-09-04] profesionales | Sanidad acuerda nuevas medidas para los profesionales en Ceuta: traductores, equipo de apoyo terapéutico y refuerzos — https://www.consalud.es/rss
+- [2026-09-04] Sanidad ofrecerá apoyo psicológico a los profesionales sanitarios de Ceuta — Redacción médica - Home
 - [2026-09-05] Salud mental y unidades del cáncer de mama sumarán 33 profesionales — castellonaldia.elmundo.es
 - [2026-09-05] política | 'Acércate, escucha, acompaña… repara', la nueva campaña de Sanidad contra el estigma de la salud mental — https://www.consalud.es/rss
 - [2026-09-05] 'Acércate, escucha, acompaña… repara', la nueva campaña de Sanidad contra el estigma de la salud mental — consalud.es
@@ -119,18 +126,20 @@
 - [2026-09-05] La felicidad de cumplir un deseo, el tratamiento no farmacológico más potente — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-09-05] Nota de solidariedade à Deputada Duda Salabert e o assessor  Felipe Gomes — Conselho Federal de Psicologia
 - [2026-09-05] Corte de Valdivia ordena a Isapre equiparar cobertura de salud mental mental y física — Diario Constitucional
+- [2026-09-06] El Gobierno actualizará los tiempos óptimos para las bajas por incapacidad temporal y rebajará las de salud mental — El Español
+- [2026-09-07] andalucía | El nuevo Centro de Integración y Recuperación de Salud Mental de Granada abrirá en octubre — https://www.consalud.es/rss
 - [2026-09-03] Las consecuencias del uso masivo de GLP-1: entre la medicalización y la brecha social — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-09-04] Encontro das Comissões de Orientação, Ética e Fiscalização fortalece práticas éticas e qualificadas — Conselho Federal de Psicologia
 - [2026-09-05] Jesús San Miguel: "Hoy podemos soñar con duplicar la tasa de curación del mieloma" — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-09-05] El caso de Julián Álvarez, jugador del Atlético de Madrid, reabre el debate sobre la falta al trabajo por depresión: ¿qué dice la ley? — Infobae
 
 ## Estado de los feeds (hoy)
-- 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 0 · ok
+- 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 1 · ok
 - 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 1 · ok
 - 01 ESPAÑA · https://gacetamedica.com/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
 - 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · El Referente · leídos 10 · nuevos 0 · ok
-- 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 1 · ok
+- 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · Agencia Española de Medicamentos y Productos Sanitarios · leídos 30 · nuevos 0 · ok
 - 02 LATAM · https://www.contxto.com/en/feed/ · leídos 100 · nuevos 0 · ok
 - 02 LATAM · LatamList · leídos 10 · nuevos 0 · ok
@@ -143,16 +152,16 @@
 - 03 BRASIL · Startups · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startupi · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Brazil Journal · leídos 10 · nuevos 0 · ok
-- 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 1 · ok
+- 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Portal Médico · leídos 1 · nuevos 0 · ok
 - 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 6 · ok
-- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 8 · ok
+- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 2 · ok
+- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 7 · ok
 - 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 4 · ok
-- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 5 · ok
-- 05 GOOGLE  · Google News · PT Portugal · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 23 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 3 · ok
+- 05 GOOGLE  · Google News · PT Portugal · leídos 100 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 22 · nuevos 0 · ok
 - 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 52 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 78 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 2 · ok
+- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 78 · nuevos 1 · ok

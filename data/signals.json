@@ -1,5 +1,43 @@
 [
  {
+  "id": "f4f06ac59ebb",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "AHORA Mar del Plata",
+  "titulo": "Consultas por salud mental crecieron 23% en un año",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEVIcXFkamotOF92NDMtZ2p5OTlnaXNBeEE4NnFPTHJoRXpkNmd5ekF0OWNiTElHWnZTMFJiT0xlWFdTWHNuOE1FLWFSZjgxcmRjeV9VckdMbTVUemtqWHE1OTVaaHpDVXowV1hFaVJHOGlZc25tRk1UUG1DQnZMX1JzQVUwWGFnUDZF?oc=5",
+  "clave": "consultas crecieron",
+  "capturado": "2026-09-07",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "52e82c160797",
+  "fecha": "2026-09-07",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "andalucía | El nuevo Centro de Integración y Recuperación de Salud Mental de Granada abrirá en octubre",
+  "resumen": "andalucia: el nuevo centro de integracion y recuperacion de salud mental de granada abrira en octubre",
+  "url": "https://www.consalud.es/autonomias/andalucia/el-nuevo-centro-de-integracion-y-recuperacion-de-salud-mental-de-granada-abrira-en-octubre.html",
+  "clave": "abrira andalucia centro granada integracion nuevo octubre recuperacion",
+  "capturado": "2026-09-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "f589e5c861ca",
   "fecha": "2026-09-06",
   "carpeta": "01 ESPAÑA",
@@ -15,6 +53,25 @@
   "categoria_auto": "research",
   "topic": [
    "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5142dba9c6f2",
+  "fecha": "2026-09-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Español",
+  "titulo": "El Gobierno actualizará los tiempos óptimos para las bajas por incapacidad temporal y rebajará las de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVHVYR3pXVDAzSk0zdzhUdGhkdWNIWVFILTFxeFVXb3FscVJKaTd6MFZuN0R0MmVzOGdveG9hd0x6aDRtajFsTHZEQ3Q5a09YTWRBeFF4SHdPVmlUbzFMcmg1Uy1MelNlaFowMndTdm5lM3R4d1g5TnhBUl83MzFISjQ0VDdzQ1QxMU81aFBhUFVEMmZSWi1SWDFUTFhmRUhMdW1tdG10TVJ2bmtvNWM0LXcwd00xOGVCYXM3NXREbHYtdjVKWDVVd2FqYlpLSGljWEwyUW9sU0ZaUW1lSmlDRzF2bEZINU5UUzc3ckxETXJLNjEtMDhmU3VlSzRoOTR1RHfSAYcCQVVfeXFMTzJlQkl1WFRKWHprNWp2OEFfUW9Oa1dMZnlHRkNoV29udUc3UldzNlJSQXBWelIxelluOTZRa0NnMmxHQWtaTnlyUlVLbmp1SmFISTYzXy1PMmduZUVxX25veGkwUWpXN2RQYURfRTFFWnk2MjBNZ3RjSVBzRmt2ZVpsYjhfazhmRU1wRzlHS1g0SW0tR2FYaHRXX3RUcVNtWWJ2ZzloNldqMTRsNWQxVUswRDRMallHZUhieVc0NHRIMGd1MkoyWEIwVnU0VjZsd2phckJiYW9hQzQzbG9SWXJCWkh3d1o1cUUzV19RenZSalRpT1JKYy1VUkhNLTgyRW80VEFRR2s?oc=5",
+  "clave": "actualizara bajas gobierno incapacidad optimos rebajara temporal tiempos",
+  "capturado": "2026-09-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -72,6 +129,25 @@
   "categoria_auto": "regulacion",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2999b55348b1",
+  "fecha": "2026-09-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · PT Portugal",
+  "medio": "PressReader",
+  "titulo": "Ordem defende estudo sobre saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZUhCbEJSLXVxOUd2SEtjTnVKOG1yY2RkV2xwVGRVUDB4UndUR2RCUmc3MEJKOVFfU2djU21wc1Z2WEZiTGlfa1d0YjlyTE9jcVZxV0xkWnplTVpTQ2Q1aWZCdEZYM1lNQ2Y5RGJLR0o4djdQUmc2U0lZOE82QVkwUVln?oc=5",
+  "clave": "defende estudo ordem",
+  "capturado": "2026-09-07",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -503,6 +579,26 @@
   "ruido": []
  },
  {
+  "id": "49a18158489d",
+  "fecha": "2026-09-04",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Sanidad ofrecerá apoyo psicológico a los profesionales sanitarios de Ceuta",
+  "resumen": "el ingesa organizara sesiones grupales para abordar cualquier afeccion de salud mental que padezcan los profesionales de la ciudad autonoma. una ceuta en emergencia celebra su dia grande sostenida por los profesionales de la salud.",
+  "url": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260904/sanidad-ofrecera-apoyo-psicologico-los-sanitarios-de-ceuta/350213_0.html",
+  "clave": "apoyo ceuta ofrecera profesionales psicologico sanidad sanitarios",
+  "capturado": "2026-09-07",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "1d024eb04adb",
   "fecha": "2026-09-04",
   "carpeta": "01 ESPAÑA",
@@ -852,6 +948,25 @@
   "topic": [
    "salud mental",
    "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "feeef74ead7f",
+  "fecha": "2026-09-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Senado Federal",
+  "titulo": "Proposta de cidadão sobre exercício da psicoterapia vira projeto de lei",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2RMdnNUY0ZxOFJHc3Uxak5UWmRxVFpFdFg1dUFhRXJYTGFHRDBiQzVha21YbFRORXJ4UWNscV8zbk4wUXZEX2RIcnluMWFobGh1NFZqVkcyejVQdHExdFJuNS1xcEUxOW1CR05kZWFEZ25wbUhFdjZmczN3MUZpZjlNY0ZOU3N6VGFuZXNaQWIxR0QtUWxRbWE5aGtUZ2VXYnZkV3VQdWNGZ2pnNUJkZWxXcUx2OGRIU3dReGZMSng4XzdiRXFJ?oc=5",
+  "clave": "cidadao exercicio projeto proposta psicoterapia vira",
+  "capturado": "2026-09-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicoterap"
   ],
   "ruido": []
  },
@@ -1711,6 +1826,25 @@
   "ruido": []
  },
  {
+  "id": "92d2c8709d7d",
+  "fecha": "2026-08-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infobrisas",
+  "titulo": "La Provincia rechazó la consulta virtual de Nación para reformar la Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa01rMTRNSDRmZEZKMjdWbVhKd3Y4UGJTcUVKdVR3NnpNU2RUbFBfRDh2S3NVamxhbzBQYlNIdWxRU0M5V0hsb3VHVWlPT2FfMHBHZkN6OHc0MHdBaS1iT3ZSNFBoSHpHQm5FMTZJT0NIMkhqNE5iZ2RTTGctQnFodjNzdWdlVmsxVUFzbHRJMW9RTlJQejdZNXB5U2RyZmJwQTVXZ0Q2U1pLMWNyR21IOVA5Wk5SRGo4N1U0NlhMSWhKcVlGTE82dDdrNlpVZUx2dXBLSGFrNTHSAd4BQVVfeXFMUHNfeTBrNVZ3b2tPQnVFcDI2bXJVWnRMenZaYmlac0JVdlRfRU0wb1BSNE1vcEVJb19UajZ6RUFtamllSTRLZnN6ZHh4Zm9mU2M2enJTTTFwaF94a1pNcWJZYWFnYnpnQ0Vhd0h3STdFUUxDSWUxdGRDZ01RWml1c0Z4WnZ5UWM4SkRWcVdqQ1VvV2FjTHFyUlVhbC0zRjl1aXVTdFdHdF9yVFJUdnMwcHBxUWZ4Z3g3QnV0SEViZGdpX3ByN3dVNjNENWRycUctM0ZzR0VocnJQUGMxeXN3?oc=5",
+  "clave": "consulta nacion provincia rechazo reformar virtual",
+  "capturado": "2026-09-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "fe23d89c5436",
   "fecha": "2026-08-26",
   "carpeta": "03 BRASIL",
@@ -2000,6 +2134,25 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0fc10882cca4",
+  "fecha": "2026-08-24",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "TN",
+  "titulo": "Bullrich impulsa una reforma de la Ley Nacional de Salud Mental y negocia apoyos en el Senado: cuáles son los principales cambios",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTUU3akUxOGl0UjlieTNkLXlKSk91VzVKcjl1YzB6eWZSeGxuZ09SNmdlVWVKdm1semZlMGY2NWt4SktWZnFnTzlwV1dqbWplVEROZEFKMXpiLXlsYmRJY2Z6Y2JSX2RUZnh4Zk42cUhqRTJIbTRLRkpXYXBwcGNsQ1daUjdOU1RqZTlNQTlIdmpRbkctbkFjY3ktQzBOd3ZaWE5yMGdjV2VDOTI5OVlCb01Fa0VFSjZoMVBtaFVrUVY4bTlSVzJ4MzlkaGZOY0JtajBhakJ5Q2k5el93UFBXY3BZdWxOM1V3OHpLWnJMempmYS1HRzNaV1Fmd9IBjwJBVV95cUxOeVl3N09icjdyazVXeUNUWnNGdlY5UW11SHI0RHRhclFBYVlKM2VuY3Fyc2RTWFZVUktLZHBaajhSb0FETE9YbmJiWjNQQ0FIcTVhQ3h2TlRGeFMxR2FTMU9LWWtub3pKS28tVm9CZGNteEc4aVI4TC1zTHlreUF3ay1XdHJpOGk5VXk0NVhSRGxVbTgxanZjc2VuR043Z0FDLWtId0otRUVjU3FiRGpLdmgtY0FCVm54N1FrSTZMODZyUnI2dU5RYmVEOVh4cXI3cjQwS1FZUFRaTXlsR2prUGxVSFRHbV9FUUJ4UUNOUXBRblNVcS1XSFFud2o5Vk5OMXJsQmVVMERkdmNSZUVZ?oc=5",
+  "clave": "apoyos bullrich cambios cuales impulsa nacional negocia principales",
+  "capturado": "2026-09-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -2296,6 +2449,25 @@
   "ruido": []
  },
  {
+  "id": "98d046146a9a",
+  "fecha": "2026-08-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Jornal Correio",
+  "titulo": "STF confirma suspensão de multas para empresas que descumprem regras de saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdUhHRzd4M2ZyQjlZaTR1ZGxHYUU4N3VzTkFUMFJaYjRnc1hicl9ncWpmck9DTzZ5ckdzQ2JMQzhjaFJYeW9xWEs0dnJLNVFvN2gwY0JLVEJON2M0bEFTTWFsSGx5OUt6NzhJVHRVakNkZ2JSQVdYQ2RkZ3hURWxoaXpfb3RMVkF1ck9DMXZmdUZETXNsSVNUT1hwT29QclpMYURaelgzOFJZMzVtU3FMMmNhYlp5MFhiVldZUFVybXBJZHBLNFlRU0l3?oc=5",
+  "clave": "confirma descumprem empresas multas regras suspensao",
+  "capturado": "2026-09-07",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "a7433ec7ef26",
   "fecha": "2026-08-19",
   "carpeta": "05 GOOGLE NEWS",
@@ -2480,6 +2652,27 @@
   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb05CTlZ0NVlnTm51Y3dYMEt5VXlTQ3RiSG9yYmI0RVhMQk50Mk1yYUxzNGdKMDA4QkRSZUYzSm9IbzJXcndheGFpTnFOQnpsSWtVdmlYUzJ3MnJwRUctRTNkb1Y5VEpaLXBKaFB4MmZNU2haLVVabzczVlJTUjJsUF83eTFSalBsd1VPRWFTcW9NZExVN3dvdmloa2V0b3BJekRwNWttMW5tRnQzbXR2RU9fYjY3TjdJSkpQbzV1S2c4dWVDbXNCWURiVkRJZWdld0JXOHVUT1JCQ1B0cjNhSGtXTWRTOHpTZUd1dlEtUnfSAYQCQVVfeXFMTkhlbklTdUt6RmRBOUl5UXlvWnc3SHZVWDVRQ2FiVnZaTjJIZW5BUzBKMzl3TGZJLUNvUW4zY1NQNFUwS2hOQnpCTjdtQ0dnbkFLTmV3eGN0bmMyWGJTcHFiOU1pSU1Xd0xGZUcwN2VXbmhUWVNKck8taUF5blV6MFczVWRra29SZ19fY2k3TThNMkJwZjZLWEhpYkQ3VXpMU2FOVEt2TmowQUhIRDFrQ1hIWktpZFczSHQ0S0g1a04xOGJ1YW10Y3lRVVV0cHkzOXkyMU4tUnJBazVJeFVnVk1hZ2l1Z2xHYW5UVW5KY2taa1NhblZ0d3pUVTlScjVETWNPcUM?oc=5",
   "clave": "demandada fraude gomez inversionistas niega selena startup tras",
   "capturado": "2026-09-04",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "producto",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "selena gomez"
+  ]
+ },
+ {
+  "id": "f47e25fbb5c4",
+  "fecha": "2026-08-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "El Universo",
+  "titulo": "Selena Gomez niega fraude tras ser demandada por inversionistas de Wondermind, su startup de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb05CTlZ0NVlnTm51Y3dYMEt5VXlTQ3RiSG9yYmI0RVhMQk50Mk1yYUxzNGdKMDA4QkRSZUYzSm9IbzJXcndheGFpTnFOQnpsSWtVdmlYUzJ3MnJwRUctRTNkb1Y5VEpaLXBKaFB4MmZNU2haLVVabzczVlJTUjJsUF83eTFSalBsd1VPRWFTcW9NZExVN3dvdmloa2V0b3BJekRwNWttMW5tRnQzbXR2RU9fYjY3TjdJSkpQbzV1S2c4dWVDbXNCWURiVkRJZWdld0JXOHVUT1JCQ1B0cjNhSGtXTWRTOHpTZUd1dlEtUnc?oc=5",
+  "clave": "demandada fraude gomez inversionistas niega selena startup tras",
+  "capturado": "2026-09-07",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "producto",
@@ -3037,6 +3230,27 @@
   ]
  },
  {
+  "id": "253324852190",
+  "fecha": "2026-08-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Cooperativa",
+  "titulo": "Selena Gomez recibe demanda por supuesto fraude con su startup de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVlE3ekpxX2VVUjkxMXhLbTM1UUYzTXJlbDVDak9WbUdaZlhRR1FSZWttem1kTEJtSF94WkVKLUpTYjd4LTVPaFRURTQ2aXpyb2hnWUJBVDhaZ25kMmpFZC1RM2ZhNzFwN2t5UzVCYjNfZk1IZkZkWkJPVTFrcjlpS1J5NFlkX25ldzhvRTNFX3ROMWV5TXZrV1N3Yl8yS3BTTzdxcjZrSl9iUlBETHVsUV90R0NFMjA3d2V2bnBQQ0FWVzFyWmNva0VXNEluVnkxMjZKRUw2QzlQaGl3c0lqc0dGTEXSAYwBQVVfeXFMTUktdEJmSjVoTk9uYm1Ba1RDVWZvNTNKWFYyMXpfdVA3RVlFeHk5YnRWc19DclJQWDgyVVhCSWdlZGJjMzdSSW4xUWNiM244SXppRlZwM3RmYVozSWw4aUx4aUpwZlRCTVliVFpuOUZMeE0zSl83X2dOWHZsVjJINTdKZU1FZVE3eGlzQ3I?oc=5",
+  "clave": "demanda fraude gomez recibe selena startup supuesto",
+  "capturado": "2026-09-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "producto",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "selena gomez"
+  ]
+ },
+ {
   "id": "7576d80c2cc7",
   "fecha": "2026-08-14",
   "carpeta": "05 GOOGLE NEWS",
@@ -3057,6 +3271,25 @@
    "selena gomez",
    "cantante"
   ]
+ },
+ {
+  "id": "411a875c231c",
+  "fecha": "2026-08-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "Você RH",
+  "titulo": "3 meses da NR-1: cuidar das pessoas é o melhor investimento que uma empresa pode fazer",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMl9LSFdJdXFWcXZjQ1M1d2tQZDBwSXZHbXJ1LVZnVnFXUldBblhQZlFlSXdoN2FqQUJXUk5RRWJoVURrWGFSa3ZFUGtkUTZGZUpydkJWQ05kXzRKeEx2ZzhhQl83N25pbENlMWc4MnJ0b0tzT3Y2Yjl2cHY1bkplQlowRWgtRkVwT1ljLXBYZHJCUlVSTnhaTkRCdG5OcUNxUUtreVRXblNmMnBJWmY0UjVFQUd1eDlEWFMxT2pYZjNBa1VzN0E?oc=5",
+  "clave": "cuidar empresa fazer investimento melhor meses pessoas pode",
+  "capturado": "2026-09-07",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "nr-1"
+  ],
+  "ruido": []
  },
  {
   "id": "d76224ca85ce",
@@ -3398,6 +3631,27 @@
   "ruido": []
  },
  {
+  "id": "2156595928ae",
+  "fecha": "2026-08-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Medical Xpress",
+  "titulo": "Rising temperatures linked to higher risk of homicide and suicide in Mexico and Brazil",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUNxQTNQN0FGc0doNTNQT2RNN3FDU2VKWUhHRmVMcmpzMEhnbkljVDRGcWgxWWlxZ1FMS0tWcUlxX0UtVWtwT1FDd3Qtd054OTN5UFVxZ3hnblNibjltY1lvU1I4NWI1UkV3LXl3VXNVdUxBdnJES1lFeVRQVDhUQ09BWUJTalBRSEVkaFVleGw?oc=5",
+  "clave": "brazil higher homicide linked mexico rising risk suicide",
+  "capturado": "2026-09-07",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": [
+   "homicid"
+  ]
+ },
+ {
   "id": "d2f75df83e34",
   "fecha": "2026-08-06",
   "carpeta": "05 GOOGLE NEWS",
@@ -3494,6 +3748,25 @@
   "ruido": []
  },
  {
+  "id": "2b3deb2bc0a8",
+  "fecha": "2026-08-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Palabras del Derecho",
+  "titulo": "Ley de Salud Mental: una crítica al proyecto de reforma",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY00zb0RZY1NBQkVick9xdk94ZHZtV2NWMjVTejhoY3dpQl9xQVJrbHBwUDNMaHFhVzZ5MWo0aVhsaHpFNWlFbTA0QUl0WXIySlVJWGJIcjltVmRPSGZMc3hzMUpSNDhGLWUtdE51NlVHM0ViTzA2U0NRUFJzeTNTR1VtaS1FLWNrcTZYTFZ6aUNnaHUzREk1bkx0MlBzWTdBTDhTcXBfeEUzQQ?oc=5",
+  "clave": "critica proyecto reforma",
+  "capturado": "2026-09-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "14df07dca95d",
   "fecha": "2026-08-05",
   "carpeta": "05 GOOGLE NEWS",
@@ -3507,6 +3780,25 @@
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "82ec676318eb",
+  "fecha": "2026-08-04",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Sitio Andino",
+  "titulo": "Salud mental en Mendoza: los 15 hospitales que atienden urgencias las 24 horas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUI0aGZDamctZXZ4TkNWOVZ2UGdCeTc4UE5vaGU4c0QwOG5hMS1VcXFENjltQ1IzNUUxZGhsQlhDX29xWDA5UjlfZHFHZktWdzJOSUlKX2N6VGlpbWpDRi1mOFFfQ2stU1RDTFgxSExSYlg3bFhXbmdlSXBCY3RnZWpfZ2VKeW9MbkxRbDl2YW5OOWNIRUJhdTl2dUpDM1hDaEsteVVhMDI3SWQ1bGRHd1BWOWdPQjNXblRfZFpFTzPSAcYBQVVfeXFMTjNxMjl3T0UySmRnYS1yZy1JUTNoU2lJQmc1aGFSbDBMWHhvY1dfVHVBVHpKNW9kbnl2MHB5UklwdnRvUkVnZFFGcTBZOVdUaEw1VWlBd0tfUUNIcWdQWGJuYUQyek5uekRGazlKMlN3bWhFNUxaM25DYUdRelJJVDNnMTNqR2dyUkNtVDlqT2lHdDY0TDNZakxtN1NGLWg5WmVlTjhSU0pRTVM1QUpzbm9vUnhfSjNIRVp1djd0Y1ZkTlNOcmd3?oc=5",
+  "clave": "atienden horas hospitales mendoza urgencias",
+  "capturado": "2026-09-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
   ],
@@ -3977,6 +4269,25 @@
   "ruido": []
  },
  {
+  "id": "a556df836a2a",
+  "fecha": "2026-07-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "band.com.br",
+  "titulo": "Canal Livre debate saúde mental na era das redes e da IA",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnJpTzVVdkd3ZDBUZDV3dDBReXJPLUhNbTN0SkNodjBiZ202aHlOZVF5cXZHdmlNYm5fdldVazlucFhQLTdCTE1QNFVUN3FxVHZpOW5oQk5LclNfWm1lRWcxRkFVVG1fV1JfalNmeWU3TmFaeGZQemRRN0JaN0c5TDhOeUN5cGpVMm5QWHNMdw?oc=5",
+  "clave": "canal debate livre redes",
+  "capturado": "2026-09-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "6cbe7fe8420c",
   "fecha": "2026-07-17",
   "carpeta": "05 GOOGLE NEWS",
@@ -4129,6 +4440,44 @@
   "categoria_auto": "otro",
   "topic": [
    "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c557ce582ff2",
+  "fecha": "2026-07-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Stanford University",
+  "titulo": "Supporting the mental health of human trafficking survivors in Brazil",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUZVQWxHOXI0QWFGOUd1b3NqV3VCVmxoTllIcXVPZEc0VkRYblUwWnNKZWtWSXk0bjZtMGdiWm8tMzNmejJ6WkFkeTA2aEczUE1BWm1falN6dUJIV0U5VnFNRmo1NVZpVV9PdzJpWXRUMG1LRVhUVUU0SEFuMVR0OExOalJKWkc4YkVhTEN4SFBsRTdzNFpvLXh0OWFxR0JnNW40?oc=5",
+  "clave": "brazil human supporting survivors trafficking",
+  "capturado": "2026-09-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a3cf13e078ec",
+  "fecha": "2026-07-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario de Ibiza",
+  "titulo": "La sanidad pública de Ibiza refuerza la atención en salud mental infantil, que acumula casi 6.000 consultas este año",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVlCM3RWMzlWSlVSNXNBY2tYcXFDNWV2SkpfQ3M3V3ZRNnVCZ1RqcHlfSkx2VWNKWFU2M2F3SzFGUmptWFFxZ0VKWkVxNzRGRmQ0eWtEZkd3V002VXRzNVo5dDBnTVNwXy1RNkZrWGtMQ3NiRGdmMkFrWlRmbk43RmZVT3YzY2Z6eTFJSXRyak9HM1otQXJtV1k0eXlJQdIBowFBVV95cUxONGJ3S1ZISWNsNEd3VERnUC1CRmMyY1EzUm41NVQtYUN5QlNOY0VCZC1pQnFZWUtZU1FuV0VEaFREbENtNllLLVlLMGNTMTV4MldORWRlLVpJUzN6czBUVElZWFFqNk9GQnoxMnR0WW5qVjVqdGV2SVV1ZUgxNmRHU0FRTXZoZTVCODI4RS02NGY4YlpKbWRNdGhZRWlhaHA0N2Q4?oc=5",
+  "clave": "acumula atencion casi consultas este ibiza infantil publica",
+  "capturado": "2026-09-07",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -4302,6 +4651,25 @@
   "categoria_auto": "otro",
   "topic": [
    "caps "
+  ],
+  "ruido": []
+ },
+ {
+  "id": "69deeafbbcc2",
+  "fecha": "2026-07-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Comunica GVA",
+  "titulo": "La Conselleria de Sanidad triplica la financiación para prevenir las adicciones en Torrevieja",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RbWt6N2UwQWlRY1dabHlrMGNaRWpvSU1kNGM3RkRHVXFMMDVKQ0ZYS3dwYk5wdDVWY0NKS2sxQ3oxSE44STQydFIyZ3VQazJtNlJyTFZmaWJCd3VxbHFnenpEWno1bzM2ekRIRmlBTQ?oc=5",
+  "clave": "adicciones conselleria financiacion prevenir sanidad torrevieja triplica",
+  "capturado": "2026-09-07",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "adicci"
   ],
   "ruido": []
  },
@@ -5660,6 +6028,26 @@
   "ruido": []
  },
  {
+  "id": "e0c9bb7ff3b1",
+  "fecha": "2026-06-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Tubarão",
+  "titulo": "Prefeitura lança serviço de Telepsicologia para ampliar atendimento em saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQME1zSUQwTjdOeWx6TTQ3aGw3dV81VUV6YXJWWGZWalhLdTJZTGtWYy1UNmtuTzJ2ZUlKNWM0TUE0eFVXZDV0NVQ1WDZtQ0c5bW9PRE9wVnVHY1lUOFpwdFVaMEFRbGppLTJLRUZyMEpUUVJTTkF5QjRGUkh0Z1g5VjhhTFpuYWR4Y1pLblpkT1lzY2U1a2pISjY4YU1Hamh2ZmhWdVVxaXA3a0ZIUDVF?oc=5",
+  "clave": "ampliar atendimento lanca prefeitura servico telepsicologia",
+  "capturado": "2026-09-07",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental",
+   "telepsicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "ed419f402967",
   "fecha": "2026-06-11",
   "carpeta": "05 GOOGLE NEWS",
@@ -5866,44 +6254,6 @@
   "topic": [
    "mental health",
    "suicid"
-  ],
-  "ruido": []
- },
- {
-  "id": "da8367e1ea72",
-  "fecha": "2026-06-08",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Infobae",
-  "titulo": "En España cada vez hay más psicólogos, pero no llegan a la sanidad pública: solo hay unos 3.000 profesionales del total de 40.000 colegiados",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcmVKYkV3ZEZQVGRqR2QzY0FHOGF0ZEI0M3JKOXdfdXAwMXlPUm9iUWxvRkVlNkttY1U2cVFBNExJN2tDRVJLNW42YlozeFd0Vk5HbkMxWTdVNEpNYlVXYzQzVUZGTW9RY0FxbnRpMjJGYjN2R1VaOWRkckdwMnM4bENQNjBiSW5PdGw1RXpJRGNxcFo0bGVNeU5SYm5pX1ZPWXlhd3VBay0tOUpCSTE5cFBSRzNKdy15VUl3Sndzdkxob242RUx4Q2FYX2RiWmtTOGRTU0ptTmlrOGRKQThMVWJuUWZBbzRjNDJOSlZPZUFBSTNVYl9lQ1gtME10Z1NmWjBxdTBiOEtiVTjSAaYCQVVfeXFMTlRheHJMaVVwS1VXVW5ybk9lcFBFQXd3RjVwaUF2QkJrbmZaQ1h5c2h5bmhXZDdRQzdNR1ZtZnVVZVZqTDJSYnBmSnFRcHNPWEdRLVlWOVQzTGdRVENrTUZtc1BHNGtnSy1ZUTZqMFcxUWg3N3ZYcnBIR0lBWWJFYjJDYlFtOVU4dUpLenl3TjlUdEhxOW5jX04wbWxpak9zUDREUm1Tb0lDMUZyT0JIalJ0UmkwNmhhXzlLaWRobUZhYVlLUDdfeGtuRG9RZWlGUFlVbVhEZjh0V01pVGtldk5UREdYNzE3R0tBV1lCQ3hzYjcxc3dBQURBMWRpUFp0NlVvMjlHUnNveGxPQWZQdlI2aVpVMVNBRmFHSC1mNUFka3ItZ2JB?oc=5",
-  "clave": "cada colegiados espana llegan pero profesionales psicologos publica",
-  "capturado": "2026-09-04",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "psicolog"
-  ],
-  "ruido": []
- },
- {
-  "id": "7bb98f8515fd",
-  "fecha": "2026-06-08",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Conselho Federal de Psicologia",
-  "titulo": "Avança na Câmara dos Deputados projeto de apoio psicológico a profissionais da segurança pública",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3c0YVVEX2dzcXA4OWhGSEVjdmNZWUluWmZsTXRGbTNsUkJWMWlPQVQzMkFLVmNoVktKZTdaUkVqeTBqYUJ6b3M4bE9TVGx2V0VuNmRfRGhueWg1UG9QNlBvcmpGdGFHVWNmN205cnVYYU1ocWtVSWhwYTBPVnFhMHJtRmVzRk0xZUoyRjI0VDhCWm5tUjktdWpVaXBPRWI4bUlRRHQwX0pkRkhmaUxpX3FmbW9iOTNYbEU5TlpB?oc=5",
-  "clave": "apoio avanca camara deputados profissionais projeto psicologico publica",
-  "capturado": "2026-09-04",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "psicolog"
   ],
   "ruido": []
  }
