@@ -1,5 +1,119 @@
 [
  {
+  "id": "ea7a3cc76ade",
+  "fecha": "2026-09-08",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "La Psicología y la sanidad aterrizan en el anteproyecto de Ley de Accesibilidad Universal de Madrid",
+  "resumen": "la iniciativa ha superado el proceso de consulta publica con aportes relacionados al refuerzo de la accesibilidad cognitiva y a la inclusion de la sanidad",
+  "url": "https://www.redaccionmedica.com/autonomias/madrid/20260908/la-psicologia-la-sanidad-aterrizan-en-el-anteproyecto-de-ley-accesibilidad-universal-madrid/350262_0.html",
+  "clave": "accesibilidad anteproyecto aterrizan madrid psicologia sanidad universal",
+  "capturado": "2026-09-08",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "29a619710b08",
+  "fecha": "2026-09-08",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Los adolescentes de familias con menos ingresos tienen más riesgo de sufrir un trastorno alimentario",
+  "resumen": "los trastornos alimentarios pueden afectar a adolescentes de cualquier entorno social. durante anos se ha asociado este tipo de problemas con determinados perfiles sociales, pero una revision de 51 estudios apunta a una realidad mucho mas amplia y pone el foco en un grupo que puede estar pasando desapercibido.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-adolescentes-familias-menos-ingresos-tienen-mas-riesgo-sufrir-trastorno-alimentario-20260908074249.html",
+  "clave": "adolescentes alimentario familias ingresos menos riesgo sufrir tienen",
+  "capturado": "2026-09-08",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "trastorno alimentar"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8d32837d208c",
+  "fecha": "2026-09-08",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "la rioja | ‘ConectaSuic’ supera las 1.200 intervenciones: así funciona la red de prevención del suicidio de La Rioja",
+  "resumen": "la rioja: ‘conectasuic’ supera las 1.200 intervenciones: asi funciona la red de prevencion del suicidio de la rioja",
+  "url": "https://www.consalud.es/autonomias/la-rioja/conectasuic-supera-las-1200-intervenciones-asi-funciona-la-red-de-prevencion-del-suicidio-de-la-rioja.html",
+  "clave": "conectasuic funciona intervenciones prevencion rioja suicidio supera",
+  "capturado": "2026-09-08",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "67362a3991e6",
+  "fecha": "2026-09-08",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | Nueva era en fibrosis quística: tratamientos dirigidos y nuevas vías para quienes aún no tienen opciones terapéuticas",
+  "resumen": "pacientes: nueva era en fibrosis quistica: tratamientos dirigidos y nuevas vias para quienes aun no tienen opciones terapeuticas",
+  "url": "https://www.consalud.es/pacientes/nueva-era-en-fibrosis-quistica-tratamientos-dirigidos-y-nuevas-vias-para-quienes-aun-no-tienen-opciones-terapeuticas.html",
+  "clave": "dirigidos fibrosis nueva nuevas opciones pacientes quienes quistica",
+  "capturado": "2026-09-08",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "646123d0e1eb",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Xunta de Galicia",
+  "titulo": "La Xunta aprueba el Plan estratégico de Salud Mental de Galicia 2026-2030 que incrementa cerca de un 50% los profesionales y alcanza una inversión de 177 M€",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUFB4WHFfRlRPdWRfM3pNX3VFOThmVnpCVy1ISzhYMmtqdlRnWjQ2bEJ1cktZejhCV0g0WnFybjg4RVoyTXdiRGkxQnFTc1EyZzlZM0c2M0tXVWV4VF96dF9icVFiU3YwTWEyLW1yRmNVQXhkTWIwVWI4QjVpYUl2YlBtbnZkR0tOTU94ZVFBOGRYNGg5Uldubm9WbWh3UnJFRmdLdjg3SUhwSWhNNGU0R2JXUnZjR25oQlhGNjNGcTNFRnJKRGdxSlZ5cw?oc=5",
+  "clave": "2026 2030 alcanza aprueba cerca estrategico galicia incrementa",
+  "capturado": "2026-09-08",
+  "puntos": 10,
+  "prioridad": "A",
+  "categoria_auto": "deal",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "713ae732899b",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "diariofarma.com",
+  "titulo": "Galicia da luz verde al Plan de Salud Mental 2026-2030 con una inversión de 177 millones y 357 profesionales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaTRKaGlPODF0YVpuZVQ0VTg4RU5wSkJkSFNxWERoa1hDWUZlWTh1eDc1NER5MFZILXVnSFdEVG9ZZjBTbDVRaTVseTc2NGRETjVrd2xwbU1WTzZmMmNzM2VwU25RVnQ5ZjYzZnpFZzc4c2RyVkZrbHI0R0Rubk5yLVFwTFZCRXh3LXhxYk5FbTVWS21qTUNqakg3VU9HcWFXRUN0eTFOTzQ2czJzb21CMEtOeEVaenNLY1kzTWdRaE91aXBNOW5lc1MtWmx5by14LU14cW5Na202dUE?oc=5",
+  "clave": "2026 2030 galicia inversion millones plan profesionales verde",
+  "capturado": "2026-09-08",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "deal",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "f4f06ac59ebb",
   "fecha": "2026-09-07",
   "carpeta": "05 GOOGLE NEWS",
@@ -13,6 +127,141 @@
   "puntos": 5,
   "prioridad": "B",
   "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "56444e2faf7c",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "mspbs.gov.py",
+  "titulo": "Llamado a licitación para equipamientos tecnológicos en salud mental y adicciones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQczNPWHpPMDZLOXpIUThuM3IxNC12a2dDMmhJdXpiT0ItdE4zTzBHWUNTY25EX1NQR1lyNkZQTjdkSktGcjNWSnN1QzZWaWNic0p3S0kzVUxoV2JiTklCRk8xRncyNTZuSUJPcGFFM3lCVUtoWGRTUWJOWk55X3pRck9HYWFub0kwQUVoc3l5V3Z1WnVYX0xKTFBGRnliZjRPWGpFZUNUNnY5c2RlRDFmTXJXS1F6QldaNG1lQUZPeVdRUQ?oc=5",
+  "clave": "adicciones equipamientos licitacion llamado tecnologicos",
+  "capturado": "2026-09-08",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "partnership",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6e429ef5ea5a",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Mexico Business News",
+  "titulo": "Mexico Joins PAHO Regional Mental Health Study for Doctors,Nurses",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1psdjBkMDlfWlZPVmZQb1pIUHRUdWt5RWlZQnY1U1ljR3V4d3pTR2NZY2NnVG9OdEZveVBhOWtCc21sZTRrRGZnbWxlOWZObmRfNU9VZHFXOHd5UTFQMFFaZy1xa2s4ZDJxSnZVeG9mR21UcE1mSWE0MWRON0owbThHVzVMWi1GcGtRTDJnN192UFZENk5KZGhkUEc2WnAtUVE?oc=5",
+  "clave": "doctors joins mexico nurses paho regional study",
+  "capturado": "2026-09-08",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7e88a1766304",
+  "fecha": "2026-09-07",
+  "carpeta": "03 BRASIL",
+  "feed": "Brazil Journal",
+  "medio": "Brazil Journal",
+  "titulo": "Os Rothschild, revoluções e crise: o que 1873 ensina a 2026",
+  "resumen": "acreditar em uma nova tecnologia e ser otimista com os fatos pode nos impedir de reconhecer os riscos? lendo 1873: the rothschilds, the first great depression, and the making of the modern world, de liaquat ahamed, essa indagacao me veio a cabeca. (compre aqui) o livro conta o que foi a primeira crise financeira verdadeiramente […] the post os rothschild, revolucoes e crise: o que 1873 ensina a 20",
+  "url": "https://braziljournal.com/os-rothschild-revolucoes-e-crise-o-que-1873-ensina-a-2026/",
+  "clave": "1873 2026 crise ensina revolucoes rothschild",
+  "capturado": "2026-09-08",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6f9becd5d6ce",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "ABC",
+  "titulo": "Galicia duplica la inversión en salud mental e incorporará 357 nuevos profesionales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0lseURBWjdPZ1NNd0VaRW16dWo2Y1Vyd1dTc2hfZlVyZkszWjd0V0RlRFJiM1pNSkFyVlRLSUpUVi1EaTJ3YUgwOE50d2xLaWRveFRMaVA0b0NGZlVFdVlFYUV1T0s3dDVQckVUWjFpZHlWcDRNZnJTVjBUX1BzQzZtOTNnT1MxRTFMbTZZMWNNMnNHR0QySXRkYmZiVHZtcmt0WVVGX0tDOGpFUzY2bdIBtgFBVV95cUxPZGNOdE93TnVJQkU5eXlxanZOdVFncDIxUURhZ3R4SU1YWkdDRS1tbnBwbk43OXhZNmNZNzM1WHlicEdGY21kMGpzdnIzSTF4WlBXZGx3VmJZTFQ2R01IN1RXTlZYSGw5U1g5SHZlNVpZS3JQMGlfcVFuc0I1eTFJdWl1cmljRm9RZHM5UTl3U2dfSmwyVVBoX0xTSjREOGhrOVcwWjFndTVnSENRdjFNb0hGY3hwQQ?oc=5",
+  "clave": "duplica galicia incorporara inversion nuevos profesionales",
+  "capturado": "2026-09-08",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1f28dea5ed35",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Galiciae",
+  "titulo": "La Xunta dobla la inversión en salud mental y fichará a 357 especialistas en psiquiatría y otras ramas hasta 2030",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMWxSZEdqUDFuV2l0N1RwS0ZwV3ZrUnEtVEVpRkdfVFR4YU5iVWw1c3VQc3R2cUxVNEZhM2t5OEw4UEhyMWdXckpvenVwTE4xZHRVNDVTQ3BJanF5U3ozS0dSYlhTUUhaeXh4TmY1UDdwaC10Tml3YVhuY19QY2MxY3BUNXdXQ1VmaHlKd1dmMU9NN1RQWU5yalZpOGpMbGdCRUhwZTM2anNZa2xLY0N2UzBVd3g3dGJBY2ZObVlVcEJXR2lrb2wxbmRSS1pBV0tiT1ZZcVNLUHF4R181ZGkyX2pIMG01Q3ZNMHptdmV0RXpFVVJW0gH6AUFVX3lxTE5kanNyRU45VVJTdW1rbDJGcC05T0s1TmE2eXFGVFR5SjF1Rm5xWjFIbnprNUNNYnowSUh3cEdCOW5MVm55alhCWTJGbENZbmFDb3RuZDIxRDRYYnNmX1huaElXRGJlSWVHS0stbDVtOGNiWHlTaUJLZktuVVMyWVFMVTJLUWF5QXBJZ1BDaHozdzVKLWlTckRubjdhbE5ZZjVJaFBZRFFhRW9iRlRaY2RCcnEwaXhWalpLMlREMk9uR3AxVmg2aGNpMndDajVDTXQ3eHgyYXF0ZzZXRUZ4X1pDU25wZ2RzSzB1bmhhQWU4cmFibFZvdzZZdVE?oc=5",
+  "clave": "2030 dobla especialistas fichara hasta inversion otras psiquiatria",
+  "capturado": "2026-09-08",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5415004c7427",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Vivir Ediciones",
+  "titulo": "Galicia Plan Salud Mental 2026-2030 inversión 177M",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcjM5aDQ1VmxoQThXMWxnSHRjVS1MX0pwa252dFVZYktVVXBwVnBVWC1xS3BTdjBNMkNna0cyTDZVRGVLTlRBX0l6RGx1UGZOUTZWMXVvY3lRUHRDTUU0NjZnMXkwV2p1cFhsTXlIZktqT2J2V2laWVlQSlM2SkJHVUI3OFk0dVlQNzNkNTljUUJ3aE9n?oc=5",
+  "clave": "177m 2026 2030 galicia inversion plan",
+  "capturado": "2026-09-08",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ad9389b133ea",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "GaliciaPress",
+  "titulo": "Aprobado el Plan de Salud Mental 2026-2030, dotado con 177 millones y que suma 357 nuevos profesionales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVXA1Nmp6a0pNOFJJbXZaeEdiUk1SMXZpcHIwb2prTWlCdHRHVzY5dkg0b01JbldzMmhKSE9Wa2ZwVWxjZUtEYnNjQnVJVU9RWkVvNzNVU1hxNDV2ZFF5TXh5U0p0emE0OF8yRVpIWFdRR2hPUGlJX0RhdTY4NjAyUGxnV0RlS01PMi1waTB3OE5ybjgxU3lReU15bDdJY0daVzlwbDR1aF9UQ0VsazJtZ2tNWXpXbFlNODlTSDR6R3RITlVGMWc1a3BLaUNNc3l3bTV0a2RnQzBicGFKZUY2N3VrWVo?oc=5",
+  "clave": "2026 2030 aprobado dotado millones nuevos plan profesionales",
+  "capturado": "2026-09-08",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
   "topic": [
    "salud mental"
   ],
@@ -36,6 +285,47 @@
    "salud mental"
   ],
   "ruido": []
+ },
+ {
+  "id": "084d699287ff",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "diarioconstitucional.cl",
+  "titulo": "Corte de Santiago ordena igualar cobertura de salud mental y física en planes de Isapre",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYUhuX0tVQ3lHSHB3djhwWnRyc2xJSnYtMTZsbV9DZnJRdzdEdkR4OVlrMUY0Y29lMFVOaVc5bGJhQXN5LVdndklnN3E1THZseFBLVi1lbjQyTld3b1EwMkN6Y3U0XzhIV3ZSTTdERGw1QlcwdVV1OFpCbTlwbkJiZWp5YWF2cnBKVXhkaUVWcTN1WXh6R2RCZnZEVHl3eHAwYnRLbDFJOEUybFJsLTB1NWhrWmwtZEw3RUdjRlhuUlJtR3BSWUE0ckZLQVdGUzBL?oc=5",
+  "clave": "cobertura corte fisica igualar isapre ordena planes santiago",
+  "capturado": "2026-09-08",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "40dc8497adea",
+  "fecha": "2026-09-07",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Vuelta al cole: la salud mental se sienta en primera fila",
+  "resumen": "psiquiatria mariasanchezmonge programa de enlace vuelta al cole y vuelta a la atencion de los problemas de salud mental de los ninos y adolescentes. en las mochilas cabe de todo: junto a los libros, cuadernos y estuches, muchos alumnos cargan con dificultades emocionales, situaciones familiares complicadas y enfermedades psiquiatricas. los colegios e institutos constituyen un ecosistema idoneo par",
+  "url": "https://www.diariomedico.com/medicina/psiquiatria/vuelta-cole-salud-mental-sienta-primera-fila.html",
+  "clave": "cole fila primera sienta vuelta",
+  "capturado": "2026-09-08",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": [
+   "libro"
+  ]
  },
  {
   "id": "f589e5c861ca",
@@ -3251,6 +3541,27 @@
   ]
  },
  {
+  "id": "c7cd0ccda50a",
+  "fecha": "2026-08-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "CNN Portugal",
+  "titulo": "Selena Gomez processada judicialmente por causa da startup de saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYk1Wc0lTdG1KY3I3WkNuLVJ0bWpiZkpJQ2Ruc1lTY1owdzdvbzhoSlpEelpWWmxCUXZYU1NGRXh4RXJxb1Q4SnV4WmFobnY1WkJZQmhjYm5tdllnS1lHOHQtWW8zT0Q4VDlzTVNZd2ZORVI0OVZvN1F0WFdEQmpPQWNXV0R0VUlIdkczTmRQNmRrSldMcEhYWFlqVTUxZEh6enFQZDhMOXFXLXJUNnFmZER3UEJxYWo2WTJsZzY3U190aWs4RllTQ0lZZE5sS0ZqZ2FQbmJxMDVvcjczSlNnbHpIUEx5WXMtYkppWg?oc=5",
+  "clave": "causa gomez judicialmente processada selena startup",
+  "capturado": "2026-09-08",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "selena gomez"
+  ]
+ },
+ {
   "id": "7576d80c2cc7",
   "fecha": "2026-08-14",
   "carpeta": "05 GOOGLE NEWS",
@@ -3896,6 +4207,25 @@
   "categoria_auto": "producto",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c712c5a29316",
+  "fecha": "2026-07-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "unale.org.br",
+  "titulo": "ALERJ: Lei da Assembleia Legislativa reforça prevenção ao burnout entre servidores públicos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFFSZGNDQzR1T1J5ZDh6b3E4X0tZZlNGTjctLVNxS3kwQlNSekwtbk5lS284dGlaQTZ1R2g2VXhxeVQ1c2NsaHhTbjQ1ZmVqbE5ja0pxa2F1NEZndTZUNlpXMzdsdGU4MjRMeUpUd0VDemlUOGdCNHR5Wm5mNklhSDJzU0VsMTdQMWR0Sl9DdFBHcE1hMXQ0MGl0YVZVQmZDSUdyU0E3akYxODNpblBjUnJ3?oc=5",
+  "clave": "alerj assembleia burnout legislativa prevencao publicos reforca servidores",
+  "capturado": "2026-09-08",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "burnout"
   ],
   "ruido": []
  },
@@ -4558,6 +4888,25 @@
   "ruido": []
  },
  {
+  "id": "1b580f9dfc43",
+  "fecha": "2026-07-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "GUB.UY",
+  "titulo": "MSP financia proyectos comunitarios para el abordaje de la salud mental en todo el territorio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMFh6MTZlS0VPc2s2Q1A2UUtvRzRyd1VLcUV2aXlRUkt2M0NKQjRNbW5uT19feERWV01qekRHV2V2Y21faUpLMHlsMk9DZUtiWlEwdGVyTVF5NWRPODRpanVFSnRvLWdla3RZSU5PMEpva0I3S284SWxsYjZ5RHUzSVpDVzZVdjhiWTQ0NDA4ZkxLVFM2RlB1aml6VjFfajBFdWl5TmdQRDM0dXduWHdZTUN1YlAtd2JIek9WNg?oc=5",
+  "clave": "abordaje comunitarios financia proyectos territorio todo",
+  "capturado": "2026-09-08",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "f2b162ea0988",
   "fecha": "2026-07-13",
   "carpeta": "05 GOOGLE NEWS",
@@ -4822,6 +5171,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3e12465c7270",
+  "fecha": "2026-07-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "R7",
+  "titulo": "Projeto de lei restringe publicidade das bets para proteger saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUFYV3ltZ2NISklkUEYtcmRGeEZPTm02QnFDZ0h1RXNfQ2NpOVNBejhzZVlMbVVLS1pOSlBYY3pXUkZLbml2OFNsS2pET0RqODZyb0FtUUY2dnJ3eFpqUTh3VE90UlhkY1FhT3JqbjBhNlF6U3ZPdU5lWnhDQjJhYjRJY1VBZkhNa3lKQ0RNdDlqSXdPT0l2THc3VVhQM2xaTEYxUVdhaWRjVTVwZ0h1ZjlWRmo4dw?oc=5",
+  "clave": "bets projeto proteger publicidade restringe",
+  "capturado": "2026-09-08",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -5128,6 +5496,26 @@
   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3dnRDQ5MzNOMFp0NWs5QVFOSDNXbXM5ZVNlQXpQUi00WVcyRlhnYWhxbDlZTWJtb0tjZmY5aHdiWF9vYmVxVlZWajZOUU9xMTFhb1pVa0plYml3Q0RTbk5pUW8tR3BocVEzeTZpTXBiZHNGSjVTX3U4Yi1YTzMyakQ2VWJEVGZXOEVlU3hnaWZjZDh6cFIwVTFhRUxQME5CR3lXaXdnVTJlSmx0LWJfZWhJZWp6Qml6Rkg0?oc=5",
   "clave": "andre mendonca multas suspende trabalho",
   "capturado": "2026-09-04",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "eaa810f67f72",
+  "fecha": "2026-06-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "band.com.br",
+  "titulo": "Mendonça suspende multas da NR-1 sobre saúde mental no trabalho por 90 dias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSUNLMkxwNHVsbnpwMHVHR2RBYmRfdm9PRlp5dTd1WWptVFY5MWtwZXZ3UVE3Z1N1bnZKbk85V01aZFVMRTRaY0dTT29rc1NoNE1OLU5WMjF0NFhSdWV3ZldtbDZ6RjYzWHZ2VjN4c1NLVlpuMjUzbVBGNWwtVGNNOWd2bXcwc0cxUmNweDAxVDhhZTBETFVIekp3?oc=5",
+  "clave": "dias mendonca multas suspende trabalho",
+  "capturado": "2026-09-08",
   "puntos": 9,
   "prioridad": "A",
   "categoria_auto": "regulacion",
@@ -5578,6 +5966,25 @@
   "categoria_auto": "producto",
   "topic": [
    "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ad0dcb221eb2",
+  "fecha": "2026-06-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "Central Press",
+  "titulo": "MindMatch vence PITX e capta investimento para saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWZBSW1uZldaci1iS1VkUm03SFhUWnBCMzFyR3JWV0dzc2ZqRzJnb2JNdnFKT0ttUmM2WlZpckZiaFhnSWdWalFKZUtVUmZZNDJaVDRKR2lfQWpiLWZtLWtOMjRRSFJReWY2VVRNQXpTTFpuX2JXTFRCMFhxS3dqSmZxeldrNzBzTXowV1dzRUt4b3V5RW54b1lFUHNGcHM4enM1X1Fnel9tOUZIZUhselRGbEk?oc=5",
+  "clave": "capta investimento mindmatch pitx vence",
+  "capturado": "2026-09-08",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "deal",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -6177,83 +6584,6 @@
   "categoria_auto": "otro",
   "topic": [
    "mental health"
-  ],
-  "ruido": []
- },
- {
-  "id": "37f95f811d53",
-  "fecha": "2026-06-09",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "RTVE.es",
-  "titulo": "Visita del papa | Pide una sanidad que priorice la salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN05hcEJnWnREQ0hBZF9uUnFIWmFTVENJSlVQTWpwd1RyWVUwamY2RnRZVWp6RXY1QWw0bW5lR1p6Q3J0V1JyUDVjZGRpaVBlQ09zZlktNmRHYi01THp4VE0xMFNPMXFDWVFBcU9FN2tMTlZQR19HUUlVMk9jazU5Q3h5aVhqTERFdlJUbDhyRmg4UQ?oc=5",
-  "clave": "papa pide priorice sanidad visita",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "b868022e7eaf",
-  "fecha": "2026-06-09",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "EL PAÍS",
-  "titulo": "El papa León XIV llama en Barcelona a abordar los “feminicidios” y a que la sanidad priorice la salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZkRXdlNZUnJlb3ZNaklmdkRwTHd6ZFY0SjF5WmdEa21GQ0xPaFJGLTRoMTA5eTV3aXRzUzRfajFCYXM1c0tZNGxSMkQwU0VCR0F1UlR1QWdxSXkwMzhiLXd6T29CY3JtS0RpWkFiNk03NXdRTDRwWTFocXpfbGdQb3cybEhheHhETUozMC04LWtvSHhBN3FjYkNJSUJFYm95em44MjlYNmQ3R3QxTjJNcVFoeGdmcnM1TzZTR0pWbE5sd1A2LVp0YmFiN2FIWHQ4WXB1dHpMWlFxR2h3ZEJFMm55VTlMTGtIUzhVbTFRc9IBgwJBVV95cUxNNk9kVHhCOW1zSEJKcldHSkhwU2dUcDhrOGFEYXlXRGVubUpWbjU4Rzh2Sl94TGk2QlRoOU5MVklpTEw3eC1WTGdENVdJN05zd2xKQllCZHgwV0VtZ2kwcnFTQ2tzall6VzF0OEY3YUNUYjQweU50U2xRMVR4MjQwOUVJZVNkOHM1WkVVWXFBcXpTY3Q0cWQwTWJpaVBrM2dKLVFodlNTTXBsSTc3bmQyRWMxTFhKWW9oNm9pTl9TNFRzVDVJZ0xVMjNhcXkyYk1rODBKOHZsUkNfR2VUVnE5QWRJSEI3bDhZMi1Tbk4zWEFEQnVhR2RsUVljWlA3VjZrYmU0?oc=5",
-  "clave": "abordar barcelona feminicidios leon llama papa priorice sanidad",
-  "capturado": "2026-09-06",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "2642acc3ca58",
-  "fecha": "2026-06-09",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Portal Zumm",
-  "titulo": "Riscos ocupacionais agora incluem saúde mental; veja a nova regra em vigor",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3d1MEFzS3F0ZVF6TkoyV2QwNy1Bc05PdG5jQkJYTUN4VWhmbklWUFVQRm1pUzNydU5aclRod3EtUWJDbHVJeDdkT19wTjloRFM1NW5hbHZPSHVBZGFjQW5reGVMa0x3Q1hzUU5HWHFjZ1pab2k2T1Bzc2R3UTVHeWNtMlpGdE5INnMtRU05SXRhTzBvbWg1cW5Gd3cwVkU4elE?oc=5",
-  "clave": "agora incluem nova ocupacionais regra riscos veja vigor",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "2f4804f2bae5",
-  "fecha": "2026-06-09",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · EN sobre nuestros mercados",
-  "medio": "OSV News",
-  "titulo": "Pope Leo speaks with suicide survivor about mental health, hope in Christ in Barcelona stadium event",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQm9rc3U1bzhtTjlqRGN2M2xuaTE0eHZzNDAxRnFyeXBQZU5sTUJPNERfYTJPa1RGWnllZGhMUlJYRjNBdUVnLWI5eWdER2QtbG5ZQlZhM1ZpblJyZmFJM29zdlg4a3lNV0NqYlFFQ05vMk5fcVQ0MWxnVnhuU0p5WFVzMGJjQUhfMXV1WFZFb2hLVFZEdDBvWEJ4N3F0OVE5TmY4NlpneURJWkFuWXR6Ym14R0RTMmc5ck5ueTBqN3VjZw?oc=5",
-  "clave": "about barcelona christ event hope pope speaks stadium",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "mental health",
-   "suicid"
   ],
   "ruido": []
  }

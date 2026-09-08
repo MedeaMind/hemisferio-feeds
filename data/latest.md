@@ -1,10 +1,12 @@
-# Hemisferio — señales 2026-08-30 → 2026-09-07
-82 ítems con tema salud mental de 1184 leídos · 79 historias únicas · A=11 B=27 C=41
+# Hemisferio — señales 2026-08-31 → 2026-09-08
+95 ítems con tema salud mental de 1186 leídos · 92 historias únicas · A=15 B=27 C=50
 
 ## PRIORIDAD A — hechos con datos (leer artículo completo)
 - [2026-09-04] [01] **Sanidad e Ingesa movilizan más de 400.000 euros para ascensores, un láser multifunción y un medicamento exclusivo** — Redacción médica - Home · cat≈partnership · 10 pts
   las adjudicaciones abarcan desde la investigacion sobre adicciones hasta la compra de equipamiento
   https://www.redaccionmedica.com/politica/sanidad-hoy/20260904/sanidad-ingesa-movilizan-mas-de-euros-para-ascensores-un-laser-multifuncion-medicamento-exclusivo/350147_0.html
+- [2026-09-07] [05] **La Xunta aprueba el Plan estratégico de Salud Mental de Galicia 2026-2030 que incrementa cerca de un 50% los profesionales y alcanza una inversión de 177 M€** — Xunta de Galicia · cat≈deal · 10 pts
+  https://news.google.com/rss/articles/CBMiywFBVV95cUxOUFB4WHFfRlRPdWRfM3pNX3VFOThmVnpCVy1ISzhYMmtqdlRnWjQ2bEJ1cktZejhCV0g0WnFybjg4RVoyTXdiRGkxQnFTc1EyZzlZM0c2M0tXVWV4VF96dF9icVFiU3YwTWEyLW1yRmNVQXhkTWIwVWI4QjVpYUl2YlBtbnZkR0tOTU94ZVFBOGRYNGg5Uldubm9WbWh3UnJFRmdLdjg3SUhwSWhNNGU0R2JXUnZjR25oQlhGNjNGcTNFRnJKRGdxSlZ5cw?oc=5
 - [2026-09-04] [05] **Marruecos lanza su Plan Salud Mental 2030 con una inversión de 4.000 MDH** — Rue20 Espagnol · cat≈deal · 9 pts
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUnRLaDhkSXh6QlVMU3VlbWxBT2ZpcVJqM19BUkJ1NElqalR2UWdQX1hYcE1ZM2ROUXp6MEZfLVdGUHJIX1FlaTRiQjZQck5rc01HMlA2dnNNbTlHWnRKZTd3RXpLckppWnlwQmM3LWFEdnJCaUZSd3lWVDR4Z0ZxZFBtRl9nQ05ZN2hwSUFfVVdSVjZxNGJJTnJjSVdqT3F4S0lWendiSC0?oc=5
 - [2026-09-03] [05] **Estaban en situación de calle, pero gracias a la ley de salud mental son dueños de su propia empresa** — La Capital · cat≈regulacion · 7 pts
@@ -28,6 +30,14 @@
   https://site.cfp.org.br/cfp-divulga-resultado-da-selecao-de-pareceristas-ad-hoc-do-sapp-para-2026-2028/
 - [2026-09-05] [05] **La propuesta de ley sobre salud mental: De la exclusión a la comunidad** — Acento · cat≈regulacion · 6 pts
   https://news.google.com/rss/articles/CBMisgFBVV95cUxPRldEY29ONU5ZMkRuYTZRbkFFaG4yTUNuX0I4eURMVEtTc2hWM0xsc0JWdk1rMDlqUnp6dTQzdFVxcmxOXzVMVHRINmQ0NE1aTjBIN2ZjaVF3VXEtT1RkVWZ5UXdzUFFuZTcxNkk5aVZjbjV4VGZzSmk5S0s5aFdWX04xMFNwTklyM2FmQlg1TTdqWVJLOUY0ODk2X19JUGZsSDU3dlhjREk0NU1jQWxzT0pR0gGyAUFVX3lxTE9GV0Rjb041TlkyRG5hNlFuQUVobjJNQ25fQjh5RExUS1NzaFYzTGxzQlZ2TWswOWpSenp1NDN0VXFybE5fNUxUdEg2ZDQ0TVpOMEg3ZmNpUXdVcS1PVGRVZnlRd3NQUW5lNzE2STlpVmNuNXhUZnNKaTlLSzloV1ZfTjEwU3BOSXIzYWZCWDVNN2pZUks5RjQ4OTZfX0lQZmxINTd2WGNESTQ1TWNBbHNPSlE?oc=5
+- [2026-09-07] [05] **Galicia da luz verde al Plan de Salud Mental 2026-2030 con una inversión de 177 millones y 357 profesionales** — diariofarma.com · cat≈deal · 6 pts
+  https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaTRKaGlPODF0YVpuZVQ0VTg4RU5wSkJkSFNxWERoa1hDWUZlWTh1eDc1NER5MFZILXVnSFdEVG9ZZjBTbDVRaTVseTc2NGRETjVrd2xwbU1WTzZmMmNzM2VwU25RVnQ5ZjYzZnpFZzc4c2RyVkZrbHI0R0Rubk5yLVFwTFZCRXh3LXhxYk5FbTVWS21qTUNqakg3VU9HcWFXRUN0eTFOTzQ2czJzb21CMEtOeEVaenNLY1kzTWdRaE91aXBNOW5lc1MtWmx5by14LU14cW5Na202dUE?oc=5
+- [2026-09-08] [01] **La Psicología y la sanidad aterrizan en el anteproyecto de Ley de Accesibilidad Universal de Madrid** — Redacción médica - Home · cat≈regulacion · 6 pts
+  la iniciativa ha superado el proceso de consulta publica con aportes relacionados al refuerzo de la accesibilidad cognitiva y a la inclusion de la sanidad
+  https://www.redaccionmedica.com/autonomias/madrid/20260908/la-psicologia-la-sanidad-aterrizan-en-el-anteproyecto-de-ley-accesibilidad-universal-madrid/350262_0.html
+- [2026-09-08] [01] **Los adolescentes de familias con menos ingresos tienen más riesgo de sufrir un trastorno alimentario** — infosalus.com · cat≈research · 6 pts
+  los trastornos alimentarios pueden afectar a adolescentes de cualquier entorno social. durante anos se ha asociado este tipo de problemas con determinados perfiles sociales, pero una revision de 51 estudios apunta a una 
+  https://www.infosalus.com/salud-investigacion/noticia-adolescentes-familias-menos-ingresos-tienen-mas-riesgo-sufrir-trastorno-alimentario-20260908074249.html
 
 ## PRIORIDAD B — contexto útil
 - [2026-09-01] [05] **SEP Launches Mental Health Strategy for 7.5 Million Students** — mexicobusiness.news · cat≈producto · 5 pts
@@ -39,10 +49,6 @@
   https://news.google.com/rss/articles/CBMiowJBVV95cUxQVC13cVl6bkNzVndhQ0xELXA3TUFXb1BhWlFQVEQ5bmhVNzJuWUVuV0ZvYkIzcENJdkU0ejFkVTBZWmozdlZSZUJXaWhIODRjckRXc2xRZzRrdFk5NHhBYUN6OTZ0anlBTHpNSUFJclZVVFY4VURkeDM3Rl9tci1EYzN5QVVPTy1oNm9ScEFIUTFjZnBwTEpWUURTWFpiT2RJYXhkTGZ4N0RrUkdmcXhsT0NaUDNTbTR3RlRnbm5sbTd0T2pub3doSUhWVEE1RGdScWJZNzdLOFV5WUhsRVdTaUctYndiNVZMd2YzUXV6TDJpUEFlY0paa1h4NVdmS09vOVRva21rUXpxdmwxOE5TRzZrZHV3YWJ1alBsVjI1bGFRdEnSAagCQVVfeXFMTTY5TkdlMjFzYXV5T3pPYk9VbnRxbWFPeDVsQ2ZFXzloNmlfQUhQR1VnUndINmQ3dWdBNDI4ajh6Y25CLTQ4eUFBRW9NNElSWVJCRkRtSDNpS1hudTk4d20tazQ0WTZRdVhSUHY5UHRlQmVVQnBvYkt6MDVvQVhobGtGc1IzRU45dVJ2YVA1NkFWZnV0OENLbVF3X2FXYkhKNzlMQzNFR0kzVHRxQ0UtYlNBVmpMS0NKMkcwUjFCSW9kZTZ2VVJDaHlzbkZ0NFhOUnY5UGlYRnJKR003eWd0akVRSlpodmIzSjAyUDhtT3VyM0hqZzZlWGhaMzVncV9tamkySEFibGxKUHBYb2NGcDFHWWU0U1JreVFhaXRyWUNuYzNwZ0hTbGo?oc=5
 - [2026-09-07] [05] **Consultas por salud mental crecieron 23% en un año** — AHORA Mar del Plata · cat≈research · 5 pts
   https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEVIcXFkamotOF92NDMtZ2p5OTlnaXNBeEE4NnFPTHJoRXpkNmd5ekF0OWNiTElHWnZTMFJiT0xlWFdTWHNuOE1FLWFSZjgxcmRjeV9VckdMbTVUemtqWHE1OTVaaHpDVXowV1hFaVJHOGlZc25tRk1UUG1DQnZMX1JzQVUwWGFnUDZF?oc=5
-- [2026-08-30] [05] **Reforma de la Ley de Salud Mental: cuándo el cuidado puede convertirse en control** — MDZ Online · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1k5LTN6UUxKOXJNdkl1ZTZLdzJyRDhUTUNUcDZ5SHpleDJqUkNUWnF2cXJyNXhTcW5PMWUzUHBFcGhDajNtb2k4cGJ5eE95eXNqbjV3eVZuOWJhU1g3ODlSUHVTUy05MDV0eTdxNG4za2xzOGR0cUVwZGp0ZzVsaXNUWk9lTEVjSWxqWFV1WER1U0JzcWxJRFo4VmZKRkV4UUtDVTYyYWFRTmdxc1hKcdIBtgFBVV95cUxOODAzU3BKUU9SbTlJN2ZSRm8xRTB0blhVZUU4bXlmbWxaWVFQaXV1Y24xX19EdlJlS1RxengwVi14RDlTVkYycGE1V3BuOUNLVk9fdUNMZUdBTXROajZMV1VNYXJ3bFZCYWJHMzdqakgya0Q1dUE1bWtub2U5d3RraTdra3pWZUY0TUtGUGJwbWNPQkRiMk9QekRvQWR1RUc4LWJoaHl2anFEZGdVX0tBOWpWWnJfQQ?oc=5
-- [2026-08-30] [05] **Reforma de la ley de Salud Mental: “Es un retroceso en el acceso a la atención"** — REALPOLITIK · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMitgFBVV95cUxOdUpxTzVMTU9XNzN6eEk3a01BSWJsZGREeHBXOFlyNnZmNTZNQzJMOXJ5NmdRSWlXU0JGU2VWQmJDSzBEX3hqQ2dtVXVZbkxWUGt1QXc0TTdFbG85VnBpSml2WGUyd2pUZkIxOWx6WU9HaUptRHp1QWdCWEF2VXh4TjNOQUkwTGZZRlFfSXN5WGtlTV95TDZ3SzVaN3gwdzZtSEk5NzFrWGJoVFd2TXNRMzJ5QlVOUQ?oc=5
 - [2026-08-31] [03] **CFP divulga resultado da seleção de pareceristas do Sistema de Avaliação de Testes Psicológicos** — Conselho Federal de Psicologia · cat≈regulacion · 4 pts
   o resultado do processo seletivo para pareceristas ad hoc do satepsi (sistema de avaliacao de testes psicologicos) foi publicado na quinta-feira (27) no diario oficial da uniao (dou). as regras da selecao de pareceristas
   https://site.cfp.org.br/cfp-divulga-resultado-da-selecao-de-pareceristas-do-sistema-de-avaliacao-de-testes-psicologicos/
@@ -89,6 +95,10 @@
 - [2026-09-06] [01] **Al descubierto el blindaje del cáncer de hígado agresivo** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈research · 3 pts
   oncologia mariasanchezmonge nueva via terapeutica el escudo antiquimioterapia del cancer de vias biliares intrahepatico se encuentra en los fibroblastos , unas celulas del microambiente tumoral, lo que abre una nueva via
   https://www.diariomedico.com/medicina/oncologia/descubierto-blindaje-cancer-higado-agresivo.html
+- [2026-09-07] [05] **Llamado a licitación para equipamientos tecnológicos en salud mental y adicciones** — mspbs.gov.py · cat≈partnership · 3 pts
+  https://news.google.com/rss/articles/CBMiwgFBVV95cUxQczNPWHpPMDZLOXpIUThuM3IxNC12a2dDMmhJdXpiT0ItdE4zTzBHWUNTY25EX1NQR1lyNkZQTjdkSktGcjNWSnN1QzZWaWNic0p3S0kzVUxoV2JiTklCRk8xRncyNTZuSUJPcGFFM3lCVUtoWGRTUWJOWk55X3pRck9HYWFub0kwQUVoc3l5V3Z1WnVYX0xKTFBGRnliZjRPWGpFZUNUNnY5c2RlRDFmTXJXS1F6QldaNG1lQUZPeVdRUQ?oc=5
+- [2026-09-07] [05] **Mexico Joins PAHO Regional Mental Health Study for Doctors,Nurses** — Mexico Business News · cat≈research · 3 pts
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1psdjBkMDlfWlZPVmZQb1pIUHRUdWt5RWlZQnY1U1ljR3V4d3pTR2NZY2NnVG9OdEZveVBhOWtCc21sZTRrRGZnbWxlOWZObmRfNU9VZHFXOHd5UTFQMFFaZy1xa2s4ZDJxSnZVeG9mR21UcE1mSWE0MWRON0owbThHVzVMWi1GcGtRTDJnN192UFZENk5KZGhkUEc2WnAtUVE?oc=5
 
 ## PRIORIDAD C — probable ruido (solo títulos)
 - [2026-09-02] ZILIOTTO FIRMÓ EL CONTRATO PARA AMPLIAR SALUD MENTAL DEL FAVALORO-MOLAS: LA INVERSIÓN SUPERA LOS $6.300 MILLONES — Impacto Castex
@@ -101,6 +111,12 @@
 - [2026-09-05] Salud mental y unidades del cáncer de mama sumarán 33 profesionales — castellonaldia.elmundo.es
 - [2026-09-05] política | 'Acércate, escucha, acompaña… repara', la nueva campaña de Sanidad contra el estigma de la salud mental — https://www.consalud.es/rss
 - [2026-09-05] 'Acércate, escucha, acompaña… repara', la nueva campaña de Sanidad contra el estigma de la salud mental — consalud.es
+- [2026-09-07] Os Rothschild, revoluções e crise: o que 1873 ensina a 2026 — Brazil Journal
+- [2026-09-07] Galicia duplica la inversión en salud mental e incorporará 357 nuevos profesionales — ABC
+- [2026-09-07] La Xunta dobla la inversión en salud mental y fichará a 357 especialistas en psiquiatría y otras ramas hasta 2030 — Galiciae
+- [2026-09-07] Galicia Plan Salud Mental 2026-2030 inversión 177M — Vivir Ediciones
+- [2026-09-07] Aprobado el Plan de Salud Mental 2026-2030, dotado con 177 millones y que suma 357 nuevos profesionales — GaliciaPress
+- [2026-09-08] la rioja | ‘ConectaSuic’ supera las 1.200 intervenciones: así funciona la red de prevención del suicidio de La Rioja — https://www.consalud.es/rss
 - [2026-08-31] 4ª Mostra SUAS: inscrições para a Etapa Sul já podem ser feitas no site da CONPAS/CFP — Conselho Federal de Psicologia
 - [2026-09-01] Ziliotto firmó contrato para iniciar la ampliación de Salud Mental del Favaloro-Molas — Maraco Digital (+2 medios más)
 - [2026-09-01] Saúde mental é política de Estado — JOTA Info
@@ -128,40 +144,43 @@
 - [2026-09-05] Corte de Valdivia ordena a Isapre equiparar cobertura de salud mental mental y física — Diario Constitucional
 - [2026-09-06] El Gobierno actualizará los tiempos óptimos para las bajas por incapacidad temporal y rebajará las de salud mental — El Español
 - [2026-09-07] andalucía | El nuevo Centro de Integración y Recuperación de Salud Mental de Granada abrirá en octubre — https://www.consalud.es/rss
+- [2026-09-07] Corte de Santiago ordena igualar cobertura de salud mental y física en planes de Isapre — diarioconstitucional.cl
+- [2026-09-08] pacientes | Nueva era en fibrosis quística: tratamientos dirigidos y nuevas vías para quienes aún no tienen opciones terapéuticas — https://www.consalud.es/rss
 - [2026-09-03] Las consecuencias del uso masivo de GLP-1: entre la medicalización y la brecha social — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-09-04] Encontro das Comissões de Orientação, Ética e Fiscalização fortalece práticas éticas e qualificadas — Conselho Federal de Psicologia
 - [2026-09-05] Jesús San Miguel: "Hoy podemos soñar con duplicar la tasa de curación del mieloma" — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-09-05] El caso de Julián Álvarez, jugador del Atlético de Madrid, reabre el debate sobre la falta al trabajo por depresión: ¿qué dice la ley? — Infobae
+- [2026-09-07] Vuelta al cole: la salud mental se sienta en primera fila — DiarioMedico - Plataforma de profesionales sanitarios
 
 ## Estado de los feeds (hoy)
 - 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 1 · ok
-- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 1 · ok
+- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 2 · ok
 - 01 ESPAÑA · https://gacetamedica.com/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
-- 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 0 · ok
+- 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 1 · ok
 - 01 ESPAÑA · El Referente · leídos 10 · nuevos 0 · ok
-- 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 0 · ok
+- 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 1 · ok
 - 01 ESPAÑA · Agencia Española de Medicamentos y Productos Sanitarios · leídos 30 · nuevos 0 · ok
 - 02 LATAM · https://www.contxto.com/en/feed/ · leídos 100 · nuevos 0 · ok
 - 02 LATAM · LatamList · leídos 10 · nuevos 0 · ok
 - 02 LATAM · https://lavca.org/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
 - 02 LATAM · Saludiario · leídos 10 · nuevos 0 · ok
-- 02 LATAM · iProUp.com - Últimas noticias sobre economía digital, c · leídos 6 · nuevos 0 · ok
+- 02 LATAM · iProUp.com - Últimas noticias sobre economía digital, c · leídos 7 · nuevos 0 · ok
 - 03 BRASIL · Saúde Business · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Futuro da Saúde · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Medicina S/A · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startups · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startupi · leídos 10 · nuevos 0 · ok
-- 03 BRASIL · Brazil Journal · leídos 10 · nuevos 0 · ok
+- 03 BRASIL · Brazil Journal · leídos 10 · nuevos 1 · ok
 - 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Portal Médico · leídos 1 · nuevos 0 · ok
 - 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 2 · ok
-- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 7 · ok
+- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 6 · ok
+- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 2 · ok
 - 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 3 · ok
-- 05 GOOGLE  · Google News · PT Portugal · leídos 100 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 2 · ok
+- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 2 · ok
+- 05 GOOGLE  · Google News · PT Portugal · leídos 100 · nuevos 0 · ok
 - 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 22 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 52 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 2 · ok
+- 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 53 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 1 · ok
 - 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 78 · nuevos 1 · ok
