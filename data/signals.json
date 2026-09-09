@@ -1,5 +1,218 @@
 [
  {
+  "id": "c9574eba6d88",
+  "fecha": "2026-09-09",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Comissão aprova regras para acompanhante de autistas na saúde",
+  "resumen": "a comissao de defesa dos direitos das pessoas com deficiencia da camara dos deputados aprovou projeto de lei que estabelece regras para o acompanhamento de criancas e adolescentes com transtorno do espectro autista (tea) durante atendimentos clinicos, terapeuticos e outros procedimentos de saude. pela proposta, o acompanhante podera ser um dos pais, o responsavel legal […] the post comissao aprova",
+  "url": "https://medicinasa.com.br/acompanhante-autistas/",
+  "clave": "acompanhante aprova autistas comissao regras",
+  "capturado": "2026-09-09",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "terapeut",
+   "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e4cc72d68ff2",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "ORAIN",
+  "titulo": "Será noticia: EITB Data sobre salud mental, ronda de reuniones del lehendakari y resultados Informe PISA",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTmExSDQ3WjFRU0ZreElBeGxuZHZBZlFWWWk0VHFEN21aSmdlTWw5cHgzV0Nlal81VGI1ZVNnNkRfQ1FYcjY1VlBhRTR1VTZ3eko5UG1jRDR0OXp1MGx2bm1GeXhvUi1IRlZoZEJETE5hZ1o4VkJKdFVfbHJIdWlDc0tCQ3N3cDd3TXVqWFVHMzMzSFRTQ1VNLU1iRm53b0Z2LWIzdmEyT25fSEloZ0NlekY0dnNqVHBOcmxNRzA2NTJ6a1hzdXZXOFBmeGdhTnRCTWdRZzFDUzJVckVv?oc=5",
+  "clave": "data eitb informe lehendakari noticia pisa resultados reuniones",
+  "capturado": "2026-09-09",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5df0a59054f6",
+  "fecha": "2026-09-09",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/telehealth/quel-health-launches-telehealth-platform-addiction-treatment-using-glp-1s\" hreflang=\"en\">Quel Health launches telehealth platform for addiction treatment using GLP-1s</a>",
+  "resumen": "the platform is currently available in 41 states and washington, d.c., with plans to expand nationally by the end of 2026.",
+  "url": "https://www.fiercehealthcare.com/telehealth/quel-health-launches-telehealth-platform-addiction-treatment-using-glp-1s",
+  "clave": "addiction launches platform quel telehealth treatment using",
+  "capturado": "2026-09-09",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "addiction"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5ac8a1831d60",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Nueva Rioja",
+  "titulo": "Ratifican la defensa de la Ley Nacional de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbTdZTmRZeW9NZXdWT3BFa0g1NFV6c0ZGa1dsS0h6LVdYYlg5QnlsZXp6UFFQc182ODRDWjlvb0Q1eU5meGdEek9zMXZsZTN5Y25mbzUwaEpDZzA3Q3JPY3EtUXUzUVg0UERSNXIxaU5DRVR3MDZYUDk5SktVQTFtT2VlcXF6LXEtWUlSakVPeEpsaHZNdVNVWENn0gGTAUFVX3lxTE5OSERoOHlOcm50b2RHZllsMzlKaHNPY1c2QU15c3YwNU1TdlIxQkJhaDk3d1ZMOGJ5RV9xcFhDcnNHNDhCU2tlNnB0bUhFMUhtRlRKNEkwX1pCS0NKLUhYVVZtaWc2eERUbk5aN0NPakR3SEpsR09PVUpSZVliamhKRGxldlpYb3ZyRnNibEJqQWRCWQ?oc=5",
+  "clave": "defensa nacional ratifican",
+  "capturado": "2026-09-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "279c25de4805",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "LA17",
+  "titulo": "Reforma Ley Salud Mental: Nuevas reglas para internaciones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc093aEFVQV9NdXVTZWlBOVNCbEVEclZJaUVrXzFjZVJwT2dPZDcxZ29pWDhyOXV2eDZfdDY4NFpuYjdFb3ZEOTlMczNWeGUybVpUam5VMDdUcXI1UDFHeUIwWlJldDJmM3dEUTNXaktWRlZ5Yms1blJUTG9wWG03Sllkdnl6V1BWc0o5TktlSE1Sa0dXSmRKWlAxeVVYOG8xVktHZ0VrX1ZKSndvSFF2NjNOZXBSSV9MNlg5NDR0cmxQdXpL?oc=5",
+  "clave": "internaciones nuevas reforma reglas",
+  "capturado": "2026-09-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "394d8bdd9ec3",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "APFDigital",
+  "titulo": "Tres meses después, el Senado vuelve a tratar la reforma en Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUEtSVld0SWtyYnRWeXNkTzVNa2JnR3d1d1ZueDVfRTE4Z3Ixb3VDaEpNd2tZU1Z0ekR6MVNUSVE2VlMtanRtT2kySlFIQlVGdUh4LV8waEs0WGM2bl9tT1JDYzl2c282QlplT3Nsb0JvXzNJT18zNTBpeFdHYWFSVmxQMTZyaF9RbGF6ajBWTTVMVjFBT1FLdWYxa3dMU2dPLTV2VWxVdjFwZGVsaENiYnFpWkFjU19TT1ZuUG5mWkUzN2hBel9r0gHMAUFVX3lxTFB1VTJjaUdqSV9kZUVfOXBYdkVreVJpUEJOWDV2V0V5UjRxbnNXazNQcjdiTGxyeFdFWmtrWGM2RHFVd1p4N2tzbS1jLW0ya1hVb3BWajEwbjh3ejMtM2ptXzVNQVNjYmNCQlNSOVIxNnRCYnBEZVQtLVZ3d1ZmQ3gzLTg3Z2I5VmNSa3hJMEdtbWxLdTYtWWU1eTRQTEJUYXhxakk0VTV5UnRZZHJJcWd1Q0QwTkVlQXYxdG1tTkEzaTBXQ1lydkt6bkk2Nw?oc=5",
+  "clave": "despues meses reforma senado tratar tres vuelve",
+  "capturado": "2026-09-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a11931e889fe",
+  "fecha": "2026-09-09",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/hospitals/hospitals-need-better-sud-care-heres-how-few-are-leading-way\" hreflang=\"en\">Hospitals need better SUD care. Team-based approaches are bringing results</a>",
+  "resumen": "amid new implementation guidelines from the american society of addiction medicine on improving substance use disorder care, some successful hospital addiction medicine programs have leaned on multidisciplinary consult teams.",
+  "url": "https://www.fiercehealthcare.com/hospitals/hospitals-need-better-sud-care-heres-how-few-are-leading-way",
+  "clave": "approaches based better bringing care hospitals need results",
+  "capturado": "2026-09-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "addiction"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e453bea6907f",
+  "fecha": "2026-09-09",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "psicólogos | Los psicólogos clínicos piden una nueva cultura de prevención del suicidio, la segunda causa externa de muerte en España",
+  "resumen": "psicologos: los psicologos clinicos piden una nueva cultura de prevencion del suicidio, la segunda causa externa de muerte en espana",
+  "url": "https://www.consalud.es/profesionales/psicologos/los-psicologos-clinicos-piden-una-nueva-cultura-de-prevencion-del-suicidio-la-segunda-causa-externa-de-muerte-en-espana.html",
+  "clave": "causa clinicos cultura espana externa muerte nueva piden",
+  "capturado": "2026-09-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "be291e3b65e2",
+  "fecha": "2026-09-09",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "La cara menos conocida del deporte infantil: ansiedad, miedo a fallar, y presión pueden convertirlo en un problema",
+  "resumen": "un partido puede ser una oportunidad para aprender a gestionar la frustracion, ganar confianza, y sentirse parte de un equipo, pero tambien puede convertirse en una fuente de ansiedad, de miedo a fallar, o de presion. la diferencia no siempre esta en el deporte que practica el nino, sino en todo lo que ocurre a su alrededor.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-cara-menos-conocida-deporte-infantil-ansiedad-miedo-fallar-presion-pueden-convertirlo-problema-20260909082349.html",
+  "clave": "ansiedad cara conocida convertirlo deporte fallar infantil menos",
+  "capturado": "2026-09-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "ansiedad"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a24ad035502a",
+  "fecha": "2026-09-09",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Setembro Amarelo: quem cuida também precisa ser cuidado",
+  "resumen": "por caroline daitx quando pensamos no setembro amarelo, e natural que nosso olhar se volte para o paciente. falamos sobre prevencao do suicidio, depressao, ansiedade e busca por ajuda. mas ha uma pergunta que precisa entrar nessa conversa: quem cuida de quem passa a vida cuidando dos outros? medicos e demais profissionais da saude adoecem. […] the post setembro amarelo: quem cuida tambem precisa s",
+  "url": "https://medicinasa.com.br/quem-cuida-precisa-cuidado/",
+  "clave": "amarelo cuida cuidado precisa quem setembro tambem",
+  "capturado": "2026-09-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "ansiedad",
+   "ansiedade",
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "53504121e412",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "enlalinea.cl",
+  "titulo": "Chile enfrenta una silenciosa crisis de salud mental: experto llama a hablar, escuchar y pedir ayuda a tiempo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObWhMX1Z2OE5CaEJYemdMVVYxQVdqX3VtcUIyMkpMeS11RkEwZ1NUTy1iNy1tcXBiWDlMdC1rZWdBVzVueEVQbVJXOFhBMFpJeDBvXzVUMVJIVzRYR0VxUXozZ09zeExXbm5zMG5lUUUzRVJyNnZnYTJqQjB6NDFFYWtoZGo3TTJOSnFkYXhnQXdkTjFYN0VPYWFubG1PcXBSUDdnbE9RbGtZOW5uU1pyZzFHZ0wxUWZHUlhNT1RzaE1mbWJlSF9LdG1SeUNEZw?oc=5",
+  "clave": "ayuda chile crisis enfrenta escuchar experto hablar llama",
+  "capturado": "2026-09-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "ea7a3cc76ade",
   "fecha": "2026-09-08",
   "carpeta": "01 ESPAÑA",
@@ -38,6 +251,120 @@
   "ruido": []
  },
  {
+  "id": "fc7da95cefb2",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Radio y Televisión Riojana",
+  "titulo": "Salud mental: La Rioja prepara una postura unificada y cuestiona los cambios a la Ley 26.657",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWGdiOHR2c3hqYVBUSWVhNzFsZFpwNDRYeDB6QnU2ODBPNU9VSVJZbXBFb282WUZ3VEZDanpOUkRpR090YU5sNWRHZTBOR3Z3Z2U5WmdHeVRQSk42dFY4ejVxblRod1ZoZ3ZIWk4zV3M3WmJ1b2U4SGpSeGF0OVg0RzZXa1NCRjZyMUJkQWJMaTIwRlcteExpSksyYndsamlhMFQ2RFNWNHRPdTZ5YnZBdWM0VVVmVWZFMXd1dDVEMmtKRk1HdXFEM29ZLTFzdmUtMmlBTEtiR2pQQnM?oc=5",
+  "clave": "cambios cuestiona postura prepara rioja unificada",
+  "capturado": "2026-09-09",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a1be1a71d17d",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Agencia Noticias Argentinas",
+  "titulo": "El Senado retoma en comisión la reforma de Salud Mental con debate sobre internaciones involuntarias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSkJYM1JRNEppZDhlZ1RvTkgzeXFUMXd6elB1NnlIRUVQVnloQnZlb0otRzBqRnp3ekFtYmstYTBpTUw5XzVHWWVqaEZmalRoWlZMaG5GeldTelNyalE2UW9ra1BMY3UtYzdua3h6bjlERlpHS2NSUnJSTjRHbU5IdUlWQlF1VnF6YmpweEVMdFFFV1IzTlBncjF3N2lLd25xcS1TNWwzT25hRjZjblVYTjR3ZXdzN1FIaDQ4NUZIb0NmVXRBeE13RnUydnVDSHBkdnJsekRyeUVzQ2Vmcm9iZ0x1RXRXSG41bVBySVg2dXBoeGJ4Z3k0NEJR0gGIAkFVX3lxTE5Ia004X3pWNjM4WTczcndiTDMwaUlzVHdLY0pGcXBrc2wwUjZleC01dFNSMFFFWmF6QzFRamVpVE1iQjZwcFV4dzk2eE1UbV9JNU9PYmNqd1hiQ0NPaHpQQlMxcjd4VmsxbVc2dy16LUFXM24wRC1IU2tvdk9mYWZlYUZLT0hZR1Q5ZHdoaHdZd2FDOHJ5Z2xvQ05rV19adDF3eXBUbndxMG0wa3RiS0lFVm1KSnd6c3Itc3JiVGVIV1NZRW5FeF81Ti1KbThxS0tFbGptd2c3T3VxUUVNRWZSbnNTNFpzbTl1aC16blc3blRPeG81MTlCNDVWZnB1N3NXVFEzVGZqMw?oc=5",
+  "clave": "comision debate internaciones involuntarias reforma retoma senado",
+  "capturado": "2026-09-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "068359d4aa23",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Nueva Rioja",
+  "titulo": "La Rioja rechaza la reforma de la Ley Nacional de Salud Mental impulsada por Nación",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbF9aU1ZHb1FxNk5YNlNqclRYR05wNUpIVnBNTU92d0laZ2FjY3MzTkNnWkczMkMtTEZyOHhqNkN3UWRNc0liTHEzNnRJcFBaUGJUbXRUU25qdHZmZ1ZLaTZ5Tk40ZEJMT1BQMmpZTWIxRVhEdTM4aTJwNndGV2p1ejFWMDlNS0U1RkdEVHlPdjB4ZnRVM284Y2t2aVh2RlIzUEtlVU9FNVlIaU13a1djRmZIdFN4ZTJFYXRJMFJjWdIBuAFBVV95cUxQZGc4bmthaklEeHBZbWFrcjJTQk9WZlI4SldHZ2lDVVJKbDhtZGFqX1kyc3BoSVdHb3FTVFV2R1dYX2IzZXM3TnVOc1JXV0VrWmFQNlo5dkRyc09ZM0wyQ3pUcXJMQktuQmVrZFgyM0h6RTFOSEpKc1N4djJ3aXh1U3FJVzVrcXBPY0g2eTZMeVJhcG01R2poQWlUd29uOHNhYmtzcFhicmJXNDZDbmdUS2ZiRmN5ZjZR?oc=5",
+  "clave": "impulsada nacion nacional rechaza reforma rioja",
+  "capturado": "2026-09-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6bafcd15fcff",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Opinando San Nicolás",
+  "titulo": "El Senado retoma la reforma de la Ley de Salud Mental con foco en las internaciones involuntarias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVN6UVEyOXBkNWxpaUhWcTFDT0M2MHRjZmZIUDFRN0pENlEzU0V5czNLWWV3Y0luTlpiMmlBaGlhbTV3T0dHWU1hLUdoXzFWLTZPYlZQdnlBRlZrMnI5VHlPVHA2OWdZZkVqRlppRTJ3WWx5WUdRQkNhSXFVbloxMjl4dUpERmluQWdsdFNycm5qZ1F0VWpVYjJTUzg2amI1bVFfbQ?oc=5",
+  "clave": "foco internaciones involuntarias reforma retoma senado",
+  "capturado": "2026-09-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "979b1370e808",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Esquiu",
+  "titulo": "El Senado retoma el debate sobre la reforma de Salud Mental y analiza cambios en las internaciones involuntarias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZkpVR1Z4c0tFMFhRdUd2T3JCdnl2QWFoLUFEbGFRSFlZenpZTFFYbXNlS1pQWmwyNGtkbjF3UlNuZk50ZEFYdElRLXpiRG1nd2NOUG83b0tmdWNwaEdBV3czNzVSckQyZVRRWVdLclVsTDg2VjNIM1lxQ1hPaHM0QzgyWGZlV2FxMmIwb0pzN1pPbWExNE1TMUsxb2NtSVlyRnBGUG5NTzRLeVNlQ3VrbjhYTkh3aWlnV0hHUDBFZlp1VWxTcUhmejZFNDQ0Y08tLWJKYkZXTUo3M0lQMmNTSFVyRlo5LUVxeVNV?oc=5",
+  "clave": "analiza cambios debate internaciones involuntarias reforma retoma senado",
+  "capturado": "2026-09-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "477e4bcd0061",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "San Nicolás",
+  "titulo": "Senado debate reforma de Salud Mental y aval a internaciones - Diario El Norte",
+  "resumen": "senado debate reforma de salud mental y aval a internaciones diario el norte - san nicolas",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDlud1BQaGxSTldxcmV1RHcxbnFJMXMzbzJtX3d5ZmRxSVBlMUlXMjBXQnFUM2pkZklCRWcyenhYMk9OOGRveFdSdHgxM09uVEstamg4dlhyNndDcU9xS2pZS0VIRC01UVhIUm9IaElleHlaSnpvYnlMVU1pQVh4bFJIYlJIVTFEWGY4d3lsMjlOVE1p?oc=5",
+  "clave": "aval debate internaciones reforma senado",
+  "capturado": "2026-09-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "8d32837d208c",
   "fecha": "2026-09-08",
   "carpeta": "01 ESPAÑA",
@@ -57,6 +384,44 @@
   "ruido": []
  },
  {
+  "id": "6256c2937f4d",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Xornal21",
+  "titulo": "Galicia duplica la inversión en salud mental con un plan de 177 millones hasta 2030",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2NyLWZzZlpYMm5oaWYwSk1jMGJ0Tzl3WGppcnllaEx4OExIN3pXNl9IOTljZDMzdDZPSngyNmxfaEhtSTNpdE52elJ1S0c2ZFB0cUdwaFVjNmM5Z3BKeVR3MWp6WHA1UTVtWS1yQkt5OU55eDJ6NFBmNVpvOEZHN3ROaWFsbnc4Q1BsQUhNbHJGcDd5RDVWTEN6RU13bXBrNkFhNHJyQ2I2S0VsSFQ4Q0w2MWk?oc=5",
+  "clave": "2030 duplica galicia hasta inversion millones plan",
+  "capturado": "2026-09-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4cd1b770467c",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "moncloa.com",
+  "titulo": "La Xunta presenta el plan de salud mental de Galicia con 177 millones y 357 profesionales tras la alerta de la OMS",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONllHZS04SE9wZkkzcVdtZ0JRazhWQnZzeUZDbFpybFNScm01S1dIR0pkUmlDT3BiMmhGVmxoSkFMTnduTUdXcFV4aE9QZ0d5YU5VaUF0V1FoT3o0clN5SV9sVUtpeDlQdDVpWkpQb0Y4dnJ6VlBoNEtJRVZKeHVwcw?oc=5",
+  "clave": "alerta galicia millones plan presenta profesionales tras xunta",
+  "capturado": "2026-09-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "67362a3991e6",
   "fecha": "2026-09-08",
   "carpeta": "01 ESPAÑA",
@@ -72,6 +437,83 @@
   "categoria_auto": "otro",
   "topic": [
    "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "631456907d4a",
+  "fecha": "2026-09-08",
+  "carpeta": "02 LATAM",
+  "feed": "Saludiario",
+  "medio": "Saludiario",
+  "titulo": "Tabaquismo y salud: fumar puede perjudicar la fertilidad de hombres y mujeres",
+  "resumen": "el tabaquismo representa una de las adicciones mas peligrosas y ahora se suma una nueva consecuencia nociva porque tambien puede afectar la fertilidad.",
+  "url": "https://www.saludiario.com/tabaquismo-y-salud-fumar-puede-perjudicar-la-fertilidad-de-hombres-y-mujeres/",
+  "clave": "fertilidad fumar hombres mujeres perjudicar puede tabaquismo",
+  "capturado": "2026-09-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6979a4232ea8",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Noticias de Necochea",
+  "titulo": "Psicólogos pidieron declarar la emergencia en salud mental en Necochea",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1dFNkRxUUpsRGlLWlg5MmlTSS1oRGRUX25Qc21zV1c4MVpRS2tORDJyZEhJYl9aRjZHXzdJQjVPQVJ0S0NnbURsSzZxamRUUjVDVGVfWmk5SENIekVNOVB2Uk8tcmc4a1JockY1MVhFSnR5UDcza0h6WWJ5WURYaW1faXJhNTNWUlY2X1hNYzF4OFB6M21IYXlQWENneS1LSUhLcA?oc=5",
+  "clave": "declarar emergencia necochea pidieron psicologos",
+  "capturado": "2026-09-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c4ed7efa721d",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Alcaldía de Medellín",
+  "titulo": "Gracias a la telemedicina, usuarios de urgencias médicas tienen atención en salud mental en tiempo real",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNbkM4dmZvMmRCNF9sb0cyaGFiNVVTOVFna1ZSRUZvN3RFaEFlUjhMZEhKNUN3TF9fMHg2WHI3MUg3N1Z6azl3Rnl1NlV0aWVFcFRkV05kQ3BqR0FZUFRickxSYWdPR2JubUI0cF9zUTI3NEdzdTNxUm41VDBES0hzUFFNaW0zTDdnaHhPdldtdFc5VGJkaXpBb0ZLLVJpbVRTS3ZOVFNfMTd4VU4wS0MtdEpFbHhaempzMVloZzJfNl9WYVFRbk1WcWc4OHViSFRUMzZkbDFHbVdEUmxnbEQxLWlOODZPWmZOR0hULUVqTlM0dUVwTjFWOWJuTlotdTNrN0tOSGpKN2tudw?oc=5",
+  "clave": "atencion gracias medicas real telemedicina tiempo tienen urgencias",
+  "capturado": "2026-09-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "18df0a8856c0",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Caracol Radio",
+  "titulo": "Medellín implementa modelo de telemedicina para agilizar la atención de urgencias en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjNtbHNZZDB2ZHJ1X19CSFZMZnc4QTBZNVp1emRhRWh2VmE5RnFscjFoS1Y2eVhzOHpvd3J6bWtiRUJJMWpUUjZ1eGhJelVzS21zN2NBeVR2OWlrTWZyRnZIc2hpODlNU01RZXVzdzJ2dWMyRXR6WTVZMEd0N0lGQzJpWjN1dksxNm9fNkRoelVfZXZBWVd1Z0dwblgtZzhJT2c5SUUxTW1SaXd2QnFHMVR4WlNidDBlYTNIakRLYkFWNnNhakoyMmRVeGTSAeABQVVfeXFMTlhkV2pEODZySkhKZ2phNVJ0WkV2M2pTM3RJeGFTbVcxZVl3dEhWNXlhajN2LWl5dVFMM0stR2J5LWpuRUpmNWNHQjZSQnkydVVETkpPY1dqQlBXZDZLbENZekJXVjNBYTNwbDRjaGNwV1MyN2RlNWE3SzdrMkFRTVVva1ZZSW5TcWdLNHh3bUcxYzhiRXZMdzhrRG1FR3RBR0NGVUx2OGNBX2t4Ym01Rzl1Ul9QanF1Rmd4Nm81aDRrTnNMLTNpbVpOV25HckNlRWNuN3hZN3d4WU10YjhURjU?oc=5",
+  "clave": "agilizar atencion implementa medellin modelo telemedicina urgencias",
+  "capturado": "2026-09-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -114,6 +556,25 @@
   "ruido": []
  },
  {
+  "id": "904995c8e0cb",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "noticiasgalicia.com",
+  "titulo": "Galicia reforzará la atención a la salud mental con más profesionales y una inversión de 177 millones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVjkwMG40T2VSdDZMVXlfRElNbDBhcUhZU2hoWExZbXk0MjMwRDV0M0x4NnhMSnpGRnREZmd2VUIxend5bFM2SjRWY1hlLTRaSUY1RndTSEZvMEsyWEZFTWo3Vl9wU1FwS3RWNWxaU0dVcURWQ1BhR2J2SVh2dGVCbTRsclpBNml5dDZGQ0J0VVRWVTgwZmdxckFLNVBoNTJFS2lmcnJkdHoyMTNabXZpVnRtTjBLTXdHcVBNX3VqTjdQbmpPR1MtWEgtYWlTMEhVWmhXMzRKVVFRTlpWYWxsaU5iYXdvYk9n0gHuAUFVX3lxTFB5WWh6RzN0ZUhfQUZtYm4yeW1sM1VRV1NqUVVMRkltSGZnNmF6MWliY3FieHEzSjdPcFUzaG8tWmMxNk43RFZTc2JJOXF3aVczcjd5YWpyM2FMQjdFbUdqc0h5ZkZOXzd3RnYxQzc1aXEtUWloQ1pCZWFiZDlhVmJrbmFWMEdMOXoxeEd3U0RKbGczaGdFUnpsdlp4VDdkd2JscFVDMEkzeE44U1ZBdG1fUmhqRWc0bDVWOGlRRmxjb3d6VWI5UktKVDlQZEcydHFydWZEUkx5X092N2VzcVZSTG1YbXlvcXh3OXE4TlE?oc=5",
+  "clave": "atencion galicia inversion millones profesionales reforzara",
+  "capturado": "2026-09-09",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "deal",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "f4f06ac59ebb",
   "fecha": "2026-09-07",
   "carpeta": "05 GOOGLE NEWS",
@@ -129,6 +590,26 @@
   "categoria_auto": "research",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a7a389269806",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "exame.com",
+  "titulo": "NR-1 e Geração Z ampliam pressão por saúde mental nas empresas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQlRVNmx2NXZwQ3pzeDI3RFZ3MzVvZFJ4V2pUWGRhMXE1Zmd0ekVUaklhOW03Q0ZOenM0RXpwTEczUldkNkRBZkM3WkoxX3AyamFwLVJVazl4TVNFLWNJcHZyWHJoeElFMGIxOTJ5c1FXUmNLS2RtUnE2VTJpMXgtTXMya2JPVnpfOE1XVXRpcklWbG0zeGswYnI2TnNPaFhzUFZlRlhyWQ?oc=5",
+  "clave": "ampliam empresas geracao pressao",
+  "capturado": "2026-09-09",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
   ],
   "ruido": []
  },
@@ -163,6 +644,25 @@
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1psdjBkMDlfWlZPVmZQb1pIUHRUdWt5RWlZQnY1U1ljR3V4d3pTR2NZY2NnVG9OdEZveVBhOWtCc21sZTRrRGZnbWxlOWZObmRfNU9VZHFXOHd5UTFQMFFaZy1xa2s4ZDJxSnZVeG9mR21UcE1mSWE0MWRON0owbThHVzVMWi1GcGtRTDJnN192UFZENk5KZGhkUEc2WnAtUVE?oc=5",
   "clave": "doctors joins mexico nurses paho regional study",
   "capturado": "2026-09-08",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7894404f29eb",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Mexico Business News",
+  "titulo": "Mexico Joins PAHO's Regional Mental Health Survey",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnZma0o1NTFfS0Q2bkgxMVAzeDZFTXpwcHJZZGFjWHozR0pwSmNuMjl5NllnOGtWTmVWY2RZUEk0ME1OZWgwY1JvMmFnVkZNYVJWbUdvZkdlU2xJV2x2dVRTQUotWFdUS3FmaXhUemhhenJId0VmWnJBTHhlTzBLWHhlcW5NZ3JWSzM3U2dxaGFxQQ?oc=5",
+  "clave": "joins mexico paho regional survey",
+  "capturado": "2026-09-09",
   "puntos": 3,
   "prioridad": "B",
   "categoria_auto": "research",
@@ -3866,6 +4366,25 @@
   ]
  },
  {
+  "id": "62cd6d838f3a",
+  "fecha": "2026-08-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "El Diario de la Pampa",
+  "titulo": "Emergencia en salud mental: una inversión de $12 mil millones y ocho obras estratégicas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNlNKMlBhd2pNTFAwNk9QaHFYb2RMZ2ZDVVVyX3NkTHJQb2Y4dFpVVDZ5ZnoyWkxqVDlSdWFYU1RmVDBMVFdFcEVxUWlzajhsckoyMXo4a0toaEtOTlFYakYwLTF2VVI3RWk4ZFBCeFVrRERkSlVSRmNYVlF0eGRkbHphUDNrU19yVU5US1hMZHVPS1pnb3ZyZzBFS1Jzb2Q5TFJoM0Rfc1h0RUYzbW5UMmM1d3ZxWUhFT3RUdXB5aDdPN3lya1FyNEpENk9FRW5ZRkNDLQ?oc=5",
+  "clave": "emergencia estrategicas inversion millones obras ocho",
+  "capturado": "2026-09-09",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "deal",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "0257d6baa192",
   "fecha": "2026-08-10",
   "carpeta": "05 GOOGLE NEWS",
@@ -3933,6 +4452,25 @@
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ25adU40RDVWeVlvNTZDdmNqdHZpOERIODV6XzhBRmY3bFdPYmlYN2liNTloRWRkaEVNaDRpSXRXdEh5RVN2SFZGSTZRdXFsaGRyNENpMkRnTDBNdm5EX0trbWJQS3FFcmNMMzZabGRCb2VaZW5LYVExdVp2Zy1uWkFQTU54cC0xbTZKaU1FbDBKVW5TeGdFUDVZLXVjbGd3eW5JNl9mYlNodw?oc=5",
   "clave": "fund meta mexico million ordered teen",
   "capturado": "2026-09-04",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fe61db00804f",
+  "fecha": "2026-08-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Breaking News, Latest News and Videos",
+  "titulo": "Meta ordered to pay $567M by New Mexico court over child mental health harm - ABC News",
+  "resumen": "meta ordered to pay $567m by new mexico court over child mental health harm abc news - breaking news, latest news and videos",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU1aVVItZ1YzbkdTZThvb2Z1ZUwzcTFQRnpQTExqb1RvbjRqZ00zay1BV3FZd3N5N3BHMVFROTVtWGtxZnJLNHZSaUFpT096TnR0UjIzZ1U3cTFDSTI1N3hfeTd1aDA3YWRhakFoMFRLZ0ZuZWJpZFZyREZxVHFvLU5FMEh1eVlaYXliSHA4RnhDTE5VN21B0gGcAUFVX3lxTE9DMTFKTWR6T0thMkpnOUg1X180X2d5UVlaZWdjS2E0NDN5encteFhycHJCbHpxOS1la1ZlYTR0QzdSNGgtTEdoS2daVFBWVE9oY2swc1JkYkdFQ2RFUlZzb3ZOWnIwTGUxVEo2TmhjUWJfV0tBbFBLNnROZXhJdXNldzdVcG04QUZRVlM2aHJ2eC11Z2FndTFGOHQ4Vw?oc=5",
+  "clave": "567m child court harm meta mexico ordered over",
+  "capturado": "2026-09-09",
   "puntos": 2,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -4150,6 +4688,25 @@
   "categoria_auto": "otro",
   "topic": [
    "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0bae5cc30dd0",
+  "fecha": "2026-08-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "STMC",
+  "titulo": "Atenção à saúde mental dos servidores vira norma em Campinas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2xlTTNTLUw1dnRmZEhFbnpVTmlHZVItWG12QzVPR0stbU9walJyT1pEbUw5eUcwYTdpMEZBclY0Q3FMd1JPX0VBYUFnRnZJVk8xdzVCUVk5Z1Y1NWF2TUVubFZuUUVVdENHQ3NoMmUzZmIySWtUWmVEbnhRQ2tHTmFkMFd2Tkt1TGE5TU8zZEJKaHBwRmJvUnYxNmtqWHljdGN6Qg?oc=5",
+  "clave": "atencao campinas norma servidores vira",
+  "capturado": "2026-09-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -4542,6 +5099,25 @@
   "ruido": []
  },
  {
+  "id": "ac54a5fe7047",
+  "fecha": "2026-07-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Time",
+  "titulo": "Sanidad destaca la unidad de noche de salud mental y la hospitalización a domicilio en La Palma",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWThzRHRYWThkQ0VHY0hiaG5vaFlIVllhZHFmQlpoVzNVVVJxUWtXWmJqWG9HR2RHYmhiaWoyOVJObmt4dXV4LUtZakFZeFgzQWlialJDUUZocms5Z3A5bXlSRU9sSXZuN0IxYk9pd044dTg2TVh6ZTRGNE9iOFYzX2NERzU2MjVBcFM5RS1MYTlqN1dMM3ExY2VjNkRhY1RZR0JaQ3h0U0dxdmpyYVBpV1JOaGtJSC1zVjBEeVRyWU9UVEphQjFMSTgyRkdzcmRnTWlzMUhmWnl5RTlUZjZlajduUFo?oc=5",
+  "clave": "destaca domicilio hospitalizacion noche palma sanidad unidad",
+  "capturado": "2026-09-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "99588a2189d2",
   "fecha": "2026-07-21",
   "carpeta": "05 GOOGLE NEWS",
@@ -4595,6 +5171,26 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "921b40048522",
+  "fecha": "2026-07-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "IM Médico",
+  "titulo": "El Pacto de salud mental no resuelve la escasez de psicólogos en la sanidad pública española",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEJQV240WHBlaW5LSElla2JQLTNoRjBBUmtGUGxXTWVpY2J3SF9rVlZtaDhZenhmRF9udGg0d0tsZjJ2Mkk2MUVPOVRZUzZFcndrb3R5c3FYV0JvcmtYckpNUnJOak5MYXdfeDhCbWsycjRMUW5kR0g4VnB6ekx3WUZudm9wVHVkdnVNbWlnMFFSd010M2dmZXV5Z3k3YTNLcTFCdXBUeXhxbmY4bExtaTQ5Ty1LYTVjMWFuNDMwTnZmd9IBvAFBVV95cUxNaU1yd2tGZDZEM0t4UmNUZjk3SV81VXZ1WnFOcGVkc1czVzBoTlZZT0ltVXZzVE5odEhZWkNSMnNRSHAyN0NfLWttVDBRWFBDNTRsRGtDUEZva2FSakl2TWE3ZEJLRUZyY2kwbWpKR2YxeEF1cnVZeHZtaU1hZVJWY2NpNkNSd3RCWGN6MHQ2UDlmZVNWZG03UWFIMVZKdmlib0hLWGd1S3hlcGpSYmQwZTgtYlVmdzBjWFJ1dA?oc=5",
+  "clave": "escasez espanola pacto psicologos publica resuelve sanidad",
+  "capturado": "2026-09-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "psicolog"
   ],
   "ruido": []
  },
@@ -4806,6 +5402,25 @@
   "puntos": 7,
   "prioridad": "A",
   "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f02da7b822f9",
+  "fecha": "2026-07-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "ladiaria.com.uy",
+  "titulo": "El MSP anunció la financiación de 42 proyectos comunitarios de salud mental con una inversión de 34 millones de pesos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVEN1UmR0MjdjTE5DYk1pLVR0eDFjUmhWRWlBYUEtNnZDT0VKTFRxTDh2MmpWbXFqMVkyTC04NjZ5RGVzaExvaTNWdjVyZm05dWZINGdwelV4T01VRlNwMS1WcVZzSW1FRkRmYWZ4Q1N2dWVONjFPY0s2VVM4ZlcxZGk2bnpJZkp0aGxlVGRYcFZYUmlIUjJiLWpiSndZWGFTU0ZZT3NXcERCVmM0OFhfUm9WMWhCNTZNU0k4aWh0OTVDU3lCMjZFRW9LQWd0Q2RuUUhKZ1VPcGE0dER3akZCSDBPWFo1ZEd1MmhzQ04xSS0zZk5SZHNV0gGHAkFVX3lxTE03b2N4N0hLTHJoeVZUVTBQeDhPZUs4b0Q3N1AycjR3bmtOWXZ6UUg4OS1tSHFQU2lrZnp5aE1FdnlJOEhWV0gyTmJGZmJpTUhSSUVfV2plUWN0UkI0YXdvelFqSktya0pGamlkYlFtN1VmQVVCd0pXU29TZEFzUldKTXNVajhhS2swRURPVl9MWVNqYlVKX0J0T2FIMFFjYXVjZ1FybUlzS2J6TG5mMFE0NXBHT1JFMzRRTEtaZGxHTUxTaUFYVGMyZnFXdVl1bFVjN2xIbXl6eGY1bmFDSDlwSFdmNHZCSnYtQ2JNNzM4OG9aaUxKUzdpd0hodXFXSUNPSHZmWWI0?oc=5",
+  "clave": "anuncio comunitarios financiacion inversion millones pesos proyectos",
+  "capturado": "2026-09-09",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "deal",
   "topic": [
    "salud mental"
   ],
@@ -5038,6 +5653,25 @@
   "categoria_auto": "otro",
   "topic": [
    "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "25f7804bcc5d",
+  "fecha": "2026-07-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Univision",
+  "titulo": "Ley Chancla: ¿cuáles son los beneficios para la salud mental y las implicaciones legales para padres?",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRUlYSGV5TDB2YWdmSmlBcnd6b2F3eTI4bHQ4MmhWYVdIQlNHR3lycU80a29KVndrdWhvNXBySWFIQXVkV0R4UXFMSFJ2SU5KUDFFRlFhVFAzLTVRdkEzRjM0SHg4eXRQbTJSeEpjOHFDakU2M1ZmQW1xR0s1MTI5OFJNS2VwRHVDQVR2QXBETkVrb3pLc09UalFuLTJNQ0U4VjU0MG5BbjVubFhzOUNkc2JWMlFDT1BwV05uQXk1LU9kQ1BQeUhSb3NnellSS3Rsc0RFb094dGFzU1paSDl1bW1YLUJYU0Z3U1Zv?oc=5",
+  "clave": "beneficios chancla cuales implicaciones legales padres",
+  "capturado": "2026-09-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -5989,6 +6623,25 @@
   "ruido": []
  },
  {
+  "id": "ec1b45c9cd66",
+  "fecha": "2026-06-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Canal Extremadura",
+  "titulo": "Debate en la Asamblea sobre salud mental y dependencia con críticas del PSOE a la Junta",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdl9GT01WUDZjNi1BXzkzd2VFa2R1U0ZFUUNib01EZUpqaUlkSHhtMUVSTFdMVnJCSHRCSW1CUG1FekhpVU05SjVJcld1OHVaZ2ZqRkd0OHpOT3ptWFVVcThBY1ZIdFpoOGRJbC15MVZHQjRrbUs4NXVfSk1IZUFGeVd3REVobWc3R2lOdTVoM1lXbnBUM0ZXWXRPUFhlS1FoTDF6REI4WkhOWXVxanBEY2JGd2VLZWhpS1hCNWljZkR4LWp2LVRN?oc=5",
+  "clave": "asamblea criticas debate dependencia junta psoe",
+  "capturado": "2026-09-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "81c7e4186046",
   "fecha": "2026-06-18",
   "carpeta": "05 GOOGLE NEWS",
@@ -6198,6 +6851,25 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "74b4bfbae828",
+  "fecha": "2026-06-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "gacetamedica.com",
+  "titulo": "García responde a la CEOE sobre las bajas por salud mental de los jóvenes: \"Dejemos trabajar a los sanitarios\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lbDhGUGdhekljZnRHLW9JenlIcTlWNjI2NjU1c2NYcUs0bkhjdmdUSkFmRTE5OEJ2WGxfQ0dieW01MXZLbVNLanA1cnFXT2lSVngxNktOUEVUcnNuMzMzOUc3WVNLR25OdlUxcW12VFRjSHNfNGpuT1l2M3VUQQ?oc=5",
+  "clave": "bajas ceoe dejemos garcia jovenes responde sanitarios trabajar",
+  "capturado": "2026-09-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -6489,101 +7161,6 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "95f578dbcc11",
-  "fecha": "2026-06-10",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Portal da Câmara dos Deputados",
-  "titulo": "Projeto obriga empresas com mais de 50 funcionários a oferecer programas de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONFd5aXlpZ1FZZVRUbTMzS1h5Y1MzM0hWal8tU2JZZkRyQXB3UWYtOW5QMUswZDdXSnV3cmpDUnhHR01VNVcwVDRCMUp6R1VaRVdTTk93TFM0c1BYYkZ5QVA3YmQ2RTAzQjlwelFWZ0RmVjNwWHRYMXg0clhtMDRKUThsVHJSZFNrMmxleDNPYWdMaXJlVEVDcF9seUpTMG1PMHNrajhUNnhVakhKeWxFdWZuaHJuQTZOWWRjSkNRLXgtOVE3dlBaTTU0cHliMWQxa3FSWWtadldNZmJCME1SM200ZDBmZXprM1E?oc=5",
-  "clave": "empresas funcionarios mais obriga oferecer programas projeto",
-  "capturado": "2026-09-04",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "385d0f754d1c",
-  "fecha": "2026-06-10",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "El Mundo",
-  "titulo": "El Senado urge a que se otorgue a la prevención del suicidio la \"prioridad que merece\", más inversión y recursos: \"Quien sufre no puede esperar\"",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CVTM5SWoyYmZnTVNDX1k5YkFlWU5MNHlpS2Q2d3Nnb0JSbmRadGFXLWNaWENQS1lNUTNJVFAzaVZIMFF6WXdDSUJTVV92ZzJBNFZDQ0x4VUlpd1N5dTBxMWRyWE9mSjhEdjlPNWM0Z2ttdlhSNGxxR9IBeEFVX3lxTE42V2c0UkpGOHREUlkzdUhvSnA5czBiNXZwSm1KOHZsY1hSMkppSWJ4a2xwandjc3J2UWhsTTQyM0NuUWtTaXByc0VRWWU5YWtBNmNraHZnQ0Uwbmd5UFR6RUltZ0RVbmRNZ3d1c1pya1ZqaGZmeHNRTQ?oc=5",
-  "clave": "esperar inversion merece otorgue prevencion prioridad puede quien",
-  "capturado": "2026-09-04",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "suicid"
-  ],
-  "ruido": []
- },
- {
-  "id": "c298e32bd7d2",
-  "fecha": "2026-06-10",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Diplomatique",
-  "titulo": "Desafios e compromissos para o futuro da saúde mental brasileira",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHo2bklTbXZ5TTdSWjUwM0R6RXIzY3FMN2NxRUh6NzRjWWxRYWdlUS0zbC1kaktYU2dqZGNmNzRxSjdDVGlCeTcyLUpWakRDQVFJNHVhYU5uQ0ZkZWRibXpvTGw5TTZNRVZpXzNOZkNtTVZlclA1SlpZdloyNkZLZklPQ1AtYzF3OW5tYThmczB2Zi1QRk13bg?oc=5",
-  "clave": "brasileira compromissos desafios futuro",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "82b6a99e9636",
-  "fecha": "2026-06-10",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals (edición US, hl=en)",
-  "medio": "El Nacional",
-  "titulo": "La crisis eléctrica agrava la ansiedad y el desgaste emocional de los venezolanos",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanpPWHk0Mjdkb3dJMUIyVi13RktzMm5ZSzJZNC1aRjhEOEo1Zi1fUHI0TGhVdU9UdlRldXR1Tk5TY25pd05qaV80RFRiXzI3Nk84VHpkdjBMdGJUSVhGOUYtR2FGdEtuVERQVVdrWV9BeEE3VjlLTExSdUNTaE43cElfMVpjcUZBT09laGplaUNBVEc2d3ZJSmJOd3JYUnFhaW9vWTJR?oc=5",
-  "clave": "agrava ansiedad crisis desgaste electrica emocional venezolanos",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "ansiedad"
-  ],
-  "ruido": []
- },
- {
-  "id": "d6be392fc649",
-  "fecha": "2026-06-10",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · EN sobre nuestros mercados",
-  "medio": "France 24",
-  "titulo": "Pope warns of growing mental health crisis, domestic violence at Barcelona vigil",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVVfY19GUUFjaFBhMldyR2kwYUhoTWpDa0ozSlRuMkw0RFpfVXNnUmRrdU8wamFPR01KQ1dBaWdDOVlHTHFYSzA3a1FXQzhvXzlVcG1SNkVmX1huTmlHLU1PaE1xWm5UcFE3S21yT3B1VUVpOXlkS1BNQ0dVX2oyY0FqN05qTTRfdGlCdnhlSGwwSktmMm9YWjhzVUJWak0yWG9tVTlsb0xXT245SlhibWEwSnlFY1lE?oc=5",
-  "clave": "barcelona crisis domestic growing pope vigil violence warns",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "mental health"
   ],
   "ruido": []
  }
