@@ -1,5 +1,5 @@
-# Hemisferio — señales 2026-09-01 → 2026-09-09
-118 ítems con tema salud mental de 1184 leídos · 115 historias únicas · A=19 B=36 C=60
+# Hemisferio — señales 2026-09-02 → 2026-09-10
+132 ítems con tema salud mental de 1174 leídos · 130 historias únicas · A=19 B=42 C=69
 
 ## PRIORIDAD A — hechos con datos (leer artículo completo)
 - [2026-09-04] [01] **Sanidad e Ingesa movilizan más de 400.000 euros para ascensores, un láser multifunción y un medicamento exclusivo** — Redacción médica - Home · cat≈partnership · 10 pts
@@ -19,11 +19,12 @@
 - [2026-09-09] [03] **Comissão aprova regras para acompanhante de autistas na saúde** — Medicina S/A · cat≈regulacion · 7 pts
   a comissao de defesa dos direitos das pessoas com deficiencia da camara dos deputados aprovou projeto de lei que estabelece regras para o acompanhamento de criancas e adolescentes com transtorno do espectro autista (tea)
   https://medicinasa.com.br/acompanhante-autistas/
-- [2026-09-01] [03] **Psicologia: Ciência e Profisssão lança edital para publicação de artigos sobre Crise Climática e Racismo Ambiental** — Conselho Federal de Psicologia · cat≈producto · 6 pts
-  com o objetivo de reunir estudos no campo da psicologia que contribuam para a compreensao e o enfrentamento da crise climatica e do racismo ambiental, considerando seus impactos psicossociais, eticos, politicos e territo
-  https://site.cfp.org.br/psicologia-ciencia-e-profisssao-lanca-edital-para-publicacao-de-artigos-sobre-crise-climatica-e-racismo-ambiental/
-- [2026-09-01] [05] **Con una inversión de más de $6.300 millones, La Pampa duplicará la capacidad del área de Salud Mental d...** — infopico.com · cat≈deal · 6 pts
-  https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWm14cEJiTjZ6RE1UY3BROXRVdURHaEZPRFlYaW9hZmh5RmYyalZQQ3N6eTVGVFg4UlFBRlQwWlJTUnJTY094cUlXTjBvOEc3bUR2NFFFaExqZmtuaEk2TTd1Y19uRFowTHVwLUh1RXM0OHE4bUpmVFgtZzY3c2xMMEFvWkpXZHNxakk3UUtDMmxMWDRfZ2pRMUVUN1EwWFlVOXltSlBVcmRlQ3FMcXdaRWZhNUxTQmRlN2cyNUdTRXF1S01fb3R2azY0Q3lReHlMeGYxOUs1WDJzMk5Ib21MU2cyS0hNMENuRUgw0gHwAUFVX3lxTE0tcVBNRUtWb1lYdU15ajFpdTcwek1ldDNheFNVV1Exd2YtTS0tdUU5Rk5GTUNNZEMzT0NxYnNqNUpNRTczUURrN0NrY29kZ3E0U2FGbm5NWDJZNkxoZXZnaFpod3MxZ1ZkS1Q1dGdZTi1aM1VxOU1OU193R1kwTWJkZENOb3hpV0Z0c0hxeWFsdEk4VGxKQVZTSXltRnM4b2RYOWVOTDJ0SHJid0dSWEN2WThQT0hWVEpoUVV6MkxwSG1VYm9tcmg3SWZ3Um1UeHNnblIzajdSUlg4THVFZlFDU09mQU9oWXBSQ0NXbGFINA?oc=5
+- [2026-09-10] [01] **Las muertes por suicidio se situaron en 3.808 en 2025, 145 menos que en 2024 y el tercer descenso anual consecutivo** — infosalus.com (+1 medios más) · cat≈research · 7 pts
+  la ministra de sanidad, monica garcia, ha informado este jueves de que el ano pasado se produjeron 3.808 muertes por suicidio, segun las cifras provisionales, lo que supone el tercer descenso anual consecutivo de falleci
+  https://www.infosalus.com/actualidad/noticia-muertes-suicidio-situaron-3808-2025-145-menos-2024-tercer-descenso-anual-consecutivo-20260910114726.html
+- [2026-09-10] [03] **Sem diretriz, saúde suplementar busca saídas para regular e qualificar atendimento a pessoas com autismo** — Futuro da Saúde · cat≈regulacion · 7 pts
+  autismo segue como desafio das operadoras, que buscam se mobilizar para que ans crie diretriz de utilizacao the post sem diretriz, saude suplementar busca saidas para regular e qualificar atendimento a pessoas com autism
+  https://futurodasaude.com.br/autismo-sem-diretriz-saude-suplementar/
 - [2026-09-02] [05] **Emergencia en Salud Mental: proyecto de ley y sus claves** — LA17 · cat≈regulacion · 6 pts
   https://news.google.com/rss/articles/CBMiygFBVV95cUxPamI4MF9wRTRPZWFtVHBBMUJSOHkxcmR2WkhIS2pFTVlZQm1PRmJRNHdJOU9JTXp5VHFaWl9rdXk0YmlVdERJc1QzRmFiWFEtalJjY29STlBBSXNfZVZncEluaThreVZuMEVFRVNxOGxNcjBBekliZEdNMkpEY25uOUhqSmJ5X09MRS13eEhMQ0NWTlNRYlJJX19NN2VVT01tUEp3R0F3VE4tWkdFa0RhZ2xtZU15bi1Vcjc0cV9VLU91WjBGRU01NVNR?oc=5
 - [2026-09-03] [05] **Selena Gomez é processada por investidores de startup de saúde mental após aporte de US$ 1,2 milhão** — Times Brasil | CNBC · cat≈deal · 6 pts
@@ -49,8 +50,6 @@
   https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTmExSDQ3WjFRU0ZreElBeGxuZHZBZlFWWWk0VHFEN21aSmdlTWw5cHgzV0Nlal81VGI1ZVNnNkRfQ1FYcjY1VlBhRTR1VTZ3eko5UG1jRDR0OXp1MGx2bm1GeXhvUi1IRlZoZEJETE5hZ1o4VkJKdFVfbHJIdWlDc0tCQ3N3cDd3TXVqWFVHMzMzSFRTQ1VNLU1iRm53b0Z2LWIzdmEyT25fSEloZ0NlekY0dnNqVHBOcmxNRzA2NTJ6a1hzdXZXOFBmeGdhTnRCTWdRZzFDUzJVckVv?oc=5
 
 ## PRIORIDAD B — contexto útil
-- [2026-09-01] [05] **SEP Launches Mental Health Strategy for 7.5 Million Students** — mexicobusiness.news · cat≈producto · 5 pts
-  https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDdzczBhcG1ZeUZEc3VWMWhBQUFfT3lGYUVlRHBZNG0ya0hoT1NqS0VlSDhwbDZEdTJkOGMzd1pYOHo4ay1iUlNFRks1anowaGNCWFdueHhkX3puaXVmLXF6UW9GYmFWSWE5dXB3UjNveWlZajcyTzEyVGpMeWdvSUVQdzloVy12QzN1ZThMekQyV1BrVjlYVGlzWQ?oc=5
 - [2026-09-04] [01] **pacientes | Casi el 40 % de los adolescentes sufre insomnio: los expertos alertan del 'jet lag social' ante la vuelta al cole** — https://www.consalud.es/rss · cat≈research · 5 pts
   pacientes: casi el 40 % de los adolescentes sufre insomnio: los expertos alertan del 'jet lag social' ante la vuelta al cole
   https://www.consalud.es/pacientes/casi-el-40-de-los-adolescentes-sufre-insomnio-los-expertos-alertan-del-jet-lag-social-ante-la-vuelta-al-cole.html
@@ -63,6 +62,14 @@
 - [2026-09-09] [04] **<a href="https://www.fiercehealthcare.com/telehealth/quel-health-launches-telehealth-platform-addiction-treatment-using-glp-1s" hreflang="en">Quel Health launches telehealth platform for addiction treatment using GLP-1s</a>** — Fierce Healthcare · cat≈producto · 5 pts
   the platform is currently available in 41 states and washington, d.c., with plans to expand nationally by the end of 2026.
   https://www.fiercehealthcare.com/telehealth/quel-health-launches-telehealth-platform-addiction-treatment-using-glp-1s
+- [2026-09-10] [01] **Sanidad creará un nuevo sistema de vigilancia de salud mental con un Registro Estatal del Suicidio** — Redacción médica - Home · cat≈research · 5 pts
+  el proyecto busca unificar datos de casos y seguimientos para prevenir y mejorar la respuesta
+  https://www.redaccionmedica.com/politica/20260910/sanidad-creara-un-nuevo-sistema-de-vigilancia-salud-mental-con-registro-estatal-del-suicidio/350503_0.html
+- [2026-09-10] [01] **pacientes | La salud mental en la infancia y su impacto: el 70 % de los trastornos en edad adulta tienen un origen anterior** — https://www.consalud.es/rss · cat≈research · 5 pts
+  pacientes: la salud mental en la infancia y su impacto: el 70 % de los trastornos en edad adulta tienen un origen anterior
+  https://www.consalud.es/pacientes/alertas-ante-el-aumento-de-los-problemas-de-salud-mental-en-ninos-y-adolescentes.html
+- [2026-09-10] [05] **Corte ordena protocolo para hospitalización involuntaria en casos de salud mental** — Infobae · cat≈research · 5 pts
+  https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjNzWlFTN21Za1lIUWpscVdId2J4M2NqQnBTUGZrWThsS3JFc3hYdV81VjI5Y0xFVXNGZ29jdmE3MGl6SnJoWnA1MkxnWGJZYklIR2dhekpXUmNGNVVkaE1oY1JpcmJsTlVXRTF2ZDIyM3NFMGNKLTlScmNvYW9OVE45b1Vxa3V6a1hjWXpKRndLU0VBeHpnVnI2N1VXT3ZoTnVkeTRTVTJGX1g5ZVN3cURoQmlTTTI4WVRtZTY4cmdWNEND0gHfAUFVX3lxTE9sZGFpNG1rTDNaTU52dDUzcm5oSDNEV3A2R29VY2xac0lpQ2U1b1NsaUhkVmRHaXQxVWtPcUl4Q0J2US0zUDNsZklVTDRHV3ZjMk15QndKU0x4WFVFeWgtYXZJRXEzRVM2cVhqZ21NNlVRS1ZVbjB3c0JTa3o4YlhCOEZpdVcyMUdiUl9ya3lTcXVHdWlFRlFCaHBycHdRSVJBN2dTMUdlSWhpcEpma0NzUVdsdG1haEZENE5JZjA4Ukt2Xy01RnFyeGh2TXRfZkloNEkwUlhjVnhrTktBQTg?oc=5
 - [2026-09-02] [05] **El Parlamento Europeo exige una ley comunitaria para proteger la salud mental laboral** — Diariofarma · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2VaWkJHSWJqWVJabEo3MlhGN25CZ3JCMFhYOXdoU1I4b0FLeVJnOUZidkt5dXdUNVVFRDFwRm9LSGtjSUZlNThFWUlMTlo3SVh2bkt2YXFVc1M1aXpoX2owTWVGcExsRThKS1daMkN2ZHlYY1RjQktaUnVGeWlzdnE4TUFHbUtBbVNnMVU0d1JTOWxsWUhIR2JNNHlQUzdGUFZZbDQwNy1laWlVNVdFRk5xRGlhRC1KbW5GRA?oc=5
 - [2026-09-02] [05] **Qué cambiaría en la Ley de Salud Mental: el proyecto que modifica las internaciones involuntarias y el control judicial** — Infobae · cat≈regulacion · 4 pts
@@ -101,12 +108,16 @@
 - [2026-09-08] [05] **Senado debate reforma de Salud Mental y aval a internaciones - Diario El Norte** — San Nicolás · cat≈regulacion · 4 pts
   senado debate reforma de salud mental y aval a internaciones diario el norte - san nicolas
   https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDlud1BQaGxSTldxcmV1RHcxbnFJMXMzbzJtX3d5ZmRxSVBlMUlXMjBXQnFUM2pkZklCRWcyenhYMk9OOGRveFdSdHgxM09uVEstamg4dlhyNndDcU9xS2pZS0VIRC01UVhIUm9IaElleHlaSnpvYnlMVU1pQVh4bFJIYlJIVTFEWGY4d3lsMjlOVE1p?oc=5
+- [2026-09-08] [05] **Ratifican la defensa de la Ley de Salud Mental frente a la reforma impulsada por Nación** — Diario El Independiente · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOLVZ1WEh6ZmRTTVBQZHdIckNBNEhTUmJUWmhPNzJfYW1aV3ptTVdtVEk3RVBRbHNtZ2tJS3MyRi1vVEZXalQzYnRKdXVDWTlBZmlyaUpCZ0ZSUGpkWU9Eb0JVNVoyQQ?oc=5
 - [2026-09-09] [05] **Ratifican la defensa de la Ley Nacional de Salud Mental** — Nueva Rioja · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMimgFBVV95cUxQbTdZTmRZeW9NZXdWT3BFa0g1NFV6c0ZGa1dsS0h6LVdYYlg5QnlsZXp6UFFQc182ODRDWjlvb0Q1eU5meGdEek9zMXZsZTN5Y25mbzUwaEpDZzA3Q3JPY3EtUXUzUVg0UERSNXIxaU5DRVR3MDZYUDk5SktVQTFtT2VlcXF6LXEtWUlSakVPeEpsaHZNdVNVWENn0gGTAUFVX3lxTE5OSERoOHlOcm50b2RHZllsMzlKaHNPY1c2QU15c3YwNU1TdlIxQkJhaDk3d1ZMOGJ5RV9xcFhDcnNHNDhCU2tlNnB0bUhFMUhtRlRKNEkwX1pCS0NKLUhYVVZtaWc2eERUbk5aN0NPakR3SEpsR09PVUpSZVliamhKRGxldlpYb3ZyRnNibEJqQWRCWQ?oc=5
 - [2026-09-09] [05] **Reforma Ley Salud Mental: Nuevas reglas para internaciones** — LA17 · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMixAFBVV95cUxNc093aEFVQV9NdXVTZWlBOVNCbEVEclZJaUVrXzFjZVJwT2dPZDcxZ29pWDhyOXV2eDZfdDY4NFpuYjdFb3ZEOTlMczNWeGUybVpUam5VMDdUcXI1UDFHeUIwWlJldDJmM3dEUTNXaktWRlZ5Yms1blJUTG9wWG03Sllkdnl6V1BWc0o5TktlSE1Sa0dXSmRKWlAxeVVYOG8xVktHZ0VrX1ZKSndvSFF2NjNOZXBSSV9MNlg5NDR0cmxQdXpL?oc=5
 - [2026-09-09] [05] **Tres meses después, el Senado vuelve a tratar la reforma en Salud Mental** — APFDigital · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMixwFBVV95cUxNUEtSVld0SWtyYnRWeXNkTzVNa2JnR3d1d1ZueDVfRTE4Z3Ixb3VDaEpNd2tZU1Z0ekR6MVNUSVE2VlMtanRtT2kySlFIQlVGdUh4LV8waEs0WGM2bl9tT1JDYzl2c282QlplT3Nsb0JvXzNJT18zNTBpeFdHYWFSVmxQMTZyaF9RbGF6ajBWTTVMVjFBT1FLdWYxa3dMU2dPLTV2VWxVdjFwZGVsaENiYnFpWkFjU19TT1ZuUG5mWkUzN2hBel9r0gHMAUFVX3lxTFB1VTJjaUdqSV9kZUVfOXBYdkVreVJpUEJOWDV2V0V5UjRxbnNXazNQcjdiTGxyeFdFWmtrWGM2RHFVd1p4N2tzbS1jLW0ya1hVb3BWajEwbjh3ejMtM2ptXzVNQVNjYmNCQlNSOVIxNnRCYnBEZVQtLVZ3d1ZmQ3gzLTg3Z2I5VmNSa3hJMEdtbWxLdTYtWWU1eTRQTEJUYXhxakk0VTV5UnRZZHJJcWd1Q0QwTkVlQXYxdG1tTkEzaTBXQ1lydkt6bkk2Nw?oc=5
+- [2026-09-09] [05] **Sanidad pone en marcha un servicio de seguimiento 24 h para personas con riesgo de suicidio** — castellonaldia.elmundo.es · cat≈sistema_publico · 4 pts
+  https://news.google.com/rss/articles/CBMi3AFBVV95cUxPemkxcG9sQXlkOUYwdHQ2SFNHeFpLQW9KVWtaRC1jaEEzRWpwNkdOb1BPT0p0eHIwMXVlZmh0M01OOFItQ2xBRFAzTWU3QXBzeXhMcHkwaVRaLU1mVDk3T0JSbUhzdFhVS0JoOTB4cG1LOUtFR3dpaF9VWXpHZC1sSzBiNGw1S3VZdXoyZ3JKQVJGRmhGeWdIMkxYWDhMNlUxX1ZzM0o4dWhQMkdaR19uSWRDX01SWHZHd095Rk9TTUxuSDlRQ0J5YjhnaVBfT0hHZlJVSHRhQWh3ODBm?oc=5
 - [2026-09-02] [05] **Cats are the only pet linked to more mental health problems in children, study finds** — The Independent · cat≈research · 3 pts
   https://news.google.com/rss/articles/CBMikwFBVV95cUxQcl9GRnB2T2xKV1VnWkhpVU1QSktnWjk4LWlpWXZGZzg4V2dQVW5mZGF3WDZFdDRhOXJ0VC1tQjV3aVpUN0ZicTBpQlJTeGpNWFd0QUd6dlIxaTZ4bUx5WFQ5NXFFSUdxQmNmVmNhcnVHd1I3UDVxSktYaEhIM3ZEMnFlc2NEUUdfNU05QnFEcWJyUEE?oc=5
 - [2026-09-04] [01] **Los fármacos también arrastran sesgo de género: "La biodisponibilidad se ve afectada por las hormonas"** — Redacción médica - Home · cat≈research · 3 pts
@@ -127,6 +138,11 @@
   https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1psdjBkMDlfWlZPVmZQb1pIUHRUdWt5RWlZQnY1U1ljR3V4d3pTR2NZY2NnVG9OdEZveVBhOWtCc21sZTRrRGZnbWxlOWZObmRfNU9VZHFXOHd5UTFQMFFaZy1xa2s4ZDJxSnZVeG9mR21UcE1mSWE0MWRON0owbThHVzVMWi1GcGtRTDJnN192UFZENk5KZGhkUEc2WnAtUVE?oc=5
 - [2026-09-07] [05] **Mexico Joins PAHO's Regional Mental Health Survey** — Mexico Business News · cat≈research · 3 pts
   https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnZma0o1NTFfS0Q2bkgxMVAzeDZFTXpwcHJZZGFjWHozR0pwSmNuMjl5NllnOGtWTmVWY2RZUEk0ME1OZWgwY1JvMmFnVkZNYVJWbUdvZkdlU2xJV2x2dVRTQUotWFdUS3FmaXhUemhhenJId0VmWnJBTHhlTzBLWHhlcW5NZ3JWSzM3U2dxaGFxQQ?oc=5
+- [2026-09-09] [05] **SAÚDE MENTAL NO TRABALHO: NOVA REGRA FORTALECE DIREITOS DOS TRABALHADORES** — bahiaeconomica.com.br · cat≈empleador_aseguradora · 3 pts
+  https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMm9NUF84c2JILTRIX21XSzBvNjVTenhSVzhXbUxJT1BVTWNSWkozOVNWYzRocHRnODdzNWx3X2pNZEVMLW1pajdDbTdMQ2haVWQ1V1VOSWdXQ0RuOTczMDFoanNjc1VMd244UncxS3E1b0hfbTM2d2hXUlNsOHVNLVpjN19hNDZmM09OSGFWd3UwaFBPV3NhejNuZmh0dzBadjJnUWIxVklhWVUxSm5yV0VncktJVXNI?oc=5
+- [2026-09-10] [04] **<a href="https://www.fiercehealthcare.com/providers/obbbas-state-directed-payment-caps-will-trim-some-states-medicaid-spend-quarter-study" hreflang="en">OBBBA's state-directed payment caps will trim some states' Medicaid spend by a quarter: study</a>** — Fierce Healthcare · cat≈research · 3 pts
+  upcoming statutory limits on providers’ state-directed payments (sdps) are expected to trim tens of billions of dollars from states’ medicaid spending, and for 17 hard-hit states could range from 10% to 25% of their tota
+  https://www.fiercehealthcare.com/providers/obbbas-state-directed-payment-caps-will-trim-some-states-medicaid-spend-quarter-study
 
 ## PRIORIDAD C — probable ruido (solo títulos)
 - [2026-09-02] ZILIOTTO FIRMÓ EL CONTRATO PARA AMPLIAR SALUD MENTAL DEL FAVALORO-MOLAS: LA INVERSIÓN SUPERA LOS $6.300 MILLONES — Impacto Castex
@@ -148,10 +164,13 @@
 - [2026-09-08] Galicia duplica la inversión en salud mental con un plan de 177 millones hasta 2030 — Xornal21
 - [2026-09-08] La Xunta presenta el plan de salud mental de Galicia con 177 millones y 357 profesionales tras la alerta de la OMS — moncloa.com
 - [2026-09-09] <a href="https://www.fiercehealthcare.com/hospitals/hospitals-need-better-sud-care-heres-how-few-are-leading-way" hreflang="en">Hospitals need better SUD care. Team-based approaches are bringing results</a> — Fierce Healthcare
-- [2026-09-01] Ziliotto firmó contrato para iniciar la ampliación de Salud Mental del Favaloro-Molas — Maraco Digital (+2 medios más)
-- [2026-09-01] Saúde mental é política de Estado — JOTA Info
-- [2026-09-01] Salud mental adolescente: crearon un espacio de encuentro para compartir, jugar y expresarse — AG Noticias
-- [2026-09-01] Ziliotto y la obra de ampliación de Salud Mental: “El Estado no puede mirar para otro lado” — Diario Textual
+- [2026-09-09] Efemérides 9 de septiembre: Perú conmemora fechas transcendentales en la literatura, salud mental y periodismo — Infobae
+- [2026-09-10] ministerio sanidad | España registra el tercer año consecutivo de descenso en suicidios y prepara el primer Registro Estatal para anticipar alertas — https://www.consalud.es/rss
+- [2026-09-10] autonomías | El puzle autonómico de la salud mental: así actúa cada comunidad en la prevención del suicidio — https://www.consalud.es/rss
+- [2026-09-10] <a href="https://www.fiercehealthcare.com/regulatory/hhs-announces-3834m-behavioral-health-crisis-response-services-grants" hreflang="en">HHS announces $383.4M in behavioral health, crisis response services grants</a> — Fierce Healthcare
+- [2026-09-10] Sanidad prepara un nuevo sistema de vigilancia de salud mental que contará con un Registro Estatal del Suicidio — El Confidencial
+- [2026-09-10] Sanidad prepara un Registro Estatal del Suicidio y confirma el descenso de la mortalidad por tercer año consecutivo — Cadena SER
+- [2026-09-10] Las muertes por suicidio, 3.808 en 2025, suman el tercer descenso anual consecutivo — El Periódico
 - [2026-09-02] Cientistas descobrem possível benefício inesperado envolvendo semaglutida e saúde mental — Extra online (+1 medios más)
 - [2026-09-02] Buscan declarar la Emergencia en Salud Mental — delfuegonoticias.com.ar
 - [2026-09-03] La Enfermería que trata la Piel de Mariposa, ante el freno a Vyjuvek: "Las familias no pueden esperar" — Redacción médica - Home
@@ -175,6 +194,7 @@
 - [2026-09-06] El Gobierno actualizará los tiempos óptimos para las bajas por incapacidad temporal y rebajará las de salud mental — El Español
 - [2026-09-07] andalucía | El nuevo Centro de Integración y Recuperación de Salud Mental de Granada abrirá en octubre — https://www.consalud.es/rss
 - [2026-09-07] Corte de Santiago ordena igualar cobertura de salud mental y física en planes de Isapre — diarioconstitucional.cl
+- [2026-09-07] Mental Health Spain urges to accompany the grief of suicide and to recognize the emotions of those who suffer it. — Demócrata
 - [2026-09-08] pacientes | Nueva era en fibrosis quística: tratamientos dirigidos y nuevas vías para quienes aún no tienen opciones terapéuticas — https://www.consalud.es/rss
 - [2026-09-08] Tabaquismo y salud: fumar puede perjudicar la fertilidad de hombres y mujeres — Saludiario
 - [2026-09-08] Psicólogos pidieron declarar la emergencia en salud mental en Necochea — Noticias de Necochea
@@ -184,6 +204,11 @@
 - [2026-09-09] La cara menos conocida del deporte infantil: ansiedad, miedo a fallar, y presión pueden convertirlo en un problema — infosalus.com
 - [2026-09-09] Setembro Amarelo: quem cuida também precisa ser cuidado — Medicina S/A
 - [2026-09-09] Chile enfrenta una silenciosa crisis de salud mental: experto llama a hablar, escuchar y pedir ayuda a tiempo — enlalinea.cl
+- [2026-09-09] Puesto en marcha el nuevo programa Acompaña dirigido a la salud mental y prevención de autolesiones — Cadena SER
+- [2026-09-09] El Colegio de Psicología valora el nuevo plan de salud mental de Galicia: "Hay una apuesta real por la psicología clínica" — Cadena SER
+- [2026-09-09] Projeto limita a rolagem contínua de vídeos em redes sociais para proteger saúde mental — jornalatitude.com.br
+- [2026-09-10] pacientes | La importancia de detectar a tiempo la conducta suicida: “Puede ser difícil incluso para los propios profesionales” — https://www.consalud.es/rss
+- [2026-09-10] El peligroso mercado informal de la salud mental — elancasti.com.ar
 - [2026-09-03] Las consecuencias del uso masivo de GLP-1: entre la medicalización y la brecha social — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-09-04] Encontro das Comissões de Orientação, Ética e Fiscalização fortalece práticas éticas e qualificadas — Conselho Federal de Psicologia
 - [2026-09-05] Jesús San Miguel: "Hoy podemos soñar con duplicar la tasa de curación del mieloma" — DiarioMedico - Plataforma de profesionales sanitarios
@@ -191,8 +216,8 @@
 - [2026-09-07] Vuelta al cole: la salud mental se sienta en primera fila — DiarioMedico - Plataforma de profesionales sanitarios
 
 ## Estado de los feeds (hoy)
-- 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 0 · ok
-- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 1 · ok
+- 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 1 · ok
+- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 4 · ok
 - 01 ESPAÑA · https://gacetamedica.com/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
 - 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 1 · ok
 - 01 ESPAÑA · El Referente · leídos 10 · nuevos 0 · ok
@@ -201,24 +226,24 @@
 - 02 LATAM · https://www.contxto.com/en/feed/ · leídos 100 · nuevos 0 · ok
 - 02 LATAM · LatamList · leídos 10 · nuevos 0 · ok
 - 02 LATAM · https://lavca.org/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
-- 02 LATAM · Saludiario · leídos 10 · nuevos 1 · ok
+- 02 LATAM · Saludiario · leídos 10 · nuevos 0 · ok
 - 02 LATAM · iProUp.com - Últimas noticias sobre economía digital, c · leídos 6 · nuevos 0 · ok
 - 03 BRASIL · Saúde Business · leídos 10 · nuevos 0 · ok
-- 03 BRASIL · Futuro da Saúde · leídos 10 · nuevos 0 · ok
-- 03 BRASIL · Medicina S/A · leídos 10 · nuevos 2 · ok
+- 03 BRASIL · Futuro da Saúde · leídos 10 · nuevos 1 · ok
+- 03 BRASIL · Medicina S/A · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startups · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startupi · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Brazil Journal · leídos 10 · nuevos 0 · ok
-- 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 0 · ok
+- 03 BRASIL · https://site.cfp.org.br/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
 - 03 BRASIL · Portal Médico · leídos 1 · nuevos 0 · ok
 - 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 2 · ok
-- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 4 · ok
-- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 16 · ok
-- 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 4 · ok
+- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 10 · ok
+- 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 1 · ok
 - 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 2 · ok
+- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 6 · ok
 - 05 GOOGLE  · Google News · PT Portugal · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 23 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 24 · nuevos 1 · ok
 - 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 51 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 2 · ok
-- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 78 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 77 · nuevos 1 · ok

@@ -1,5 +1,294 @@
 [
  {
+  "id": "7eacf4fe1415",
+  "fecha": "2026-09-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Las muertes por suicidio se situaron en 3.808 en 2025, 145 menos que en 2024 y el tercer descenso anual consecutivo",
+  "resumen": "la ministra de sanidad, monica garcia, ha informado este jueves de que el ano pasado se produjeron 3.808 muertes por suicidio, segun las cifras provisionales, lo que supone el tercer descenso anual consecutivo de fallecimientos por esta causa, con una disminucion de 145 respecto a 2024 y de 419 en comparacion con 2022, asi como una reduccion acumulada superior al 10 por ciento.",
+  "url": "https://www.infosalus.com/actualidad/noticia-muertes-suicidio-situaron-3808-2025-145-menos-2024-tercer-descenso-anual-consecutivo-20260910114726.html",
+  "clave": "2024 2025 anual consecutivo descenso menos muertes situaron",
+  "capturado": "2026-09-10",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ae7ef91f19f2",
+  "fecha": "2026-09-10",
+  "carpeta": "03 BRASIL",
+  "feed": "Futuro da Saúde",
+  "medio": "Futuro da Saúde",
+  "titulo": "Sem diretriz, saúde suplementar busca saídas para regular e qualificar atendimento a pessoas com autismo",
+  "resumen": "autismo segue como desafio das operadoras, que buscam se mobilizar para que ans crie diretriz de utilizacao the post sem diretriz, saude suplementar busca saidas para regular e qualificar atendimento a pessoas com autismo appeared first on futuro da saude .",
+  "url": "https://futurodasaude.com.br/autismo-sem-diretriz-saude-suplementar/",
+  "clave": "atendimento autismo busca diretriz pessoas qualificar regular saidas",
+  "capturado": "2026-09-10",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2c0d1d8473ec",
+  "fecha": "2026-09-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Sanidad creará un nuevo sistema de vigilancia de salud mental con un Registro Estatal del Suicidio",
+  "resumen": "el proyecto busca unificar datos de casos y seguimientos para prevenir y mejorar la respuesta",
+  "url": "https://www.redaccionmedica.com/politica/20260910/sanidad-creara-un-nuevo-sistema-de-vigilancia-salud-mental-con-registro-estatal-del-suicidio/350503_0.html",
+  "clave": "creara estatal nuevo registro sanidad sistema suicidio vigilancia",
+  "capturado": "2026-09-10",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0673d64891a4",
+  "fecha": "2026-09-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | La salud mental en la infancia y su impacto: el 70 % de los trastornos en edad adulta tienen un origen anterior",
+  "resumen": "pacientes: la salud mental en la infancia y su impacto: el 70 % de los trastornos en edad adulta tienen un origen anterior",
+  "url": "https://www.consalud.es/pacientes/alertas-ante-el-aumento-de-los-problemas-de-salud-mental-en-ninos-y-adolescentes.html",
+  "clave": "adulta anterior edad impacto infancia origen pacientes tienen",
+  "capturado": "2026-09-10",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "284f3935c85b",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infobae",
+  "titulo": "Corte ordena protocolo para hospitalización involuntaria en casos de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjNzWlFTN21Za1lIUWpscVdId2J4M2NqQnBTUGZrWThsS3JFc3hYdV81VjI5Y0xFVXNGZ29jdmE3MGl6SnJoWnA1MkxnWGJZYklIR2dhekpXUmNGNVVkaE1oY1JpcmJsTlVXRTF2ZDIyM3NFMGNKLTlScmNvYW9OVE45b1Vxa3V6a1hjWXpKRndLU0VBeHpnVnI2N1VXT3ZoTnVkeTRTVTJGX1g5ZVN3cURoQmlTTTI4WVRtZTY4cmdWNEND0gHfAUFVX3lxTE9sZGFpNG1rTDNaTU52dDUzcm5oSDNEV3A2R29VY2xac0lpQ2U1b1NsaUhkVmRHaXQxVWtPcUl4Q0J2US0zUDNsZklVTDRHV3ZjMk15QndKU0x4WFVFeWgtYXZJRXEzRVM2cVhqZ21NNlVRS1ZVbjB3c0JTa3o4YlhCOEZpdVcyMUdiUl9ya3lTcXVHdWlFRlFCaHBycHdRSVJBN2dTMUdlSWhpcEpma0NzUVdsdG1haEZENE5JZjA4Ukt2Xy01RnFyeGh2TXRfZkloNEkwUlhjVnhrTktBQTg?oc=5",
+  "clave": "casos corte hospitalizacion involuntaria ordena protocolo",
+  "capturado": "2026-09-10",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4028c0b97a8f",
+  "fecha": "2026-09-10",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/providers/obbbas-state-directed-payment-caps-will-trim-some-states-medicaid-spend-quarter-study\" hreflang=\"en\">OBBBA's state-directed payment caps will trim some states' Medicaid spend by a quarter: study</a>",
+  "resumen": "upcoming statutory limits on providers’ state-directed payments (sdps) are expected to trim tens of billions of dollars from states’ medicaid spending, and for 17 hard-hit states could range from 10% to 25% of their total annual medicaid spending.",
+  "url": "https://www.fiercehealthcare.com/providers/obbbas-state-directed-payment-caps-will-trim-some-states-medicaid-spend-quarter-study",
+  "clave": "caps directed medicaid obbba payment quarter some spend",
+  "capturado": "2026-09-10",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "caps "
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f0fac80a0df9",
+  "fecha": "2026-09-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "ministerio sanidad | España registra el tercer año consecutivo de descenso en suicidios y prepara el primer Registro Estatal para anticipar alertas",
+  "resumen": "ministerio sanidad: espana registra el tercer ano consecutivo de descenso en suicidios y prepara el primer registro estatal para anticipar alertas",
+  "url": "https://www.consalud.es/politica/ministerio-sanidad/espana-registra-el-tercer-ano-consecutivo-de-descenso-en-suicidios-y-prepara-el-primer-registro-estatal-para-anticipar-alertas.html",
+  "clave": "alertas anticipar consecutivo descenso espana estatal ministerio prepara",
+  "capturado": "2026-09-10",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f62518bd3791",
+  "fecha": "2026-09-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "autonomías | El puzle autonómico de la salud mental: así actúa cada comunidad en la prevención del suicidio",
+  "resumen": "autonomias: el puzle autonomico de la salud mental: asi actua cada comunidad en la prevencion del suicidio",
+  "url": "https://www.consalud.es/autonomias/el-puzle-autonomico-de-la-salud-mental-asi-afronta-cada-comunidad-la-prevencion-del-suicidio.html",
+  "clave": "actua autonomias autonomico cada comunidad prevencion puzle suicidio",
+  "capturado": "2026-09-10",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c87436f1ffe2",
+  "fecha": "2026-09-10",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-announces-3834m-behavioral-health-crisis-response-services-grants\" hreflang=\"en\">HHS announces $383.4M in behavioral health, crisis response services grants</a>",
+  "resumen": "of the awards, $252 million will support the 988 suicide and crisis lifeline, suicide prevention and mobile crisis services.",
+  "url": "https://www.fiercehealthcare.com/regulatory/hhs-announces-3834m-behavioral-health-crisis-response-services-grants",
+  "clave": "announces behavioral crisis grants response services",
+  "capturado": "2026-09-10",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "behavioral health",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "45ecae5a9841",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Confidencial",
+  "titulo": "Sanidad prepara un nuevo sistema de vigilancia de salud mental que contará con un Registro Estatal del Suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOElCQXNkVkFCTi1zRGpIaWdBQ0FobmxmOWs1SzRoaVBndDhDLUItN2k2aHVHWE5aZ0VRbDlwOWVRbW9WcmY5YUU0NFJzNDdrT0NXbmM0MTF3ZUhrV3NHVVBPd0FrNS02b2F2dDVFbXVLM19jd3BKckJRSnc4TnhzUUhqQVZRYlNUTlFWenlwc1hSQ01WRjZSV0ZOeGtKUnltam1yNjFPbG0?oc=5",
+  "clave": "contara estatal nuevo prepara registro sanidad sistema suicidio",
+  "capturado": "2026-09-10",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e31a56535644",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Cadena SER",
+  "titulo": "Sanidad prepara un Registro Estatal del Suicidio y confirma el descenso de la mortalidad por tercer año consecutivo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQX1Rydy1NWm1RN1FfVGkyZW1fQ3BjZGUxbUExUkJZX29paVpTdDQxRGJFQWRvbmJkSkY5ZXBISEx4UEh4X2ZzQy1EN2pNTV9DaS1PNWJrMkduUkI2dHp0NFY0UGZjVHpzeXV4VU5NNGpOZm05bVlPVGg2Y3hpYWk1SklKNnFRZW9ldURkclpfUG40ZVAzanNiRnRxemRVV01FTE9yeFBIV0lVZmhpclpzcmM5QzJsTHo5UllwcWZuRWQ3MXBJWmpsNjF2VlNGc3RleFFEOU9TV2J2X3lnWTl0Nmt3VzBlMnJmSklKYi1QRTRZX3h3V3p5VTd6amZzd9IBkgJBVV95cUxOMVB1REFHbXcteXl1V1FNQzRsVzRZdmdXUXVVR1VDMV9qSGl3RXhLRk8xRkMwWURDOUdieV94dHptMEk5Mm1KdFZsUi1KZVo1MS0xLThaRFhhVGJZSEdFQ1BLNjN0R1BXZE9mSUxwZkVQVjA2aTAtc1J5ZlI2bi1mUmlmN3BGOFdzZ1JHNEdPUnNId3JBMGFXUEdfQVgxSmloNS0yaGN2LUtsTURrS0RxaG5IVXZHb3UzaTJSSDF1UmRKTVF3dTdCaEY1clFzNkFnLW9tZFNGZ1h6Rk1DZW9fWExVSkZBTDJYOUdlQXB3SGNjQU1fdjRWUzRfMkpBQThYVkZaUGVSdzB2NTBaVnVpRUhR?oc=5",
+  "clave": "confirma consecutivo descenso estatal mortalidad prepara registro sanidad",
+  "capturado": "2026-09-10",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c6d7ce9867b4",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Periódico",
+  "titulo": "Las muertes por suicidio, 3.808 en 2025, suman el tercer descenso anual consecutivo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFg3cm5kbzdQa3ZGZHFWY2hKSmxZUjNXNnhpTXY4TFNxZDhMYnBVaDExMHEwbmhha2Q2RHJEOWF4ZUgyRUJaN1d3cldzb2NXUkhOMTV6YXBZVnJ1QXRiS1BRNG9JQ3lXM09iWU96a0E4TEJycXNnc253T2Q2UWwwaDdXdE1SYVEwbUJjQmZxV1B2Qm9FdEJqYkk2bTN6UGY3VlNDSnNlMEZkTEhKU1k4WjBrVGTSAbQBQVVfeXFMUG9RaEZ0Wnpwcm9fdlVYVnBSV283V0ZPYkJoYXRIbUlhTFJFN3dpTHU5djM2Qjl4anJYRUEybE9qX0RHaUk2dllTRGtqNHJQRUN2bWV3aldOQjlBUWM1WUhSM25OdWxYXzVUMnBsdG1KQjJmM1V1VTBSZnJueUNKOUxoSGZuOVMwYXpyLS1Tdzg5djJxZVpzU3huY2tBRHhmdlNhQlRqSDZ5ZUdzTVFQaXQ3TTVq?oc=5",
+  "clave": "2025 anual consecutivo descenso muertes suicidio suman tercer",
+  "capturado": "2026-09-10",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "31c62744c2b2",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario de León",
+  "titulo": "Las muertes por suicidio se situaron en 3.808 en 2025, 145 menos que en 2024 y el tercer descenso anual consecutivo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS3ZWaU13VnFNSU5ibFNUTnhOWFFsSWY3bnVVT25YdWVLWklkc1NJM3VVY2g1ekpOTzMyeG9CNmYwaVM4T194UlJzRC1EYWFHOFJTWS1ZSGg3ajNZandJUHNYZjQwSU9iSm1FNWoteVZSWG9PWUVFeFRud2ZRNnpZWWU3UzI0RFdVeFNNV2MzZWw5VHJOMUlmSWFKTE0yMFJXOEswUmNkUTVSSURvX3d6d2l2anBYSi1XZXI2SFBnT2FDTlExNl84YUNCVllQa2xrRkVORXljVmZFZ9IB3wFBVV95cUxPUmt1YldnMEZsMTJwMHllMWktU0Nmb1Q4NkdZYkdGZVh6SVJXamRBN1NxVWtZZ2lHSDFTTDVpeFZmUDByVk8tQnRZSTZxeHZyR29rN2cyNUU4SWpMZGZ4MGIwYTh2UGZpTWRGa25BNmVzaWJtU3JKNFY2TXJpUG1PY3ktRHlqQjBNQTQxbXZYYkJZem5Qc1o2MTdKZE5yNnNVQmpNUWU2dFlId1JXQWRnQ2ZFdWNieHpHajNyMWhJSEgxaGNXZEJXdnpRY1dNOXJwN3E0YXp4bnpwRzZEMmxF?oc=5",
+  "clave": "2024 2025 anual consecutivo descenso menos muertes situaron",
+  "capturado": "2026-09-10",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "671c55cb379a",
+  "fecha": "2026-09-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | La importancia de detectar a tiempo la conducta suicida: “Puede ser difícil incluso para los propios profesionales”",
+  "resumen": "pacientes: la importancia de detectar a tiempo la conducta suicida: “puede ser dificil incluso para los propios profesionales”",
+  "url": "https://www.consalud.es/pacientes/identificar-a-tiempo-la-conducta-suicida-puede-ser-dificil-de-detectar-incluso-para-los-propios-profesionales.html",
+  "clave": "conducta detectar dificil importancia incluso pacientes profesionales propios",
+  "capturado": "2026-09-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7611123d08f8",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "elancasti.com.ar",
+  "titulo": "El peligroso mercado informal de la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzJQQ2YwVktzeUx1bUthUmhNR3FsY2N1WlBMMlFGb2pEaDNIcjVLLVdoUHRlanhzTlBmaENueHlfajIxWXFvaldJYmhWQ0VCVHJOSXBTdlN5QXpmSndWenA2dTVrbjhnOUl6ckM3SkFSd1o1Nl9pMGJoOVBXWFE0QkFyUmE5aTNmam9nekJQOU1uaEdF0gGaAUFVX3lxTE1TUHVPQ1RuelFqa2FPZDRBM0NYdU9CREpDMUpEcjVzZ3VHMWlxVWxIRnB4TXFwcFE5a19iaU50WmlCQ2pFRmZPSkRhQ0c1TzJNX1Q1eVRmQlJHNDZOTU14TjJOLUsyY1FaRk1jdURUT2s0T21JQUg2ajVDbzVDVThzSDlnSEJSZG1xVi0xZ292Vjk3MGJzUkpocnc?oc=5",
+  "clave": "informal mercado peligroso",
+  "capturado": "2026-09-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "c9574eba6d88",
   "fecha": "2026-09-09",
   "carpeta": "03 BRASIL",
@@ -115,6 +404,44 @@
   "ruido": []
  },
  {
+  "id": "3f2260fe657c",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "castellonaldia.elmundo.es",
+  "titulo": "Sanidad pone en marcha un servicio de seguimiento 24 h para personas con riesgo de suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPemkxcG9sQXlkOUYwdHQ2SFNHeFpLQW9KVWtaRC1jaEEzRWpwNkdOb1BPT0p0eHIwMXVlZmh0M01OOFItQ2xBRFAzTWU3QXBzeXhMcHkwaVRaLU1mVDk3T0JSbUhzdFhVS0JoOTB4cG1LOUtFR3dpaF9VWXpHZC1sSzBiNGw1S3VZdXoyZ3JKQVJGRmhGeWdIMkxYWDhMNlUxX1ZzM0o4dWhQMkdaR19uSWRDX01SWHZHd095Rk9TTUxuSDlRQ0J5YjhnaVBfT0hHZlJVSHRhQWh3ODBm?oc=5",
+  "clave": "marcha personas pone riesgo sanidad seguimiento servicio suicidio",
+  "capturado": "2026-09-10",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "68c3a6b9f361",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "bahiaeconomica.com.br",
+  "titulo": "SAÚDE MENTAL NO TRABALHO: NOVA REGRA FORTALECE DIREITOS DOS TRABALHADORES",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMm9NUF84c2JILTRIX21XSzBvNjVTenhSVzhXbUxJT1BVTWNSWkozOVNWYzRocHRnODdzNWx3X2pNZEVMLW1pajdDbTdMQ2haVWQ1V1VOSWdXQ0RuOTczMDFoanNjc1VMd244UncxS3E1b0hfbTM2d2hXUlNsOHVNLVpjN19hNDZmM09OSGFWd3UwaFBPV3NhejNuZmh0dzBadjJnUWIxVklhWVUxSm5yV0VncktJVXNI?oc=5",
+  "clave": "direitos fortalece nova regra trabalhadores trabalho",
+  "capturado": "2026-09-10",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "a11931e889fe",
   "fecha": "2026-09-09",
   "carpeta": "04 GLOBAL (solo con ángulo local)",
@@ -130,6 +457,25 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "addiction"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "94918b2aed6a",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infobae",
+  "titulo": "Efemérides 9 de septiembre: Perú conmemora fechas transcendentales en la literatura, salud mental y periodismo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaXBlcjRMVzhZaldBUTlDRkhxeWRsY21uZDFBVXQwbFlaSUNqdmFUd25RY1VZd2dWRW9QcHVQcEdiaVc1RWpIMGY4LXZ4S2Q4TkROOWxjVlV6ajZ1ZTF1Qmw3cDRYaUxuOWd4bl8tSnp2UUpudlJrUWYtSGNBbGpCSmt6ZFl4Mk0yS1lVMWJzcldUWWpMWnFDb0pYaE1lZlo4WlkzTGYwUWdFTVcxTUtERE1WME12Y25lZTQ5STRqa0RzcVlHbTZ3NkN5STNUOWcyOFpKQldtUGlFdFJ3LVNiVG5ia9IB_gFBVV95cUxORXlXSDh1aXVNenQ3bGxiMjg1RnhnS1N0LXNLdWpZQWgxeVhORGk2bDVjZTV6SUJXN3ZsdDZfbklzc1ZUb0RhRVFwOWtBY0ZrM2dTek52djllbHdMSk52c19VRWtaa3ZPcU52MmpOYnhIRXhKeWNxcVdPYk51RmViSmhZc1Jzb194SzRFT3E4Q3RIMU5BVERqTnV0NU5MMFpxT2VfLTNUVl9FRl9fUlFQUnRNTDlvZ3pxZGVEQUI4VTF2TEtEWi1HOFFNUjllMlI1enNhLV9fVU5BNDllcWNRVGY2YjdBd2tFbk8waEN4UGZsX3AtRWRac0JlRVlGUQ?oc=5",
+  "clave": "conmemora efemerides fechas literatura periodismo peru septiembre transcendentales",
+  "capturado": "2026-09-10",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -209,6 +555,65 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5a2acfd10db9",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Cadena SER",
+  "titulo": "Puesto en marcha el nuevo programa Acompaña dirigido a la salud mental y prevención de autolesiones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZ01GbDUxTWR4dU84aWZpUnpMX1ptNmpHZk9KOTYyUFVUUlRiVVgwWWI4MUVSX1ZYZHJUc3RqaGQzU3lnQmhydUFBMWZWX2dkZXlMRktlRzUyWnJjbEdZTXYwN3ZFa0pyeVJKLW5kVFVOYWQwNUhXYXdLUGNURVRpQW5CQ3BkaGhJM0sxOEdNZGkxWkMtdUpXLWllYjBaWGt0NXNWVHN0Zk11UVhubEZPcUl5TGRFVGJHcURFRGtnck9qZm9JYzBKOEpHWVFCb0JOTTdKUXh2bzJUS2wxY0kwNDY2S3M1R1gtRHRYTzZCMGlINVRKSkpRbWszN2tvQdIBkgJBVV95cUxPYWxTZExEX0tsQ2puOUtNUXJ5OFhQQ0g0V0xkbWZucWxfQnNCa3gxZF85R0p4dy1aNUNyazZZMThDekNRX3NjTldsYk1DMUJzQkYxZ09ERmRMZERWd0otRGxpaXFEX29zNFp0N0pqQmk4bTFZZ240Z2xCVVBCZnZuWkVtaXpIaXdudnMxeXJSV1FDa3cxeE9UUWlUaWZUMVlKV0RSUzVnQmF4YTl3T09zUjhVRHNqSkwtTGdOUFpvZjFTQ0lpRU1jUTJrUWVza3ZKNlRsbmtkdFhVZmx6Q0lmS0k5cFZIS040SEZmWXNmX3FCQ1dUaEl0MEI4VllMUDJ0cDJTcGxaZnZCblQxQzQtb093?oc=5",
+  "clave": "acompana autolesiones dirigido marcha nuevo prevencion programa puesto",
+  "capturado": "2026-09-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "autolesi"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d6d1a2340cc3",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Cadena SER",
+  "titulo": "El Colegio de Psicología valora el nuevo plan de salud mental de Galicia: \"Hay una apuesta real por la psicología clínica\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWFlZOGFxLUxRMDR3N3EyRVphOTFYZ1ZKdk5Ydzl3Z0xkZHc1WkpTYzduQWNoeHZ1NzRvN01HMGpicVI3dG5XajZmVUJmY3JETzZuTTVDNllBMF9jRXczYXRMSnpEeGh3eUxRalNqOTlXWW10MUNTdWRrUW1RV1FwcUp2b0doRE9IRGV3SHVmRGFyMGI3OEcxNXJ6aU9WeHU3bDR5S0V4eE12bC1laXkyd0ZlbDhNa3NBRDFCaVdKMzMyY2NYMU83TXFnMWl6d3ItbnBPcUZWYWlUY2ZOZ1NNRFREQmRGVzhOM3FTbHExVk54Y0VWZS1YeHh1R3dpTzFyUzVwS9IBmAJBVV95cUxNSlF0RjN3NS11b0EwV2FQeXNQU0hvTEtRODY1MDBnZ1lNeExiSUNSUk9xTm5ha2RTS3o4UGQ4ajRTUUpqYTBNb2dXSG56bjNzYTFJWGtJMGlCUnNIa1V4UEp1UVRicG83Z2xEVW5XT3lDUkhpX0twbTZkMXhPRXhobGZUajlfaEw0VVlTMUhUTUx3ajNlQV9SNVdzZnEyS19nWUZjY2drcVFjcjRVelRmeHNrN3JyV0N5amxCMUNHYy03WnF1OFJ3cWhhaXBrTTF1ZWdkVzNQc0hqUmdEdy0zVnc3TmVVOE12TG54NWRJbWd2S2ZZaUFsNUxfVHdVMjlyZnNsZFdrQ3hBUUFRZGhmdER5Ym8yOV9D?oc=5",
+  "clave": "apuesta clinica colegio galicia nuevo plan psicologia real",
+  "capturado": "2026-09-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "cf955b6de3d7",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "jornalatitude.com.br",
+  "titulo": "Projeto limita a rolagem contínua de vídeos em redes sociais para proteger saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcU01cl80QllPRUhxTTVPeFRVNjZoS1ZqZ2lBNlFFQ0JlcTBpNjkzMHNDYlRYanVkU1l1b3U4al9sZHZIZ0J1YTN2Tk02S2s1bkxGeFVGOGhaUXFnV1M1cWQzQlhQb1djZEsxSmxmUEJFenFwTG1iaFJ6dDlZZDBCUS1BZmc0RHZrZFowcDBVWVFFT2VrZ0t1N3J1RUsyMnNkTkRmbVBKa0luVWp6WkJHcExmbHQ1a3U1andwSlEtSWVuQkFBR2FB?oc=5",
+  "clave": "continua limita projeto proteger redes rolagem sociais videos",
+  "capturado": "2026-09-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -356,6 +761,25 @@
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDlud1BQaGxSTldxcmV1RHcxbnFJMXMzbzJtX3d5ZmRxSVBlMUlXMjBXQnFUM2pkZklCRWcyenhYMk9OOGRveFdSdHgxM09uVEstamg4dlhyNndDcU9xS2pZS0VIRC01UVhIUm9IaElleHlaSnpvYnlMVU1pQVh4bFJIYlJIVTFEWGY4d3lsMjlOVE1p?oc=5",
   "clave": "aval debate internaciones reforma senado",
   "capturado": "2026-09-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8c7d8c937f8f",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario El Independiente",
+  "titulo": "Ratifican la defensa de la Ley de Salud Mental frente a la reforma impulsada por Nación",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOLVZ1WEh6ZmRTTVBQZHdIckNBNEhTUmJUWmhPNzJfYW1aV3ptTVdtVEk3RVBRbHNtZ2tJS3MyRi1vVEZXalQzYnRKdXVDWTlBZmlyaUpCZ0ZSUGpkWU9Eb0JVNVoyQQ?oc=5",
+  "clave": "defensa frente impulsada nacion ratifican reforma",
+  "capturado": "2026-09-10",
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
@@ -802,6 +1226,26 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f17f8fce257d",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Demócrata",
+  "titulo": "Mental Health Spain urges to accompany the grief of suicide and to recognize the emotions of those who suffer it.",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMDZMWUZackxDdWxlSzlUTXBGcHdRT1NwODQtNXM1X3BXVjROT19PWUNhaDMtaVY5QkZXbktkeTZXM2Jnd3ZNYjZEOTJYVmRhTmtHVGJPVy04Z0dwblQwcFFBVS1WRWJZc1dNZFEzN1g4RTlUUWpQQ0N3OWxVSDlwMFl2MXkxem9WQVA4MG9kTEFlZ19meTlTUHpscUp1d25BelB3d29JOXBUdEw4NU1kM3hhR3g0TnhXQmNDSjBLWUVaemFraUNlSFFmbUtwQkxaRDNaWFh5TzdzWWV2bWp0UzVR0gHnAUFVX3lxTE5XMmFXcnY1Mi1WR0dUN1lCN0M1b3FVNHZGdGQ1Xy13NkcwU0FyWXRmRWh6ZkhjWjVsQ3hoY3FScllzYWM0Qk9HT0kwUnlwS3c5VFV3QXhBbnpQQS1VTEY5cHpXcVBFSG1jamQ3TW9iZktWUkdPaGhiQk1qcXAwel8tSXFNQlRhb2NGbjRiV0N2Q3NOUTB1VzNvOTZJQ0ZvNk9qLXoxczNJSjhhYnVPaWdtZklmMWdrOTZmZDE1bnVITjlqT0I0QUdyTHVoS2lIUDVqWVJBejNXcUZVWGRJSGJBSnBlNU1wRQ?oc=5",
+  "clave": "accompany emotions grief recognize spain suffer suicide those",
+  "capturado": "2026-09-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health",
+   "suicid"
   ],
   "ruido": []
  },
@@ -3182,6 +3626,26 @@
   "ruido": []
  },
  {
+  "id": "4d81525fd651",
+  "fecha": "2026-08-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Gazeta Digital",
+  "titulo": "Saúde mental e segurança do trabalhador ganham destaque com aplicação da NR-1",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYU95TDdnZlBNVTVHVUdLMjdUN2ZHelZ4MGtVVVlSaUl0dGFES1JpamZqWWF6clZBZC0yUVh1N1BQNW9mVUNLcUgyOXdwWWUxUkF2YVhTWEdkRFRsWmZ1aEpYZ2RtcjVaTkdWVml5UWVNV0dBOHIxbk5yTjV5UzZxRWxXMy1rc0tMOXdVTlpDQVJ0YldxUnlHOTBXVFVyUm04dUpnTXV2WnZOaUJsc0tacDg2a3preUpCN3ozVmxnN3k5dG1Pd3QzMWY0akhQQWs?oc=5",
+  "clave": "aplicacao destaque ganham seguranca trabalhador",
+  "capturado": "2026-09-10",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
   "id": "2f034f08d03f",
   "fecha": "2026-08-20",
   "carpeta": "05 GOOGLE NEWS",
@@ -3249,6 +3713,25 @@
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdUhHRzd4M2ZyQjlZaTR1ZGxHYUU4N3VzTkFUMFJaYjRnc1hicl9ncWpmck9DTzZ5ckdzQ2JMQzhjaFJYeW9xWEs0dnJLNVFvN2gwY0JLVEJON2M0bEFTTWFsSGx5OUt6NzhJVHRVakNkZ2JSQVdYQ2RkZ3hURWxoaXpfb3RMVkF1ck9DMXZmdUZETXNsSVNUT1hwT29QclpMYURaelgzOFJZMzVtU3FMMmNhYlp5MFhiVldZUFVybXBJZHBLNFlRU0l3?oc=5",
   "clave": "confirma descumprem empresas multas regras suspensao",
   "capturado": "2026-09-07",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f193b481ddfd",
+  "fecha": "2026-08-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Jornal do Comércio",
+  "titulo": "STF confirma suspensão de multas para empresas que descumprem regras de saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQXdVV2VWd1ZxZ2t1QzVDeV9pLU1wX05KYUQwRkltTlJUbklZdmVsczh3WWpQSVYybndSanRKelJYcmE4SjJRZl9rTXJSU2RUbTNEX1lGYWFfdVFkQWdRQVR3U1hKUklsaVVkbmxyTHYtYWRUWlM0OFVlUW01WmpCY2d5X2I5WnQ3Nks2NlpXUDVFUmF6ZXFmaDZ4d21RUkpjRWJETkQ3LTZmTzRobDNmSUdvcG9yVnMtVWFadXZvaHpOdXlweU1Ub0lHZUlFNHE0NTdGZkR0aW1nX3BCVU5LRA?oc=5",
+  "clave": "confirma descumprem empresas multas regras suspensao",
+  "capturado": "2026-09-10",
   "puntos": 7,
   "prioridad": "A",
   "categoria_auto": "regulacion",
@@ -4062,6 +4545,27 @@
   ]
  },
  {
+  "id": "b9e62c7e4f1c",
+  "fecha": "2026-08-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Infobae",
+  "titulo": "Selena Gomez y su madre son demandadas por fraude en su empresa de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHRVUGJsWnRaWGlaZFJIMFpRYUxKUU1PTTI0X3hhYXFoQWdCaTJmcHE3eDFuYzE3czQ2Z2dpYWNhMWhiaTJ4d1lQSGRwcWhHbVdYS2lMVHZxeGZZc1pmQTc4cGxZcnc0bXhtdzBNZXk2WTBXZmdfdkFkWEZLVkZOOHc5cUdqWFZHYWwtYUR1NTBDbndFd0MxUWdob3ZIaW9pWGhDS3huWUVVWG5VQTkzOVQ5dkxFbGw0UUZfdC1WSm1SV1B4Sk1pYmtTQdIB5gFBVV95cUxPdnlCNFpHTEI4cTU3dnZXOWs5c3hVVzFsdHR0Z1ZNQS11SmJGbHlMR09hdWdWN0VrZ21YS2hhVVpQT01xT3BlX202Rl9oY1FYQjB1bU5oY3pSQVR0MExoVGdiNVEyNFEzSUlLZXQ3ZWVzSlI3RXNkWEdkRmVxcWZTQXZPaHhCWWFGR3JnQmloLUFOVTcyc09MS0wtSS1sbzJ0a2xBdHk1cllieUc2M1FNSkt0YkE3Z0xQSEZkdm5fWmRjYzJ4cHA4bGZqV1FoLWNXcE85dTByeFRiS2hRaDdxZVJrUUM3QQ?oc=5",
+  "clave": "demandadas empresa fraude gomez madre selena",
+  "capturado": "2026-09-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "selena gomez"
+  ]
+ },
+ {
   "id": "7576d80c2cc7",
   "fecha": "2026-08-14",
   "carpeta": "05 GOOGLE NEWS",
@@ -4099,6 +4603,25 @@
   "categoria_auto": "empleador_aseguradora",
   "topic": [
    "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7c6829989fd5",
+  "fecha": "2026-08-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Portal da Câmara dos Deputados",
+  "titulo": "Comissão aprova capacitação em saúde mental no SUS",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWnlsZDRMY2lPaWJtel9ubHdLakFQQmVJbzZhblJubFpGM2UyMFl5cFBSd0trcG80VzZVWlBsMloyV3NWLWZMeUJ4V0RyLXYyaThmNGw5NGVwejVOaU9fSk1HdW93dGFRN01UNjlqeUFSYWp2ZFR4UjFHdS1YUzF5RE9IUHZuUnhQa1RWZlRlRjg5M0ZJa3M2aw?oc=5",
+  "clave": "aprova capacitacao comissao",
+  "capturado": "2026-09-10",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -4577,6 +5100,25 @@
   "ruido": []
  },
  {
+  "id": "e917a7dac56b",
+  "fecha": "2026-08-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "G1",
+  "titulo": "Vídeo: Nova regra amplia fiscalização sobre saúde mental no trabalho | Bom Dia PE",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcjRCSGs2eG40cnZSUDVpY1c0eVBqODk3QWNIMjUwUExyald2Zi1wWTdvamt4MV9GTFZwcWU4ZkhqUVE3Umt3VEw5Z2tnOXF1b2NlMkU1WDM0QVg4S204eHVVMHM1Smx3TGlHNGFoWGJYVVdzaU9OMG9feXRFdW1hbW5wdk42MWpFNEozS09hMnZyUDY4NGVvanBvZWxYSkd4OHZ1QjJ5cGJmZEZMdjR2dGpiYkJ5ZTF3Mm1NeW1GNVZsa19BV1pv?oc=5",
+  "clave": "amplia fiscalizacao nova regra trabalho video",
+  "capturado": "2026-09-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "068f08dc1c3c",
   "fecha": "2026-08-05",
   "carpeta": "05 GOOGLE NEWS",
@@ -4707,6 +5249,25 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "417692875e1e",
+  "fecha": "2026-08-01",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "JOTA Info",
+  "titulo": "A coparticipação nas internações psiquiátricas na saúde suplementar",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkFFeWxJd2NJYXRWSDdrSy1femRrWEM4aXJmdm41Nm53SjJ3Y1JpdkdrbUdHdVo1Smhrb0d4a190b1NSM0MzVlNKU3BSMXpKd05jT1dDbHdHbi1GTU52STJwejRHWlFaZWVlc0xjMXUtcDQ4VnZubE5JQ2tXVm4tbC1wSnJTb3AxR2dwcV9PaEpBNEZyN3AwaHRLQ0Fwek9BVnJGbi1TdzlfQ1VMR1ZCaGs3RS1SQQ?oc=5",
+  "clave": "coparticipacao internacoes psiquiatricas suplementar",
+  "capturado": "2026-09-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psiquiatr"
   ],
   "ruido": []
  },
@@ -5670,6 +6231,25 @@
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2b4a1d050de9",
+  "fecha": "2026-07-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals (edición US, hl=en)",
+  "medio": "Crónica Balear",
+  "titulo": "Suman ocho nuevas plazas de vivienda supervisada para salud mental en Manacor",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQzVKU0hnMVhhbE1OTlVGM2l5T2FEM3FkUndQbm1ycmFNYWFaVFRjY3F0WmJLUjZjZmFQeWdvakpYZ3JCNWIzSlpVdWFTdjNSd0FDVU5OREppRzFCd3pneUhERHhyNWJ5bzl0VUFCQ3l4RzFDZU5OcU95R1VfT1hFaFJiRG05NlVNTVQycVNfZTFFd2JidUtsajZiT0NjbVZEb0w0c2tmZkJVYk8tR19GZ1cteDBIMlRLUVVab3RBWUdtWm8xaDdqREhGNDlDTUU2Sk9xbFkxUnpHRlpwSDIwOXVmTndfQQ?oc=5",
+  "clave": "manacor nuevas ocho plazas suman supervisada vivienda",
+  "capturado": "2026-09-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
   "topic": [
    "salud mental"
   ],
@@ -7064,103 +7644,6 @@
   "categoria_auto": "empleador_aseguradora",
   "topic": [
    "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "091c846a76c0",
-  "fecha": "2026-06-11",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "grupochiru.com",
-  "titulo": "HST inaugura nova unidade de saúde mental com 15 leitos e investimento de R$ 1,2 milhão",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGVOam1zVnU0amtfajVoczV0aGNWUjF0LXpISV9WdXVCS0FKQ1d0UVVvUlAtb243WFk2d1pRSF9PRDRJdTNPNFIwaHVTcWYtaXJ2VU1fU2ZtR2JoOUZSaFRxLVZ6aXZQaXNFcW14VGpFbV9BcEpMS1gtUjZjREFfV3B1ZkVrWHIza2k1UXJKSGZNaXJtaV8ydXEyTDJrRTN6bE1OR0JobFNqSmhveHF0QTFiRjh1NXlYOWp6dlZhMA?oc=5",
-  "clave": "inaugura investimento leitos milhao nova unidade",
-  "capturado": "2026-09-04",
-  "puntos": 8,
-  "prioridad": "A",
-  "categoria_auto": "deal",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "330d710972ce",
-  "fecha": "2026-06-11",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "smabc.org.br",
-  "titulo": "NR-1: Saiba o que muda para o trabalhador com nova regra sobre saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXQ5c0JLMEp3dVR1aVQ4RTlwaFRkNWVvM2dMaktxRGo2M283dkd3MTVSVWNuZmw5d0FaYjZkTzNpaHdhVTlkODkyWWpLZTdMbURmQi1hb3l3VmV2eGZMYmN0SzBlZ3BJeFdBZW9DdnZMUlVzSl9FZW9LbzZKd0NlRkM2RFVTcGtVQTM2Xzczc21VXzBaZVVSQ0M3dHA?oc=5",
-  "clave": "muda nova regra saiba trabalhador",
-  "capturado": "2026-09-04",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "e0c9bb7ff3b1",
-  "fecha": "2026-06-11",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Prefeitura de Tubarão",
-  "titulo": "Prefeitura lança serviço de Telepsicologia para ampliar atendimento em saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQME1zSUQwTjdOeWx6TTQ3aGw3dV81VUV6YXJWWGZWalhLdTJZTGtWYy1UNmtuTzJ2ZUlKNWM0TUE0eFVXZDV0NVQ1WDZtQ0c5bW9PRE9wVnVHY1lUOFpwdFVaMEFRbGppLTJLRUZyMEpUUVJTTkF5QjRGUkh0Z1g5VjhhTFpuYWR4Y1pLblpkT1lzY2U1a2pISjY4YU1Hamh2ZmhWdVVxaXA3a0ZIUDVF?oc=5",
-  "clave": "ampliar atendimento lanca prefeitura servico telepsicologia",
-  "capturado": "2026-09-07",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental",
-   "telepsicolog"
-  ],
-  "ruido": []
- },
- {
-  "id": "ed419f402967",
-  "fecha": "2026-06-11",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Gaceta Médica",
-  "titulo": "Profunda reestructuración en la sanidad murciana: nuevos directores generales en Salud Pública, AP, Salud Mental y el SMS",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2Q1bXZhWTN1UnlLaFRkTk9ybG5penAwTzZkZ1NkMm5xLTFiQ2pJbWRDMUNVMmRCdW1PVEVnV1VIdXVCR0tuRi1tMzRxdE8wZzFmeFQ0MnhsdHI5d1BUamotcDUtY2diWG15akJub3hmVHY2amwyUnFQWUJHVXJCeERVa1FWYTV6bHVWTmwtdW1ydk1KMVF4Q3dVelNLa2swWWRSc05YUy1WUm5MVTRzNkRn?oc=5",
-  "clave": "directores generales murciana nuevos profunda publica reestructuracion sanidad",
-  "capturado": "2026-09-06",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "1dd9e3b3e776",
-  "fecha": "2026-06-11",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "IM Médico",
-  "titulo": "La crisis global de la salud mental avanza en silencio",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDRZbUt3MlFiSng2R0QtelZUUWpqT0ktWUFRUjlwdk43NmlVb1luMDZDZFZtbHlJYVhxYVQ3aldURW5oSklUY2lPY0RBQjNJUW9LczZja1RNbG95LUhEb0hsWDVibHN5ckY2RGUyc2hIaVJSc2w3VlpmeXVLRk56U0o4cG5ZSGMyWkZHbEZoT1BqQ2o2WFdVU2c3aEdzSlZFd0ZUTnpWRk9FVkZLYXfSAagBQVVfeXFMT1lLSHBBTEJnWUJkUE5UdU10Zk4wSTVYZjZzM2lVeld1Y1g4SVlzYXcxcDc3RzNnUmE1aXhoWUNZZFdlcElRNl9nNURuX0ZweVgxVjFwN2RIclpobEJ5amx5R1dueDRYZmlKZDJMNGpoaHkwMktYRHBUSzVWN3lMd2tleTE4LUE5WWJZSXl3UGcycTl4NjNxTll0dmhKTTQ5c0xKRTJ6TllN?oc=5",
-  "clave": "avanza crisis global silencio",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
   ],
   "ruido": []
  }
