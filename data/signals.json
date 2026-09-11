@@ -1,5 +1,237 @@
 [
  {
+  "id": "14b5dbd07a80",
+  "fecha": "2026-09-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "moncloa.com",
+  "titulo": "La sanidad prepara el registro estatal de suicidio: las claves del real decreto de vigilancia de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS3JwN3dscE03cWJ6ZVI5UzlKb2x0VjNJRUxqYXg5em51UGRYZEVmNlVycG5wQ19rLVJUN2ctYjVpZ0ZKU21seXNZM25VU1VZUDVwQnVYMDFPSF9QazAwTUhtTzJFaURTRUR0RHpmSlFlbU93WllxUUpJNHpIZW54YVZtbFI0MEpzb3BWTDl3WkJ2LTdU?oc=5",
+  "clave": "claves decreto estatal prepara real registro sanidad suicidio",
+  "capturado": "2026-09-11",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "68e0d7b3d708",
+  "fecha": "2026-09-11",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Las personas con autismo tienen una esperanza de vida 14 años menor en Estados Unidos: un estudio identifica las causas",
+  "resumen": "historicamente, la investigacion sobre el autismo se ha centrado en la biologia, la genetica, los factores de riesgo ambientales y el diagnostico, prestando menos atencion a las consecuencias para la salud a largo plazo, cruciales para comprender la historia natural del trastorno y desarrollar programas de intervencion.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-personas-autismo-tienen-esperanza-vida-14-anos-menor-estados-unidos-estudio-identifica-causas-20260911075049.html",
+  "clave": "anos autismo causas esperanza estados estudio identifica menor",
+  "capturado": "2026-09-11",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9637f7c14b32",
+  "fecha": "2026-09-11",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Diagnóstico de autismo pode levar até quatro anos no Brasil",
+  "resumen": "o caminho entre os primeiros sinais do transtorno do espectro autista (tea) e a confirmacao clinica ainda pode ser longo no brasil. uma revisao de estudos liderada pelo instituto de pesquisa pele pequeno principe identificou esperas de ate 49 meses em servicos de nivel terciario. entre os principais entraves estao a falta de investigacao adequada […] the post diagnostico de autismo pode levar ate ",
+  "url": "https://medicinasa.com.br/diagnostico-tea-brasil/",
+  "clave": "anos autismo brasil diagnostico levar pode quatro",
+  "capturado": "2026-09-11",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "cc18cda6660e",
+  "fecha": "2026-09-11",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "galicia | El Nuevo Plan de Salud Mental 2026-2030 en Galicia incluye un modelo de prevención de la conducta suicida",
+  "resumen": "galicia: el nuevo plan de salud mental 2026-2030 en galicia incluye un modelo de prevencion de la conducta suicida",
+  "url": "https://www.consalud.es/autonomias/galicia/el-nuevo-plan-de-salud-mental-2026-2030-en-galicia-incluye-un-modelo-de-prevencion-de-la-conducta-suicida.html",
+  "clave": "2026 2030 conducta galicia incluye modelo nuevo plan",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c9053bcd9b1c",
+  "fecha": "2026-09-11",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "El TDAH aumenta casi un 50% los problemas intestinales: estreñimiento, intestino irritable y encopresis",
+  "resumen": "el trastorno por deficit de atencion e hiperactividad (tdah) podria tener una relacion mas estrecha con la salud intestinal de lo que se pensaba.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-tdah-aumenta-casi-50-problemas-intestinales-estrenimiento-intestino-irritable-encopresis-20260911071148.html",
+  "clave": "aumenta casi encopresis estrenimiento intestinales intestino irritable problemas",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "tdah"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ef3cac0d53a4",
+  "fecha": "2026-09-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "infocop.es",
+  "titulo": "Acercarse, escuchar y acompañar: Sanidad presenta un manual para combatir el estigma en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSHFWUFc2eGJ6RjhJZHZlSm1mcEhiVHJUNUY2VzQtOXZjZFRSam8wQ3hZVUQwY08yakRMWWVlSzZmbm5BOUxUMk0wUHlMd0RzTTFVLV9GYVBBQUxaRE1FakZORmNfVW5pa0ZTX1hHajRGWWNxdElES2RVVDdwLXBCNTZOYWVFelpzemJ0VVdQUXNEQ0dpNkl5d2ZDSzNCd1o0cUNqVXJEN0x5VVlZN0o2cS1iMmluenZvcVNMS19vWQ?oc=5",
+  "clave": "acercarse acompanar combatir escuchar estigma manual presenta sanidad",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "211815ea0bce",
+  "fecha": "2026-09-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "ladiaria.com.uy",
+  "titulo": "A 40 años del primer Plan de Salud Mental del Uruguay",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWW1IQVdscmRsZmlydUVrczBYbmZKNFkwTE9ZaXBIOHBfY2hDblB0cXQtbFMxbWQweXh0QWY1VFpPT0k2YXhNM05WUE1lQWhRb253Ukp5azZDU2txckNFNVZESTAwOWhWRk1VMy1ldnpVYm0tZ0cwZFZtQnoweGI5SXJab2t6c01UNXdBUXpzMGt3NjVwald4am9zZGlSX19OUmVmYw?oc=5",
+  "clave": "anos plan primer uruguay",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "de6fe0dff1bf",
+  "fecha": "2026-09-11",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "andalucía | Andalucía reforzará la prevención del suicidio con una nueva red y un sistema de vigilancia",
+  "resumen": "andalucia: andalucia reforzara la prevencion del suicidio con una nueva red y un sistema de vigilancia",
+  "url": "https://www.consalud.es/autonomias/andalucia/andalucia-reforzara-la-prevencion-del-suicidio-con-una-nueva-red-y-un-sistema-de-vigilancia.html",
+  "clave": "andalucia nueva prevencion reforzara sistema suicidio vigilancia",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d1a89acfc9ca",
+  "fecha": "2026-09-11",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "autonomías | Los sindicatos médicos alertan de peticiones de traslado y problemas de ansiedad por la sobrecarga laboral en Ceuta",
+  "resumen": "autonomias: los sindicatos medicos alertan de peticiones de traslado y problemas de ansiedad por la sobrecarga laboral en ceuta",
+  "url": "https://www.consalud.es/autonomias/los-sindicatos-medicos-alertan-de-peticiones-de-traslado-y-problemas-de-ansiedad-por-la-sobrecarga-laboral-en-ceuta.html",
+  "clave": "alertan ansiedad autonomias ceuta laboral medicos peticiones problemas",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "ansiedad"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bc74d73f5baa",
+  "fecha": "2026-09-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Médicos y Pacientes",
+  "titulo": "Comisionada Salud Mental: «El Registro Estatal del Suicidio va a permitir una respuesta y coordinación similar a cuando hay una alerta por una enfermedad como el COVID o el Hantavirus»",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLWJtTS1kQXg2S0pmZ1JoNVR3TEtpT05xbkxCNWNLbm1ETXRVak9pNEFHWElId0k4aDVrS3Z6RHNodlp2bzFOekZxUENyQ3Ffa3g5aTdCMUdoLV9qVDYxQktrTWI3cFUxbEZQSkRHZ1pQMDgtNXRyNUVxTEp1eHRIcDhqOE9YX3dIaElQQ1VNMGh4eHg3SUVidTd0UXhHdHRJa2xqS3ZJcTVUVElDSzdpNUlPUjJjRklERmZ3MmFrTjBueUR3RUFmVFhTckNjOEkxVks5Nk5lbVI3TEdGRi1obVpIcTZ4U004Q3lJ?oc=5",
+  "clave": "alerta comisionada coordinacion covid cuando enfermedad estatal hantavirus",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7f4688de923b",
+  "fecha": "2026-09-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "A Tribuna MT",
+  "titulo": "Saúde mental de crianças: Juiz retira sigilo de processo de ação civil pública proposta pelo MP e Defensoria",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMmcxVUlsS21DVzJlX3VvZDNwY0psc1M1STVsOUNnU3pvLVhDa3BrODVkTHprQUFGLW1xQUoxM2hlVkhYWmJMOFZpLUIwbUJkZjVXNi12S1JrcGxsNENRWlhCVXVvUWNyUEkyZDgwQXJtQjFITTBhVUJzZENpM0pFZndhLUczaUFLM3lueVRodzdaTnpmeUREUVBfTW5qRmpRZGVtdkJYVTU3akV3aEp0c1hGRUJyU1VwYjFBSTZvSGZKUUdVRElIenFsRjRYVVZiVVlDWkZrcVRZNkYyNVFTdlNISVhjdjFJSHNWNUJyLTU?oc=5",
+  "clave": "acao civil criancas defensoria juiz pelo processo proposta",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4e2d4944fe12",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "regionalzao.com.br",
+  "titulo": "Atualização da Norma Regulamentadora nº1 do Ministério do Trabalho reforça prevenção dos riscos psicossociais e amplia debate sobre saúde mental nas empresas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPTnhkNW80bi1zOHN3cWJRTkpQclhlcFppWHBMMnExblRQVzU2TmNCRFo1VTMtbWxjZFhTZXhDZjZGV3l6MlNyLTh4Rms0TlIxMlJmSnpZMFFTZkpYWnJrY0xvTDA4VVF5bGM2Z3o3Yk5PWmtyYlZXWG5PWnR3UVFYdk5lUWJpMjdEbTdiYUdRNFpkXzktRzJtOTE2dHZnTGxGai1kOTVGYnpQY2liZGVfWm9rcHhFcF9HT1NtanUwXzBUTUlabHNHYTdBcHBROUUzM1Zjb0xPLXBHQ3BtcFpjQjlDVW9OR09wQ0ZCT3otdmlHazZBRVlSUXdTTHQ4enAxMFlPNnNZd1h6N1F6QV9QdmtqVDltTFR3QTk5Ylh4SXVibDd2eHFv?oc=5",
+  "clave": "amplia atualizacao debate empresas ministerio norma prevencao psicossociais",
+  "capturado": "2026-09-11",
+  "puntos": 11,
+  "prioridad": "A",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "saude mental",
+   "riscos psicossociais"
+  ],
+  "ruido": []
+ },
+ {
   "id": "7eacf4fe1415",
   "fecha": "2026-09-10",
   "carpeta": "01 ESPAÑA",
@@ -34,6 +266,25 @@
   "categoria_auto": "regulacion",
   "topic": [
    "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9ff505db7fb4",
+  "fecha": "2026-09-10",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "ALERTA NA SAÚDE E NA EDUCAÇÃO: Entenda os riscos do PL 1.675/2023 para a Psicologia e a Fonoaudiologia",
+  "resumen": "no dia 02 de setembro de 2026, foi encaminhado para sancao presidencial o projeto de lei nº 1.675/2023, que versa sobre a regulamentacao da psicopedagogia no brasil. nao obstante o trabalho interdisciplinar no ambiente escolar seja bem-vindo, a redacao atual … o post alerta na saude e na educacao: entenda os riscos do pl 1.675/2023 para a psicologia e a fonoaudiologia apareceu primeiro em conselho",
+  "url": "https://site.cfp.org.br/alerta-na-saude-e-na-educacao-entenda-os-riscos-do-pl-1-675-2023-para-a-psicologia-e-a-fonoaudiologia/",
+  "clave": "2023 alerta educacao entenda fonoaudiologia psicologia riscos",
+  "capturado": "2026-09-11",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
   ],
   "ruido": []
  },
@@ -96,6 +347,180 @@
   "ruido": []
  },
  {
+  "id": "86888b054d59",
+  "fecha": "2026-09-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Sanidad prepara un nuevo sistema de vigilancia de salud mental y un Registro Estatal del Suicidio",
+  "resumen": "psiquiatria cristinaff@uni… balance la ministra de sanidad, monica garcia, y la comisionada de salud mental, belen gonzalez , han presentados los ultimos datos de mortalidad por suicidio correspondientes al ano pasado. segun las cifras que han trasladado, aun provisionales, en 2025 se han registrado 3.808 fallecimientos, 145 menos que el ano anterior , cuando se produjeron 3.953 muertes por esta c",
+  "url": "https://www.diariomedico.com/medicina/psiquiatria/sanidad-prepara-nuevo-sistema-vigilancia-salud-mental-registro-estatal-suicidio.html",
+  "clave": "estatal nuevo prepara registro sanidad sistema suicidio vigilancia",
+  "capturado": "2026-09-11",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental",
+   "psiquiatr",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "26127238c93f",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "marchenasecreta.com",
+  "titulo": "Sanidad anuncia la cobertura de los 11 médicos de familia de Marchena y mejoras en pediatría y salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM3o3akpwcXBYZmtheVlrVnhVOGxXc05MZm9MVFk4NU1TMnN3NVZYZTd0ajdZZHZGUGJaTlR2R3ZxZmwtcWNPWTZyTjRzT3lFVXBCOG1rNU14M2ZTcHJ0WExkek1aZ25EcGt1WnZMdmNKMm5MV0h5UVdrdDJiRU53alJrT1pIcEhIUDJtZ05QeDZ6SE5BejVQd09wYVNEdzZlck94YnBqNXlPV2kzdjM4WlZmUUhMelRvbTVwdnljWlpuOW96Skd4UktBVDFrMS1ELXfSAdcBQVVfeXFMUGthTXlDVWVOekRBNW5mb2YzajZoUUhEZTJvak1nOGZOQThrMnNTWUR1YlExdDF4WHFsN2Z5Tkx5d2p6eTVsdWh3OHdHQVBySDJYZTRGdFpsa3QzbUI3LXNnRUxLNVdRS01XZmJwNjQxNV9EQXB0Q0h0NHhjdlMtdXBGZkdVdVVkcFVxSExfdnljTmdSc1dJOHUzVGRFN1RONWtwNExhaWp4M19leWNlN2V2c21kY1c2ZEhVLUZnckJiVXF5VW9LWlBRWjI5TGlnSHpqYmFzbnM?oc=5",
+  "clave": "anuncia cobertura familia marchena medicos mejoras pediatria sanidad",
+  "capturado": "2026-09-11",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "034d98963ea1",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Gaceta",
+  "titulo": "Elías de Pérez exige reglamentar la Ley de Salud Mental y Prevención del Suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMWNKXzZtZFhfWnNydjN4WVE0Ni1rZ3R0bmtZeDJqUm1rbXNqYTBKeDJIal9rU1JNbEl4MFhfb0RUTWhPNFhTQkhDMGdYcTdoTjNtbHlybV8wem11dE45X3B6Szc1QTlpU0c0SDdxeEc0a2wtTGp0LXhrYnNYcWMtRjBJMUcwb0hlVU1sUGR5b1NOaXJVOTE4VzJfUEttSDRWdHJXS1MwbkhXd2lvYzB4TVY1dEpYSnFzUjV5dmx30gHDAUFVX3lxTE43Z0t1Um5mS2Y2VGFOdS1GWDVtRHpnRzktZ3JpUnBid2g2M3ZTUm1YU005RXBLVnlyLUJ0Uy1sZUxWWkpacVNfckxmRmpZUWpodFF3aFN0Q0lVQ0xZa2hNWVlSUllMZ0xKY01EWC1iODgwRW5ZY0ZYOE44NGhmNjVWOVp2UmxiaEE1a3IwemZNYTF2NVlLaXI0emJSVEcyY1EyV0NGN3NWd0sxQ01jeXFxTXcxLWxfOXVzeWNOZ29Ddmg5VQ?oc=5",
+  "clave": "elias exige perez prevencion reglamentar suicidio",
+  "capturado": "2026-09-11",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7c20f5ca9e62",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "9 Digital",
+  "titulo": "Reforma a la Ley de Salud Mental: “Solo interesa que sigan los manicomios”",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVU9mLTRnMEFPaGZQNzBIZ3VfQ3RaQ3d0bXZDVUJaVFk5dE1LUjBNWVNOVkhQRElsRldndS1zN0sya2NPdDlqMHBkT0EzZFEwalBKc21DRTFLeWJGMWdUQTdqUWJnd0FXR0d4TUF5UjV3T2MyTDJ0LWNwOW9qdE02ZWM4Z0o4bVozZEdLdkt3Nk9uVXI2eGkxUElyZFI?oc=5",
+  "clave": "interesa manicomios reforma sigan solo",
+  "capturado": "2026-09-11",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bd5da4c2c7ef",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Comentario",
+  "titulo": "Nueva Ley de Salud Mental sigue pendiente en el Congreso",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xZ05pTUJjRkthdElSU2FPUnNENUFWc2p4QnBNdWdyUWFpZWV1dllINnFFZXdDRmUwYlg5VUtUREU1WW41N1ZpT21ScDU0Mlk?oc=5",
+  "clave": "congreso nueva pendiente sigue",
+  "capturado": "2026-09-11",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6fd31dc839a9",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "nortedigital.mx",
+  "titulo": "Propone Congreso impartir clases de salud mental en escuelas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUENtOGpqUlZPanFwUlV3MllHaFFFckd2YWk3cjh0emhDXzJPOThwbDNXZ3dfbU9vM0FoVmtfYy0yTEFGTFFTRTJsZHYwZ3B2SEI4TkJFNVNfX3ZGbEJiVTc3bWFYZW1oQ0R1TUlkMzN4bHFWa3R2SF96dXBkdl9PX1NqVS1MM1dhSHplbTRR?oc=5",
+  "clave": "clases congreso escuelas impartir propone",
+  "capturado": "2026-09-11",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f58adba2908f",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "O Estado Online",
+  "titulo": "Setembro Amarelo: Dr. Victor Rocha destaca importância da Lei de Saúde Mental em Campo Grande",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNUJqUDRSRkhsRzg1S1E0UlFyanFtZElhcDFCVk9qM1pqWTNReWxXb0R4SVlkQlhtUktkeFBBSV80a2JLb0tzcHNrRWFTcEF5R2RCWmltZW1DTGFDZTNmQ1ZDVThrQnd1T1I2X2FubHM4ZmliZXR4dXJBTVh6X3lwTUxxbTlkU1QxQ0EtelB3NzhoSl9zSFRCS2JGaDhYZ3dTV0ZwemF3TlJLMTdvNlFWWFdBd2xPZVUtS2xhX2NtTlBhQ0R2aTR0MWtB?oc=5",
+  "clave": "amarelo campo destaca grande importancia rocha setembro victor",
+  "capturado": "2026-09-11",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c6f1d6745d8b",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "piauihoje.com",
+  "titulo": "Lei torna ipê-amarelo símbolo da prevenção ao suicídio no Piauí",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZXV6VG9DRmJUdnJQbnB0Mk1faGtySVN4Mkxfd1FHQnFTNUJtcUtvWkJGSVo4bUpRdU5oT3BXQzFfWHNxTk9KNFZmRmNPaVhqM1ZpYVdnRHNtLU5QT1JpT3pVM0d4MWNoc1FMaDk2Z0wzLXl1RUJDWXVWaFZIdi1WeGJZanRfODR0dFhVN1B1eWZaeGFzcV9zbHd3cTBiYUlDMDJTemVhUU5WbDY2UDljd01Qekw4UdIBuwFBVV95cUxOTGhybmZoWEpDdEtXbU5KamthNkxBVXlubjFkNENYWkxfVllkLUpSV0VRZFdzUmVLSmpacXNTNURieVNTSjU0N1BFRUxOamFPLWVhVGpMRDN1Q1BYa0VXMzhKRlRYSndxcERTQjFKcFNKaGJOckZSekQ3YmdxOUtUQktGdDlMSFpXVlFJTzJpcHhoV2dUSjdKbWlqZEZUTGt4WlJudGhuV0xkams5UVd2Uk80cGpzNmgxMElZ?oc=5",
+  "clave": "amarelo piaui prevencao simbolo suicidio torna",
+  "capturado": "2026-09-11",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8a9db7359e93",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "parlamentopiaui.com.br",
+  "titulo": "Lei fez do ipê-amarelo símbolo da prevenção ao suicídio no Piauí",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnlURklQR0gwcUE2R0pyRm1Ub3VJTEYxQjBQVEREbnhIOXVwS2pkakVIR21uTXFYenJOanZWUFVtY2pZc3IwSU1ockZKS05FYklsanJudGZBd0RtUjFJbHQtcGt0a0o2RmNzNHFkQWJhaGk1YTltb3hOUEVMRFdCaHJqTEpiMlJYR2xjRVRuNExiV1N1UUxXUVI5dTg1YzhURnI2a0FlU2FCMXc?oc=5",
+  "clave": "amarelo piaui prevencao simbolo suicidio",
+  "capturado": "2026-09-11",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
   "id": "4028c0b97a8f",
   "fecha": "2026-09-10",
   "carpeta": "04 GLOBAL (solo con ángulo local)",
@@ -111,6 +536,44 @@
   "categoria_auto": "research",
   "topic": [
    "caps "
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9dfaf7f92b6a",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "O Imparcial",
+  "titulo": "Startup maranhense aposta em educação socioemocional para fortalecer saúde mental nas escolas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeVVPY1RrX2piZGZTSnhjSEtQUkNwWlNfd2VDb1h0SHRDR1FORVBmOGJOTUxzWVZlcWpYWFdQZUgzSHh4SzRFTkx3aE0xNk9QY01jNXNCeHJON3J0OVBRR2FiQWx5eDVxZWdXNjNjSHJaQlhVWTNQM1IxY2N3TDVNZmpCbGNPcDVaay1FcEh0WjBCdGZpMjF3VjY3aUw3ZXM5MUhMbzRwd3hNRTdfaGQyYkJmYmtOeTM0Y3lJWUowalEtUExVcUtMdDJPUFpqTkhFNGRB?oc=5",
+  "clave": "aposta educacao escolas fortalecer maranhense socioemocional startup",
+  "capturado": "2026-09-11",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f77bfdc7db38",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · PT Portugal",
+  "medio": "ASN Maranhão",
+  "titulo": "Startup maranhense aposta em educação socioemocional para fortalecer saúde mental nas escolas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX29Wa1UxYWx0TDdzRUltNGpqMjkwd1cwcHcycjBQamZSM3JORUs1bjc0Q1N1RVhtdEc2ckhQaklqeWhOSlNIaGxicFJmdEtXNjNVZUN2ZmltUV92Um92a2ZYdnp1NHp6M3NJOGlBSHc4c0JqOEVIc18tOTZlUXlTSGZZd29ERFZYSlU0LWF2MWhERW13OG5aYzk4c1VEZDdpMVNrR3J1WERJVUJCcmktSjRwb1Q0dDlmYzlHbE9UQ2ZZWU5Iaml6eDUwQ0R6bnJPRU12enctcjB3NXdpUUFYeml3?oc=5",
+  "clave": "aposta educacao escolas fortalecer maranhense socioemocional startup",
+  "capturado": "2026-09-11",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -251,6 +714,239 @@
   "ruido": []
  },
  {
+  "id": "3f036eccf3f1",
+  "fecha": "2026-09-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "En el corazón de las Urgencias del Hospital de Ceuta: \"No nos gusta que otros compañeros hablen por nosotros\"",
+  "resumen": "redaccion medica se traslada a ceuta para conocer de primera mano la situacion sanitaria que vive la ciudad autonoma mas informacion: sanidad ofrecera apoyo psicologico a los profesionales sanitarios de ceuta",
+  "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260910/en-el-corazon-de-las-urgencias-del-hospital-ceuta-no-nos-gustan-que-otros-companeros-hablen-por-nosotros/350473_0.html",
+  "clave": "ceuta companeros corazon gusta hablen hospital nosotros otros",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8ff9dbb49dfa",
+  "fecha": "2026-09-10",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CREPOP 20 anos: Centro de Referência Técnica em Psicologia e Políticas Públicas celebra trajetória com nova identidade visual e diversas atividades",
+  "resumen": "o centro de referencia tecnica em psicologia e politicas publicas (crepop) celebra, em 2026, 20 anos de atuacao e compromisso com a categoria. para marcar sua trajetoria ao longo dessas duas decadas, serao desenvolvidas diversas atividades no ambito do conselho … o post crepop 20 anos: centro de referencia tecnica em psicologia e politicas publicas celebra trajetoria com nova identidade visual e d",
+  "url": "https://site.cfp.org.br/crepop-20-anos-centro-de-referencia-tecnica-em-psicologia-e-politicas-publicas-celebra-trajetoria-com-nova-identidade-visual-e-diversas-atividades/",
+  "clave": "anos atividades celebra centro crepop diversas identidade nova",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "73a6403161d4",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diariofarma",
+  "titulo": "Sanidad prepara un sistema de vigilancia de salud mental que contará con un Registro Estatal del Suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcXJJaEMtWkdzYWlZWmZZUTNtWFJJbW52VEhtLUliWmVFcF9ETlJub3ZrbllTZVZIU2RGSzctOXRLMFplNnRTS09iMG5YQnRlbmVMUVVqOXEzdzEzNkhrbEgwYmpPS3BGeFdaejdkT3ZhWFhHcm1ncHl2Z201MC1TSnFTVWw4TjhPLUpOR0pMc3VEWDhzaXlWSVlYQklkeGcxcDZxZUVmdXpEazBXZUcyaEtOZ0lYLXlBYXE4WnBRdDhFZnZ6WXowaWFKMWFiZHZXbURORnpkejhfZmZ0R2hF?oc=5",
+  "clave": "contara estatal prepara registro sanidad sistema suicidio vigilancia",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "53e3d4e59460",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Correo",
+  "titulo": "Sanidad prepara un nuevo sistema de vigilancia de salud mental que contará con un Registro Estatal del Suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcmJsbE5QYnBNYUlJUGtiNFVFNy0xMkRTRDBleFNJUzVmZFc2Z0dXd0s0XzJzM1IxdTRqZ21qQWpSTDVxcFRjNlhwWWFnbEVHeFJlQVhUZUVpZTlmT1Jrd05iekh0dWNBakk1RkRkYlduVWJrdlBLSnNNb0VXSDBDVUhPSDV5QnMybjE4MUlhMERCLVh3dUtzNnA4S0V3S2Fma0tMbnBEdEQ0WEVEYU5NTVh4X0h2djhqWHQyRF9Dc9IBvwFBVV95cUxQcmJsbE5QYnBNYUlJUGtiNFVFNy0xMkRTRDBleFNJUzVmZFc2Z0dXd0s0XzJzM1IxdTRqZ21qQWpSTDVxcFRjNlhwWWFnbEVHeFJlQVhUZUVpZTlmT1Jrd05iekh0dWNBakk1RkRkYlduVWJrdlBLSnNNb0VXSDBDVUhPSDV5QnMybjE4MUlhMERCLVh3dUtzNnA4S0V3S2Fma0tMbnBEdEQ0WEVEYU5NTVh4X0h2djhqWHQyRF9Dcw?oc=5",
+  "clave": "contara estatal nuevo prepara registro sanidad sistema suicidio",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c5bd00a43278",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Redacción médica",
+  "titulo": "Sanidad creará un nuevo sistema de vigilancia de salud mental con un Registro Estatal del Suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbmJ6ZEJkOGgxRjRiUW1TLVZnNmNiZUtkMVJSSUlITi1CcEpMRXNkM294NEFUejVSOEd6MExtQ2RPa2xBV0tDZ2pUMUNvaVdkX1VPSUd1ZE5hVHh5cG13NWtPc016Vmk1akhwczlEbEdHQkNQbV83bHNhUENZTXZDbm5ZbUk4bG9CeDM2OFoxeWMtd1FFNzFMdnZTaUNlRHB3dTNnUHNaYzYzcmlBemk3VzhBSlJaZVRkV2ozMXozVnB3WFoxNHNWUmFuWUhSLWZrU1lpdE0zemM0dnVaZ1l3NVE3UE5ibWppM3EyR9IB8gFBVV95cUxOUDB6Qi1QT3FGNXY2SVNsUmlKcGZ1aXlraFhVX3A5anFqTmJZSi03RFRwZUdGRXFNVHlKejJwZ0c1bnVfY2Eza2xaTWxXSzNyRnM4V2pVX3lka1VBZDdlNXJzN2J2NkpTRzA4aV9aRi14VXAxTU1qYnJjMTJTanJRWGZSVDNfazUwRTM1aFNxYzFpMWxVdW93d0xSR2lFV3lBVjFvcTFtRV9GWHE3N0dJRUFmd3JER1hON3VtQzM0MjlfR3AxVDNKXzFWc0Z6bHZFTjNpVS1sa0ExdnBKaDhVSWYxSkx5cGVLd0FtXzU1WVVXdw?oc=5",
+  "clave": "creara estatal nuevo registro sanidad sistema suicidio vigilancia",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "943351b8722a",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Economista",
+  "titulo": "El plan de Sanidad para prevenir el suicidio: un registro estatal y un sistema de vigilancia de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcVJCdXJVRmtSNWpGMzRCRUF6WWtJeEJIRXBSLWdnSnRUODZhbzdEbDdUMk1vdExCcHVIS3lldlBGMXowRmdNaUJ0bXpCdnotUG9ncl9YeThmbmlmcF92Q21laVNQeVhLNHF0SEdBZ0hoUWJ6S21sclNZSzhyVV9nYUprc0ZFeVVxa1VaQmhiYThkdjdsMFQ4cUlfUlVVU3g2YlZid3AweEdJbnI1ZnNVS0tVaEpGNURLUjhNQXFwZHFvVU9wN21fOFN2OHJQYU1uWHpOWlRCU0JXaHNOakY0dGJuallVckwzUXZIdU9VVS1Ed2ZwdUhrblVyNkVONkRFekdBX1NXVVpuZ0Y20gH3AUFVX3lxTE9iQ2lNUDFtUzVoY1Q1eUZaV1FjT1QxcVdOUVNDblhoQlZEaVc5YmsxbHcyeE55MGthQUtFMzYtcTlyVE51Mlg3NmF5VmpyUmFKbFZfOWs3TUliY2wyNVEtTmJUTUpQWmJFVzRtTGV1QjlXVGl3MEZFNUNVR1hXeW5DbTJXRnhHcnhKV1V0TnF2NFRWdy1CV3dvR3p0ZE5pR1lldHVDcEo0cE1sM2FCWG9ncUVLSDM1dV9mRGFJdWtQUkxEc1k3QnUyU3g2YnNOUzlUaHJMUllUM0M4ZGdBbGpWRFdsUDRsU0RPaG9TNFROYzBzNzAxWFE?oc=5",
+  "clave": "estatal plan prevenir registro sanidad sistema suicidio vigilancia",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1c1f6349018e",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Público",
+  "titulo": "Sanidad creará un Sistema de Vigilancia de Salud Mental y el primer registro estatal del suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMElQbGdxQ2Q4VHN2bDZUY3k3VGNWMTBPenhCdEdaZU9QU0oxT0RoVVkyblVqVURpV05iQUZYd2c0aTZlb1JLbDNXcXBPOUQwWXRlSHVaVmNHOHJJeHVhVzRfMDFUWTF1VUdKOURZQlhzd2pRNUh0OWp3cmZZLWtmWjJtUlVJekRwVFQzaG10YUxFRzRRcXFpWG9TN19EMkhCV1c4UGQxcVBPcmlmT0VKdGpyWHM5eXFmLTgwODRSTUZRUdIBxwFBVV95cUxNdFhSVGtxaXdxZHRMWEhsZmtjMWJ2VDNFZGtmbnhoNnktM1lGN2FUTFlkUG5CZ3VUTm5FdVg5X3BDTkdTamZCVXdwOGp6cG9RNEJZWERsTk1fUEE4MWk0T3RIaEtaM3pFRFpNRTB2Unc5YWY4N3I0dlhHWEhnOXJMSmlCTVhwTnNfSVFiaUJCWFlJTlZjcUFuem1hLXhaRHcyNXI2THhrTzUxcDc0bEs3OFd2azNuemd4UVZFY1NqakpVTTA0ZGNJ?oc=5",
+  "clave": "creara estatal primer registro sanidad sistema suicidio vigilancia",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1949871ce095",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "EL PAÍS",
+  "titulo": "Sanidad ultima la creación del primer registro estatal del suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVBmU2VrbUpQZExDZk5CTkFvVnNUcHJsWWNjZ3Ryb2tvRXdKVFhVMnVpa2VfNWFIYndJdkJDdV9yYWp1djF1OHNNdVI2VndrU0lUazFNNTRmSWVwUXpNTDd3NGY3ckVtN21pTFJPV2VzejRwek5rOGtYbksxNE9MX05wdngzNHJrTEktS0pxRVpXckwtQTh2SHBqUDJhR2I0cjltcHc2VVBKTnloS29wZm84bUx2dUFHM1N6RGR2Zm9uSFHSAdcBQVVfeXFMUDJnczdScDBia3R0VUM3NThtTThkM1puSnVmNFZzSElGa3kxYTB3QmlYMUdiQzFLUFlBVHlzYlh3TjE0dmpEeWctWVE4SjlJZnpBX3dudzVrNjJRMlJWVnhvNS1jS1ZEcHdDaDJPVThvSnBhd2F2bFZjak5qa3kxZ1dBQy10V2VNZ1c0RENJdnVCVmhQeUZVdkxlVUhqblhXTlpLWFB6cGVmc2hpVl8zN2ViQW5OdjNmYlcwU0ZZN1JybXRhQnhUNlFKRnI2dDlSZkVkNnF0LWM?oc=5",
+  "clave": "creacion estatal primer registro sanidad suicidio ultima",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5b1468d363fc",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "diariodeavila.es",
+  "titulo": "Las muertes por suicidio bajaron a 3.808 en 2025",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbndRRmdnLU5sSlFmTWtCX2xUN0czU1AtREFLOXVtbGVVRnlBRHNGWjNUM2hUcHB4QWVkU0g4ZDdjOHBHNDNWODFkQjltX1RRWjRaZlg5c3lTanhUb3VadzJadmxyYXIxdzVLQXg3SzBiN1pIbFQydFE4eVh0T0I5bWRoNDRVSDJPa0h1LXJBZEQyRnlHS0l1OFhyd05BUlFtdDRIdlBZUUw1QnctRVhwVFBVRUJwM1ZpLVZYQlhQRndNeWRURW9pTw?oc=5",
+  "clave": "2025 bajaron muertes suicidio",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "17a9dedc524d",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Razón",
+  "titulo": "Sanidad prepara un sistema estatal para vigilar la mortalidad por suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbDZvcWhaOG5HUUtheFU1VjZCWkFPSU9neFBDZnc3bUVDT1hnS1RxelFoeUF5WEJWN01BRDhVR1hORU9JQnRJVnJNMEJhNDNpSUZDS05LM3JKTjMxeERSMHpNbGpzNzZJd01mMHA2V0pPLUNxYm41b2haX3JiMEZmTlhDYUN6a3B1Q1Z6VlpsUjkyV2tUelZQeEZwelhmYnRXb29DY3NwU2xJaGx4NU11M042QlV4VFZIdXJya0U3T0ZmQ29GejlURtIB3AFBVV95cUxORU4yV2xTdkVfTjVXc3hpbmdLcmpTRzl4N2JKUGVBeW9lSlR1Ymt6SlV0VXpkcjB5MDN2RkQwNU80elRrVEh2R2pmaC1TWU85dkNFZGpWeTUtUER1aDctR1JwUTZ6SkNYSmpGU0dwelNpdGs1b0FjTDVtX01MUWk4TE40a2JEeXFaNXZBaUlXWHduUG0zUk54anN3Y2lXRi1PWXh5bHNKSUdiZnZMMU0tbTBIWjNwY0RxTHoxcjNJMzVTUElYNWk1eHROM0xDZHFlSmdVVUNwbDJoaXZ4?oc=5",
+  "clave": "estatal mortalidad prepara sanidad sistema suicidio vigilar",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "cd4b5d5534be",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Estrella Digital",
+  "titulo": "Sanidad prepara un Registro Estatal del Suicidio mientras bajan las muertes por tercer año consecutivo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSnhSak52OF8ySFMtT05JSThRQ2JvWVlPTU1mVHBzRTBrNW5HdmtmUDVnN3ZDVUg0cVlwa2RBQVRyMFRuVjQ2Wm52RFlaSER1RDU1eFFsbWNHY1VxcXI2VnpWY2ZsN2VjdzRRVzFNWFpiUUo1VFh6MFhta0duODlhTElXWkxxWkRXZVRYLVM1c3RSeG50V2JfT21mX0FTSXFYMHVxU1lMTEVQZXpxOGExVFNPZ0kySENtVmNuaHZ0VUhCcHNvY2lQS0VaZk9qakU2M1VrTHBJajN1Y2FKSlRrdnFDcGw2RV9QeGlDVjBuS1dFS0Fh0gH6AUFVX3lxTFAwbFZoR2w2R0M5Z2RyUDZ0TUFKWDRiVG9pYmg2Z3NybWYtdHRYSWNRYTNyd2NsWDBITXphRU5TMHkwT1ZqbkpFalJJaWdWWXg0UmM0X2ZmODRwLUNhdmxWWWdMZTh2b2VUVDBIRmJjMTZlU1FpeE5lZmZPakRkTWloOTFoZmpBSndGb3RjM0JXOURKVkQ3U3lrRlFOcDhlWGlKbW1KemNnN0tpOTVEZmFXb2ktX0lCX2w1WUIzNFlNWjd1VGl5VExpX2RRTGxYWjk3cC02ZEdhV1VEUEdPZndiV2RUcW95TFg3ZmVhMmZwWjNCNmtnemR0OHc?oc=5",
+  "clave": "bajan consecutivo estatal mientras muertes prepara registro sanidad",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4067c5cc4c3c",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Ejército Nacional de Colombia",
+  "titulo": "Cuidar la salud mental también es salvar vidas: el compromiso de Sanidad del Ejército Nacional con los soldados",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQXJpaE1wTUpmYWRVRVJYcHhRWTk2TTdraFFQclgwNHoyVjYwa2lSdkFSMGFHbkUwY1gwSGFJTExYNVFGbUxScjBzTVduZTFyMzVDeHhRenJUM29sOEtXYzllcVYtalBLZHlJOERWWWZZMmZYSWNwbkNsdWlMbnQtMWxtQzI3bnluNDhFeXRXeFZXVXFiUTdabEJmYTZVbnYwaUlKS3BpOERUMVAtQU8zSTZNUk91MTJyUGkzWUl4eXh0MHlVam94MjlJbi1HdDdpZ3J2bw?oc=5",
+  "clave": "compromiso cuidar ejercito nacional salvar sanidad soldados tambien",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "671c55cb379a",
   "fecha": "2026-09-10",
   "carpeta": "01 ESPAÑA",
@@ -287,6 +983,264 @@
    "salud mental"
   ],
   "ruido": []
+ },
+ {
+  "id": "8fbd064db4be",
+  "fecha": "2026-09-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "\"Lo que está ocurriendo en Ceuta está repercutiendo muy gravemente en la salud mental de los médicos\"",
+  "resumen": "la coordinadora medica del centro de salud de otero, mercedes laserna, alerta sobre el impacto psicologico de una ciudad fracturada mas informacion: la solucion a la falta de descanso de los sanitarios ceuties tiene firma enfermera y valenciana: \"la solidaridad se acompana de hechos\"",
+  "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260910/lo-que-esta-ocurriendo-en-ceuta-repercutiendo-muy-gravemente-la-salud-mental-de-los-medicos/350513_0.html",
+  "clave": "ceuta esta gravemente medicos ocurriendo repercutiendo",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "75e9e6ff6fc5",
+  "fecha": "2026-09-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "La OMC brinda su apoyo a Ceuta y exige una respuesta coordinada: \"Hay que buscar una solución lo antes posible\"",
+  "resumen": "la comision permanente de la entidad visita la ciudad autonoma para conocer la realidad del gremio medico en las ultimas semanas y ofrecer soluciones que protejan la salud mental de los facultativos ceuties. los medicos de ceuta temen una fuga de mir: \"las condiciones laborales son las peores de espana\"",
+  "url": "https://www.redaccionmedica.com/profesionales/medicina/20260910/la-omc-brinda-su-apoyo-ceuta-exige-una-respuesta-coordinada-no-se-puede-sostener-con-el-esfuerzo-de-los-profesionales/350560_0.html",
+  "clave": "antes apoyo brinda buscar ceuta coordinada exige posible",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "67480157dee3",
+  "fecha": "2026-09-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Daraxonrasib lleva la ofensiva contra RAS más allá del cáncer de páncreas",
+  "resumen": "oncologia mariasanchezmonge avances preclinicos y clinicos daraxonrasib, comercializado en estados unidos con el nombre de rasonque y conocido como como rmc-6236 durante su desarrollo clinico, posee un gran potencial terapeutico para el tratamiento de canceres impulsados por mutaciones en la via ras , que representan hasta el 30% de todos los canceres humanos y han sido historicamente muy dificile",
+  "url": "https://www.diariomedico.com/medicina/oncologia/daraxonrasib-lleva-ofensiva-ras-mas-alla-cancer-pancreas.html",
+  "clave": "alla cancer daraxonrasib lleva ofensiva pancreas",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "89dc14e338b8",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Izquierda Web",
+  "titulo": "Día Internacional de Prevención del Suicidio: leé nuestros artículos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTU1GcTM3dlA2U1dxMy1VYi1NUk5mQThCSnVMOHRxV2FSVFY5WDBNLWQzTEZtTWtKUGxObVVzdTdSN0l3UFpKcXI1b1pCLUJlazhEY2Y1bEpOOWYzSHRNLUFRbXZfeXNGbXRGMlRnWHZoX3lOSE9oUm1XWE5jZ2FaMXU1WXFBSWdyWWo1S0paUF9MREtmZUpNSA?oc=5",
+  "clave": "articulos internacional nuestros prevencion suicidio",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ab3558123ef1",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Gobernación del Magdalena",
+  "titulo": "Magdalena fortalece su respuesta institucional en salud mental y avanza en la implementación del Código Dorado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYXNmbG9vRG1EMUdSamhVRHlYclJHYXZlZ19TVFF6UFptekI0WjNSak9GY05PMkY2Y2VQQmo2M2RoeDZ1cEduSS11WVh6TF9ZTDNmbktleVNKVlByS2dFUi10bVNCNi1RaDk1azRIWm1pWlcwOFJiWnEzRFAta1JzQ1RZQ1dXMmtKeDlZQVBKYVl3UXZqZ3U3MUFVbGZ3SzBiWmRwbUF6bzlYYnlhZFBZM2hEUkl3RllIUFZRQWRvck16OTM4U1JOMGZZT2J5TVFPSTJJczN1TGk2ZHFVX0EyM05VT1hPQUJja2c?oc=5",
+  "clave": "avanza codigo dorado fortalece implementacion institucional magdalena respuesta",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e415ac5b6eb3",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Vivir Ediciones",
+  "titulo": "Registro Estatal Suicidio vigilancia salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVndqQWktRGZHdHJDU3Q3VTVNUHV6LVVVSW4xZnJ1VWVzMDAxbm96dGtLdllkSno3RGFWZHdQSkdFaHEtSGt6UU4yb056NkxQaTU4WTRKZlZjN1I1VHhfaURhVzh4amRXNjF2V0pCdFZUNDRucVlnTnFnQVFsQ19nbnR4N1BHTlhRMFhGZFFVdkJEd2NCS2tScERpQnEzcVdjWkZWUg?oc=5",
+  "clave": "estatal registro suicidio vigilancia",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f91f8e228ede",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Eduardo German",
+  "titulo": "Lugones destacó la prevención en salud mental y una estrategia de detección temprana en escuelas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMzU3N1RrZlo5aTVEa0NRdEdIVHRZWjZ4dDhVaXB6Q2pGb1Y1S25YV2dWTUVmSUgtWDRKT0psMmdDdTBGa2JKNnh1aXhFbVB5bHh6Vk5yN2xoRlA0SzFGOVBDUC1jMXFGbV9qMmF5OFoyWThWcTZodUFKVEJ1MDMyX1FlaTNIeEMxU3p6XzlzOUtIamdHRnhzVFZIQWFNclNPTmtobHVzUGVRY0lMTWNRQWlDeS1yR0duZXAzU2U5MHJNV1J0YjlOSXlQWGxobHM?oc=5",
+  "clave": "destaco deteccion escuelas estrategia lugones prevencion temprana",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "df2e9a151886",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "FOLHAMAX",
+  "titulo": "Leis ampliam cuidados com a saúde mental das mães",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONkFMWGFfTFdIYjFaMXF5QXRheTZVRUlzUjZJRF9ITTdkS3g5YzlCd3k5S0RHM09kZXA5Zm1vTk1PZ3k3XzBtcVZBMkFUZmQtenlMRVB5eVhiM3hKVktaWUI1M3g4N0N5LUJvUF85Mi1Yb0xXSVYyaXpuclRuSEFWdmNYa25yQVY5NVhHSEI1Wm1FeU84?oc=5",
+  "clave": "ampliam cuidados leis maes",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1f014573dd9d",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "ES Hoje",
+  "titulo": "Projeto quer limitar rolagem infinita nas redes sociais e reduzir danos à saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMk5idUs1bktaVG1MSHc2YkVhUWNVT0EzSEN2RjFPd0poZjA1LVBja3c0dVpzS0w3c0VOTHZmTXgzMFlNQ01LSEtMdzNxWWZnSUE5d0otTzI3Y1pzQjBjQVZfSUNMZ2NncnJHNmJtX3NEWGVULVNyLWJQNVdQRW1NaHViUmZZa1VOTWVvLS0wUDBDY3N3OThhNWxMbUJFa1lqby1wdlN0NUVfdG1od0szV3ZhUThhSXJkRjdxLW5lU01FcnJy?oc=5",
+  "clave": "danos infinita limitar projeto quer redes reduzir rolagem",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "95c6948b13e0",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Plantão TGA",
+  "titulo": "Depressão pós-parto e burnout: leis de Dr. João ampliam cuidados com a saúde mental das mães em MT",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRE5oMHl2QzItOUhiYXFrX0RraTRMSnNnN3dPZmRkUGVWU3RJSndiU0ZoZGp5MDAyY29kWHd1N25BR2hYd05OaGtHQXAzWEw1R1hXVTZlaFJ3Slh2NlNxTm9xbGp6NmNORUp4Y0UzNnl6U240bXE0ang3Q3EzMHdTV0NsQkpXYjZ5LVpuTEZycTVWXzNqZ0d1SXJQajFqNEtyWmw1Zkdkck5XbzR6Y2F4ekRwcDE0YWc5OEZpUjJ2ZUhjb1JFbFlJb2hpTmlHYlUwVThxQVBzdEQ1X3Y0YzUxVDZyMHQwTDRT?oc=5",
+  "clave": "ampliam burnout cuidados depressao joao leis maes parto",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental",
+   "depres",
+   "burnout"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "15bbaa2ebcce",
+  "fecha": "2026-09-10",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "4ª Mostra SUAS: Santarém/PA sedia Etapa Norte e coloca em diálogo o papel da Psicologia nas políticas de Assistência Social",
+  "resumen": "o conselho federal de psicologia (cfp), por meio da comissao nacional de psicologia na assistencia social (conpas), realizou nos dias 4 e 5 de setembro a etapa norte da 4ª mostra nacional de praticas em psicologia no sistema unico de … o post 4ª mostra suas: santarem/pa sedia etapa norte e coloca em dialogo o papel da psicologia nas politicas de assistencia social apareceu primeiro em conselho fed",
+  "url": "https://site.cfp.org.br/4a-mostra-suas-santarem-pa-sedia-etapa-norte-e-coloca-em-dialogo-o-papel-da-psicologia-nas-politicas-de-assistencia-social/",
+  "clave": "assistencia coloca dialogo etapa mostra norte papel politicas",
+  "capturado": "2026-09-11",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": [
+   "mostra"
+  ]
+ },
+ {
+  "id": "11ad6bcca5a0",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "elblogoferoz.com",
+  "titulo": "SALUD MENTAL | Sanidad impulsa una campaña de sensibilización con motivo del Día Mundial de la Prevención del Suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPb0Zyc1VXOGJHaTFCaDB3dURTR21qdzJxaFRMTEp2SlloMUFoVUNnQi1fcFNEUmRoLVZKSGZPR2ozYm5TMlFaTGhwaUg5c3U4V3lnaUdPRlRqaVVNcXlnWHBvQXFuTC1IcnBLVnRNTVJlUkM4Y0xHQUh2RVhXU21pN1EzV3l5ZE5tTTFObG1KN2w3RzVkY1M3V0ZfcHRKbWsxeGVnbXdZNVNQMzFfdnNlcFFhcmc4ckR2a2FxYTlHS2QwZTEyeHFIUHc1M1hYLU5oZnlURVVOZkxuZHNZNzg5eHZRQ0dQTF8xN1JCLTBn?oc=5",
+  "clave": "campana impulsa motivo mundial prevencion sanidad sensibilizacion suicidio",
+  "capturado": "2026-09-11",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
+ },
+ {
+  "id": "cca51594e2d5",
+  "fecha": "2026-09-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Vithas Aula Salud Colegios 'vuelve a clase' para formar a niños y adolescentes en hábitos saludables",
+  "resumen": "las charlas abordan desde nutricion y obesidad hasta abuso de pantallas, sexualidad, salud mental y emocional o tecnicas de rcp",
+  "url": "https://www.redaccionmedica.com/empresas/20260910/vithas-aula-salud-colegios-vuelve-clase-para-formar-ninos-adolescentes-en-habitos-saludables/350591_0.html",
+  "clave": "adolescentes aula clase colegios formar habitos ninos saludables",
+  "capturado": "2026-09-11",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "habitos"
+  ]
  },
  {
   "id": "c9574eba6d88",
@@ -476,6 +1430,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "afdd7f368246",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Castelló Extra",
+  "titulo": "Sanidad pone en marcha el servicio Acompaña para el seguimiento de personas con alto riesgo suicida",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNEpwQUVoSnRtckJsQS1OMVNZNmh2YzVKbmoza2VCZ3VlV0l3aEI4cUpsTkhGYWoweUJtOWxqTVhpT1ladkxGQVFUVUkwRlFmcG9QdG9GT2M0NTd6Qm1vbmhObUpudXcwMXkwZmNzR0xwLTM0ajZOOGt4NkRVTzZZMGU3TnhIM2Q1LUZfWGVSTkdYVzY4NXB0RUxGV3NTZWVobDRUN1pyemQzLWRYSll0ZWpWVXBkQmY3MkIzTVRSNVNYbGpXZFE3aHRKV1Rvb00tUUJmYU45Ym1Ec04tYlV2dTliOGtfaU8x?oc=5",
+  "clave": "acompana alto marcha personas pone riesgo sanidad seguimiento",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "suicid"
   ],
   "ruido": []
  },
@@ -2820,6 +3793,25 @@
   "ruido": []
  },
  {
+  "id": "72ccbec1e6ed",
+  "fecha": "2026-08-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "CNN Brasil",
+  "titulo": "Norte e Nordeste sofrem mais com a falta de psicólogos no SUS",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNVJGVkoyalU5OW5zRmFOaTExdVhCUnVNaWlvN3dTLXEwMUw3dm5lSVFKRnJEQmtGMFBobzg4X0t2YnE2LXdYZXdyd3d3V2xPSFRYUmRiUVo1OER4NkV6UFU2YzljN3d3d1hocE9mWWM0TVUyR1BVaHh5ZnBLOURtTmpDSEVGdURCTl9JNmQ0dkUyWTJPaE1qT3RwUjFFZw?oc=5",
+  "clave": "falta mais nordeste norte psicologos sofrem",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "995b64c1d518",
   "fecha": "2026-08-28",
   "carpeta": "03 BRASIL",
@@ -3790,6 +4782,25 @@
   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMDhFakpnLUNUWnM3UnZNQXpvZFZqSzE0ZTFtaXI4Q08xbDdZNjI5SERpSVRoM3ZSUzZxdnktd1poRmN5Wk9ESkotODhYRW5neTE5eHU0cUdlMmxHdTJ1YTZvZGstaDhodjZneHJZa1NXTWpDLUYyckpLY0xoNjlwT1FWYS1QaWRJbFhRelRPSGxQNE1aRkc3TXJ1YnZPNHV6aHhWQV9UNzJNcEd3d1B6NmR1MFZTeGZRUlVsaWRKR3ltandta0V3WjVVSkQydE45b0hIcS0wM3B5ZWZ4Q3EzOE4tcU5NU2RyY2c?oc=5",
   "clave": "alfredo bets brasileiro critica destruiu flavio gaspar jogatina",
   "capturado": "2026-09-04",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0b047805952b",
+  "fecha": "2026-08-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "bra1.com.br",
+  "titulo": "Saúde mental no trabalho: lei chegou, mas falta cultura?",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHYtdWgxYm5QWHFOYThCYVpSdHZad09fZ1ZEbThFY1JxMFhWMDJBbzJ1cTJLOEpsTFhQLTJObDhlZ2ZCeEJQMXBVRHVEd2xNMDl2dWNrTnpzTFlPVzAwamdlblV1MUNaLTdKVTJEUnpjNTVVekRLU2xON29mZG5MelM2ZGR4R2JpSnY3N2VlMVVpQzFSQ01rWHQ3RmZJQ1lj?oc=5",
+  "clave": "chegou cultura falta trabalho",
+  "capturado": "2026-09-11",
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
@@ -5502,6 +6513,25 @@
   "ruido": []
  },
  {
+  "id": "42033c23628f",
+  "fecha": "2026-07-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "El Economista",
+  "titulo": "Oryzon duplica su inversión en I+D y refuerza caja mientras acelera sus terapias en oncología y salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdkYwZHlqdXVvLUpVSHpRQTZVek1yaHZMd0Q4UzRzLVVIaDJabEgtdFl1ekxHN00xa1FxQjg5UDgxaWVzSVNuRnllck9Oa2VDVzNTdklVS3FKem9UMTk3VlRlUTlGd1N4UzFyU3FlWktnc2UxcGh1aS0xenlrdk9nQ1hnbkpweWYxZDV3eFpXb3hKbXMwdmdpTEp0YlBWZERhWVJ1bUMwdHFPNkw4X0Q2cWpNaFB4d2Z4WlUxNjNGZ0hDcVI5YldwNjh1VVlJRDdGb2txcUVKeHVjeTlTNkppWjZlUzJCbTVJYVpXZTQyNnJBQW5saGhDTHVLSHlDbFNROGkzVVFWV29oQVM1?oc=5",
+  "clave": "acelera caja duplica inversion mientras oncologia oryzon refuerza",
+  "capturado": "2026-09-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "05c84615b5cb",
   "fecha": "2026-07-27",
   "carpeta": "05 GOOGLE NEWS",
@@ -5619,6 +6649,25 @@
   "ruido": [
    "opinion"
   ]
+ },
+ {
+  "id": "394c5dc50854",
+  "fecha": "2026-07-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "La Estrella de Panamá",
+  "titulo": "Salud mental en Panamá: pacientes atrapados en las carencias del sistema",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFdWNlgwOVV3dGViVHhBWjBDQTctSkZmcUFRWEp3YW5iSU03UDc4cGZnZGxBYk13dG03dkpqY2ViRHh3UGI0Y0tUeXZPYXp1VlpxRlBvbVZrSnNScmpOUktSanlPSlpDdi1rT0dmdFFQeUZsSVVBSEZhQ2pmU1poN2ZmVHpSc2FhRy1DWmw1MVlVeXV6NkRKcVFBOWl1TW5zcDFULVhnYW93MzJIWjJDOFBlSS03MlhiWUkwRVgzWm94NzVPdkVJ0gHMAUFVX3lxTFBucGY4X1ZZZWJZOWxSRTFQcEZtYlJDbHNBb2dSUVA0dm5ZOVpuSkthWkY5T1VlVVNiUGN4YjctRVVDQXhQbklzaHdtUE4teXZQNGJLMWh4RXJFZTB6eWY0NDgwYWpxOWhleUlJOG1kd2R4c2xWYWg1NlJzRU51VUNCaWlDaV9oMlZxZXFGSjBhZU5HelJic2hGbnJXemQwUUN3Mk5oaklaS2c5OS1zYXRXUHUySkJCX0tuRER5MThJZEVvQUF3UjEzbjEwcA?oc=5",
+  "clave": "atrapados carencias pacientes panama sistema",
+  "capturado": "2026-09-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
  },
  {
   "id": "bf3581b30a12",
@@ -7625,25 +8674,6 @@
   "categoria_auto": "otro",
   "topic": [
    "mental health"
-  ],
-  "ruido": []
- },
- {
-  "id": "1552f683ddfe",
-  "fecha": "2026-06-12",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "VEJA",
-  "titulo": "Empresas terão até final de agosto para adaptar norma de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmVBaGo2ejBOMVJEajFGWVFaM0p3UzB6S3BNRmtHTzFNN3E3dFRUMmhseUx4WGc5S1VPNUtBS3VCNy1NRXpYUzZuRVVPV0tFZzBUQUZBS2xCeDFLTlBUdzRkcnpyNHBBSURrT2FUZlU0cEJQX3ZKLUxILU5HSXJaNE1HVTBOUkV5QV85d0VlU0lUeXBleG0zdTh2UkZyU1JrQ0N4OGo5VkI?oc=5",
-  "clave": "adaptar agosto empresas final norma terao",
-  "capturado": "2026-09-04",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental"
   ],
   "ruido": []
  }
