@@ -1,5 +1,25 @@
 [
  {
+  "id": "071db82e06ba",
+  "fecha": "2026-09-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Mirón de Soria",
+  "titulo": "Sanidad prepara nuevo sistema de vigilancia de salud mental con Registro Estatal del Suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRXN1UmRpaVI3LVdHRjRfT0drbUE3UHBKekVtNzNHa0ZnU25qT0Q3TEwtcy1Qb3ZyQVNSYW1DRllseFNyWTVpZjByNkJTbHdIaU5xTGVRWnV6MGJIdEFCLTZsMEhLMWY0U29fMHpvNmo3bXdkWFpCYmcxVy1GM1FaaXZCZkQtYWtXcUZ4aVRMWW5CcU1xbzIzN0hrTUwzbEZLazZCVUNFNGgyaTdicFhoMU5mWG9NNHg0R0MtRTVRaFlwanp0QXNrcVYydmxOMnIyR0lQajdVemrSAdgBQVVfeXFMUEVzdVJkaWlSNy1XR0Y0X09Ha21BN1BwSnpFbTczR2tGZ1Nuak9EN0xMLXMtUG92ckFTUmFtQ0ZZbHhTclk1aWYwcjZCU2x3SGlOcUxlUVp1ejBiSHRBQi02bDBISzFmNFNvXzB6bzZqN213ZFhaQmJnMVctRjNRWml2QmZELWFrV3FGeGlUTFluQnFNcW8yMzdIa01MM2xGS2s2QlVDRTRoMmk3YnBYaDFOZlhvTTR4NEdDLUU1UWhZcGp6dEFza3FWMnZsTjJyMkdJUGo3VXpq?oc=5",
+  "clave": "estatal nuevo prepara registro sanidad sistema suicidio vigilancia",
+  "capturado": "2026-09-13",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
   "id": "ca92e368f4fa",
   "fecha": "2026-09-12",
   "carpeta": "05 GOOGLE NEWS",
@@ -15,6 +35,83 @@
   "categoria_auto": "regulacion",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2ea1bd75ecf5",
+  "fecha": "2026-09-12",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Los médicos urgen una reforma formativa para proteger su salud mental: \"La prevención debe comenzar en el grado y el MIR\"",
+  "resumen": "la evaluacion de las estructuras del grado y el establecimiento de sesiones de apoyo a los estudiantes universitarios puede desembocar en una generacion de medicos mas 'saludables' a nivel emocional. cuando el mir pasa factura: \"el estres tambien dejo huella en mi piel\"",
+  "url": "https://www.redaccionmedica.com/formacion/estudiantes/20260912/los-medicos-urgen-una-reforma-formativa-para-proteger-su-salud-mental-la-prevencion-debe-comenzar-en-el-grado-mir/350601_0.html",
+  "clave": "comenzar debe formativa grado medicos prevencion proteger reforma",
+  "capturado": "2026-09-13",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0618d5b88ae7",
+  "fecha": "2026-09-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Enterate Noticias",
+  "titulo": "Elías de Pérez exige reglamentar la Ley de Salud Mental y Prevención del Suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGFZYUp4NkhSMDU2ak9iejdXOGpfZVgzZXNsc0tNdW5XTDhQQ0xfNEJkbG8wRzZrTnB1UjZfdk9BLTd2RHFpTFVPdmVoZzNWblpwYkE5X19wS183NkxUckxvT1ZvekdveFNzTG1RM0JkeFl2VllWbm10M3NBM1hFTkhNc1NTZ3otZEMxSTU0b09yTkdOZ2huZUFJWDNzRmVicXdNM2NVaUZOanF5THkzSzZQRUlERGh5QWFOVGxQQVc1cXNVTFE?oc=5",
+  "clave": "elias exige perez prevencion reglamentar suicidio",
+  "capturado": "2026-09-13",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d2a4d3bef4d6",
+  "fecha": "2026-09-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Desconcierto",
+  "titulo": "Los desafíos de la primavera gris encuentran a Chile sin ley integral de Salud Mental y con el Estado en deuda",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT2V1UFlvNV9fa2hZYWtPSHdzUWFXaWpBRTItV3ppTkdoNnNROElucU4tbWhOdjNTdFEyaTJSQ18yYVBvdVFnTzRxbXJTTFRVczJuNmVtNm1waVdHblROSlVLNTFsQ1c0M25Na3hiLWlhVjhTZGV5Y0VXZ2RZY0YxVEpCd3pMTFFON0tUSncyMEVEMFUxZnVTZGlwbnZUanhXZWpvbzhObFgyWmdvQTd1dE9FV2dESnpUZlpaTmdHZl9KcGxvU08wLXRrbmt3dnBadlQw?oc=5",
+  "clave": "chile desafios deuda encuentran estado gris integral primavera",
+  "capturado": "2026-09-13",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "80254c813c52",
+  "fecha": "2026-09-12",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Irene Montero (Podemos) presenta su candidatura a las elecciones generales: \"Los sanitarios tienen que estar bien remunerados\"",
+  "resumen": "la candidata apuesta por un programa politico centrado en la vivienda y anuncia la convocatoria de primarias \"abiertas\" en el partido la psicologa ione belarra se postula como candidata de podemos en madrid",
+  "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260912/irene-montero-podemos-presenta-su-candidatura-las-elecciones-generales-los-sanitarios-tienen-que-estar-bien-remunerados/350674_0.html",
+  "clave": "bien candidatura elecciones estar generales irene montero podemos",
+  "capturado": "2026-09-13",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "psicolog"
   ],
   "ruido": []
  },
@@ -514,6 +611,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f35984b5b1c4",
+  "fecha": "2026-09-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "Finanças, Câmbio e Investimentos",
+  "titulo": "Eli Lilly and Company conclui aquisição da AtaiBeckley para tratamentos de saúde mental - Investing.com Brasil",
+  "resumen": "eli lilly and company conclui aquisicao da ataibeckley para tratamentos de saude mental investing.com brasil - financas, cambio e investimentos",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa1JnM2VXeURkSU1CZXF6UThMejdDQkhwSVpPdElCeVphR0pUcE1iNFY4ZTkwOGNVd3hudTdna1ZxUXl5eWRucXRMb2cyZWJwaWEwbDUzMW9FbG1YdEpwakJhVVBjbUR2bjZjcEFldHU3eWVPUkZxUUVnZ01STmlCSEVTa0hGYTg3NUhiYVQwcWhSNDBQNTFjTTRJZW1mZ0IzcjJZVGhUOTRUQ0h3bWozSXZvU09HOFJwbkhEUHo5Q2hvdl9MTkFtWWpxU0J2Z0dzNmp5dDVXdzRaR28?oc=5",
+  "clave": "aquisicao ataibeckley company conclui lilly tratamentos",
+  "capturado": "2026-09-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -1328,6 +1444,25 @@
   "puntos": 2,
   "prioridad": "C",
   "categoria_auto": "otro",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bcb63051e664",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "elperiodico.com",
+  "titulo": "Sanidad creará el primer Registro Estatal del Suicidio para conocer mejor los factores de riesgo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNXzBrc0JzX2VmQ2hDcGVNMUZ5bzFYb1czWjRJeUhZOUY3RnNwaTdRMXpOYTZCMklDQTJGbnl0MjZYaWNJbVVRQzhXMGI1V3AtR3lSUC00Vmp5YVVaQXlzSlRnOVp4eHJHMW1HZkhTaE1DN2FjMkE0SlE3U3c1VE43TmI4cmhoOXVXM3MtTjN1U0hKMG9uMU5OWkhPVVdYV3hHenMwa2xBdGZfdFNvZXBYR0pFbnB4a1czdE9QanpOekNkV3NW0gHEAUFVX3lxTFBGUTY4SU9XUkU2ajdka0l1VmdqOW54N3YzandHYnV0UXgzcm5zQjJXZXNBRnZtTjVYdUpqYThmRmlUdTlmOW1ueV9Cd3JpamFISEF6YVN2eVg4NU94SXF6R21sbkZ6MEZFNmsweXdMRDlNOEN0N3V4cVVXWWREN2ttbXFaTkVVNTI3NGthZlFxcWt6ajBzbm9rUk14SXB5RFI0cG9BR2ZuZE9TWVRPdUVQMmVNU2ZlN0MzWmF6Mzhpa3NEN0g?oc=5",
+  "clave": "conocer creara estatal factores mejor primer registro riesgo",
+  "capturado": "2026-09-13",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
   "topic": [
    "suicid"
   ],
@@ -8446,6 +8581,25 @@
   "ruido": []
  },
  {
+  "id": "b5c806648cbd",
+  "fecha": "2026-06-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · PT Portugal",
+  "medio": "dnoticias.pt",
+  "titulo": "Resposta em saúde mental na Região reforçada com 40 novas camas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVpfVmVBRnVESE9McVpuMC15SUw0VjNUbExMcVUzdDEtdEhfYWFzS3VraXdqd0dZX3Bkd2xQQkhybU9pZWNYSWtrOEFRelpCc2hyNDVpYmhqaTh5MExfVUZ4OW1GOWxOdUp1OWlsc3p5SlpOb2hHR3o5aXNVMzlKY1BTRjhNaDFtSXFMdjFLd0gwTmNKQzRMYVFxVHN0dHhlb1VKcndQc0xjMXRoWktB?oc=5",
+  "clave": "camas novas reforcada regiao resposta",
+  "capturado": "2026-09-13",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "fac0927049ba",
   "fecha": "2026-06-23",
   "carpeta": "05 GOOGLE NEWS",
@@ -9001,66 +9155,6 @@
   "categoria_auto": "mercado",
   "topic": [
    "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "b774a15ea35e",
-  "fecha": "2026-06-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Las Provincias",
-  "titulo": "El elevado precio de estar sano: «La salud mental es la hermana pobre de la sanidad pública»",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTJLYWNZWGRVXy1TcGJoSjhSYnNtbWZFcHQ1QmNUbU94UjY5VnVaZFVZZFFYd3FUV3hrRHNKQkwxQmhqTkhxRk1kM0NkQklWcm5YUDYzOHpuM3JlVXJnRmk2VnZJWHE2UU1NeGpITWhWMjZwSTlZVGxpcURraTY2OUpQRXBxeVZyOF9wemxHVkJHVzFjM1V5N1RMSWd2VF9VWmxUZTEtWnBqLTJZTXZMLWxTb9IBuAFBVV95cUxPM0Y4NElRNi1ZNV9HWkVHYnBTY25SWExYWUgydWsycS1RZ2dCUWVKd1dtNmp0bnlweDRSdW1DRS1uOXFnakpFYkZIZTEzTDVqMUpaQXQ5TTVDT3dZMVRzWi12MmVSMVJwanRqanpQTmhvMjNmdy12RVZlZGlCMFN3X1JBRmJMdXhrcFZtZDNPcFNXNDE1SzZRdHl6T3FsQkRoNUFONkpkOXpkcHpCSGI0d0tqYjZENmZJ?oc=5",
-  "clave": "elevado estar hermana pobre precio publica sanidad sano",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "98f759c4941b",
-  "fecha": "2026-06-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "contabeis.com.br",
-  "titulo": "NR-1 em vigor: dicas de adaptação às novas regras de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWU4U0c4dlEtWVFobGtPSzBSeHU0YkFra01SZTVuYklxcV9ud3k5SmRwWjNYNFhSM3ROdTZMQmNxOE5DTG1xeTM4ZU5saG9XQzNlaHZpYVVwMjJDTHVWcWNqVjlFZzFWZmtramIxb25PblN6YmtCZVJ2MlJDR1ZUQk1LNV85akNnVDNNX0pkcEtzWmpVckJqY2NOZUIwYV92V2gzazcxLUVMYkJHdEE?oc=5",
-  "clave": "adaptacao dicas novas regras vigor",
-  "capturado": "2026-09-05",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": [
-   "dicas"
-  ]
- },
- {
-  "id": "2c5d09a8a32d",
-  "fecha": "2026-06-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · EN sobre nuestros mercados",
-  "medio": "aleteia.org",
-  "titulo": "Why Pope Leo keeps returning to mental health",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdVVxeHRFZmg4YmlISHg3MzVhUzEtU05SM0YtRWtub2hNOE51YjRsbnM1WlNXMzRNeEQ4ODdXWEw4dDJDbVpfMVRLYlc5ZGtxNFJUZGJjV0ZTNlNYT2FpSHctRXo1NU1sSjVadFpXbVFwb3ZPTm8yRU54MVI0NFFiNHVqQQ?oc=5",
-  "clave": "keeps pope returning",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "mental health"
   ],
   "ruido": []
  }
