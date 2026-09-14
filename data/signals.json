@@ -1,5 +1,145 @@
 [
  {
+  "id": "e8c4c0fd9211",
+  "fecha": "2026-09-14",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Levantamento aponta as especialidades médicas mais buscadas em 2026",
+  "resumen": "levantamento do boaconsulta, plataforma digital de agendamento de consultas e exames, baseado em mais de 96 milhoes de pesquisas realizadas no marketplace entre 2020 e 2026, mostra que psicologia e psiquiatria lideram as buscas por atendimento medico em 2026. segundo a plataforma, as buscas por psicologos, psiquiatras e terapias sairam da 5ª posicao em 2020 […] the post levantamento aponta as espe",
+  "url": "https://medicinasa.com.br/especialidades-mais-buscadas/",
+  "clave": "2026 aponta buscadas especialidades levantamento mais medicas",
+  "capturado": "2026-09-14",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "psicolog",
+   "psiquiatr"
+  ],
+  "ruido": [
+   "mostra"
+  ]
+ },
+ {
+  "id": "4711f94c3418",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Comercio",
+  "titulo": "La nueva Ley de Salud Mental llega a la Junta con discrepancias entre los expertos: «Pedimos que sea posible cumplirla»",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUMtTlBQQzBocWhFNEVxWDREQm1rTXF6MjFqWGJqMDdJcjJxdkIxdDVOWF9fUlotbkw2Q1A5LTVnY3Rpb3Jwb1FiRDZvaUhNaHE3TEtCb3JvTjc4anJUOFhHcnFiYmVqSzNHNk5GTm5Tc25XMzNIQ2dsMTE3VkE5by1aNThKNTBSM0w5SGhCbnVXSllsc3V3cnFOLWg?oc=5",
+  "clave": "cumplirla discrepancias expertos junta llega nueva pedimos posible",
+  "capturado": "2026-09-14",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "659d2035d0fc",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "bombabomba.com.br",
+  "titulo": "Startup maranhense aposta em educação socioemocional para fortalecer saúde mental nas escolas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdllqVXpOc0ppSGJZWmxYNnd2ZnVMQVk0NVNjeU1EaG1kcFE5SXo2aDlWQXhLeHlGc0lNU1F5T1ltZ3ZEdWhQLW5TVHZZRjlnRFFBNFo4enhaaTN1WldrZFVOUDF1eXM1N1BDVFo2ZmVaNUdRcWlQaHZpeDZhUGtEeVIwVDVob1ZNVFpfclJMSHNjNUxtcmFad0RaVnk4UlFLOVB5WS1NYlZRSk04eklxdk0yUEs4NDE0ZzFBYw?oc=5",
+  "clave": "aposta educacao escolas fortalecer maranhense socioemocional startup",
+  "capturado": "2026-09-14",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "44b5d2924ccc",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Periódico Extremadura",
+  "titulo": "La unidad de salud mental infantil de Mérida evita ya desplazamientos a Badajoz y Don Benito",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbFZlTGtiWkQ4N0xpNUZEd19oTVJYUHhiUjROWVdkd09RajItOU9ILXNyTE5wMU9lT3dwdzVNalE1Zks5c2VrMEN3S2M4V0MxWndwZ2NlRVdZWjZuajgzNUp6cFBpWF9HUldNNmQwR0RvWjB3OGlmdmt5NXVnaGlNZ0ZFTkNpejY2Y3FORC1HT19hNGF1eXFkY3BZZW9pYldKaHUzOWpOc0kyMmRyUW1CUHZNbmRXYVBuSkVYWTQydlE?oc=5",
+  "clave": "badajoz benito desplazamientos evita infantil merida unidad",
+  "capturado": "2026-09-14",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e5ec98288761",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "hojaderutadigital.mx",
+  "titulo": "Proponen que IMJUVE impulse programas sobre salud mental y prevención del suicidio entre la juventud",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR3dUMFRXRTlpM0psS3pNRldQX2l0VFM1bjdCa2s1MzdYUmM0SXZlOGlxaFFPN3NXTnpjNjZmSldYWXNLWjNzZDZ5WXNaSmZNRjRDTjRHR0Uwb3hFVVRfYllBOFhvZVE3RDNXa0NtNGl4b1hBR25RSDBiWTRBLTV2b1FIcnFkeEMwdHFwWUFqbE9nc2FXcDNHNWNwWmF3cDR0azBnV0hTcGwtNkFhMTVSYTdOSkc2QWxpMHlaNm1lVWEyTmdUZXk2bGZn?oc=5",
+  "clave": "imjuve impulse juventud prevencion programas proponen suicidio",
+  "capturado": "2026-09-14",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "08f0223c6298",
+  "fecha": "2026-09-13",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Ni presencial ni por teléfono: la vía más eficaz para tratar la salud mental es por videollamada",
+  "resumen": "un macroestudio en jama network open con 800.000 pacientes revela que las videoconsultas reducen los ingresos psiquiatricos frente a la atencion presencial la psicologia y la sanidad aterrizan en el anteproyecto de ley de accesibilidad universal de madrid",
+  "url": "https://www.redaccionmedica.com/innovacion/avances/20260913/ni-presencial-ni-por-telefono-la-via-mas-eficaz-para-tratar-salud-mental-es-videollamada/350456_0.html",
+  "clave": "eficaz presencial telefono tratar videollamada",
+  "capturado": "2026-09-14",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psicolog",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "63a2b0332f4b",
+  "fecha": "2026-09-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Portal O Dia",
+  "titulo": "Lei quer promover saúde mental e prevenir suicídio entre profissionais da segurança no PI",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM25Sb1ZlcEJPVVhrejVGQUpybUxHaTdrejFZNFc2MlBDbTZrR1EzLUNPMkhHNVNZdnIwLUxPNmJ3bkptWDJKemdwWUZQcWhWZ3Z5X1JXSUdGQkVsUUR4RWY4SzZXaDAtcEVueW1hZ1RmZG9oMk80WFI0aFFZRHFibGdpLXRoaGtQZ0ticzV5Q2tJM1hYNkU4X3p3YnNYQmdBUy1wN2Z0V2hVdXFFWG5kb0NmX0hJcEpwNFFwNFhxd3NDcjg2bzBFRHRYNk9aVXd6d2wyWnlhV2hiWnFMQUFVZy1HUEtTQmZy0gHoAUFVX3lxTE8zblJvVmVwQk9VWGt6NUZBSnJtTEdpN2t6MVk0VzYyUENtNmtHUTMtQ08ySEc1U1l2cjAtTE82YnduSm1YMkp6Z3BZRlBxaFZndnlfUldJR0ZCRWxRRHhFZjhLNldoMC1wRW55bWFnVGZkb2gyTzRYUjRoUVlEcWJsZ2ktdGhoa1BnS2JzNXlDa0kzWFg2RThfendic1hCZ0FTLXA3ZnRXaFV1cUVYbmRvQ2ZfSElwSnA0UXA0WHF3c0NyODZvMEVEdFg2T1pVd3p3bDJaeWFXaGJacUxBQVVnLUdQS1NCZnI?oc=5",
+  "clave": "prevenir profissionais promover quer seguranca suicidio",
+  "capturado": "2026-09-14",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
   "id": "071db82e06ba",
   "fecha": "2026-09-13",
   "carpeta": "05 GOOGLE NEWS",
@@ -18,6 +158,67 @@
    "suicid"
   ],
   "ruido": []
+ },
+ {
+  "id": "51960268dfc5",
+  "fecha": "2026-09-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "LA17",
+  "titulo": "La prevención del suicidio aguarda por la aplicación plena de la ley que es asignatura pendiente",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGZ4WTZjV01hNmlLMTFncENHR29NWDhBdjVidy1ubnJZM3NXZXFKbFBtdm93VkQ5SDF5cmRTa2lmSGhROGZjS3phajZqT2dfTHRRMDlpTDFRb2xfS3VhYUl4Y3RGSGc2ZkJrVkZvbFhUQlVIRGlLd0xTSzFRSEtINHUxYjU0czlFUkxhQVVRQ0FTYk5EbEg2NW1aeDNfZ3prQWFiSVZ3QXpDWGZoZlVqYzM2WHVFM1ZoeklwSjNHUWQ1NS1zQmVhUTZ3?oc=5",
+  "clave": "aguarda aplicacion asignatura pendiente plena prevencion suicidio",
+  "capturado": "2026-09-14",
+  "puntos": 1,
+  "prioridad": "C",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": [
+   "que es "
+  ]
+ },
+ {
+  "id": "3de9fa9f3215",
+  "fecha": "2026-09-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Las Provincias",
+  "titulo": "Los problemas de salud mental llegan a máximos desde la dana",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR2M4Z0ZIalRONEd5ZVp6RGVSWTBGcHlVM2ZMN0VtMDBRQ2k4ZEdjbnFuSHRNanRBTnI5YWE1ODZGZ0xzTzQyZEVqelZ0SjNWYV8wa1JPWEF3UjJSckNSbG9jV2J2cTY3M1B5bEh5aU5XZW5uMHZKOG4wYkR1ZVQ4bzZIX2JxTGtRYjRmUnRSelk1NWRGTGtjeV9hVURfSk4xQzhCcVBGY9IBrAFBVV95cUxOenZrdWpVanVRM3J5cE9WNXBVZDJobWZhSkJOZHVRaG1ucmlLV2pmb2lQM2U5eWpmdjRsZG1CbW5KYmxGckI2bHp2SUg0d2VETmNwN09PUEdnd1RueUs1UVNTU2VPWkdtYnRjem80aWl1ZnJKTVRoOWtFY2V0LUxIMWF6bEVxNkNfTEtUdmRXc1drOEY4T1VPdHNYcVBiaFR1RFk2Q1RGaWJvVW14?oc=5",
+  "clave": "dana llegan maximos problemas",
+  "capturado": "2026-09-14",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5de656c9f5ae",
+  "fecha": "2026-09-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Izquierda Diario",
+  "titulo": "Revista La Ventana en la Feria del Libro: arte, palabra y salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMEx2ejNPZWdZQURTcjdrejJFU2VRUENGZDVBOG80NmhJcHhrOG1raHZRajRzQ29lUWlKLURIdlpYV0UwSXE1dmllR0tKUklzczE4SllrRjdVTjJ0NGhaOFZOOTFUOUg4Z2Q1M3hpUURPTWlNNS1HeWllV0JzWU9KUFJwak1lRzhmZDc0YnJ2c0FRWjRNY21SZFlBN0Y1S19CaFhac9IBrAFBVV95cUxNN19ZRTAyejFmOTREanFrSGRGdEdKblptZmQ3bFhuTkhBMDF3VGFrSEhGSGlDbDgydzg5aE1wN2J3V2VWeXE2SVhsZUpVS3RSbFMybVZ1bHFja0hxcmpiWFZ0azhnNHNaYndLbHRRTFoySWduVXVPZXJrLVZWeHRyY1hISHRjVEVUME45ei1GNzQ5VmxQZlpGOGRYa2VCYnc4MDNaQm90amJ6WUhU?oc=5",
+  "clave": "arte feria libro palabra revista ventana",
+  "capturado": "2026-09-14",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "libro"
+  ]
  },
  {
   "id": "ca92e368f4fa",
@@ -1464,6 +1665,26 @@
   "prioridad": "C",
   "categoria_auto": "sistema_publico",
   "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a9a8cb85e58c",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Médico",
+  "titulo": "Sanidad prepara un nuevo sistema de vigilancia de salud mental y un Registro Estatal del Suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdVZWOW5kRGFaMF9GN3ZGcC1JbFhPRDhnMVlkTlg2TlhkeW55N3dhQnRkTEg2d0VSMUdvUi1pOWxXV0MtaHlwcUNZRHRhOEh1bEVGNGRtRFdCOEViYVlDM2JudGFsWldXS09kUnRfU3o1QlNDYmtTb0owdWR4Ni1rMTBmV3B4R29jLXR0TzNVYk1jWkgtQW90QzVNT1VaR0ZaeE5nTUtVUkJBUmFuUjAtVVM3d3BhbTJMU2JucWV1NTRXamdJclp3THRPZnFPdDA?oc=5",
+  "clave": "estatal nuevo prepara registro sanidad sistema suicidio vigilancia",
+  "capturado": "2026-09-14",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
    "suicid"
   ],
   "ruido": []
@@ -5574,6 +5795,27 @@
   ]
  },
  {
+  "id": "593a3fb5ebc5",
+  "fecha": "2026-08-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "Globo",
+  "titulo": "Selena Gomez quebra o silêncio sobre acusação de fraudar investidores em empresa de saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOWxSeWNqNmFYZzdxN2pxSUJicGJfNk9oQjY2VUp5UHplaDZ2bWlPNGxMX3YxQUgxczVsSEJIaExuNjJkTnlrUzhVTWZObXpzbVIwSGMwV1lodFVTZ0V4YmlrLVZWV3NFX014TEItS1VmaTh6dXhEVU16bGdER1ROMDQ3Y0FhVVhKYi1ISXItT2JEUWsxQ1hPdWxpUG9JUVlOVlRyMUhEOS1vSTQ3cFRvWTBVZFFTVDktbXVCOUpmTk11aGd2d21FQkZaektIS2VDSG54RFd1MkFxRFJNa3dBNldXVm9VV0xhNGtwQ1E1cF9pYXR0NEpycmVCcWx0c3lPalHSAZACQVVfeXFMTU5ES1pWbXdpc2piRUpfLTg5MjNlX25Cbm82MndpdDdmYVBVYXhZU1RNS3YwQmc5TGlsMUVjdk5CX1NEOUZ0alIwMFpGVG1xVnRNeWV5X0VKTm9vSnl1U2o0LVA2Szh4SzhMVXNKVjhFdHNSeWlSTWRleGVKdFR0Wl9kai1nWENUNXgzbmVPajdwWFM0aUdBNVN2bW9uY3ltWnlDRkhJbDRzZTVLellIQnVqM2xuV2JwRVR1dU5xWnBnaGQtT3pLLTRNMWVERDdvZDNKbHRWUllsOEhQc1VaVlpxY0dCRFFOQ01rWjBOc1gwMkt0MjZINXNDbTA5eVl3ZUd0bXl1bkRrRExNM1diRjg?oc=5",
+  "clave": "acusacao empresa fraudar gomez investidores quebra selena silencio",
+  "capturado": "2026-09-14",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "selena gomez"
+  ]
+ },
+ {
   "id": "84ecca5dde52",
   "fecha": "2026-08-15",
   "carpeta": "05 GOOGLE NEWS",
@@ -8679,6 +8921,26 @@
   "ruido": []
  },
  {
+  "id": "72183c2bc69f",
+  "fecha": "2026-06-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "CartaCapital",
+  "titulo": "98% das empresas veem saúde mental como prioridade, mas só 35% mapeiam riscos psicossociais",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWNvQUllTng3WUFRLTZzcUp3ZDZvZWJ4QUFneVRWUmJEbVJSTl90dWkyNmFwejVRc0VmVEFSM3hTc1hPSklETzhCdU9FU1hOczNqd3hvdTRycGlITW9qajhQTmU2eXg4QXNDbDZZdFY0a0NVWEZBQ3pYbjYwbU5fZm5BMXpES185OHpIbw?oc=5",
+  "clave": "empresas mapeiam prioridade psicossociais riscos veem",
+  "capturado": "2026-09-14",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "riscos psicossociais"
+  ],
+  "ruido": []
+ },
+ {
   "id": "e669d5c41e0f",
   "fecha": "2026-06-21",
   "carpeta": "05 GOOGLE NEWS",
@@ -9117,44 +9379,6 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "87dd09c210ac",
-  "fecha": "2026-06-15",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Cambio16",
-  "titulo": "España blinda por ley la salud mental de trabajadores",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmVwV3h2Ry02Q202bDAybmthemxUaVF3U2pIcllXbDBZSTFhV1JTV1FCdG0tTHpSQmdYZ2NvS3RuZXRQVkhSbGFLUENDbFV5OTRlQ09xRkl5ejlqdl9oVjI5T0lrdXBfN0NsbjB3MlBNT0pyNkdGeTVHYlVfQkhoVld5eFhNZw?oc=5",
-  "clave": "blinda espana trabajadores",
-  "capturado": "2026-09-04",
-  "puntos": 7,
-  "prioridad": "A",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "4f8fa31e1e87",
-  "fecha": "2026-06-15",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
-  "medio": "Seu Dinheiro",
-  "titulo": "Além das canetas emagrecedoras, remédios relacionados à saúde mental estão entre os mais procurados sem receita",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRkVzM1dwdndzV0xtUm9zV1dRenl0MzlaZ0dkbVNFZ1N1SnNlbUFlNmZoY2ZmNzRfQUozWW9mRF9PUnBkclNQYkNBN3RYdWM0TFNSOEE3RjNnRExPVXJPWUVrbWpnQmllUUoyVzhsYzZTSXZjUGp0UC01cDN2MklkYUhTM09RQXdHSUhyMXRQbHBTR0lLUEE?oc=5",
-  "clave": "alem canetas emagrecedoras estao mais procurados receita relacionados",
-  "capturado": "2026-09-05",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "mercado",
-  "topic": [
-   "saude mental"
   ],
   "ruido": []
  }
