@@ -1,5 +1,159 @@
 [
  {
+  "id": "d89275d7dda5",
+  "fecha": "2026-09-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "A TARDE",
+  "titulo": "Saúde mental no trabalho: entenda a nova NR-1 e julgamento das multas no STF",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1VXd1JwYl9uRzJWaEctdXllcmlJOW96SkJHaElYT0lpVU1LdElSNnNtbTFPa2d0ckRpaG5qMWNxOWV0NUJyMDg2Z2ZsTnNCWTdRUXl5UEp3dG5Bbnh3RDZrb3c2dEZKZUlxRUtfOFF3cnc0OG9STEktWFRubENiMGFCUlhaOUlwTHFfWVlQSTM5OC1tLVVCY0V4MmEwaHpLNVM4Qkp5SXB0Ri04cUtqNTFlWkrSAbwBQVVfeXFMUFN2MWxadjEzd2dWSVJ5blJKMU5iSTJCNnBQaUt2T1prMjV1aUw0QmJGVXR6VlBaelF0UVhVZElWSURlQWZZYUVybjMyMlBhRTZiMzRfRmJiaHJ3VGpUckNrLWZDd1o0SUVIUXpZMzl3YmdvcGQxYXI1dkpGS0ZJNUROUzZoVnBOeW9YVnJpV0xaUzU3djhJcUh0QnRYR0hmS09jaE1jWUN3dHgwOXREQTNTYXM4TTkxQmhUMzU?oc=5",
+  "clave": "entenda julgamento multas nova trabalho",
+  "capturado": "2026-09-15",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "81d49babbd32",
+  "fecha": "2026-09-15",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El Sermas hace fijos a médicos de 46 especialidades tras culminar las oposiciones convocadas en 2021",
+  "resumen": "la comunidad de madrid publica los nombramientos que afectan a facultativos de anestesiologia, cardiologia, digestivo, pediatria, psiquiatria, oncologia o radiodiagnostico",
+  "url": "https://www.redaccionmedica.com/autonomias/madrid/20260915/el-sermas-hace-fijos-medicos-de-especialidades-tras-culminar-las-oposiciones-convocadas-en/350773_0.html",
+  "clave": "2021 convocadas culminar especialidades fijos hace medicos oposiciones",
+  "capturado": "2026-09-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9863dd7b7fd0",
+  "fecha": "2026-09-15",
+  "carpeta": "03 BRASIL",
+  "feed": "Startupi",
+  "medio": "Startupi",
+  "titulo": "Depois de passagens por edtechs e inteligência artificial na educação, Caio Paiola assume conselho de ONG voltada à dislexia",
+  "resumen": "startupi depois de passagens por edtechs e inteligencia artificial na educacao, caio paiola assume conselho de ong voltada a dislexia executivo direciona experiencia em tecnologia e gestao para frentes de identificacao precoce de neurodivergencias e novos projetos de negocios. o post depois de passagens por edtechs e inteligencia artificial na educacao, caio paiola assume conselho de ong voltada a",
+  "url": "https://startupi.com.br/depois-de-passagens-por-edtechs-e-inteligencia-artificial-na-educacao-caio-paiola-assume-conselho-de-ong-voltada-a-dislexia/",
+  "clave": "artificial assume caio conselho depois dislexia edtechs educacao",
+  "capturado": "2026-09-15",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "neurodiverg"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "74827d707f81",
+  "fecha": "2026-09-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Valencia Plaza",
+  "titulo": "Sanidad incorporará dispositivos de realidad virtual mixta en tratamientos de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObDVEWENndzduandZUzVYS1VIaE5QYzduNUVHeHZ6R1NVVEh1dUhDZ2FTNFM1UlZXcW9iZUY0eEQ0ZXJOcVJGYWVfZDI0UnVIQS1zVkdHdUoxSzBEV1c5ZzZzbGtBbEhqbVMxaUxTQVVvcWN0Y3ROSmRYWElZaUx6SUJWTUVvSDg1akROakhIS1NWb1g5dUtYWlBnU0tRVE1YZDVJT09WSWd1ZEY1Zll5ZzhoTWR3cU1VbXlBOHAtQTQ4UTZNNkdrd2dZc0RxY2F0dS1XZDZKSjdQWVFPX215TjZ2X09ZbGs?oc=5",
+  "clave": "dispositivos incorporara mixta realidad sanidad tratamientos virtual",
+  "capturado": "2026-09-15",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1a860a808610",
+  "fecha": "2026-09-15",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | Violencia y desigualdad, algunos de los obstáculos que enfrentan las mujeres y niñas con problemas de salud mental",
+  "resumen": "pacientes: violencia y desigualdad, algunos de los obstaculos que enfrentan las mujeres y ninas con problemas de salud mental",
+  "url": "https://www.consalud.es/pacientes/la-violencia-y-desigualdad-son-algunos-de-los-obstaculos-que-enfrentan-las-mujeres-y-ninas-con-problemas-de-salud-mental.html",
+  "clave": "algunos desigualdad enfrentan mujeres ninas obstaculos pacientes problemas",
+  "capturado": "2026-09-15",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b3f26c22ba93",
+  "fecha": "2026-09-15",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Leer por placer tiene más beneficios de los que imaginas: mejora la salud mental y protege el cerebro",
+  "resumen": "leer por placer, bien sea un clasico de jane austen o devorar una novela grafica de heartstopper, esta relacionado con una mejor salud mental, una mayor empatia y un menor riesgo de demencia, segun defienden expertos de la universidad de cambridge (reino unido) en 'psychological medicine'.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-leer-placer-tiene-mas-beneficios-imaginas-mejora-salud-mental-protege-cerebro-20260915081647.html",
+  "clave": "beneficios cerebro imaginas leer mejora placer protege tiene",
+  "capturado": "2026-09-15",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psycholog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7506668a86c6",
+  "fecha": "2026-09-15",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/biotech/cultural-weight-psychedelic-approval-looms-fda-hearing-focuses-access-and-safety\" hreflang=\"en\">As ‘cultural weight’ of a psychedelic approval looms, FDA hearing focuses on access and safety</a>",
+  "resumen": "as the fda marches toward the likely first approval of a psychedelic medicine, the agency today convened a hearing seeking public input on how these drugs should be used, monitored and continuously studied in the real world.",
+  "url": "https://www.fiercehealthcare.com/biotech/cultural-weight-psychedelic-approval-looms-fda-hearing-focuses-access-and-safety",
+  "clave": "access approval cultural focuses hearing looms psychedelic safety",
+  "capturado": "2026-09-15",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psychedel"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ba80eeae09d4",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Informe Manaus",
+  "titulo": "Projeto de Lei 3091/26 estabelece critérios para Certificado Empresa Promotora da Saúde Mental e medidas a plataformas de apostas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNczliYlpadDZ1MDd3aVJhNGRNNkNSMTVjQ3FvNXJHc25seUFpMUFoVUhQeEdFejlCMGNwbmpXZkZ3cFpReTh1SlVYWkh1bFhhTUVjVW82cWo4Q0V2a0N2ZGlScWlpMUh3UER3eGVWdHBlMTFqV2c1TUFhRW9DVS00ZFVCblY0NlR3TmUxeExKQUNZN253cndORGdHQ25uXzFIX2VHWlVmbmVlX21JY3Y3VEd2eVg0Y19IUEVYbXVPanVPSTlqcjYtbjUyT0IwYjI0cElWTUR4el85bzlrTWZaNVpFdXBTbUZrcThnOExNSjlZNFBo?oc=5",
+  "clave": "3091 apostas certificado criterios empresa estabelece medidas plataformas",
+  "capturado": "2026-09-15",
+  "puntos": 12,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "e8c4c0fd9211",
   "fecha": "2026-09-14",
   "carpeta": "03 BRASIL",
@@ -41,6 +195,180 @@
   "ruido": []
  },
  {
+  "id": "43dc062468c8",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Extremadura 7Dias",
+  "titulo": "Inversión de más de 550.000 € para el nuevo servicio de Salud Mental y centro de salud Urbano II de Mérida",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTk00Sm9pQXVqNXVFRzZvRlZvMTdERGlRM0lTZXJLdHZFTzRDaDM1T2F4bzVMWHdHb1NXUWhNd2xpZl9fV3ZyempJTjBfSnBtenEwTm1XYkF5Z3NLampzZEl1clFEYld1SmFzZVQ0QWYzdnlBdGV0akdFYkQySHpMN29rdnRFaWdfUW11NHgwbjNLdlBhVTJ6VzVXQzU2a1FYYUt6T2hONUtyZTRQcjdTZUpvVjljQTVWMmZlSjhNTzZsTDMzZVZEWllYTnVXNnRzVDRiZzgxN2hYbndhNTRyYkpR?oc=5",
+  "clave": "centro inversion merida nuevo servicio urbano",
+  "capturado": "2026-09-15",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "deal",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "464da1115385",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Nueva España",
+  "titulo": "La nueva Ley de Salud Mental es ineficaz frente al suicidio, critican los psiquiatras asturianos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVF2d2YxQjNyUFA3ZG4yWXdnT2ZkOXZMN3FKVVlKZXR1U0p3X2FoV2hsdVdFSVgzM0Z6SVZuRkc1dDU0Y1R0N1dfVFR5LTdGOUhoMVJyMEEyYUdWN1FDa2NDM3A4aVAxTzNkb2FPNkI2bHVYa3JWNHEtLU0zUVFwckY1U19idWNyTXFJSUFn0gGTAUFVX3lxTE9IMGphalJLTlZHVDlHaUNkT1dXejJac1E1WlRITjEyVllVUExxLXlkM3pKaHhjM0NTcXk1TmlkYW9JdlRRTFM0T3BsaUdiSkpuckZwOVphNlVZSENJVHZZN0dNQUF6a1FCeTJDZ1piRnJTaTI2MWFfWVVJLTFlT3RTdWVxR3pHbFJHNmNXWkZNVXB4bw?oc=5",
+  "clave": "asturianos critican frente ineficaz nueva psiquiatras suicidio",
+  "capturado": "2026-09-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psiquiatr",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a3c854319fd8",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Redacción médica",
+  "titulo": "Saavedra apela al \"espíritu de diálogo\" de los partidos políticos para sacar adelante la ley de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVVN4Y1FfdGN3Qm10ejZNUDZUeUx4MllFSC1QNThFSHV2eE5peDJWNlZkVFlNay1nMDZKYVRTdk4wY3N0RHdtRlU4OFpXY2s2ZTRKRVBKVHMxbWc3Z1BhSXJiNVV2VzlPb0ZmSUJmdFB3OXRHREpmVElGOXc5NzBxV1R3NU11QzZOREd2dFpzeWxfelhUeDQyS1N4b0lQSmE1SzRPRzBpWGh0WHo3akw1MlN0ajNyZGpBUzhpRDZJc1BGMWNYWXlfNXZJSWdlaGllQ1Q5X3pyMHlGVzhlUDZ2Q0dwY0pNMEo0STRQU2hpSU9nZlRjYkdsWE5R0gH_AUFVX3lxTE50NjZuYk1ncmV2aFJzVnNEaVhvamE2SE9PUlU1Y0VIZS1qQkVmTFpzZkdMN2I5WWVhMXJUcVlOa3JtVWF0YzdsMU1sYTJNZjBhYi1LU0h0ZEhjekdqUVVCblVCNm9BemNGbDEyMThKeWd6czNPQkt5RW91TWJCcVA1elp1UmJLTGhWS3lYcC1ZdndBMXc2TW0wRS14S0RvVWoyLWpZYmdTekJraW1jTmpOc09Sbm5PMkZFdFhlbjR4eGo1Wld1TzVkcGlWOHlSUk9zUnVUSXFrdFR1ZEROSUZyVTNGM0VTb09IbEVkYUdOZUNZTl9nVXNCNU5jUDUxQQ?oc=5",
+  "clave": "adelante apela dialogo espiritu partidos politicos saavedra sacar",
+  "capturado": "2026-09-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "54cfa8598380",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Comercio",
+  "titulo": "Los expertos avalan la Ley de Salud Mental, pero reclaman más recursos y garantías: «Pedimos que sea posible cumplirla»",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUMtTlBQQzBocWhFNEVxWDREQm1rTXF6MjFqWGJqMDdJcjJxdkIxdDVOWF9fUlotbkw2Q1A5LTVnY3Rpb3Jwb1FiRDZvaUhNaHE3TEtCb3JvTjc4anJUOFhHcnFiYmVqSzNHNk5GTm5Tc25XMzNIQ2dsMTE3VkE5by1aNThKNTBSM0w5SGhCbnVXSllsc3V3cnFOLWjSAaIBQVVfeXFMUHFEUldIYmY0M1pjS3ZrR2xQRFQ5ekpQeUs5N2U3eXJrTUhhNXRUNzhtWm9wTmJzLVVjTHROaGlRcnhvdllQWV9TQmF0RkRqVDAwdV9zNjNfdTZxMllfbUdvNmN2UDlBOTY2a2dneUc5VmVtODB3azZwWndTcDd3X3IwS21WV0dyLWFBNWdyRlpPWGh2Y09LeC03M1RONDdCV2lB?oc=5",
+  "clave": "avalan cumplirla expertos garantias pedimos pero posible reclaman",
+  "capturado": "2026-09-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "14359701f67f",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Voz de Asturias",
+  "titulo": "Los psiquiatras piden más medios para hacer viable la nueva ley de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb1d6blN6Q25DM2dXTmdsX1RSdTFKbU03aW5oajZmMDVZUzBuUlZMemRWZUZUTWRGazB5SEF5ZmpZUmoxTEdLMVpWLTZaaUF4eDZUTExiR0xCQU02SnJJRHVYcmRNc3pJQzZWdGgxaG8wNHR2WVdWSlFKUDZzby1yc1hqWmpiR1RUVldvRmhHY01zeWt2b0RNcXhIOFlQUlMwX040VTA2T0RpQThsQU9fdGpRQTgweGFFNnpvQV9zZGN0R0ZiYmF5ZzVHYjhWLTY4MndieHVqamXSAfQBQVVfeXFMT0cwV0VsYlJIa2ptWEFfYzRHR2xkdHNkZGxiOXBxbVlHaC1yRk5wbWppWG1ka1RtMXJMbGdsVndWWHIySnYxTjB2eWJBTDhKQTFPU1JtZHBjc3JkS29obXNYZEhNd2dYQXhWSm5qY2gwWVhob09zbEo1aVU4RlZzSzJ3VFhfd3BpRHJ6QXhVUWdjby1MSG1wTzdrQW9zLWxpcGZYcm9BSU96T1ZzRUNCdVNSWHlYclU5TDFHd2dwb3BHNjNGQ2tpWUozT281SFlvMklQYW91Wl9HZjhEQnFNdm9uQ0JYTjNFWnpUOG9XOG5qUlh3bQ?oc=5",
+  "clave": "hacer medios nueva piden psiquiatras viable",
+  "capturado": "2026-09-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "08492a02c355",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Demócrata",
+  "titulo": "UNAD Asturias respalda la Ley de Salud Mental del Principado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3NyZC13bEtMM3hMeWk2ZmRCQkNETmUyQ3ZRaVU2WXdnajZ2bThQYmlPRzVNcTJjYVZ3QnR3QzlXejFCYmVleHgyOVl3X2RrXzFkZjZGYzNSNUp2RkRqRmVIZXVKVVhqaUZSRzlqc3RlVzNhNnZLbXNOdUpfV3NfUlJNdTNXZ2xMNW5rdjFQUnlQeTliU1ktUzBHVzRDbGpJejJkT3V2M3YxUzg4VFHSAbMBQVVfeXFMTUVXT3lVWXB5UUZTUjdmNHYxQS1jNEZualFVR090bmRFVXoyZTd3Y3EyQzhtUjVibWRNTEl5aVByNDNXRU1rVEI0Nmwwb2RUTmZ2dDBEcmhlbVY2bmdtbWVveWlfZkZVR1dIZDJEQzFzZER2Yk5ORGdNRmhfaHBUZ0V4S3YxczlzelF5WkFseC1MSE1QOWZrV2N2bzRYaFVmaHhiSThNbnZUMGcwMy1VU3dFTU0?oc=5",
+  "clave": "asturias principado respalda unad",
+  "capturado": "2026-09-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "23dfdb5f755d",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Destape",
+  "titulo": "LA RIOJA se planta ante MIELI: la provincia rechaza la reforma de la Ley de SALUD MENTAL",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTNpRmNHZDlVOUxDWG9kaFJ0WWFDQjJ6enN5aG1QSklaZW9wRV9RVUhuQmx6bHUxX0ZFYWwwUk9ZbUtXNWMtbDZfUU1JaTA3RWluclN4Uk43TnBPOThqUEFocGFYVUJpUWdHYU9UYmoyUXFwM1lkemd6RXdqbTZzV0JsQ3VPQjlUVUNob2xLdDd1WE9FVHpJQk5WTU4taVlkRjE0S0h5Q0FGSUZtN2JCLUR2dEZyUdIBygFBVV95cUxOZ2hheHpNV3BwMTBRWVpZWXpNZzBTS1B3SjBLNGRGX3hsRnd0SGloUndFMGJaaHNRc2p2YXQycTFGbkJ1M0pDdjVIQ3JHbU5SN1VBT280c0FrNjkwZGxBc2FTLTc4Nks3dGhrN1VJYXpPa25Wa09FRkNSbXFVSUZtVFc3V3ZQeXNmd3VWejNjTm5oRElHQXJ6RFhfQVg5cTJuMDAydjVZN01ndXAzbjdoT1BnYXJUcUhTRHprYVA1cmdmLVVyRkV4bjVB?oc=5",
+  "clave": "ante mieli planta provincia rechaza reforma rioja",
+  "capturado": "2026-09-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "aafef6f922c4",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Esquiu",
+  "titulo": "Una nueva forma de atender la salud mental: qué propone el proyecto que espera en el Senado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQanRSX1d5OFVvMkNmTFhQWWNQZTlOT283LUlnemczRzQyZFE5bzU3S2dmMlpsaVM1VTB0QjI4MDd6UV9RV0w4SmhSTlBnLU1oR0YtM1hYWjVSMkJxMnNWenFpamEwVkZWN0RLMEs5ZkxPOVFnRDkwQXdBVzl1dzZkR29LSXlaWkFZdWgyRmktNUZBOGM2RzRIcWpJVTkzdTR0cWdDOW53V2lGTVQ4LXViZC1iUHV6M3dybEEzck1NYWhTRG9KOTZyVnY2LU9CQmJGLXYxb3JORWMzam1vOWlr?oc=5",
+  "clave": "atender espera forma nueva propone proyecto senado",
+  "capturado": "2026-09-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6333703b9758",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Demócrata",
+  "titulo": "Saavedra reclama o \"espírito de diálogo\" para aprovar a nova lei asturiana de saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUDFGdTdPYTBqS29WeGNzMmxZVTRqekszYTN2bnl0dHFzVlJEUVQwRk9fUHVfRER2S3lyTVZreEtEQktQa3hLbEJVOFVaQ0lGWWdfdnJhOVdNZ0dzbFlsZFRIeTNMcFhuWGRLd3IzTVo4VmJiZk9NM3NKNUI5d25wWjFJWnh5c2ZsRWljYWY2T1NuVkZRdmJpTlJDN3JPSGp1ZjhVQVFxVUhoZWRzZXNscC04MVZ2TjJqRkpiQmRPZ3hZNDFUWkhXQ210NU5MV2oza2RmekhOd9IB3AFBVV95cUxNV3UybzhOcldNOG53SS01QlFMcVlQRmRZQ2FHQzFKRFZxMW9vMXVWZnpVanh6UU5SZHRxVmVlaW5TT1hRMUt0c0FncFpROU12V1NZVkJZc1N4N0F2dTlkYXZON2Rta0REdFI5TGdKZk5lV3JIb1U3X1dNNmp2dm1URzJscjdBVGtXeGlBaGRDekpJcWM5US1zN0N3OTRHS04xeHFVd3FyLXRvVUFKbXdTRU4tNWJ2ZGMxckxUM0xzRGpfUmgzZXZ3TkNlN1A0ZjllcG5rU1ZCYlREaXZT?oc=5",
+  "clave": "aprovar asturiana dialogo espirito nova reclama saavedra",
+  "capturado": "2026-09-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "659d2035d0fc",
   "fecha": "2026-09-14",
   "carpeta": "05 GOOGLE NEWS",
@@ -54,6 +382,44 @@
   "puntos": 3,
   "prioridad": "B",
   "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7d9e34485af1",
+  "fecha": "2026-09-14",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Nuevo aval al tratamiento precoz, ambicioso y escalonado de la artritis reumatoide",
+  "resumen": "reumatologia naiarabrocal en 'jama' el tratamiento precoz de la artritis reumatoide y ajustado a objetivos terapeuticos predefinidos redunda en un mejor pronostico a largo plazo . una revision publicada en jama que analiza las principales medidas diagnosticas y terapeuticas asociadas a mejores resultados clinicos en estos pacientes concluye que el abordaje con farmacos deberia comenzar idealmente ",
+  "url": "https://www.diariomedico.com/medicina/reumatologia/nuevo-aval-tratamiento-precoz-ambicioso-escalonado-artritis-reumatoide.html",
+  "clave": "ambicioso artritis aval escalonado nuevo precoz reumatoide tratamiento",
+  "capturado": "2026-09-15",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "65c26533f6f5",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "jornalatitude.com.br",
+  "titulo": "Assédio e sobrecarga ameaçam saúde mental de jornalistas, diz pesquisa",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTMzdFBqcDhHcjQ0YW9tZFY3X000Mjk1QzM1VVMzZXdUbzFZVFNycW9SbXVMSGdZcnNveGpWd3ZZOHg5TGstMGpQcDlCQk1qRTkydWpybmdsczRwQ0I4UGxOcGhMT0dBb19ENWFMV21mUUhmY0Zfc3AxS2FPN3NNdWtsRXNxZ0M2MlZlaHhuclE4QVdVckNqOWh4elFVYWQ0NmMyeS1IYVlsVGlxZFQw?oc=5",
+  "clave": "ameacam assedio jornalistas pesquisa sobrecarga",
+  "capturado": "2026-09-15",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
   "topic": [
    "saude mental"
   ],
@@ -79,6 +445,63 @@
   "ruido": []
  },
  {
+  "id": "7ab4461f2672",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Canarias en Pleno",
+  "titulo": "Sanidad refuerza la salud mental infantil con atención domiciliaria en Canarias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wOXRzdUI1NHdqeEk5LV9pNkpCQU9XeGp4RFBHN0VmSEt3UXBJTWNhWVVxSVZaTUhNUWZHdlJ1SXBsbDd4eWtnd2xCUVJKaXZHSFlmTTVYVGFEMGh5aHlDQ1pKREczd1JSOUZrMmFxX3Q?oc=5",
+  "clave": "atencion canarias domiciliaria infantil refuerza sanidad",
+  "capturado": "2026-09-15",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7afa9a041f9d",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Periódico Extremadura",
+  "titulo": "La unidad de salud mental infantil de Mérida evita ya desplazamientos a Badajoz y Don Benito",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbFZlTGtiWkQ4N0xpNUZEd19oTVJYUHhiUjROWVdkd09RajItOU9ILXNyTE5wMU9lT3dwdzVNalE1Zks5c2VrMEN3S2M4V0MxWndwZ2NlRVdZWjZuajgzNUp6cFBpWF9HUldNNmQwR0RvWjB3OGlmdmt5NXVnaGlNZ0ZFTkNpejY2Y3FORC1HT19hNGF1eXFkY3BZZW9pYldKaHUzOWpOc0kyMmRyUW1CUHZNbmRXYVBuSkVYWTQydlHSAcYBQVVfeXFMUHBqY2FQaXRLUlNRWlFJWlJzaXlzRDl4MVBzT0lWWmtPZEt3SkF3YTA0NkhKLWl6RlRhTm8ybkF6WmVfMnBCTjBNUEFXRmZBVzlIWnIzSXYyc01kQXBLQnYwQUtfRTBZbTJXVVFKRkVKU1o3MGZneWdpT0NFZmJTUzM1SjNCb19QdTdzelN1RF9seDExNkVhNDhxZ2V4OXFRM3JuUjZOSk9CNS1Ta0pNcVVucGpsTnY4bDk3OURDc3pJUGdsRDJR?oc=5",
+  "clave": "badajoz benito desplazamientos evita infantil merida unidad",
+  "capturado": "2026-09-15",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "41217b20002b",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "O Vilaverdense",
+  "titulo": "Braga reforça aposta na saúde mental nas escolas com investimento superior a 50 mil euros",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWkZoOXo2Z0F4b044WUpBcUVEQVVsc0FhN2VaUWtTTWpvXzFtWUwxNWFFV0NYS09ndjY4eUNoQVFObmhNVW9DdWtPaWhCa3V0NWx2dGptWUtCQzVuTi1fOEZNTnpiTWdQaktPV2R4ZUF6OXhoZzBtU2ZIeXRQMEdSUmcwbWtLeDJ4a0RlUU44ekt4YUFNWTQ1M1lkYWxNTnQwSWZoM2xtVzNOVkZ0UjcweVZ3aXhpdw?oc=5",
+  "clave": "aposta braga escolas euros investimento reforca superior",
+  "capturado": "2026-09-15",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "e5ec98288761",
   "fecha": "2026-09-14",
   "carpeta": "05 GOOGLE NEWS",
@@ -95,6 +518,82 @@
   "topic": [
    "salud mental",
    "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8c3200351070",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "rtpa.es",
+  "titulo": "La nueva Oficina de Salud Mental solo actuará en la red pública y centros concertados",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMUszSnliSmlCZ3lKM3JEazlYSkNMTkRndjJmU1M2aVBZbnRpMXl2RjJMLUtRUVVPTHNQd2hJcmZmdlF6eUhOMlp6MGRGTlo2bmxnS3IyZGZNRTlnWER6N2ZSOUhFZnU1RXk4RlJRb1BOb042WDR2ZUJYcUhwdTFVdXROeVVWUnB5aU5Mc1E1dVZKb1hBRVNZc3g3UncyOTRzcC0wLXNTQ3JWZXlKTmdDZl9Da3hrN2pMdDFSVTdnRFVsVERMSXg4WF9xWFlIdmFGdG5aX3dJWkJlaWhtRGJ3ZGF1eElpUDDSAewBQVVfeXFMT3dmU25jaFQ3bTB0YnJrYkNLVy1PUURwRnNXRXdxLWVTbzlOXzNrai1Nd0MxdHdYSk9ZdlQ4RDNMemZIT3ZSY1Jwa3VtemxvUmE2eFhXRElFa21VdGMtbjdNOV9OT1VJME12VUQ0cGp0ejYzRGM2ZURDWXA1bk9lMlV4V0tNRzNGelp5NmpGTV9KaHRyVWM2N3NqMDdubUV6YzNIVGU0S05WUENyeGJfc0dyaHAtUWdzNzhvRXZvMHhCRGlNdHp1U1VRYTQxNjgzSDBDRUFuTk5wNHBaaEY1bHRkbmtXU1YyZUtaWnk?oc=5",
+  "clave": "actuara centros concertados nueva oficina publica solo",
+  "capturado": "2026-09-15",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b8e913d9bdb1",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "elfarodelapalma.es",
+  "titulo": "Canarias refuerza la salud mental infantil y juvenil con tres equipos nuevos a domicilio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXBRTVJiVGdHLTA3alVUd0tDU1hHM1dOVk1YUGExWHVGTjh1SUhaMFB6c1U5ME8zcGJmdUxyTnpzM2VJY2ZSeWVWVDN6OEE3NGFkb1RsU05OZGtJVWRtM1lVSUdkUi1hQ0hZZjRZbjRqTkpweklQdXFIalFPc0toSXJXUHZvcEU4MXZPR0ljX1NFQVRx?oc=5",
+  "clave": "canarias domicilio equipos infantil juvenil nuevos refuerza tres",
+  "capturado": "2026-09-15",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b2a6d90d4ce9",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Galiciae",
+  "titulo": "El parricidio de Ponteareas vuelve a poner el foco en la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnBWWlRKZzdrYjEwVm9rOUVLOHg2RXp4blAzUlNwaWFQRDlqaUJ0MFdUZ3pseFAtNG9SdzU3bVcydnh0MW1nWldtQWllaUhpQlB3M180X1NBb2x4QTgweWZMTjh4di1qX2x5NDdOUEJPZU5HU0dsWlNKR01vVXJwOHdwQ3ctaDJiR1N6cTN5V2FaenFlUlNGMVF4RUIyX2tQaWQ1TE5Gc1lzeTdldFhoQTB0dTZtVW02R0tGVdIBwgFBVV95cUxOaklkOW9lWmxfMENYZk9CQ2YwTXpWVVJqS2JJZ2ltNXdGYldsQjFOVktQRXl3aG04ejIxZms1SWxxNENsc0NmcDdFZ0pVSGpMMUlBQmIwMXJfNWpYVnc5MDFka0xoY21HT0w1b3lma3MzVGZlVl82dlUzTnJTZE9DSkFVYnhMMWNMVkhKUXg2RmlCOE5tcExPdXRjTUVKejJuY2c3RklDLW9ZNHRBa3k2dHpVWWpubm9hVDE2R2YwdmRGdw?oc=5",
+  "clave": "foco parricidio poner ponteareas vuelve",
+  "capturado": "2026-09-15",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e85bd3da6933",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Impactto News",
+  "titulo": "Samu-BH cria protocolo para atendimento a crises de saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPazM4ODl5aUN2eHZUQTluRkYwUkdDcThLOHNtcVVNa3IzQkhieFZjRVltWWNOMFRsRDlCZ3pJRDRsYmV2eU9CLTRLdjZhNEhrRldmOUZVdERJaHRTdjA4NGJuN180YWhRYm9VSkw0QWRoYlJRdWxhWFFpeDByczlBQktpdWQwOURxLVBzMU9PeFM2M3hmSGVibUVrV1FrNktYcm5BU21HTXFwazFE?oc=5",
+  "clave": "atendimento cria crises protocolo samu",
+  "capturado": "2026-09-15",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -130,6 +629,26 @@
   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM25Sb1ZlcEJPVVhrejVGQUpybUxHaTdrejFZNFc2MlBDbTZrR1EzLUNPMkhHNVNZdnIwLUxPNmJ3bkptWDJKemdwWUZQcWhWZ3Z5X1JXSUdGQkVsUUR4RWY4SzZXaDAtcEVueW1hZ1RmZG9oMk80WFI0aFFZRHFibGdpLXRoaGtQZ0ticzV5Q2tJM1hYNkU4X3p3YnNYQmdBUy1wN2Z0V2hVdXFFWG5kb0NmX0hJcEpwNFFwNFhxd3NDcjg2bzBFRHRYNk9aVXd6d2wyWnlhV2hiWnFMQUFVZy1HUEtTQmZy0gHoAUFVX3lxTE8zblJvVmVwQk9VWGt6NUZBSnJtTEdpN2t6MVk0VzYyUENtNmtHUTMtQ08ySEc1U1l2cjAtTE82YnduSm1YMkp6Z3BZRlBxaFZndnlfUldJR0ZCRWxRRHhFZjhLNldoMC1wRW55bWFnVGZkb2gyTzRYUjRoUVlEcWJsZ2ktdGhoa1BnS2JzNXlDa0kzWFg2RThfendic1hCZ0FTLXA3ZnRXaFV1cUVYbmRvQ2ZfSElwSnA0UXA0WHF3c0NyODZvMEVEdFg2T1pVd3p3bDJaeWFXaGJacUxBQVVnLUdQS1NCZnI?oc=5",
   "clave": "prevenir profissionais promover quer seguranca suicidio",
   "capturado": "2026-09-14",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2b4cdc7b3b68",
+  "fecha": "2026-09-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Portal O Dia",
+  "titulo": "Lei quer promover saúde mental e prevenir suicídio entre profissionais da segurança no PI",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWGt6WlEtOE82eHRpZHAtR1FYTGE4RWttUDM4UjRTSDFJMW56M0QxU1NtY0hzWElmTU90Z3VDZ0U0MFJxUUVFMHRycnJvVlF5QkFSNkN5WFBsNGdGMTFBQlc0bDBwdXRvY1VuekFsbVZRblBBbkNWX2ViRnNwM1lacE1oSjRnWW56MW01SE90VHVIN2ZFNEtVRi01bVE4TDlfTUZCUEhjS0FHZ3JGZXotVlhrX2Z3dkJyS2ZxaS1haUZaY2dnNVM3TjA5aEdRVGlHeHc?oc=5",
+  "clave": "prevenir profissionais promover quer seguranca suicidio",
+  "capturado": "2026-09-15",
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
@@ -196,6 +715,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a838effecbab",
+  "fecha": "2026-09-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "facebook.com",
+  "titulo": "A saúde mental comunitária é uma mudança de paradigma que exige investimento, estabilidade das equipas, recursos materiais adequados e verdadeira interdisciplinaridade.",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdFpxOXprZzlzajVMR18tbkV5bGg5Y0Iwb25BWWZ6aFIzMXdhandQeHpDX25TSFZkVVpCRjdfdzhyRzdWNU5ibFB6TmxPV2NXTVpPUlV5NDBTZWRhSlM1LWIzTGltTGE3ZGhZeGQwblFUWHRpMkxIcGdQRlJLMTR0MW5NTV9tRmRVeGtFMUlraWgtcFNhODNjMlpMczZYU09LS3U2VG45cEdYNWw3ell1MXh6anFSMVRsOEhEblVpU3RRVzJoTkZPcDBHM0J3aWwwc2NvNUFXQkVLSEdoTVNId25hX2hrVW1IUk8zdVlxa1E4N25HZi13bTdB?oc=5",
+  "clave": "adequados comunitaria equipas estabilidade exige interdisciplinaridade investimento materiais",
+  "capturado": "2026-09-15",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -6341,6 +6879,27 @@
   ]
  },
  {
+  "id": "4a744f582f37",
+  "fecha": "2026-08-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Revista Caras México",
+  "titulo": "Selena Gomez y su mamá enfrentan una demanda por presunto fraude relacionado con su startup de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdEViTXFxN05fYktwd1IxV1ItOTNuVWM4dnFwV0FrcHlCVF8tRnZiVFJSZl82cUxRaG1xWjlhSkVKWWpHLXBoRU42bUdBc2lGRWpVeWw5UTlnOThUaDhOdWxJX04tSFRGZnV2cHNqbE94SFFMaFZWN1NyMWdzLTJBV1pBekdhWGVGdXQ5MnowT0ZhaTVxSDZKQ3dlYXVUSXdzTUdnbTRVU0h4aEhVc21yRzN1UUtRcE5KS1JHekI2LWR2TmtYSElZa0p6WjM3MndsRklMQTRmWFh1Ny1tYWFvUlVB?oc=5",
+  "clave": "demanda enfrentan fraude gomez mama presunto relacionado selena",
+  "capturado": "2026-09-15",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "producto",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "selena gomez"
+  ]
+ },
+ {
   "id": "7576d80c2cc7",
   "fecha": "2026-08-14",
   "carpeta": "05 GOOGLE NEWS",
@@ -7066,6 +7625,26 @@
   "ruido": []
  },
  {
+  "id": "91669364522d",
+  "fecha": "2026-07-31",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "CRP-03",
+  "titulo": "CRP-03 publica nota em defesa pela indispensabilidade da Psicologia na avaliação em Saúde Mental, mediante Parecer N° 28/2026 do COFEN",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTTlaVG44R1NWbURkSms0dE5JVFNXT2ZSc3RmckZFR0huTFhGWWdFS0hIWTEwRUw2R2lZZlhGbUktb3QyMVN3N2V0bzk0dnJwUHplemM2UkxwTlF2Nm4wSXptM3NFV1lxQzZsTnNEdEpSajhrY2F3YlZFNGZSNXdIUmxXUHJsUm80cnhpem93S3JKU2lfUnJlc1hPbjl0QU1OM0M5R3BOMXVHbC04clVGaFh2NnpyWFl1U2daNzdHaw?oc=5",
+  "clave": "2026 avaliacao cofen defesa indispensabilidade mediante nota parecer",
+  "capturado": "2026-09-15",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "bc78a4f095c9",
   "fecha": "2026-07-30",
   "carpeta": "05 GOOGLE NEWS",
@@ -7119,6 +7698,25 @@
   "categoria_auto": "regulacion",
   "topic": [
    "burnout"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "624fbc87e465",
+  "fecha": "2026-07-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "CLDF",
+  "titulo": "Lei estabelece princípios e diretrizes para reduzir índices de suicídio e oferecer suporte às pessoas afetadas - Câmara Legislativa do Distrito Federal",
+  "resumen": "lei estabelece principios e diretrizes para reduzir indices de suicidio e oferecer suporte as pessoas afetadas camara legislativa do distrito federal - cldf",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUGFYTnkzQjFuQ0pJSElpYm1oM3dhMWtsME15MERCbHEyX29SZ0g0UUo2ak91bHZHVExYREl4ZmRraFRSU2xaVTFnOHJUdWRDYUhmZ0lpY2g5Vy1JcnhFSjlMdERtZlBjVWt2LTBUQ0NmLTV0VHhfazVPRm15b19EbWRWaWpISWJpTl9JTUd5YS1EaHVxOTRHREtYejZXNjE1OHFHYjBMR05LbDRFVDUtdU9MUkVnUzYwQVhFaXRJSWM4Y0xXeW8wQW9TbkREVTZtMW9r?oc=5",
+  "clave": "afetadas diretrizes estabelece indices oferecer pessoas principios reduzir",
+  "capturado": "2026-09-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "suicid"
   ],
   "ruido": []
  },
@@ -8356,6 +8954,25 @@
   "ruido": []
  },
  {
+  "id": "f483d8930d21",
+  "fecha": "2026-06-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "amazonas atual",
+  "titulo": "Empresas devem cumprir norma para garantir saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1VTYTdZSDFiTnBMX1N1M1Rfb2x2dzQ2NEhEcjRrTTU1eVY2eE9JOWRsVGVrLXFra2R6M1ZPanpzX25VZGxIM2tsbWJIZ3ZXTEdad05BSGJITC1ObWlIRWxfU2pyS3Q3WTBCRzBVSkdVX0t1MXpvUHFiXzdtRDllMGNZTnpYQmUxcVNGMTJn?oc=5",
+  "clave": "cumprir devem empresas garantir norma",
+  "capturado": "2026-09-15",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "c168d8799926",
   "fecha": "2026-06-30",
   "carpeta": "05 GOOGLE NEWS",
@@ -9297,83 +9914,6 @@
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lbDhGUGdhekljZnRHLW9JenlIcTlWNjI2NjU1c2NYcUs0bkhjdmdUSkFmRTE5OEJ2WGxfQ0dieW01MXZLbVNLanA1cnFXT2lSVngxNktOUEVUcnNuMzMzOUc3WVNLR25OdlUxcW12VFRjSHNfNGpuT1l2M3VUQQ?oc=5",
   "clave": "bajas ceoe dejemos garcia jovenes responde sanitarios trabajar",
   "capturado": "2026-09-09",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "64e088d78a56",
-  "fecha": "2026-06-16",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Canção Nova",
-  "titulo": "Nova lei aumenta acesso à saúde mental para crianças e jovens - Notícias",
-  "resumen": "nova lei aumenta acesso a saude mental para criancas e jovens noticias - cancao nova",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk93NUg3eXpRV3dnRHo0czA4T3VuZVlFY2RCRU5RRkxvSHpXS3IzZVJYcVI2TjFLYktia0FSclNVeFM5UTR3bHJZLWMzRFozZk5BNXJRd2E5dk5tVkxtSnZ6RjYxaDhscXV5SnVnWUctaEJrRGJqVGZ5RWkwU0tQTHBycXNRY3REZjlGamJwazd6VVBta21QYW5TbmZZalk4WTJR?oc=5",
-  "clave": "acesso aumenta criancas jovens nova",
-  "capturado": "2026-09-04",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "cf027a53dec5",
-  "fecha": "2026-06-16",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Prefeitura de Juiz de Fora",
-  "titulo": "PJF inicia obras da UBS Leste e do CAPS Leste com investimento superior a R$ 8 milhões do Governo Federal - PJF",
-  "resumen": "pjf inicia obras da ubs leste e do caps leste com investimento superior a r$ 8 milhoes do governo federal pjf - prefeitura de juiz de fora",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1a3E4YUQyU0x4TjIyc1RITFhVeEdrSlNiSHZ5LTZhNEQ3cmFwT01UaTRSQ1Y1dmNuTlRvZGhYYkZOY0E2MGo3Mnlpa3pyZFloZnU2LTBZWDBURFFiOF90bmlWR2wzcHNDYU1GaHo1cFVhSWJRYnc?oc=5",
-  "clave": "caps federal governo inicia investimento leste milhoes obras",
-  "capturado": "2026-09-06",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "caps "
-  ],
-  "ruido": []
- },
- {
-  "id": "72ae577240e4",
-  "fecha": "2026-06-16",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "sanidad.castillalamancha.es",
-  "titulo": "La Universidad de Alcalá y dispositivos de salud mental del SESCAM muestran los beneficios de la arteterapia para el bienestar emocional | Servicio de Salud de Castilla-La Mancha",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOVNIMzJNSnhGWEEzbFFmLUF4SnA5T21odm85T1ladWxJR3NUbU1ObEtrZkJZZVBhM2t5ZU91RFNpUWdQYzFYZFJQM1dFZXZHUnM4NDJwcW0zRzFUNG1sNjJkV3NQc0RrYkVzdm4xY00xMjhjTjdWbjRDd1VETERPeFBXTWIzYU5MSlBraG9TUGlya2NRQkJMUkJwSkN6cEZ5bGhTYmdRYnotUHh2bEZUZ2IwQVJ4WDdFd21UMFdjVmZ6Z0J3R1dGM2lxMA?oc=5",
-  "clave": "alcala arteterapia beneficios bienestar castilla dispositivos emocional mancha",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental",
-   "bienestar emocional"
-  ],
-  "ruido": []
- },
- {
-  "id": "5d65af049026",
-  "fecha": "2026-06-16",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "Reporte Indigo",
-  "titulo": "Alcaldías olvidan y niegan atención de la salud mental en CDMX",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1BxbTJ6MlYtaFF2WlA3eGRaWXBhcC1WRENDR1pzNE9uQVpabVdLazlGU21xX2JuRWpITUw1U1FQM3cwbU1ySVoyN1Vqa1B0alJGLTdLMmp1cEhHdUphLTd2N0hiMmVGUmdDZDcya1BBbTYwWUJWY0o1RngtbTFYYnBsR1prcUkyLTBjVVRGNzB0N3l2WjJ0SHVzZjdNUXdUdG1Zdll4RXV3aHlIakZaUnpMQ2M1Zmc?oc=5",
-  "clave": "alcaldias atencion cdmx niegan olvidan",
-  "capturado": "2026-09-05",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
