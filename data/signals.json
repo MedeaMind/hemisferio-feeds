@@ -1,5 +1,81 @@
 [
  {
+  "id": "7a7c16fc1c33",
+  "fecha": "2026-09-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "wapa.tv",
+  "titulo": "Comerciante pide cambios a la Ley 408 tras repetidos incidentes con mujer que aparenta necesitar atención de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZGthcWtOXzB2TkJpd2k0VDMwVGcwOHdRaF9pd21Wak1xQzJVbHQtanE1R2M0UHdJVlZfZzR4a1hHZEZfaERNaWpYM1BpTnV6RTlWaWpOU1Y0VU9yZVpOOUE5Rk50WERRbG9fQ05rZkFVOHRRNkROeGpHVk9uWE5YNC1aNDdSNUUwaEhSdGdqZ0FCV2tHQk1mUWxBOVhiNFpkemR4VlN5c1FKU2lhQmQ1WnNKaFR2SFE0U1VUdUp4UU93MXlPRHRmU3JzS3U3cnlpcUxzaG9TRVlQT2REdVZRbnBRNzI2RV9vZndRRVR2TWZLQzFfR1NSdW15LXZsVWlLb3FBRFNGc05tMzQ?oc=5",
+  "clave": "aparenta atencion cambios comerciante incidentes mujer necesitar pide",
+  "capturado": "2026-09-18",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "315bc91b3a23",
+  "fecha": "2026-09-18",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Sanidad encarga una evaluación externa para fiscalizar los planes de salud mental del SNS",
+  "resumen": "el objetivo del ministerio es disenar la nueva estrategia que seguira el sistema nacional de salud a partir de 2027",
+  "url": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260918/sanidad-encarga-una-evaluacion-externa-para-fiscalizar-los-planes-de-salud-mental-del-sns/352930_0.html",
+  "clave": "encarga evaluacion externa fiscalizar planes sanidad",
+  "capturado": "2026-09-18",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0a51ab1e4322",
+  "fecha": "2026-09-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Redacción médica",
+  "titulo": "Sanidad encarga una evaluación externa para fiscalizar los planes de salud mental del SNS",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQN2ZiNnNzTDdoVHRSWVR5RktNbTU2OWpCV3NQTlZxMTNyd3Frem94SFpBMDVUaV82cDY4c1pUd0lfcmZxZzl5dmhUb09wSU10RVRvRjlCZWJ1OFJZZEJ2Ykh5R1NNNEx0OUR2NzczN19EemN0MFpEbUNyNnM0MG5aaDBiMnRzY0Z2ZEdhaXBkZDFkNFJBYVEzMndkRFBDNmZ4cWJVZ3RYUnlsRmlIVnVhZ0UtREdwOWFaSnBHSU5sdG1TWTZHUl9HamVfUkE3LXMyOE85ZS1HdG5pWm9SLW53RFJndC1NTm1DMlp2NVpPczZENWJ2N0tOeEVUc05wZzZmdUHSAYcCQVVfeXFMUFlJVjI2ZGpTNGloSjJreTZGR0tDTVZ5MzFzUFpwNS1OSTF4alo5ekZUb2RqVGhXejBEZHBVVEdVczNjdGRqb25md3ZlMUxZWC12WUdJMmVBckpmakpRRzk3bklQdXRmNFVJRGNOYUktQ1Y0R1Rmb2pGb0JXdHVNSGMyZ3NUWGU0VC1wM1Atd3dzdG9zSmg4cWM1ZFFLT0tUcjk1aWVHa0Z0UGY2NlZmMVhqSEF1c080MDI1d0xrcUUyUDBzUkI2Wl9RU1NlaldjOTNqZlNCQV9EWHJNSGM3ZjFaV180OEMwRi11cFVkc3VQZlhVZGloS0VveURLMDBMYWdaQXJLSTQ?oc=5",
+  "clave": "encarga evaluacion externa fiscalizar planes sanidad",
+  "capturado": "2026-09-18",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7ccda7c45cbe",
+  "fecha": "2026-09-18",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Miquel Roca: \"Un profesional sanitario con una patología dual está en el centro de eventuales problemas que pueden involucrar la calidad asistencial\"",
+  "resumen": "miquel roca, catedratico de psiquiatria de la universidad de las islas baleares, explica en redaccion medica el abordaje de la patologia dual entre los medicos.",
+  "url": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260918/miquel-roca-un-profesional-sanitario-con-una-patologia-dual-esta-en-el-centro-de-eventuales-problemas-que-pueden-involucrar-la-calidad-asistencial/350867_0.html",
+  "clave": "asistencial calidad centro dual esta eventuales involucrar miquel",
+  "capturado": "2026-09-18",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
   "id": "7f1c9b481513",
   "fecha": "2026-09-17",
   "carpeta": "04 GLOBAL (solo con ángulo local)",
@@ -20,6 +96,45 @@
   "ruido": []
  },
  {
+  "id": "b8ac24fb9d8a",
+  "fecha": "2026-09-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "bra1.com.br",
+  "titulo": "Nova lei obriga empresas de tecnologia a cuidar da saúde mental dos funcionários",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVhrMjU0ZmY2YkZuU3Jldktkc29MVlpEVUZaZDRkR196TjJwN0FIUzJXeUNOYlFkbzdFZXpQY2ZId0lWZUZ0ajlqZ1V0WnlaZWpoS21wMHhxd3RyTkJUbVNrNTVBQ2NQZkVKVFVpSDVwQWZpZTZWZmlpSUNkcVpQUzVXY2w1RDVBdmkybG9NWG05U0E2cXJMd000dVB5WFRCWkFYbnY0S2dqTURjNlo2bDlXZEwwbUJHVlUtMlBJc28?oc=5",
+  "clave": "cuidar empresas funcionarios nova obriga tecnologia",
+  "capturado": "2026-09-18",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3061408be0e3",
+  "fecha": "2026-09-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "bra1.com.br",
+  "titulo": "Burnout no trabalho: nova lei obriga empresas a cuidar da saúde mental dos funcionários",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTNRNnpuaGZadG1oQXZIR0R1a1gyM3JtVkR0MGItTnY4OEhmblVHaHRfbDh1d0NhMmtaM0xQQ0R2VE9FLVdFZTZIWW96c2ctb2k3UlRvbG9XOTVTa3BYS2c3WHBsaEdfMVF0MkpfdnBoVTFaS3pod1dwMEVuT29xdEVQYS1vcHZWTktwUVBtbEU5cS1EZldDVTBjaFVyODcySUh4SVFMbHcwcDBpMWIyZXZ4cUhHNWxOeDBtYjFRTVYyZHNRckE?oc=5",
+  "clave": "burnout cuidar empresas funcionarios nova obriga trabalho",
+  "capturado": "2026-09-18",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "burnout"
+  ],
+  "ruido": []
+ },
+ {
   "id": "089027bb472e",
   "fecha": "2026-09-17",
   "carpeta": "05 GOOGLE NEWS",
@@ -33,6 +148,44 @@
   "puntos": 6,
   "prioridad": "A",
   "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "78b955af464d",
+  "fecha": "2026-09-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "infofueguina.com",
+  "titulo": "COFESA avanza en un Plan Nacional de Salud Mental y ajustes a la Ley 26.657",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUx4S2k1QVB4UkJBa2sybUpNbW9hOWVvdnVSdVI0R0R3LW1rRmN5MjE4NUdjNjg2VWlFRU1WNThTbWNQZHB0UnRxZENCMHl6em8tekNNSkphWS1MR2wwMG5sOWdyUGZMdGxlSmhKMkU4WDNnQ2tGZWw3OGJTN3RjOTRwSzFxNkVnLV9yemhQTzVKUlYybDZSMTNNUVF4LVgwNHBxelFTQ3V5U29YM1BfN05tNFI1OU5HbjdRalZRcVEzNlF3eURB?oc=5",
+  "clave": "ajustes avanza cofesa nacional plan",
+  "capturado": "2026-09-18",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "094a4e41523d",
+  "fecha": "2026-09-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "ranm.es",
+  "titulo": "Sanidad y educación: una alianza imprescindible para la salud mental de niños y adolescentes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWVGNDZ5MFNKMEJVazlNZnBHREtRaXJUTW5WZ0V6YVcyTlFpTUIwY1NuSjlCUDZ5WFE3ZXFRRHp2ekRfczg0VFdiQzdKOWNnRGt3QnkzQ1N3M1BnN2haaVVmZmtLeTlOUi1ZNzJ5VkJYUzN6eWtQLUo5Y0FZRlFxbDJIT25VYzdoVTlVUmFieHhnX3pQcjNLT0N1UmprdDIxR2pKWE9vR1M1UXdrODJrYVpQdUV3WWM?oc=5",
+  "clave": "adolescentes alianza educacion imprescindible ninos sanidad",
+  "capturado": "2026-09-18",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "partnership",
   "topic": [
    "salud mental"
   ],
@@ -75,6 +228,25 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "51dcbdcf557e",
+  "fecha": "2026-09-17",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Pilar Nicolás y Mariano Casado, nuevos vocales del Comité de Bioética de España",
+  "resumen": "politica y normativa soledadvalle comite de bioetica de espana con la ensenanza de epocas recientes, cuando el comite de bioetica de espana (cbe) estuvo funcionando con una mayoria de vocales cuyo mandato habia expirado, y dispuestos a no repetir esa situacion, la psiquiatra leonor ruiz sicilia y la enfermera y abogada maria desiree aleman segura han sido renovadas en sus asientos dentro dentro de",
+  "url": "https://www.diariomedico.com/medicina/politica/pilar-nicolas-mariano-casado-nuevos-vocales-comite-bioetica-espana.html",
+  "clave": "bioetica casado comite espana mariano nicolas nuevos pilar",
+  "capturado": "2026-09-18",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psiquiatr"
   ],
   "ruido": []
  },
@@ -134,6 +306,66 @@
    "salud mental"
   ],
   "ruido": []
+ },
+ {
+  "id": "d2a5d0ddfc12",
+  "fecha": "2026-09-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Diario de Madrid",
+  "titulo": "Ayuso pone en valor el papel de la Enfermería ante el avance de los problemas de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXgtaE1mTTBmNEVHT2FPOTJmN0ZGejU1YXUwNFhOS2xXUnVWaU1CRy1GRElJWjFBb1NMeXdtcnNlRC01WV9Oa0N6YjdNblFCd2FmWU9QSVVpLTNoR0Z6czAzd1ZHZUNsSTEtY0o4TWZMeHF6VjNUX2dHMl81VkZSUWd3QWc4cVpkU1hybkVGVkZGb1ZNdjRaTWY5eGhkN3pzaUVSV041ZC1OeHl0R01Pa01PY2p6N1pYS214UtIBwgFBVV95cUxOVHNtaE14VzlrMVhTNkY2Q1d6ZUlXajJ3VnJWUUFNSDVRZzdaVWJDMXdTY2VVdkNadHBiSHByOUV5eHYzWXBLRmQ1NEhlNVdLNWlmeEp5NGJhUk1FV0x5LVlBeS1scU9xczFsV2ZIRklSa2xHZG9oYmt4M19qY2hUb2FQNXdBdkxjVEsyYzY1UWhNdjc3RWhWNUF4REp0dnZlMnhmbHNSZVktSk5OSXBFSndNT2ZaY0ttUlJQM21IS083dw?oc=5",
+  "clave": "ante avance ayuso enfermeria papel pone problemas valor",
+  "capturado": "2026-09-18",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "cf62481dc9cb",
+  "fecha": "2026-09-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "tek.sapo.pt",
+  "titulo": "Sword Health quer crescer na área da saúde mental e chega a acordo para comprar a Headspace",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR2dwMnp2YktPN3lpUUJBb3h2TnF4LXRZRWpoR0tIb2ZtbWtDV2Rxdmp1bWp4Vkp3YU41VVFIcXYycVNqaFE2eG9lSkI1UjVMTmdMTEVoN0d2M0RIN29UNjNPUElmWU5YQ1VQVTRTV2pkZnRfend1ajhHSXpwM0dHU2ZPWExBWkg3emxRb01XNUU2R01renNOb1pCUHZKclpuMDFkNXJxX0k2UlVXVjRNcUpsX3U3UEFNdTlqbE1TZ1RlU1V3Wm5KR0V5MF90dlBwdjdybQ?oc=5",
+  "clave": "acordo area chega comprar crescer headspace quer sword",
+  "capturado": "2026-09-18",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental",
+   "headspace"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8ea6dbe62719",
+  "fecha": "2026-09-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Córdoba",
+  "titulo": "De los dietas de moda al estigma de la salud mental: el Reina Sofía y la Fundación Cajasol acercarán la sanidad a los cordobeses con un ciclo de conferencias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2lwbU1mcEttNUVmYklWanlScjk0LUJpZzVFTklVOXBSRWNzbzh4MlQycDAzMk1nTWRqVGRSbXdVS3dLR0ZTbE1IR1czTHVYUVpJZ0pUdUxIUHgzV29NTWg1b2h2LXZiaGgyVnRPWGprem16cHk5VXB1S2dCYkN2ckQ0MVVvQncwcUZsZlBPbnRPS2IxbjZxOHBtUnQzeFNBZEtoUERR0gGrAUFVX3lxTFBfRy1xb0N4alRzeGVJQks2dTk3ZTBpeDE2NnVkV0loZGFyTXlBY3FabW0yelliNTh1X3ktOVNxWVBEemVTZExDWWJNZUp6VWpRZGtRUmQwcV81Rnk1U2xRVl9Rc2JIOUN0dHZTT1Z6TWVMR0pnaE50dndUcVRwZDVDcVZPLWpJeXFmeUpTY0tsd0VFblUzZVhxTGE1TUtKTzhDaDN3d0lGOVNXcw?oc=5",
+  "clave": "acercaran cajasol ciclo conferencias cordobeses dietas estigma fundacion",
+  "capturado": "2026-09-18",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dieta"
+  ]
  },
  {
   "id": "857fe7eaf0e4",
@@ -943,6 +1175,25 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6cf05b023e47",
+  "fecha": "2026-09-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Demócrata",
+  "titulo": "Mental Health Spain warns of the violence and lack of protection towards women and girls with mental health problems",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQekVRcmYwLXQ2dDRScFFEQVV0cXp6UDlRQ1NHTjVHT1ExY3o0bmRBb0dNTEtWbVRkVkl6c2xWOG9VOXlQWngzYktQREZiYTM3czJWbWJSSnVRX2gwNU5NaVhyaG4ySzRHcUdlZUZRN0YyOFVySHphMUNMVmFoRGFDejFGR0l4NzBTaGNPSU84VUtOdVpQTTRlOFJhc0I2ZHJOMnl0MXlvS2RXdk1HMGhUUFhUY05ZNWkwWjJZREdIYUFrNWduRzExeGkxYzlVZEVIenFxaGcwN0szMGc0eXlTb2x4cWl6am_SAewBQVVfeXFMTkd1MGo1VmZreGZaWHcxV2c1dmtEOEpsVjJwZnF0TWN4R3ZjX21Sdm9mTzE4OXhZT3BieEJuZEk4N2pIYnFvZEJaSklBNHVwVVU3T1d1ai15RS1kdFNKZk10NXFqWU16TDRSYnhjRkVFZklnMXY5T2RQLWtZeHlwVkJnNkMwbmQ4alhoa0NGNjRCemwyME1pQXpMY2hWbC1FRE5WeWdtSkRNcGIxQWNQNzg2WC1VLU5wMTlMZ3RxdFVQZnJ6V0NXZjNnaWhHMk5Lc0ZaY3VWeUo1cEdsTk1VVmpwZmVpMHZsaFhOV2c?oc=5",
+  "clave": "girls lack problems protection spain towards violence warns",
+  "capturado": "2026-09-18",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -7019,6 +7270,26 @@
   "ruido": []
  },
  {
+  "id": "b075da567496",
+  "fecha": "2026-08-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "O GLOBO",
+  "titulo": "STF confirma por unanimidade suspensão de penalidades da NR-1 sobre saúde mental no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTHJPTlp0b1lYTnJzcE85RUM2aHdRTXNlcVhub2x0ZUNRczc3S2hzaERBTkZiUTFON2RsZTdfVEhEOVFtWUFqV3F2TXF0Q2REdmJpRlgyZmx5UkZpcFBGUnp4anZqMkRJZUhVUWdXbHh5TWZvZm53ekc5M2pxWDYxbHVVdEdfeG4xM21jOFVMZWdOaDl4OHNRWjl1NmhaNjlBY0Y5RzBPSUFQSjlPZG52aHNaRXYxRm11cVNzZk1JZXRxSmNTRmJDRjByYnppQnhESW1OS0NmUEVWMU5qZndZV3JsbEdXd9IB9AFBVV95cUxPODlSZ0ZGLXFlY2E2UGx0UU5URDl0NWVmVWhDRXNQX1k5YmJjRmgwejV5ZTFQQTFySTM2a1JIWE1uSUJ5TmNGZGZCdVhSSHVzOEVoaHNLTEJHdkd6ajZyYXE3d0kweGZJS1puNFF6QmxfcWpKYWQzdDlFOUtNRGVtaGFPeV9QdnZpVm5YUXM3aGRWSERpbVBIN0dNaVN5U3dVdnJDRFR2dTZZVDA2U3JkS2tRZFJHLWRSYlZTNGdaUFBXNThvTGVwclFZZHh5dXUwNGtzeFZtbW41bDRDUE1QbmxrTVNLbFVhQXhQU2FMTUQySnZh?oc=5",
+  "clave": "confirma penalidades suspensao trabalho unanimidade",
+  "capturado": "2026-09-18",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
   "id": "e6bc4f0e3e90",
   "fecha": "2026-08-18",
   "carpeta": "05 GOOGLE NEWS",
@@ -8555,6 +8826,25 @@
   "ruido": []
  },
  {
+  "id": "987eb5faf53e",
+  "fecha": "2026-08-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "estacionsur.ar",
+  "titulo": "La Provincia inauguró la sala de Salud Mental «más compleja del país» y defiende el modelo de desmanicomialización frente al ajuste nacional",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVlNwRm04VWlwM0lQMUE0eVhybXJCakVPVThLYUNEMVNIUXF6THk4ajFFWnVSQVlPSURldG5aS3Ywb3FHa2M3blJCWTloNmwzNHJpUlZXNHJhRVJIVGhzNmNwbHVVeXBHc0Y2ckJ6MFVTM2ZxN010WHhoYWNOeUVQQW1tRktDZk9uSHN3ZVJRVURhb0RuWjZiRHNERi1lLWUxdUlkTzhfU2FJVk05RkEtZ1VNdDV3RFo3VVVTZHhNWk5xbEpCb2t5c1duYnhwS2dPZWlPNklIRExpZ2J4T0NjS3dZRkVXeHo3N1lJamtjWUM2dGlJTmdhMmM3ZzBlRHVCaWhyVnFpZks?oc=5",
+  "clave": "ajuste compleja defiende desmanicomializacion frente inauguro modelo nacional",
+  "capturado": "2026-09-18",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "417692875e1e",
   "fecha": "2026-08-01",
   "carpeta": "05 GOOGLE NEWS",
@@ -9173,6 +9463,25 @@
   "ruido": [
    "homicid"
   ]
+ },
+ {
+  "id": "5e843f91fe49",
+  "fecha": "2026-07-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Brasil 247",
+  "titulo": "Pequenos negócios têm 90 dias para se adaptar às novas regras de saúde mental no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZG1BUVhWR1NHcEs3VHlTLWp6UnFQb2xaZzl6OG51QVRzN1ZQMzRQc1JrNnRXZzFOM21hV01iYy1yVWRRTUZHTk9lYk5aX3pqbXVzSjZ5TnRIdEdtQ202WEhWRWVEMkkybU5yOFVKVVpVRnR4bmY4UElpZjVvX29kZEtfcm05QnEzbUZDY2Q4SjNtbHIycW1MR0xqbXhzeUp3SFJJYXZpUmlfT0NiWlc3azYxWFJqREJ5MU5UajlpVVRFd2xtV0E?oc=5",
+  "clave": "adaptar dias negocios novas pequenos regras trabalho",
+  "capturado": "2026-09-18",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
  },
  {
   "id": "7125a5598831",
@@ -10673,82 +10982,6 @@
   "puntos": 5,
   "prioridad": "B",
   "categoria_auto": "research",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "ddf914850450",
-  "fecha": "2026-06-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Observador",
-  "titulo": "Hospital de Portalegre estreia UCI e requalifica Saúde Mental num investimento de 10,2 milhões de euros",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHhrS3ctNkZ2SzhEMGljem04dkNuTklOY1BqenpuRzFoYTkzS0VtVEg2ZndzMGNPbVhEbnVpb2FMX0d4aVd3SktFaldzWWt0QmtaTGxEaW1UbC1mNTV5OC1kOUJCdEtRbW4zUnR2RkhUNWFPSDVwRjFYeVA4b3BMc3o1WDNiSGlLQ203QU5leDVELW04YnRqOFBoamxmaUJkTTQ2VHZYT2xrRmdjNnkxNEE4aDB2NjY1aC1Fa1A2ZWVvVHhBN1VzQ3pteTBTZXNMWWc?oc=5",
-  "clave": "estreia euros hospital investimento milhoes portalegre requalifica",
-  "capturado": "2026-09-06",
-  "puntos": 8,
-  "prioridad": "A",
-  "categoria_auto": "deal",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "ef144c288b12",
-  "fecha": "2026-06-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Conselho Federal de Psicologia",
-  "titulo": "CFP lança guia orientativo sobre atuação da Psicologia nos contextos de atenção básica, secundária e terciária de saúde",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYXNRUy1SeUpRWWNmMVpQTWZtaFZlYklycnF6eFYzcG5kbHotZFgxdUxIc29LNUxSMUdIVzdlQzktMnU5RVY5VHMxTTQ3aHljY2k4REhENWNHOWJCdlV3ck5EcUhIVllWZmtvcVBsNjJULVZpa19YbWV0aldjaDlzOFhHWUhtVE5RRkViMXFHdlM2RlAyT0lUc3VxZGxqRVdvTzc4UVdOSC01QWRfVjcxUE8zQ2tQT1ZHVXhtR2lwN21iY2EwUXhOT3c2ekNDQUowSHVHc1c0NHQ1RUU?oc=5",
-  "clave": "atencao atuacao basica contextos guia lanca orientativo psicologia",
-  "capturado": "2026-09-04",
-  "puntos": 7,
-  "prioridad": "A",
-  "categoria_auto": "producto",
-  "topic": [
-   "psicolog"
-  ],
-  "ruido": []
- },
- {
-  "id": "ad0dcb221eb2",
-  "fecha": "2026-06-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Central Press",
-  "titulo": "MindMatch vence PITX e capta investimento para saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWZBSW1uZldaci1iS1VkUm03SFhUWnBCMzFyR3JWV0dzc2ZqRzJnb2JNdnFKT0ttUmM2WlZpckZiaFhnSWdWalFKZUtVUmZZNDJaVDRKR2lfQWpiLWZtLWtOMjRRSFJReWY2VVRNQXpTTFpuX2JXTFRCMFhxS3dqSmZxeldrNzBzTXowV1dzRUt4b3V5RW54b1lFUHNGcHM4enM1X1Fnel9tOUZIZUhselRGbEk?oc=5",
-  "clave": "capta investimento mindmatch pitx vence",
-  "capturado": "2026-09-08",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "deal",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "ec1b45c9cd66",
-  "fecha": "2026-06-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Canal Extremadura",
-  "titulo": "Debate en la Asamblea sobre salud mental y dependencia con críticas del PSOE a la Junta",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdl9GT01WUDZjNi1BXzkzd2VFa2R1U0ZFUUNib01EZUpqaUlkSHhtMUVSTFdMVnJCSHRCSW1CUG1FekhpVU05SjVJcld1OHVaZ2ZqRkd0OHpOT3ptWFVVcThBY1ZIdFpoOGRJbC15MVZHQjRrbUs4NXVfSk1IZUFGeVd3REVobWc3R2lOdTVoM1lXbnBUM0ZXWXRPUFhlS1FoTDF6REI4WkhOWXVxanBEY2JGd2VLZWhpS1hCNWljZkR4LWp2LVRN?oc=5",
-  "clave": "asamblea criticas debate dependencia junta psoe",
-  "capturado": "2026-09-09",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
   ],
