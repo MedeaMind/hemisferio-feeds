@@ -1,5 +1,119 @@
 [
  {
+  "id": "05d28b37cbef",
+  "fecha": "2026-09-19",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/regulatory/arpa-h-launches-spectra-program-new-autism-research-initiative\" hreflang=\"en\">ARPA-H launches SPECTRA program, new autism research initiative</a>",
+  "resumen": "researchers will create an end-to-end system to identify asd risk factors, connect patients to appropriate interventions and accelerate clinical research for new therapies.",
+  "url": "https://www.fiercehealthcare.com/regulatory/arpa-h-launches-spectra-program-new-autism-research-initiative",
+  "clave": "arpa autism initiative launches program research spectra",
+  "capturado": "2026-09-19",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "52025b525b37",
+  "fecha": "2026-09-19",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "De estudiante brillante a médico inseguro: el fenómeno del impostor golpea al R1",
+  "resumen": "mir saradomingo fse los seis cursos de medicina y la preparacion del mir entrenan a los facultativos para la vida real, aunque con un enfoque mas teorico que practico, por lo que el desembarco en la residencia es una confrontacion con la realidad que en ocasiones puede suponer problemas de salud mental. uno de ellos es el sindrome del impostor . teresa garcia lopez de asiain, medico internista y d",
+  "url": "https://www.diariomedico.com/medicina/medico-joven/mir/estudiante-brillante-medico-inseguro-fenomeno-impostor-golpea-r1.html",
+  "clave": "brillante estudiante fenomeno golpea impostor inseguro medico",
+  "capturado": "2026-09-19",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bcbcc75ebc1e",
+  "fecha": "2026-09-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Acento",
+  "titulo": "El suicidio es la principal causa de muerte entre los jóvenes en Argentina, según el OPC",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZTJNU3lLQTdXaFhUbWY3RmdENEtRNTVhMmRVNlZnUUNQSGxzZkhyYkdTZURkcVByT25acXA3Zk1oYlZoNmRFSUpKLXVsWl95dVI1WkZxNnpHWFFWRlNTdmF4OGhOLU4xeWk5Sl9hWlhuOUlKTTVpdnRteEZkbVI1Vm9tWVo4UDNaWUFGcmo1c0xkb3RzOEdSXy1XdDFBdFFqbmtIdHFlSGEwdjlFSFkxOFdzeWNEbHEwY1FDalc5eGwxcEdC0gHEAUFVX3lxTFBlMk1TeUtBN1doWFRtZjdGZ0Q0S1E1NWEyZFU2VmdRQ1BIbHNmSHJiR1NlRGRxUHJPblpxcDdmTWhiVmg2ZEVJSkotdWxaX3l1UjVaRnE2ekdYUVZGU1N2YXg4aE4tTjF5aTlKX2FaWG45SUpNNWl2dG14RmRtUjVWb21ZWjhQM1pZQUZyajVzTGRvdHM4R1JfLVd0MUF0UWpua0h0cWVIYTB2OUVIWTE4V3N5Y0RscTBjUUNqVzl4bDFwR0I?oc=5",
+  "clave": "argentina causa jovenes muerte principal segun suicidio",
+  "capturado": "2026-09-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "27e9fb953298",
+  "fecha": "2026-09-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Chubut",
+  "titulo": "Los chicos trabajan sobre un proyecto de salud mental de los jóvenes en las escuelas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQkJ5dnJ4SDNkZUltSktOZW50MjFWNXpCcms4UmZiY09GMFhyaUFCX0toY2pTWFlIdGpWSlJ1VElUZ0hJMDBJSThtYjVrUU1Ra3VyZnBLa1R6RWtXTWhXNllZQXNjMWd1WDAyU1duLWQwU2IwTVJsN3A4OUtBMmstLUEwdTVRbFFtaWx4ajRxclZ2ZHlickJxb242MmgyWXRULWlMTTBnbkxIcW03RkdyNVdIaVZ3ZGlQQXBxTjNZUWZfZElwS2xnQldZR3NxazhpNVdvVnhrLVo?oc=5",
+  "clave": "chicos escuelas jovenes proyecto trabajan",
+  "capturado": "2026-09-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c601c0e06871",
+  "fecha": "2026-09-18",
+  "carpeta": "03 BRASIL",
+  "feed": "Saúde Business",
+  "medio": "Saúde Business",
+  "titulo": "HIS 2026 encerra edição focado em inovação, cooperação internacional e segurança do paciente",
+  "resumen": "especialistas e autoridades discutiram parcerias com portugal, cuidado da saude mental na industria e impactos das bets na populacao. the post his 2026 encerra edicao focado em inovacao, cooperacao internacional e seguranca do paciente appeared first on saude business .",
+  "url": "https://www.saudebusiness.com/sem-categoria/his-2026-encerra-edicao-focado-em-inovacao-cooperacao-internacional-e-seguranca-do-paciente/",
+  "clave": "2026 cooperacao edicao encerra focado inovacao internacional paciente",
+  "capturado": "2026-09-19",
+  "puntos": 8,
+  "prioridad": "A",
+  "categoria_auto": "partnership",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1dab23f7dc39",
+  "fecha": "2026-09-18",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP reforça atenção às tentativas de golpe utilizando o nome do Sistema Conselhos de Psicologia",
+  "resumen": "o conselho federal de psicologia reforca o alerta contra mensagens fraudulentas (disparadas por meio do whatsapp e via e-mail) que utilizam nomes, marcas e ate elementos da identidade visual do sistema conselhos de psicologia. foram reportados ao colegiado novos casos … o post cfp reforca atencao as tentativas de golpe utilizando o nome do sistema conselhos de psicologia apareceu primeiro em conse",
+  "url": "https://site.cfp.org.br/cfp-reforca-atencao-as-tentativas-de-golpe-utilizando-o-nome-do-sistema-conselhos-de-psicologia/",
+  "clave": "atencao conselhos golpe nome psicologia reforca sistema tentativas",
+  "capturado": "2026-09-19",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "7a7c16fc1c33",
   "fecha": "2026-09-18",
   "carpeta": "05 GOOGLE NEWS",
@@ -13,6 +127,63 @@
   "puntos": 6,
   "prioridad": "A",
   "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e7d175b86e7c",
+  "fecha": "2026-09-18",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El CHUS descubre biomarcadores capaces de anticipar la respuesta a la terapia antiangiogénica",
+  "resumen": "el estudio analiza factores geneticos y metabolicos para anticipar que pacientes con degeneracion macular asociada a la edad obtendran mejores resultados terapeuticos",
+  "url": "https://www.redaccionmedica.com/autonomias/galicia/20260918/el-chus-descubre-biomarcadores-capaces-de-anticipar-la-respuesta-terapia-antiangiogenica/353186_0.html",
+  "clave": "antiangiogenica anticipar biomarcadores capaces chus descubre respuesta terapia",
+  "capturado": "2026-09-19",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b2bf331a154e",
+  "fecha": "2026-09-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Ríodoce",
+  "titulo": "SEP avanza en regulación de celulares en escuelas y prioriza salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmlTWmotZW1rQTZLcEtMVk1kMFdGTzFiaVRwbVd5UkRESm5ZTGRfYXhmUUZURUxtYXR3T0tDelhnYWtNLU1WaThVS1hsZnQzSEdfLVlLWnBnMEVfME5fR3B2OVIwLVN5N3RLQnpXdEVuYXRlZlRxd3d3SGFkWmpsZDh2T2R5V2FTTXU4bmtYUmxhV3U0WHRaV1gtcEVNeUFtTndocWNQdw?oc=5",
+  "clave": "avanza celulares escuelas prioriza regulacion",
+  "capturado": "2026-09-19",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0133a83c3e75",
+  "fecha": "2026-09-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "generacionuniversitaria.com.mx",
+  "titulo": "Equilibrium, la IA de estudiantes de la UDG que busca cuidar la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTGl6ejRxckQ2TEJlcDdQVS0yZWxZWnd6d1lWR0RBOTFaMWZBNGRtaWJqWkJOUHZxMmdQa3hyS1ZOWFJFYlQ1VW1BM0dDand0akFKNjlpeFEtZ3B2TFhjXzNTcWZUeUJpdkRXMF80VUl6cTZYeE5Da00zcnJ1UVprM21xeXNtR0ZSVmNQZFROMTFQSFVnNF9XTFlWY21rZXhCSzRrWXdHUHRocFJTclFoTUVOQ2R1bUgwQTFRVm14WWY3bTQ5VDdhYVpGTE1UTXlQTHlLbA?oc=5",
+  "clave": "busca cuidar equilibrium estudiantes",
+  "capturado": "2026-09-19",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
   "topic": [
    "salud mental"
   ],
@@ -57,6 +228,47 @@
   "ruido": []
  },
  {
+  "id": "80570b26d66e",
+  "fecha": "2026-09-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Redacción médica",
+  "titulo": "Sanidad encarga una evaluación externa para fiscalizar los planes de salud mental del SNS",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWUlWMjZkalM0aWhKMmt5NkZHS0NNVnkzMXNQWnA1LU5JMXhqWjl6RlRvZGpUaFd6MERkcFVUR1VzM2N0ZGpvbmZ3dmUxTFlYLXZZR0kyZUFySmZqSlFHOTduSVB1dGY0VUlEY05hSS1DVjRHVGZvakZvQld0dU1IYzJnc1RYZTRULXAzUC13d3N0b3NKaDhxYzVkUUtPS1RyOTVpZUdrRnRQZjY2VmYxWGpIQXVzTzQwMjV3TGtxRTJQMHNSQjZaX1FTU2VqV2M5M2pmU0JBX0RYck1IYzdmMVpXXzQ4QzBGLXVwVWRzdVBmWFVkaWhLRW95REswMExhZ1pBcktJNNIBhwJBVV95cUxQWUlWMjZkalM0aWhKMmt5NkZHS0NNVnkzMXNQWnA1LU5JMXhqWjl6RlRvZGpUaFd6MERkcFVUR1VzM2N0ZGpvbmZ3dmUxTFlYLXZZR0kyZUFySmZqSlFHOTduSVB1dGY0VUlEY05hSS1DVjRHVGZvakZvQld0dU1IYzJnc1RYZTRULXAzUC13d3N0b3NKaDhxYzVkUUtPS1RyOTVpZUdrRnRQZjY2VmYxWGpIQXVzTzQwMjV3TGtxRTJQMHNSQjZaX1FTU2VqV2M5M2pmU0JBX0RYck1IYzdmMVpXXzQ4QzBGLXVwVWRzdVBmWFVkaWhLRW95REswMExhZ1pBcktJNA?oc=5",
+  "clave": "encarga evaluacion externa fiscalizar planes sanidad",
+  "capturado": "2026-09-19",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ce41f36ed9bf",
+  "fecha": "2026-09-18",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP celebra o Dia da Psicóloga e do Psicólogo com debate sobre temas atuais importantes para a profissão",
+  "resumen": "em celebracao ao dia da psicologa e do psicologo, comemorado em 27 de agosto, o conselho federal de psicologia (cfp) promoveu, na quinta-feira (27), a live “do debate a conquista – caminhos para as 30h e a regulamentacao da psicoterapia”. … o post cfp celebra o dia da psicologa e do psicologo com debate sobre temas atuais importantes para a profissao apareceu primeiro em conselho federal de psicol",
+  "url": "https://site.cfp.org.br/cfp-celebra-o-dia-da-psicologa-e-do-psicologo-com-debate-sobre-temas-atuais-importantes-para-a-profissao/",
+  "clave": "atuais celebra debate importantes profissao psicologa psicologo temas",
+  "capturado": "2026-09-19",
+  "puntos": 1,
+  "prioridad": "C",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog",
+   "psicoterap"
+  ],
+  "ruido": [
+   "live "
+  ]
+ },
+ {
   "id": "7ccda7c45cbe",
   "fecha": "2026-09-18",
   "carpeta": "01 ESPAÑA",
@@ -72,6 +284,25 @@
   "categoria_auto": "otro",
   "topic": [
    "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ac5f44ef7c05",
+  "fecha": "2026-09-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Primera Edición",
+  "titulo": "Nuevo proyecto de salud mental sigue siendo resistido por las provincias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV3RBSUFIUjZZbms0RDhuUVFabzlDNGZNdjNfRW5yYVNIdl9GU3Y3U3VBWHJ5aGVVYW1Land5SE1GUVhneXZ6dmcxdUVVbS1HXzVGRlUxVmFqSVhPUG1yTHB3eVhRbnVQczhrMEZ4bTgydU9PODRqalE2TFM5Y1pCazVBeXFRc252dF9wQ0hoU0JVM1lkR0ZrZmo4b0FpV2JqNVpIdkNHaE9BOHNUeE1fMjJSTW1TZWs2b18zdkxjZw?oc=5",
+  "clave": "nuevo provincias proyecto resistido siendo sigue",
+  "capturado": "2026-09-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -7615,6 +7846,26 @@
   ]
  },
  {
+  "id": "3e0c9bf782ae",
+  "fecha": "2026-08-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "CNN Brasil",
+  "titulo": "NR-1: Com nova regras, trabalhador terá proteção à saúde mental no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkRkU3VSM0tsa0pCME9ScXhMU1kwZEl4WWVPeVVQdUtYalRoLUx0TjlXZHJNYzRVWFVNWFUzcTlKUFBlekpmalBZRFBMLVMyWFdDVEx4MU96SEFMRWNTY0RhalAyR0pTX0hOQXFTVHlzZHY3S0ZjMzVYYjVkRGVVamdEWUhYUTIwSXoyTXpwalFKUTFVNGxjWmFqNU4zUkcyVENWeHdadHNRMWFjZ1hucFNSclNPb0xmRUJUdGx6UnpjTHF3U1E?oc=5",
+  "clave": "nova protecao regras tera trabalhador trabalho",
+  "capturado": "2026-09-19",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
   "id": "ca8576acf23d",
   "fecha": "2026-08-14",
   "carpeta": "05 GOOGLE NEWS",
@@ -9348,6 +9599,25 @@
   "ruido": []
  },
  {
+  "id": "dfd160152ef8",
+  "fecha": "2026-07-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Time",
+  "titulo": "Sanidad destaca la unidad de noche de salud mental y la hospitalización a domicilio en La Palma",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLXFhLW5ibGZlUlBGTFNEaUVobkpnUUdOaHlkTlpITE5WaHl4cC1UcDU3RzhtUlFJQUtTRm5uMGNhQmRUSUlvWnVCQUltRHM4TnNxTENYSEgxRTVzSEJDUW1sbXRMaHZtQkRtQTR2ZHR5RXQ2R0RIaVlGRFRkLXI2Mm1jM29JWl8zRUxpdnkxbTlVYVkydXppSnU2MHptUVBwTkZ4ZXdzcGRnSm44dDdqbjR4MXlwS2g4T1NtN0pPdTJoY0Nwc3U4c0c2d2lMVmtHcnJTWnNRM085djlNOGpV?oc=5",
+  "clave": "destaca domicilio hospitalizacion noche palma sanidad unidad",
+  "capturado": "2026-09-19",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "99588a2189d2",
   "fecha": "2026-07-21",
   "carpeta": "05 GOOGLE NEWS",
@@ -10963,25 +11233,6 @@
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "6733ab10dbcd",
-  "fecha": "2026-06-20",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "El Periódico Extremadura",
-  "titulo": "Extremadura supera las 200.000 consultas de salud mental y reforzará la red asistencial",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVXlxa1lCR2dPaWdhSHFpX0tTMW1Qc3ZqQzNOZjFkRjRKZEFtLXQyU1owNWlvNXdrZU1wS1VudWZZdXRxMWhqSnMxdldOOGZjS3VqQWxSclZrOUk5QXZUWkpJMmlPVmtzbFUxRkkyWEZ2MkxydjlmLUt0VVRZdEt5SVVhc1pGU1k3VnVkVE1EOXk4bWlnaEZtVUs2OEtuc19hbTBQMW1uc2k1QUdrQjZCNGVUSHQ5MEs1MnhMc014czVPbFRyVzdjaHdMNm1pR0RC0gHWAUFVX3lxTE9vUkpINjVhSkNrYlNCYUVZckRkQW5LZDZjT2lYY1Q4T3VkS3A1TDU0ZDZNaHVMV1c3LWZwZHNkYzJpLW1IMExCZ2ozM1hRWmE5UEJJMzl3VzdMaklvYmxQNTRvRnE5MDRPalFrRkRVS2xtRFIycFhVYlYzbF92M0pJR1g4emJGZUtLRUtiVTNfSUFKNnlIRXVtaUJZOGcxV0p3cW9sT0R4a0NSVDJUV2VxamcybGNRY2RLUjRXZnJreXJOeV96SW55c3NzajlIZXdzMGhreGc?oc=5",
-  "clave": "asistencial consultas extremadura reforzara supera",
-  "capturado": "2026-09-04",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "research",
   "topic": [
    "salud mental"
   ],
