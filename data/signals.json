@@ -1,5 +1,81 @@
 [
  {
+  "id": "759731285cca",
+  "fecha": "2026-09-20",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Separar innovación de novedad: la ecuación de los directores de Farmacia para el avance terapéutico",
+  "resumen": "los gestores sanitarios reclaman priorizar las inversiones en funcion de sus resultados y avanzar hacia una atencion mas eficiente y cercana al paciente, entre otras",
+  "url": "https://www.redaccionmedica.com/autonomias/20260920/separar-innovacion-de-novedad-la-ecuacion-los-directores-farmacia-para-el-avance-terapeutico/353096_0.html",
+  "clave": "avance directores ecuacion farmacia innovacion novedad separar terapeutico",
+  "capturado": "2026-09-20",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "14bfefd8f9b4",
+  "fecha": "2026-09-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Litoral",
+  "titulo": "Una ley busca proteger la salud mental en los ámbitos laborales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM0FSc1lzMXVjQlFJVXcyMU12dkJIeEZxSEVFeVNlUFgwM18zc0oyenlTMUdNTGxHZ3hMb0JEZTlJM0V0RHUtd2N2dGR5VS1tbGtrQmxzQWlpM2tXUEYyN3VrelByMk5UcktLVTBBaUF3OE1LZUpCbktHbWN6V25MZE5DcFlaQzNqUlVPYVVDdk1yQkVQeDQ0WTNqcWs5bFUxSHB3OTdiWG1mNkNXODJzd2MwZHpiU0R4dnNBcS1DeVFONFJZRnlyb2Q2THZTTWw5RnBmSHJ5UDNyT2JO0gHiAUFVX3lxTFBIcGR2azlhaUU4dWROQXVpVV8yTmp0anNvNjducEpycjkxV0tIOTRuMHlPazhUOWw0VmZoU1VoYVdXMWpkZzVhZVM2LTBIcGxIOEdPcjhKZW5RU0lDOVFPdnR6NmxWd01EVVdyZlpOcXFUMHd1c284bFpQZHl0VzV6WjBTOGFXQ1d2NjZBVkdqbWxXdkE3YTRNd1lhQ1d5a2ZFZ0JCSGdCQ1ZObnJwdXdpYllySlFoMGQ3cHNPSXZmWkxoREtFQnZUZTRFYzNnbzRkSFFmWlFhcjBYY0VFZk9tdmc?oc=5",
+  "clave": "ambitos busca laborales proteger",
+  "capturado": "2026-09-20",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2703b47fbe1f",
+  "fecha": "2026-09-20",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "La cara B de la 'generación sobria': Psiquiatría alerta de que los jóvenes cambian el alcohol por los ansiolíticos",
+  "resumen": "el malestar emocional encuentra nuevas vias de gestion, en un contexto marcado por el autodiagnostico y la cultura de las redes sociales",
+  "url": "https://www.redaccionmedica.com/profesionales/psicologia/20260920/la-cara-de-la-generacion-sobria-psiquiatria-alerta-que-los-jovenes-cambian-el-alcohol-por-ansioliticos/350039_0.html",
+  "clave": "alcohol alerta ansioliticos cambian cara generacion jovenes psiquiatria",
+  "capturado": "2026-09-20",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "aacdd8fdcdc2",
+  "fecha": "2026-09-19",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "La Aemps retira lotes de duloxetina, un fármaco para la depresión y dolores crónicos",
+  "resumen": "la alerta afecta a dos presentaciones de 60 miligramos de pensa pharma y el organismo senala que el defecto de calidad no supone un riesgo vital para los pacientes",
+  "url": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260919/la-aemps-retira-lotes-de-duloxetina-un-farmaco-para-la-depresion-dolores-cronicos/353198_0.html",
+  "clave": "aemps cronicos depresion dolores duloxetina farmaco lotes retira",
+  "capturado": "2026-09-20",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
   "id": "05d28b37cbef",
   "fecha": "2026-09-19",
   "carpeta": "04 GLOBAL (solo con ángulo local)",
@@ -86,6 +162,25 @@
   "url": "https://www.saudebusiness.com/sem-categoria/his-2026-encerra-edicao-focado-em-inovacao-cooperacao-internacional-e-seguranca-do-paciente/",
   "clave": "2026 cooperacao edicao encerra focado inovacao internacional paciente",
   "capturado": "2026-09-19",
+  "puntos": 8,
+  "prioridad": "A",
+  "categoria_auto": "partnership",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "65160b46e66d",
+  "fecha": "2026-09-18",
+  "carpeta": "03 BRASIL",
+  "feed": "Saúde Business",
+  "medio": "Saúde Business",
+  "titulo": "HIS 2026 encerra edição focado em inovação, cooperação internacional e segurança do paciente",
+  "resumen": "especialistas e autoridades discutiram parcerias com portugal, cuidado da saude mental na industria e impactos das bets na populacao. the post his 2026 encerra edicao focado em inovacao, cooperacao internacional e seguranca do paciente appeared first on saude business .",
+  "url": "https://www.saudebusiness.com/eventos-3/healthcare-innovation-show/his-2026-encerra-edicao-focado-em-inovacao-cooperacao-internacional-e-seguranca-do-paciente/",
+  "clave": "2026 cooperacao edicao encerra focado inovacao internacional paciente",
+  "capturado": "2026-09-20",
   "puntos": 8,
   "prioridad": "A",
   "categoria_auto": "partnership",
@@ -241,6 +336,25 @@
   "puntos": 2,
   "prioridad": "C",
   "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "db5fedbc172b",
+  "fecha": "2026-09-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Corresponsables",
+  "titulo": "Korian finaliza la adquisición de Grupo 5 y refuerza su posición en el mercado español de la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcS1OZUloUWVmM19wcWdSLWlQbWFvaGl5NVFoVWpBTFRkekk1U0tla2dDWVBtYVl0ajhhWUFCdnRKLVR1NGZ2cm9Id3pEWGJLQ2dDLTgybmcwMjBQSFlYeV9PYWJ6QWo3ZW5jWUx5RUU1T2twcWY2R1dBeGdFYmF3b3NLREFlaGQyWjI5WThPaWlYcmF3TW5vOXdaRXpiVkttaFdLTEwzcjVRX0xzQnhGeG43dFZMWUV6R3p2X0hORQ?oc=5",
+  "clave": "adquisicion espanol finaliza grupo korian mercado posicion refuerza",
+  "capturado": "2026-09-20",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
   "topic": [
    "salud mental"
   ],
@@ -4799,6 +4913,25 @@
   "ruido": []
  },
  {
+  "id": "27c8088695f5",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "iSanidad",
+  "titulo": "Galicia amplía los recursos en salud mental con un plan de 177 millones y 357 nuevos profesionales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0hVZHpSNWtWYzR3SlV3N2s1RzRTTEExOFNqM2dnWElKRUFDNWQzZHFnMlRrX2tNMmhQZzhYNzQ0bnpfNUhWZGVpQ0I1ZVNLSVNQUVVWTVhDcFB5eW9SZDJkVWo5cXMtWXpKRjl2c1Z5VERjMlpHX2lLZnFIcEZsUUo0emNSWm1yUENySmNfNFpHaXhRX2pzdUh3Smp5bmh4SV9BNFBxNERSQzZyQkpB?oc=5",
+  "clave": "amplia galicia millones nuevos plan profesionales recursos",
+  "capturado": "2026-09-20",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "52e82c160797",
   "fecha": "2026-09-07",
   "carpeta": "01 ESPAÑA",
@@ -7799,6 +7932,27 @@
   "categoria_auto": "producto",
   "topic": [
    "salud mental"
+  ],
+  "ruido": [
+   "selena gomez"
+  ]
+ },
+ {
+  "id": "41a19bb25e48",
+  "fecha": "2026-08-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "Capricho",
+  "titulo": "Selena Gomez nega acusações de fraude em startup de saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV1NhTks1ZjVJLUZ2SlZPblFuZ296OW14ZUFYSEVzWFpBS3FmT0taQkgwNGF2OWdpWUxVeWprd3N0ZWdiZk82RFdCLVR6VTlXSkhUQ1lVYlhfOUtMazRlRVdaUHpzV3pRT2NoNjdwbU9QMzRMbnBucFdCaVdtNFlaaUFKTTVVOTVsSnpLSlNiSl9KNVZ1eG9uZk1aczdtSmRSVlVKS0xnTlhvTjh0ZEYw?oc=5",
+  "clave": "acusacoes fraude gomez nega selena startup",
+  "capturado": "2026-09-20",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
   ],
   "ruido": [
    "selena gomez"
@@ -11177,64 +11331,6 @@
   "categoria_auto": "producto",
   "topic": [
    "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "72183c2bc69f",
-  "fecha": "2026-06-21",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "CartaCapital",
-  "titulo": "98% das empresas veem saúde mental como prioridade, mas só 35% mapeiam riscos psicossociais",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWNvQUllTng3WUFRLTZzcUp3ZDZvZWJ4QUFneVRWUmJEbVJSTl90dWkyNmFwejVRc0VmVEFSM3hTc1hPSklETzhCdU9FU1hOczNqd3hvdTRycGlITW9qajhQTmU2eXg4QXNDbDZZdFY0a0NVWEZBQ3pYbjYwbU5fZm5BMXpES185OHpIbw?oc=5",
-  "clave": "empresas mapeiam prioridade psicossociais riscos veem",
-  "capturado": "2026-09-14",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "riscos psicossociais"
-  ],
-  "ruido": []
- },
- {
-  "id": "e669d5c41e0f",
-  "fecha": "2026-06-21",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "El Ecosistema Startup",
-  "titulo": "Fatiga de noticias 2026: cómo proteger tu salud mental como founder",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmFUSXYwZUpJc0YzTVBBMVNMUGtMM3FOTXlxUTRjYWRIM2xpLXdjSU9YY01PWWNiWjQ0bjFPTzVHRWxmSmlZc1BYdmlQUGZuVVVPX29KSy1Yam95S0J4dm5SdFQ3OWRFVTRRY3BFQUFnVzBxUHhrbDdUa1ozUWVyd1VLdXgxZENNbjBUd1NPaDFDRWNOZVpUYkt5X2JPQQ?oc=5",
-  "clave": "2026 fatiga founder noticias proteger",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "07a783a1b39e",
-  "fecha": "2026-06-21",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Redacción médica",
-  "titulo": "La sobredemanda en salud mental: entre la patologización y la cronicidad",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNenNrY1ZXeXdWZUxGU1JXaTdQcGtpYThQZkdsaldTenpzS1MxUmo4dndyWGp0elRQcEh4R0tDbzJ1ekJaZGI0ZzZSVnVETjhSc2lRRTB0N3NIRmU5cGM3eDhad3VJQWY3RFF4NVlDNjNKNl9NM0xFcFF3ZkhtbzhoMFRMa19pNFd5TFpBVFVSUEZKMW5oOFprd2tQTUVrb2NUWHIyZFB6Q24zR2NaZGR6bWw4ODZoRkVkZ3pzQUtLeGJDSVpjNS0tQkJyT1BQTzlnUURGc0xhbFN4OGFYSF930gHkAUFVX3lxTFBVWjNTY3NiQ3U1bXBCb2ZULUpKb2w0SFB3aHBTQkZQTVZtMlBhb2RuUnpyajJJWTR6a19IeGpJSHMtckhKUTRQYnUxck8zdjJHTS0zOUxrYVhHZVlIb1Bwell2WnJDOWlPTFNMUEQ2X1VOc2dYS3NwTWZhc3Jmd0JpMUlWUnBYTHNVX1VKcWc1cVlVWUliVWZLYzhacU5aZV9RRzYzS2xOeFFGOVA3b3VpLU90aUFIQnZKVTdoU2ZhX2tFUU05X0hXMnZ3TkpTWVoyTHFhRWlPQkgzd3Zjbjk1eVNHOA?oc=5",
-  "clave": "cronicidad patologizacion sobredemanda",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
   ],
   "ruido": []
  }
