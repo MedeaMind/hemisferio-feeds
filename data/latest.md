@@ -1,5 +1,5 @@
-# Hemisferio — señales 2026-09-12 → 2026-09-20
-119 ítems con tema salud mental de 1187 leídos · 111 historias únicas · A=17 B=39 C=55
+# Hemisferio — señales 2026-09-13 → 2026-09-21
+125 ítems con tema salud mental de 1188 leídos · 116 historias únicas · A=18 B=37 C=61
 
 ## PRIORIDAD A — hechos con datos (leer artículo completo)
 - [2026-09-14] [05] **Projeto de Lei 3091/26 estabelece critérios para Certificado Empresa Promotora da Saúde Mental e medidas a plataformas de apostas** — Informe Manaus · cat≈regulacion · 12 pts
@@ -43,6 +43,9 @@
 - [2026-09-18] [01] **El CHUS descubre biomarcadores capaces de anticipar la respuesta a la terapia antiangiogénica** — Redacción médica - Home · cat≈research · 6 pts
   el estudio analiza factores geneticos y metabolicos para anticipar que pacientes con degeneracion macular asociada a la edad obtendran mejores resultados terapeuticos
   https://www.redaccionmedica.com/autonomias/galicia/20260918/el-chus-descubre-biomarcadores-capaces-de-anticipar-la-respuesta-terapia-antiangiogenica/353186_0.html
+- [2026-09-20] [01] **La primera 'biotech' de agentes de IA plantea una nueva forma de descubrir y desarrollar tratamientos** — Redacción médica - Home · cat≈producto · 6 pts
+  una arquitectura basada en esta herramienta reproduce la organizacion de una compania de desarrollo de farmacos y coordina miles de agentes especializados para analizar datos biomedicos, ensayos clinicos y estrategias te
+  https://www.redaccionmedica.com/empresas/tecnologia-sanitaria/20260920/la-primera-biotech-de-agentes-ia-plantea-una-nueva-forma-descubrir-desarrollar-tratamientos/353199_0.html
 
 ## PRIORIDAD B — contexto útil
 - [2026-09-15] [05] **Setembro Amarelo: Simers palestra sobre saúde mental e as novas regras da NR-1 - Sindicato Médico do Rio Grande do Sul** — Simers · cat≈empleador_aseguradora · 5 pts
@@ -53,15 +56,9 @@
 - [2026-09-20] [01] **Separar innovación de novedad: la ecuación de los directores de Farmacia para el avance terapéutico** — Redacción médica - Home · cat≈mercado · 5 pts
   los gestores sanitarios reclaman priorizar las inversiones en funcion de sus resultados y avanzar hacia una atencion mas eficiente y cercana al paciente, entre otras
   https://www.redaccionmedica.com/autonomias/20260920/separar-innovacion-de-novedad-la-ecuacion-los-directores-farmacia-para-el-avance-terapeutico/353096_0.html
-- [2026-09-12] [05] **La Ley asturiana de Salud Mental, "parcialmente favorable" para el PP, que anuncia enmiendas** — AQUÍ Diario · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTnROU3NjNkxCNldZT1BfYlJ2ZjFjTkdHRFJhZllGWnNJQVh6QWRtVl9qeEtfMFM4TDUxRnJBb1hlOGo1U0lybkhaUlRCQkNMeFpvUFl2XzRIMXBCZFZlNmUwUkRtN3F0UGc2OVdEN1hQeEswX28yYkE1ZjdxaEs3N0l3OWZ1Z2FzdFlzTzJxYi1RM3hILXpPYXotai1lNDNVN2F0OHkyWVlNNDQ5N2Z3bGZqbWNFRlA5TDdFaDRkT3R0OG55cW93bVh5LVNrVmF2U0FqMlc3ZzVyQzM1MzNj0gHkAUFVX3lxTE5acWRRa2IxTnB3OTBiZVlsN3pZaEZlN0Vxcy0tS2MteTZYWHFzV1Q5TENaWnNPUlhnQ3FvMTlGYjBxb1dIdkk5aU14Wnk5MmEyWVNaS2pBVGZUdWh6ZWltclRvaGR0QUduZ04walk1YV9RcDhRTlZRclVWNDl5dlNEcmZXblVxdHVlTU85MC1ia3N5RGtoTWNSalpEU1V3ODdfZGJMQTh3XzZNTEswdUdpTXZMTmpXTjkwd0t5RzZsNGtkR1FpOFpLLWZGdWotNUNJVnIydzkwaVVpRnZFRDVCZTZJZw?oc=5
-- [2026-09-12] [01] **Los médicos urgen una reforma formativa para proteger su salud mental: "La prevención debe comenzar en el grado y el MIR"** — Redacción médica - Home · cat≈regulacion · 4 pts
-  la evaluacion de las estructuras del grado y el establecimiento de sesiones de apoyo a los estudiantes universitarios puede desembocar en una generacion de medicos mas 'saludables' a nivel emocional. cuando el mir pasa f
-  https://www.redaccionmedica.com/formacion/estudiantes/20260912/los-medicos-urgen-una-reforma-formativa-para-proteger-su-salud-mental-la-prevencion-debe-comenzar-en-el-grado-mir/350601_0.html
-- [2026-09-12] [05] **Elías de Pérez exige reglamentar la Ley de Salud Mental y Prevención del Suicidio** — Enterate Noticias · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGFZYUp4NkhSMDU2ak9iejdXOGpfZVgzZXNsc0tNdW5XTDhQQ0xfNEJkbG8wRzZrTnB1UjZfdk9BLTd2RHFpTFVPdmVoZzNWblpwYkE5X19wS183NkxUckxvT1ZvekdveFNzTG1RM0JkeFl2VllWbm10M3NBM1hFTkhNc1NTZ3otZEMxSTU0b09yTkdOZ2huZUFJWDNzRmVicXdNM2NVaUZOanF5THkzSzZQRUlERGh5QWFOVGxQQVc1cXNVTFE?oc=5
-- [2026-09-12] [05] **Los desafíos de la primavera gris encuentran a Chile sin ley integral de Salud Mental y con el Estado en deuda** — El Desconcierto · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT2V1UFlvNV9fa2hZYWtPSHdzUWFXaWpBRTItV3ppTkdoNnNROElucU4tbWhOdjNTdFEyaTJSQ18yYVBvdVFnTzRxbXJTTFRVczJuNmVtNm1waVdHblROSlVLNTFsQ1c0M25Na3hiLWlhVjhTZGV5Y0VXZ2RZY0YxVEpCd3pMTFFON0tUSncyMEVEMFUxZnVTZGlwbnZUanhXZWpvbzhObFgyWmdvQTd1dE9FV2dESnpUZlpaTmdHZl9KcGxvU08wLXRrbmt3dnBadlQw?oc=5
+- [2026-09-21] [05] **Saúde mental, prevenção ao assédio e a nova norma NR01: caminhos e desafios para proteção das mulheres e da classe trabalhadora. - CTB** — Central dos Trabalhadores e Trabalhadoras do Brasil · cat≈empleador_aseguradora · 5 pts
+  saude mental, prevencao ao assedio e a nova norma nr01: caminhos e desafios para protecao das mulheres e da classe trabalhadora. ctb - central dos trabalhadores e trabalhadoras do brasil
+  https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV1Y2SEtfdGZ4T3BORHZveEtxTEJEZXBGZS1PRlFUUnZUQlNyV2RlUDRTMlhwTzdtNDk4UElKOFhLRVpwdUxpUlRSV2dqdllQdGhKQ21JTVV6UW50Rll6SUdKR0RwSFhnUTJURWVQT0gtbXJvSFNDTF9jRjNSRHpZRlJRNF9wUk1lMFpyeWRvQV9DamlpcTVlVHpNWW1MSU5qTUVadERKbXUtTWlESEhBZGgxakZFeFV1ZjZoTGZza0RhTWUyZTNjTDlLLTFYV3JHU2cwUHVLSG9EdmpJMEFKNGFQa0VwT3lrZHhPZ3diaFhqdw?oc=5
 - [2026-09-13] [05] **Lei quer promover saúde mental e prevenir suicídio entre profissionais da segurança no PI** — Portal O Dia (+1 medios más) · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM25Sb1ZlcEJPVVhrejVGQUpybUxHaTdrejFZNFc2MlBDbTZrR1EzLUNPMkhHNVNZdnIwLUxPNmJ3bkptWDJKemdwWUZQcWhWZ3Z5X1JXSUdGQkVsUUR4RWY4SzZXaDAtcEVueW1hZ1RmZG9oMk80WFI0aFFZRHFibGdpLXRoaGtQZ0ticzV5Q2tJM1hYNkU4X3p3YnNYQmdBUy1wN2Z0V2hVdXFFWG5kb0NmX0hJcEpwNFFwNFhxd3NDcjg2bzBFRHRYNk9aVXd6d2wyWnlhV2hiWnFMQUFVZy1HUEtTQmZy0gHoAUFVX3lxTE8zblJvVmVwQk9VWGt6NUZBSnJtTEdpN2t6MVk0VzYyUENtNmtHUTMtQ08ySEc1U1l2cjAtTE82YnduSm1YMkp6Z3BZRlBxaFZndnlfUldJR0ZCRWxRRHhFZjhLNldoMC1wRW55bWFnVGZkb2gyTzRYUjRoUVlEcWJsZ2ktdGhoa1BnS2JzNXlDa0kzWFg2RThfendic1hCZ0FTLXA3ZnRXaFV1cUVYbmRvQ2ZfSElwSnA0UXA0WHF3c0NyODZvMEVEdFg2T1pVd3p3bDJaeWFXaGJacUxBQVVnLUdQS1NCZnI?oc=5
 - [2026-09-14] [05] **La nueva Ley de Salud Mental es ineficaz frente al suicidio, critican los psiquiatras asturianos** — La Nueva España · cat≈regulacion · 4 pts
@@ -87,6 +84,8 @@
   https://www.redaccionmedica.com/autonomias/madrid/20260915/el-sermas-hace-fijos-medicos-de-especialidades-tras-culminar-las-oposiciones-convocadas-en/350773_0.html
 - [2026-09-15] [05] **Kreplak cruzó a Nación: "Todas las provincias de manera unánime rechazamos la reforma" a la Ley de Salud Mental** — La Noticia 1 · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMi2wFBVV95cUxORzVLUlh0dFpSMXB5MFQ4dWdJcUgxaDB0TkE4ZTRoMFZkbUdUMnRvbWtjSzRIR0dwR3VWY3VfemRTbXJzYzltckR4Y2JiWGZzWlpvYkptYU1UTEtjazcwYW1BcWVFZnE0a1BvUkVoVTl1RkxSaHZZWnh1WEh2T2NDVGJHTDRWQ2JYdmJlYU1pakEta0xSQ3Q1TFZ3Nl9XVXp3UDBpQ3hFYk9QZmtqX2h3YVJhUkkybWlQODZpaEJ1TVp5MFhrZXpyWHVaTnd3RHpOelJyVXpkRGJEM1U?oc=5
+- [2026-09-15] [05] **Lei quer promover saúde mental e prevenir suicídio entre profissionais da segurança no Piauí** — Cidades em Foco · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDhRMWF1eEtPSUFmeGViYXgwcTZzV2hUUl9YTFZFNlhtZG1oc29vQXducjZFM0IyMGg4bXpjNlQ3MzRDTzlCek8zcFBRaF9tWkFGcGJiRV9ybHV5UWpSMFZndmVrX3NQemFYcnFMZVB3c1hFSEJwX284ME9ienBuYlY4eFRnUEt0eE9MNUJ3YzFvaXFlbkN5S2R4TjBhLTIxUkpjUXRNVFRIWGRzNWkxS3pGVXlkYS0tM2ZR?oc=5
 - [2026-09-16] [05] **Sanidad reduce hasta un 66 % la demora asistencial en salud mental en Alicante** — elperiodic.com (+1 medios más) · cat≈sistema_publico · 4 pts
   https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbG93UTlvaVNlOGRyY3ByWFk5ZHhOaEUwcjZKM3VGT3lTb3BzYmVDX2pobHBOOVYtaEZWZ3dSSzhiaFl6WTZWeEdNYVRIdDV4VlRtNmJCREJQTGp0aWJjQ2x1RlZqNWlzRnJsRHJTSHV0X0pmcnFRUmxCYXM1UmRPazhpRklCa3ZiQzl3OEptR3lBMGNmdHd1NWx6amJIX0pFaVFSYUtudElfZw?oc=5
 - [2026-09-16] [05] **Las provincias rechazaron la nueva ley de salud mental y Nación mete cambios** — Infocielo · cat≈regulacion · 4 pts
@@ -106,11 +105,8 @@
 - [2026-09-19] [01] **La Aemps retira lotes de duloxetina, un fármaco para la depresión y dolores crónicos** — Redacción médica - Home · cat≈regulacion · 4 pts
   la alerta afecta a dos presentaciones de 60 miligramos de pensa pharma y el organismo senala que el defecto de calidad no supone un riesgo vital para los pacientes
   https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260919/la-aemps-retira-lotes-de-duloxetina-un-farmaco-para-la-depresion-dolores-cronicos/353198_0.html
-- [2026-09-20] [05] **Una ley busca proteger la salud mental en los ámbitos laborales** — El Litoral · cat≈regulacion · 4 pts
+- [2026-09-20] [05] **Una ley busca proteger la salud mental en los ámbitos laborales** — El Litoral (+1 medios más) · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM0FSc1lzMXVjQlFJVXcyMU12dkJIeEZxSEVFeVNlUFgwM18zc0oyenlTMUdNTGxHZ3hMb0JEZTlJM0V0RHUtd2N2dGR5VS1tbGtrQmxzQWlpM2tXUEYyN3VrelByMk5UcktLVTBBaUF3OE1LZUpCbktHbWN6V25MZE5DcFlaQzNqUlVPYVVDdk1yQkVQeDQ0WTNqcWs5bFUxSHB3OTdiWG1mNkNXODJzd2MwZHpiU0R4dnNBcS1DeVFONFJZRnlyb2Q2THZTTWw5RnBmSHJ5UDNyT2JO0gHiAUFVX3lxTFBIcGR2azlhaUU4dWROQXVpVV8yTmp0anNvNjducEpycjkxV0tIOTRuMHlPazhUOWw0VmZoU1VoYVdXMWpkZzVhZVM2LTBIcGxIOEdPcjhKZW5RU0lDOVFPdnR6NmxWd01EVVdyZlpOcXFUMHd1c284bFpQZHl0VzV6WjBTOGFXQ1d2NjZBVkdqbWxXdkE3YTRNd1lhQ1d5a2ZFZ0JCSGdCQ1ZObnJwdXdpYllySlFoMGQ3cHNPSXZmWkxoREtFQnZUZTRFYzNnbzRkSFFmWlFhcjBYY0VFZk9tdmc?oc=5
-- [2026-09-12] [01] **Irene Montero (Podemos) presenta su candidatura a las elecciones generales: "Los sanitarios tienen que estar bien remunerados"** — Redacción médica - Home · cat≈producto · 3 pts
-  la candidata apuesta por un programa politico centrado en la vivienda y anuncia la convocatoria de primarias "abiertas" en el partido la psicologa ione belarra se postula como candidata de podemos en madrid
-  https://www.redaccionmedica.com/politica/sanidad-hoy/20260912/irene-montero-podemos-presenta-su-candidatura-las-elecciones-generales-los-sanitarios-tienen-que-estar-bien-remunerados/350674_0.html
 - [2026-09-14] [05] **Startup maranhense aposta em educação socioemocional para fortalecer saúde mental nas escolas** — bombabomba.com.br · cat≈producto · 3 pts
   https://news.google.com/rss/articles/CBMivAFBVV95cUxOdllqVXpOc0ppSGJZWmxYNnd2ZnVMQVk0NVNjeU1EaG1kcFE5SXo2aDlWQXhLeHlGc0lNU1F5T1ltZ3ZEdWhQLW5TVHZZRjlnRFFBNFo4enhaaTN1WldrZFVOUDF1eXM1N1BDVFo2ZmVaNUdRcWlQaHZpeDZhUGtEeVIwVDVob1ZNVFpfclJMSHNjNUxtcmFad0RaVnk4UlFLOVB5WS1NYlZRSk04eklxdk0yUEs4NDE0ZzFBYw?oc=5
 - [2026-09-14] [01] **Nuevo aval al tratamiento precoz, ambicioso y escalonado de la artritis reumatoide** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈mercado · 3 pts
@@ -133,6 +129,9 @@
 - [2026-09-19] [04] **<a href="https://www.fiercehealthcare.com/regulatory/arpa-h-launches-spectra-program-new-autism-research-initiative" hreflang="en">ARPA-H launches SPECTRA program, new autism research initiative</a>** — Fierce Healthcare · cat≈producto · 3 pts
   researchers will create an end-to-end system to identify asd risk factors, connect patients to appropriate interventions and accelerate clinical research for new therapies.
   https://www.fiercehealthcare.com/regulatory/arpa-h-launches-spectra-program-new-autism-research-initiative
+- [2026-09-20] [03] **CFP abre inscrições para a 4ª edição do Prêmio Profissional Virgínia Bicudo** — Conselho Federal de Psicologia · cat≈regulacion · 3 pts
+  o conselho federal de psicologia (cfp) realiza a 4ª edicao do premio profissional virginia bicudo – “praticas para uma psicologia antirracista”. a premiacao busca identificar, valorizar e disseminar estudos e iniciativas
+  https://site.cfp.org.br/cfp-abre-inscricoes-para-a-4a-edicao-do-premio-profissional-virginia-bicudo/
 
 ## PRIORIDAD C — probable ruido (solo títulos)
 - [2026-09-13] Sanidad prepara nuevo sistema de vigilancia de salud mental con Registro Estatal del Suicidio — El Mirón de Soria
@@ -147,6 +146,10 @@
 - [2026-09-18] Sanidad encarga una evaluación externa para fiscalizar los planes de salud mental del SNS — Redacción médica - Home (+2 medios más)
 - [2026-09-18] Korian finaliza la adquisición de Grupo 5 y refuerza su posición en el mercado español de la salud mental — Corresponsables
 - [2026-09-19] De estudiante brillante a médico inseguro: el fenómeno del impostor golpea al R1 — DiarioMedico - Plataforma de profesionales sanitarios
+- [2026-09-20] El cuidador es el segundo paciente del alzhéimer — DiarioMedico - Plataforma de profesionales sanitarios
+- [2026-09-21] Sanidad fija nueva fecha para el examen de acceso a Urgencias por la vía extraordinaria — Redacción médica - Home
+- [2026-09-21] COVID-19: descubren cómo una proteína del virus 'engaña' al sistema inmunitario para propagarse — infosalus.com
+- [2026-09-21] Costa Rica traza su hoja de ruta en salud: listas de espera, cáncer y salud mental lideran las 10 prioridades nacionales — Infobae
 - [2026-09-13] La prevención del suicidio aguarda por la aplicación plena de la ley que es asignatura pendiente — LA17
 - [2026-09-18] CFP celebra o Dia da Psicóloga e do Psicólogo com debate sobre temas atuais importantes para a profissão — Conselho Federal de Psicologia
 - [2026-09-13] Los problemas de salud mental llegan a máximos desde la dana — Las Provincias
@@ -184,6 +187,8 @@
 - [2026-09-19] El suicidio es la principal causa de muerte entre los jóvenes en Argentina, según el OPC — Acento
 - [2026-09-19] Los chicos trabajan sobre un proyecto de salud mental de los jóvenes en las escuelas — El Chubut
 - [2026-09-20] La cara B de la 'generación sobria': Psiquiatría alerta de que los jóvenes cambian el alcohol por los ansiolíticos — Redacción médica - Home
+- [2026-09-20] Las enfermeras como pieza clave del cuidado de la salud mental — larazon.es
+- [2026-09-21] pacientes | La Sociedad Española de Diabetes reclama una educación terapéutica accesible y homogénea — https://www.consalud.es/rss
 - [2026-09-16] NeuroIdentify concorre ao Prêmio Destaque Educação Brasil 2026 na categoria Saúde Mental e Bem-Estar — Guarany Junior
 - [2026-09-17] De los dietas de moda al estigma de la salud mental: el Reina Sofía y la Fundación Cajasol acercarán la sanidad a los cordobeses con un ciclo de conferencias — Diario Córdoba
 - [2026-09-13] Revista La Ventana en la Feria del Libro: arte, palabra y salud mental — La Izquierda Diario
@@ -192,34 +197,34 @@
 - [2026-09-17] <a href="https://www.fiercehealthcare.com/regulatory/3-trump-administration-public-health-nominees-go-senate-help" hreflang="en">Measles outbreak, vaccine policy dominate Trump health nominees' Senate hearing</a> — Fierce Healthcare
 
 ## Estado de los feeds (hoy)
-- 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 3 · ok
-- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 0 · ok
+- 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 2 · ok
+- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 1 · ok
 - 01 ESPAÑA · https://gacetamedica.com/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
-- 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 0 · ok
+- 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 1 · ok
 - 01 ESPAÑA · El Referente · leídos 10 · nuevos 0 · ok
-- 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 0 · ok
+- 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 1 · ok
 - 01 ESPAÑA · Agencia Española de Medicamentos y Productos Sanitarios · leídos 30 · nuevos 0 · ok
 - 02 LATAM · https://www.contxto.com/en/feed/ · leídos 100 · nuevos 0 · ok
 - 02 LATAM · LatamList · leídos 10 · nuevos 0 · ok
 - 02 LATAM · https://lavca.org/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
 - 02 LATAM · Saludiario · leídos 10 · nuevos 0 · ok
 - 02 LATAM · iProUp.com - Últimas noticias sobre economía digital, c · leídos 6 · nuevos 0 · ok
-- 03 BRASIL · Saúde Business · leídos 10 · nuevos 1 · ok
+- 03 BRASIL · Saúde Business · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Futuro da Saúde · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Medicina S/A · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startups · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startupi · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Brazil Journal · leídos 10 · nuevos 0 · ok
-- 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 0 · ok
+- 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 1 · ok
 - 03 BRASIL · Portal Médico · leídos 1 · nuevos 0 · ok
 - 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 2 · ok
+- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 3 · ok
 - 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 2 · ok
+- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 4 · ok
 - 05 GOOGLE  · Google News · PT Portugal · leídos 100 · nuevos 0 · ok
 - 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 27 · nuevos 0 · ok
 - 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 52 · nuevos 0 · ok
 - 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 76 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 77 · nuevos 0 · ok
