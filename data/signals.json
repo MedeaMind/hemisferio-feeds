@@ -1,5 +1,106 @@
 [
  {
+  "id": "2778d2a9da78",
+  "fecha": "2026-09-22",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Las infecciones TORCH se asocian con hasta 30 veces más riesgo de discapacidad intelectual grave",
+  "resumen": "las infecciones que, en raras ocasiones, pueden transmitirse de la mujer embarazada al feto estan relacionadas con un mayor riesgo de autismo y discapacidad intelectual en el nino, segun demuestra un estudio del instituto karolinska (suecia) publicado en 'jama pediatrics'.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-infecciones-torch-asocian-30-veces-mas-riesgo-discapacidad-intelectual-grave-20260922081847.html",
+  "clave": "asocian discapacidad grave hasta infecciones intelectual riesgo torch",
+  "capturado": "2026-09-22",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d16518f8fc49",
+  "fecha": "2026-09-22",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Un estudio halla nuevas vías para reducir el dolor y síntomas depresivos asociados a la fibromialgia",
+  "resumen": "un estudio de la universitat autònoma de barcelona (uab) y el institut de recerca sant pau (ir sant pau) ha identificado 2 compuestos capaces de activar mecanismos de defensa antioxidante que pueden reducir la hipersensibilidad al dolor y los comportamientos depresivos asociados a la fibromialgia.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-estudio-halla-nuevas-vias-reducir-dolor-sintomas-depresivos-asociados-fibromialgia-20260922105528.html",
+  "clave": "asociados depresivos dolor estudio fibromialgia halla nuevas reducir",
+  "capturado": "2026-09-22",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ec1ad9fedccd",
+  "fecha": "2026-09-22",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Intoxicação por medicamentos e drogas responde por 7 em cada 10 registros de lesão autoprovocada em internações",
+  "resumen": "um levantamento da plataforma drg brasil, do grupo iag saude, realizado no contexto do setembro amarelo, campanha de conscientizacao sobre a prevencao do suicidio, mostra que aproximadamente uma em cada oito internacoes para tratamento de transtornos mentais e comportamentais apresentou registro de lesao autoprovocada intencionalmente. a autointoxicacao por medicamentos e drogas foi o mecanismo ma",
+  "url": "https://medicinasa.com.br/intoxicacao-medicamentos-drogas/",
+  "clave": "autoprovocada cada drogas internacoes intoxicacao lesao medicamentos registros",
+  "capturado": "2026-09-22",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "deal",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": [
+   "mostra",
+   "campanha"
+  ]
+ },
+ {
+  "id": "747fb9f2d3c5",
+  "fecha": "2026-09-22",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Inteligência artificial pode contribuir para identificar sinais de depressão",
+  "resumen": "setembro amarelo reforca a importancia da prevencao do suicidio, da valorizacao da vida e da atencao aos sinais de sofrimento psiquico. nesse contexto, uma pesquisa liderada por docentes da faculdade de ciencias medicas da santa casa de sao paulo (fcm–scsp) demonstra como a ciencia e a tecnologia podem contribuir para ampliar as possibilidades de identificacao […] the post inteligencia artificial ",
+  "url": "https://medicinasa.com.br/ia-sinais-depressao/",
+  "clave": "artificial contribuir depressao identificar inteligencia pode sinais",
+  "capturado": "2026-09-22",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "depres",
+   "suicid"
+  ],
+  "ruido": [
+   "sinais de"
+  ]
+ },
+ {
+  "id": "652da3230675",
+  "fecha": "2026-09-22",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "avances | Identifican nuevas vías para reducir el dolor y síntomas depresivos asociados a la fibromialgia",
+  "resumen": "avances: identifican nuevas vias para reducir el dolor y sintomas depresivos asociados a la fibromialgia",
+  "url": "https://www.consalud.es/pacientes/pacientes-avances/un-estudio-identifica-nuevas-vias-para-reducir-el-dolor-y-sintomas-depresivos-asociados-a-la-fibromialgia.html",
+  "clave": "asociados avances depresivos dolor fibromialgia identifican nuevas reducir",
+  "capturado": "2026-09-22",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
   "id": "98bc0c1b9ee6",
   "fecha": "2026-09-21",
   "carpeta": "05 GOOGLE NEWS",
@@ -15,6 +116,104 @@
   "categoria_auto": "empleador_aseguradora",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c65441f56a64",
+  "fecha": "2026-09-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Comentario",
+  "titulo": "Nueva Ley de Salud Mental regulará prevención del suicidio y centros de rehabilitación",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5POHh1cENQVEpWNDl5LVVBU0NpRWR0VWhmLWE3RVBPclBWMmFmOFN0RTVwQ3hBRVVnMGxrZER5RkgxT3l4aTFIeUgxM3IwS00?oc=5",
+  "clave": "centros nueva prevencion regulara rehabilitacion suicidio",
+  "capturado": "2026-09-22",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a1a5a4118de5",
+  "fecha": "2026-09-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "INFO VERA",
+  "titulo": "Es Ley la protección de la Salud Mental y la prevención de Adicciones en los ámbitos laborales de Santa Fe",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVm9zWTJvRXBpdFRaaTJ6XzFIcXlzb2E0a2l1NTNlbWllM2F5dEpnc3E5VUxfMWJQQlFFdVUzeUtBNGZWSTU1VUppLWR5dWVUNW12RFVEODlEazgzajFmc1NPYmhrM3V2dFpRN2x3Z0lzU2N6MzJudkhHOXEwaWZUaTlNOGxlZm41Q0YteXhHWnhCc3lhd1o0bG5qOWpBZmpwTnJGYW5zNkp0aVJuM3RtbzVaWUJ0akhNNXNPanJLN0VCQ2pfajU4ZEt6TmhXZ3F2RlZPaW9WY3hmSnUwYTZN?oc=5",
+  "clave": "adicciones ambitos laborales prevencion proteccion santa",
+  "capturado": "2026-09-22",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "85eb471c4159",
+  "fecha": "2026-09-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Colima Noticias",
+  "titulo": "Expide LXI Legislatura la Ley de Salud Mental y Adicciones para el Estado de Colima",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzdhUURRZEFxZ1ZXV3ZWX1VZMzJKQTM1TjMxdG1sRm5JbkxyLUs1YkJoZGN3cnlxTUctMDNUb0tpem1pM1h3VWJDRlZJTGFCSmExcWc4M2FmTWh0SWlZSDJWMzhTZGZNSlpKQjFxMDRGaUpsWENnMG1OUkFiVWppZ1l3VENLaDhJWllCVG9rNUszZGY4bWNKZGwtb3FVQk5ub2ZzMVhjWjNDQ29BbVhIWlp2Y3dGUQ?oc=5",
+  "clave": "adicciones colima estado expide legislatura",
+  "capturado": "2026-09-22",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0cf0012e94bf",
+  "fecha": "2026-09-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Câmara Municipal de Vitória da Conquista",
+  "titulo": "Lei cria política de saúde mental para moradores da zona rural de Vitória da Conquista",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaFY0WmJGM1lZV1VYT19uRVpfaV9fWVNGcWJETkt3Sk4xUVEwSGppQlJJR3Rua285TDcwNmJnOFlWa1hrLXhoZFhiVGVhUWh5MzE4WlRUZzNmc2lwb3VaZ0Fjb0YxZXBqMl9PaGpKRkFwaDg2TVJCT3JSU3lzbkNBY1A5d1hFM25HXzlrZHltUTdkU0lhUEd2SDRoNnBHaXRJT2lXQ2ZRM2ZBdkpGaG13dWQwN2dvZTI1WjMzNXNJbWc2ZmFkZi1OYk9teTI?oc=5",
+  "clave": "conquista cria moradores politica rural vitoria zona",
+  "capturado": "2026-09-22",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "10dab14094b8",
+  "fecha": "2026-09-21",
+  "carpeta": "03 BRASIL",
+  "feed": "Saúde Business",
+  "medio": "Saúde Business",
+  "titulo": "Envelhecimento da população neurodivergente impõe novos desafios à saúde",
+  "resumen": "o his 2026 trouxe luz a necessidade de antecipar o cuidado, integrar dados e preparar profissionais para uma populacao que ainda recebe atencao concentrada na infancia. the post envelhecimento da populacao neurodivergente impoe novos desafios a saude appeared first on saude business .",
+  "url": "https://www.saudebusiness.com/eventos-3/healthcare-innovation-show/envelhecimento-da-populacao-neurodivergente-impoe-novos-desafios-a-saude/",
+  "clave": "desafios envelhecimento impoe neurodivergente novos populacao",
+  "capturado": "2026-09-22",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "neurodiverg"
   ],
   "ruido": []
  },
@@ -76,6 +275,25 @@
   "ruido": []
  },
  {
+  "id": "e173778a9435",
+  "fecha": "2026-09-21",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "La psicóloga Julia Ferreras, entre los diputados atacados en Ceuta",
+  "resumen": "la ministra de sanidad, monica garcia, ha mandado a la parlamentaria un mensaje de apoyo a traves de la red social x padilla anuncia nuevos efectivos en ceuta y un avance \"importante\" para la proxima semana",
+  "url": "https://www.redaccionmedica.com/politica/20260921/la-psicologa-julia-ferreras-entre-los-diputados-atacados-en-ceuta/353217_0.html",
+  "clave": "atacados ceuta diputados ferreras julia psicologa",
+  "capturado": "2026-09-22",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "2da7edd67b51",
   "fecha": "2026-09-21",
   "carpeta": "01 ESPAÑA",
@@ -91,6 +309,66 @@
   "categoria_auto": "otro",
   "topic": [
    "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "64a840bb0f26",
+  "fecha": "2026-09-21",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El Gobierno impulsa un acuerdo de país para un uso \"humanista\" de la IA con gemelos digitales y protección de la salud mental",
+  "resumen": "pedro sanchez destaca la colaboracion para un conjunto de modelos abiertos especializados para ambitos estrategicos como defensa, energia, clima y salud \"el medico debe incorporar una nueva competencia en ia sin delegar en ella el juicio clinico\"",
+  "url": "https://www.redaccionmedica.com/politica/20260921/el-gobierno-impulsa-un-acuerdo-de-pais-para-uso-humanista-la-ia-con-gemelos-digitales-proteccion-salud-mental/353266_0.html",
+  "clave": "acuerdo digitales gemelos gobierno humanista impulsa pais proteccion",
+  "capturado": "2026-09-22",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "producto",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "juicio"
+  ]
+ },
+ {
+  "id": "6457d5c5c529",
+  "fecha": "2026-09-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "El Sol de México",
+  "titulo": "Preparan app para atención de salud mental por videollamada",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOW5wV0FqNk5kNzVTZHNoU00taERaSDVtNk9hcm1CbmRtX1FYdHplWHRZSmpSRE1VOGhWZU5Cdmp1d2tUclJ0R3RRNTU4Q2xtb1NUZnhranJ5dkpJX181RHVIZ1Mtbm1MeFVBWDVaTnZkX0dFa2NRWVB4dTJ6ZlRFVzJqcjhqekNFay01SlNrWWROU1NSMnJ2aUpTdTRWa3RSc0ZWVzN5cTVRc0J2MXcwSUpJa1c?oc=5",
+  "clave": "atencion preparan videollamada",
+  "capturado": "2026-09-22",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "da117ebabc18",
+  "fecha": "2026-09-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "bra1.com.br",
+  "titulo": "Saúde mental vira briga judicial: livro explica como provar burnout no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2pfOG01amk2bjBvWXI0SjVZX0xNVXR6M25LaTlwMVpDbzRIbndlaTFidndQU1M2U3h0cGZtczZ0MklWTG92WEp3VlRza19vTFhkQ2JCR0g1Um9FZUlZeU9pWUp0blNLZllDcG0ycXpNS1JKVTVFWkdQX1h5RllGTUZqeElpMUg2R2dRb1ZSUXBXOGlKVG1JUjR6bkVwa0Y4ZjctNC1FNnVRQU80dmwtUUhWb1FWSG9mNkdV?oc=5",
+  "clave": "briga burnout explica judicial livro provar trabalho vira",
+  "capturado": "2026-09-22",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental",
+   "burnout"
   ],
   "ruido": []
  },
@@ -11509,84 +11787,5 @@
    "adicci"
   ],
   "ruido": []
- },
- {
-  "id": "ec5eb519225b",
-  "fecha": "2026-06-23",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · PT Portugal",
-  "medio": "dnoticias.pt",
-  "titulo": "Resposta em saúde mental na Região reforçada com 40 novas camas",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzh3UXVrc1o0dE9hd3hNTzBaemxld05RMGFBZTVzbE02cG83RTd6bnZMeTQyTVdJMjBVY0hfUXdrM3B3N0pfYW1JTDJyTjRPUVhWa2o3eGFJcnJDbGhyci12U0NnSm9JcDZPMkNNa0w0ZzMyVFo4SDlsV2VMZi1QbloyWmdoU29vSHRmRGppNW9sNloyM0JFM2ZZLVFLQmVqOXdlemlxMGVMdw?oc=5",
-  "clave": "camas novas reforcada regiao resposta",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "b5c806648cbd",
-  "fecha": "2026-06-23",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · PT Portugal",
-  "medio": "dnoticias.pt",
-  "titulo": "Resposta em saúde mental na Região reforçada com 40 novas camas",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVpfVmVBRnVESE9McVpuMC15SUw0VjNUbExMcVUzdDEtdEhfYWFzS3VraXdqd0dZX3Bkd2xQQkhybU9pZWNYSWtrOEFRelpCc2hyNDVpYmhqaTh5MExfVUZ4OW1GOWxOdUp1OWlsc3p5SlpOb2hHR3o5aXNVMzlKY1BTRjhNaDFtSXFMdjFLd0gwTmNKQzRMYVFxVHN0dHhlb1VKcndQc0xjMXRoWktB?oc=5",
-  "clave": "camas novas reforcada regiao resposta",
-  "capturado": "2026-09-13",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "fac0927049ba",
-  "fecha": "2026-06-23",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "ladiaria.com.uy",
-  "titulo": "Salud Mental: el gobierno implementará un plan piloto para incorporar psicólogos en liceos y UTU de todo el país",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOa0pSc0MwVzZUbUpiYURPU0VDZlJBMlZ5ejRCczBNa2tCZi10aGJKX2Ywb2JwX2pHTnpHVnhZR2h1RjVEc3hEZFRpMmdWM3hKR0RKdXVJc2h2X21STHQyM1lZbERTdThuR3hDRHFNR2hZalBGTkZlbXJVZVlRcnlETTQ0dzBWNC1jN21YUDBPU0hYMmxhamJnM3FpWVRoY2czam9GZ2FrXzhNOXhuQzVxUUtYSU1aZlJWV0d0SDJXVjRWcXpNSkZNdEZkeWNrSkM5X1NIYlBpeGxuQUdYMXc5VTdCTXRJN2hITmlJWlNlUQ?oc=5",
-  "clave": "gobierno implementara incorporar liceos pais piloto plan psicologos",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental",
-   "psicolog"
-  ],
-  "ruido": []
- },
- {
-  "id": "1e870de5ef68",
-  "fecha": "2026-06-23",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "salamancartvaldia.es",
-  "titulo": "Un premio de 5.000 euros impulsará la implantación de una 'app' de salud mental de la USAL",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdEFUOGxwMVRTZm5PRGhSV1pLdGZ0OVhXQUVrelpIMmhENWF1OEJ1M2xqX1puT2kxc280MUxpZUUxb2tlTzc1MTVCaEZGaWlWVElPdXMzSWhuQTNYR053clJCVVBuM1VUczU4NHVoVmxpM1UweHd1OWRyaUdrZWstZDFSYmk1LU0wYzY4dHFvVlVQQjAtVV9hR0dWUnIxc0R5LWtNazVGZk5XOFBBMmhLT0pUeEVySGQtdE5KYzNPWGpOVGRISkdnSE1OZktWTnBlcmo3d05KLWFfbEk?oc=5",
-  "clave": "euros implantacion impulsara premio usal",
-  "capturado": "2026-09-05",
-  "puntos": -1,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "premio"
-  ]
  }
 ]
