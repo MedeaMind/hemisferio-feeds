@@ -1,5 +1,297 @@
 [
  {
+  "id": "dd0be9c34f07",
+  "fecha": "2026-09-23",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Impacto de bets no SUS chega a R$ 30,6 bilhões por ano",
+  "resumen": "o impacto financeiro por causa dos danos a saude provocados pelas apostas online no sistema unico de saude (sus) e de r$ 30,6 bilhoes por ano. o dado consta de estudo do instituto de estudos para politicas de saude (ieps). nessa conta, entram as despesas com tratamentos de depressao, ansiedade e impactos causados pelas mortes por […] the post impacto de bets no sus chega a r$ 30,6 bilhoes por ano ",
+  "url": "https://medicinasa.com.br/impacto-financeiro-bets/",
+  "clave": "bets bilhoes chega impacto",
+  "capturado": "2026-09-23",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "ansiedad",
+   "ansiedade",
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "490e9bdc5938",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "O GLOBO",
+  "titulo": "Empresas que descumprirem NR-1 sobre saúde mental no trabalho podem voltar a ser punidas a partir desta quarta-feira",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQYkR4cThreFo5eEFjemNMTG9Udm9BZlBoUkhIRnVLMHlHVjlrSjlJb2VMWWFtVUxaTmhGRmVWX0V6VWVmclJwRjYtX2dnaXRDQjROcE5JVGt3RExEMlp0Tlk1dUFkVk5USnBiM3lMTGdtckthVEs3QVB6S0RCUFV4dlF5VVBVWWIyMTY1b21rWlFxQmMwdFc1ZUdpLTd6S2xVYS1peU5Ca2hySlYwd1kyRzVURUJrelVMcmFIWUZxUnRucHRrYm92YU9LQ1RnTm1GR25ha0tvN0FRQlZaZ19NZy1ydGJ0Wjg2alVIZzUtTl9tQ18xUjYzRms5aE9FeERFMVdyMkVB0gGUAkFVX3lxTFBubFRhWndRV2RnV25lSjhQZlpDVVMxcmtqOUV3NHJ5NnVUdEtlNjdPQUpJNDhqZHlINVoybEsxTG5Sd2RLMjNsQWVwVUwxSks4YkVmTU5OZ0M4eXdaOS1NdEdQTE1QNWZkX2pMdUNiMG5WVUkxMmtwMEpOQmczLWY0dHBxR2R3bjJCUmt0TjlFTHJJcXpYX2wzdEpBS0E1N0d3eDA5YXFQSUJTMzhobkRqZ0FURjhiUWRMemJuR051UDF3eHhnWDRwaHhjeVFlaDc2S2VocWdBRUxPc3F4WjN1YjZpdTdZR2NyUlNUS2ZvQklzQncxSnEyRGN4am9ZWjBXdGZvclRGd0l5V3NKcUZPNGdJZg?oc=5",
+  "clave": "descumprirem desta empresas feira partir podem punidas quarta",
+  "capturado": "2026-09-23",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c0e72a682e9a",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infocielo",
+  "titulo": "Santa Fe aprobó una ley para prevenir problemas de salud mental y adicciones en los lugares de trabajo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa3VUQ256T1JTTWw0Y3B5VmtRNDVfQUFKYTJBUk1IWVR1bnlOQVJjdVRRRm1xcmtfVDM2eklrT0E3bXpKb1dCSk9pRVkxR0Y3THR4UzJsczdCTEo2TjJtdWZ0VUFmd0VQMGwxSTR2WWROZlhlMW81aEJTTkxEN1FGU0ZybTB3OTRKcE1lWV91X0Y2NERma3VfQmk5bUZ4SWVLWGtpZ2ZkWElnZlpHZ2MxSFE1emlGYmJzQTdXdlRBdVRiYVJaWkRNNjdKdGlaUEFaQnVz?oc=5",
+  "clave": "adicciones aprobo lugares prevenir problemas santa trabajo",
+  "capturado": "2026-09-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5c9126bbe013",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "eldoce",
+  "titulo": "“Es un terreno gris”: qué dice la Ley de Salud Mental sobre las internaciones involuntarias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkppVnJTejhndE9oWVFyWmd5RUZYMExVY3FUUHJXWkgwakhiQjg1MEsyeFNaQks0MDlqR2pvMHNKMWNpSU5DUlVtWlpoYTZ6N0JtaGtVeWJsQ1RpN1pYMTV3SjJZRmJpdDhfU1VLYTNVNXE4OFZjTllZVlAyUXViT2lWNXJWMzVVTFpYTVNqTi1FNXZTWGNnMHJ3TkFFdWVaTW43X0c1TjBaaHN6R2JCZHQ4YUlWU3FUTzEyWFFYU0hCbWcwTTJWNlM1SUZfUW11S0HSAeYBQVVfeXFMTVg0T092TFBDbHFEMEtTVTlDajFMNVkwbkd3NTk5SVVMQnZXOHRHUHgtazQ0QmJuSWV1eXZTamc2YUkxV3lqei1BVFlScDhpdzBlOVZxM01mcGZBNHJ0cGtuWU5fWThNRXdRaEVjWF9xNlMyd2pVdV9oa1pTbnRXUGVJR25Oa3FLanRLeUFPcjlCUmpBd3V3aG1TSjUta2xCQTFnMFA5ejlSdmRoUlNTVndkTXljYnNGM1EtNU9HWVA1b3RqUEFIbFZVNEdPZkNVanN3Q1prbEpVa3Y4dWRnUjNEUUJ3NVE?oc=5",
+  "clave": "dice gris internaciones involuntarias terreno",
+  "capturado": "2026-09-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b004e8e9f673",
+  "fecha": "2026-09-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El cáncer y las patologías cardiovasculares se sitúan como las principales causas de muerte del médico",
+  "resumen": "la tasa de suicidio se encuentra por debajo de la registrada para la poblacion general, salvo en determinados casos. mas informacion: dos enfermedades se disparan como causa de muerte en espana",
+  "url": "https://www.redaccionmedica.com/profesionales/medicina/20260923/el-cancer-las-patologias-cardiovasculares-se-situan-como-principales-causas-de-muerte-del-medico/353484_0.html",
+  "clave": "cancer cardiovasculares causas medico muerte patologias principales situan",
+  "capturado": "2026-09-23",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a3da6f317f3d",
+  "fecha": "2026-09-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "El suicidio, la única causa de muerte que aumenta entre los médicos o, más bien, las médicas",
+  "resumen": "profesion rosalia sierra estudio omc el suicidio es la unica de las principales causas de muerte cuya tasa aumento entre los medicos espanoles durante las dos decadas analizadas en un nuevo estudio de la organizacion medica colegial (omc) y el instituto nacional de estadistica (ine). entre 2003 y 2022, la tasa paso de 4,7 a 7,7 suicidios por 100.000 medicos , con un incremento medio anual del 1,87",
+  "url": "https://www.diariomedico.com/medicina/profesion/suicidio-unica-causa-muerte-aumenta-medicos-o-mas-medicas.html",
+  "clave": "aumenta bien causa medicas medicos muerte suicidio unica",
+  "capturado": "2026-09-23",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b209c2ad6211",
+  "fecha": "2026-09-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Gran parte de las personas cuidadoras restan importancia y desestiman sus propias necesidades emocionales",
+  "resumen": "las personas cuidadoras de pacientes con cancer, problemas cardiacos y otras enfermedades cronicas manifiestan necesitar mas apoyo psicologico, pero a menudo no llegan a acceder a el. si bien esta afirmacion puede no resultar sorprendente para quienes han estado en la situacion de cuidar a un ser querido, se trata de una conclusion contundente que surge tras una revision exhaustiva de 20 anos de i",
+  "url": "https://www.infosalus.com/asistencia/noticia-gran-parte-personas-cuidadoras-restan-importancia-desestiman-propias-necesidades-emocionales-20260923072347.html",
+  "clave": "cuidadoras desestiman emocionales gran importancia necesidades parte personas",
+  "capturado": "2026-09-23",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "355f76bda7cc",
+  "fecha": "2026-09-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "¿Qué tienen en común los profesionales sanitarios y los cuidadores de pacientes crónicos?",
+  "resumen": "claudia tecglen, psicologa y presidenta de la fundacion claudia tecglen",
+  "url": "https://www.redaccionmedica.com/opinion/20260923/que-tienen-en-comun-los-profesionales-sanitarios-cuidadores-de-pacientes-cronicos/353402_12.html",
+  "clave": "comun cronicos cuidadores pacientes profesionales sanitarios tienen",
+  "capturado": "2026-09-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "46231f811260",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "infocop.es",
+  "titulo": "El COP se reúne con la Comisionada de Salud Mental para abordar el refuerzo de la Psicología Clínica y la atención infanto-juvenil",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSlktM01JdVppeGtiakZ5M0FvM01IX3BudjJ5U29hSTFERlFpX2tVaVp4TXlmYkd2dkZoRmtRTlh3REFkeG1Oc1FETkdXSlVGODhFd1VEWjFxWHFIekxnVENvbmFBLW1TREs0aXZmOHpRZm1NbmtSX2lMSTFmd2tqNEItSjJuMkZZLUNsYmNvSzkxTGxoYnJ2T2Y0RjViaW5uX0tNOHRZblJvbHdia2h5ZDN2bndjbzdhTHFHNGFOVEh3TUZQWjZXSkZYODcwUWR1dUZPdHd1T01yYnZsaEVISGpjX0xMcmV4ZVE?oc=5",
+  "clave": "abordar atencion clinica comisionada infanto juvenil psicologia refuerzo",
+  "capturado": "2026-09-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3400a5428354",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "lagaceta.com.ar",
+  "titulo": "La pandemia tras la pandemia: el golpe en la salud mental de los jóvenes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR2kxa05fOWdyeGRyR1VFS1R0dmE4X1lCcHM4Njh6b3BaRmpQOXFJaE9LV3BlRmMxVHhyenVPcXhpYnN3Y0hmNWhSeWJyOWNkb080NjZFWTFRZ1VXMmY3M0RyanVHLWozTjRXci0tZDJabWxXdlZyQnB6b2Fnb3hWWndFeDFPT3NibUFRWVVsZUhuNzZneVFucTFleXJ1aGlyYWI5ampB?oc=5",
+  "clave": "golpe jovenes pandemia tras",
+  "capturado": "2026-09-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f390579c1b59",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "rosario3.com",
+  "titulo": "Salud mental y adicciones: Santa Fe amplia las medidas de prevención en los lugares de trabajo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbmFRYWhlWnR5NXpHMFdoc1N2WHZiQ3JodTUweVc5TDJxTHdjaVdoUHVQVW4wTElaeFlyYWtVZjFiVjlCNjNmSHZ4Sk42TXVucndWZEFDSTRQT3ptNmlCazR1b1lKRGoxck5SZkloZlpFVXlFelJnNVdZTEpLY2VvclRIVy1FamcxZHlNSU1NWjVnNFlBWlBpZnFBUnp5MEZCd2swVjdMTzJzck1lanJseHA4bkQ2VHlHRW1fbHBqOU1LWklQa3BSZEdBT1RrSWZuY2pnQlBhWmlsa3ZjYzd3M1BzMms4bk1maGpZNdIB7AFBVV95cUxPbmFRYWhlWnR5NXpHMFdoc1N2WHZiQ3JodTUweVc5TDJxTHdjaVdoUHVQVW4wTElaeFlyYWtVZjFiVjlCNjNmSHZ4Sk42TXVucndWZEFDSTRQT3ptNmlCazR1b1lKRGoxck5SZkloZlpFVXlFelJnNVdZTEpLY2VvclRIVy1FamcxZHlNSU1NWjVnNFlBWlBpZnFBUnp5MEZCd2swVjdMTzJzck1lanJseHA4bkQ2VHlHRW1fbHBqOU1LWklQa3BSZEdBT1RrSWZuY2pnQlBhWmlsa3ZjYzd3M1BzMms4bk1maGpZNQ?oc=5",
+  "clave": "adicciones amplia lugares medidas prevencion santa trabajo",
+  "capturado": "2026-09-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6fc7549dcdb1",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "CFIN Noticias",
+  "titulo": "Santa Fe amplía la prevención de salud mental y adicciones en los lugares de trabajo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakxxOW1GWGdxYm9nWDRONlZYdlBWTERISFZXdENsaWw1M3g5MnVNMGZuYUgtNkpnUGdJbmZtVWVmb1k5WnFfbmhqbF9iM3k1OWtVcy00bnN1ekh0NmdZZE83OU83enRZdWJVLTc4OVowUHp6bmYwTnF4aTlpVnlrbFNTRzU?oc=5",
+  "clave": "adicciones amplia lugares prevencion santa trabajo",
+  "capturado": "2026-09-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7bd1a768c9db",
+  "fecha": "2026-09-22",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Dos compuestos demuestran potencial frente a la fibromialgia",
+  "resumen": "investigacion carmenfernandez dolor cronico dos compuestos podrian tener utilidad clinica para reducir el dolor y los sintomas depresivos de la fibromialgia , segun sugieren los resultados de un estudio en modelo animal del instituto de investigacion san pablo ( ir sant pau , vinculado al hospital del mismo nombre) y en instituto de neurociencias de la universidad autonoma de barcelona ( inc-uab )",
+  "url": "https://www.diariomedico.com/medicina/investigacion/compuestos-demuestran-potencial-frente-fibromialgia.html",
+  "clave": "compuestos demuestran fibromialgia frente potencial",
+  "capturado": "2026-09-23",
+  "puntos": 8,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "de98776a6213",
+  "fecha": "2026-09-22",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Europa respalda que la salud mental de los sanitarios sea un indicador clave de rendimiento para los gestores",
+  "resumen": "el parlamento europeo ha aprobado una resolucion que exige a von der leyen disenar un plan de crisis en sanidad mas informacion: el estatuto medico mira al parlamento europeo con aval sindical comunitario",
+  "url": "https://www.redaccionmedica.com/politica/20260922/europa-respalda-que-la-salud-mental-de-los-sanitarios-sea-un-indicador-clave-rendimiento-para-gestores/353239_0.html",
+  "clave": "clave europa gestores indicador rendimiento respalda sanitarios",
+  "capturado": "2026-09-23",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e39613ce9e48",
+  "fecha": "2026-09-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Eduardo German",
+  "titulo": "Fractura sanitaria federal: La Rioja instruye a sus senadores a bloquear la reforma de la Ley de Salud Mental de Milei",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZkV4SDZMYzdTQUw1OVhvQ0VGOEh6RGtZMVZVSXV5U25uZklRZFJ5akl1bDY3SW1hVVp5YWYwQjlPNlhSLWpuOHNMZk9WYzk2OUtubWNSWVJDb2VQVVRsZlNlRVM5VENPWVRhWUVNYXhpWWxWQWQxSGhIWDhJUDB5TWNpY2d3Znh2VHhKVkZvZ1NSMUlyamRTM1ZRLXBCdGpfUVdCM2pUbHZoZnl4ZTFNaE80NUgxYVZwSmR0YmdRaWp0dUZZNFVZRXdnR0cxUmE3MHVFekNvS2FpSVhtbGF1UE54blU3cTBZSXNv?oc=5",
+  "clave": "bloquear federal fractura instruye milei reforma rioja sanitaria",
+  "capturado": "2026-09-23",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "2778d2a9da78",
   "fecha": "2026-09-22",
   "carpeta": "01 ESPAÑA",
@@ -15,6 +307,84 @@
   "categoria_auto": "research",
   "topic": [
    "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "474620a51f23",
+  "fecha": "2026-09-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Click Sergipe",
+  "titulo": "NR-1: o que muda para empresas e trabalhadores com as novas regras sobre saúde mental?",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaUhuRzdYanBBUl9iV0lCODdtYlNiZWpQQ1BHeVJrWmJtN1JUYkhvbE1BbkJuTHltaGhpVkU4LU1PQjBvSDdkRVRzeG8wWkNRbVNJRDEzWFJEMExtZWRDdEFPNW1PNVZ4ZFplX1BvV3RzY3hwX29QQ3dPdjBQLTVvTXo2ZnM0NjlEMjRTR01MTm9ER0NRNGxEY3BteVFzbk9BU3FxRmZfWW9ia2Njb1dseDVBT3AybXFwaS1NcmFkemtsdDVZaE9kS1d4VTJoWUZrMHc?oc=5",
+  "clave": "empresas muda novas regras trabalhadores",
+  "capturado": "2026-09-23",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4a198ca5aaa3",
+  "fecha": "2026-09-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "bra1.com.br",
+  "titulo": "Milhões de brasileiros se afastam do trabalho por problemas de saúde mental e empresas começam a mudar regras",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc1FWdEFmMzhBVGtKa0FYcC11SGhzX3BMeWhoaFRNMXNPX2V4cVdjUldTY1VzNmR3NGlveDYwbVo0a0ZRVjlhMy04Q0p0eWkwYzM2a1gtME9JdGZ0SEF1UzZENEg2ck5pbVJ5R05vVzJUdTlCVWhsUGhUSUJLbVNtNnVsOGJXTFVPM2lDXzVPTVNaMVRlRElla0YtYTVTQjQ3Ykp6YXBJYW1ZYXpuQlFOSmJjR3Axc3NMeVFCQnZMaFN3X294c25od2F5Z1Fuc1ItN0w2LWt6TmVLY2swdkdLUkhzbw?oc=5",
+  "clave": "afastam brasileiros comecam empresas milhoes mudar problemas regras",
+  "capturado": "2026-09-23",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6d1eaae9bce1",
+  "fecha": "2026-09-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Política Online",
+  "titulo": "Nueva ley de salud mental y adicciones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3JyZEFTN2ZLQnp6SFFnLXkzOWhYMlU3U2F1UHU3akJIdGZkU0VqY3hsYl93Q21fWHU2SFBjOFJMcUx6bWEtS241b2phOWpfU3Y2WDJBaHZ0NENkUUpDNHo2eVc0LTRyb3pmQTVOZ2NPczFHY2pWOXRESVBvel9UMjJtOXI0TzBORllF0gGLAUFVX3lxTFBjcnJkQVM3ZktCenpIUWcteTM5aFgyVTdTYXVQdTdqQkh0ZmRTRWpjeGxiX3dDbV9YdTZIUGM4UkxxTHptYS1LbjVvamE5al9TdjZYMkFodnQ0Q2RRSkM0ejZ5VzQtNHJvemZBNU5nY09zMUdjalY5dERJUG96X1QyMm05cjRPME5GWUU?oc=5",
+  "clave": "adicciones nueva",
+  "capturado": "2026-09-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7d88ddbec6f7",
+  "fecha": "2026-09-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Comentario",
+  "titulo": "Aplicación de Ley de Salud Mental dependerá de suficiencia presupuestal",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyWGF6bjJzcG9DTklUUm5FZWhnM2p5UTY0Q1F5NzhVSXBxUklxTm9YY19kMlZLU01PWEhTTUtwVFZ0VVVUNXVkbF9FYWJVcVk?oc=5",
+  "clave": "aplicacion dependera presupuestal suficiencia",
+  "capturado": "2026-09-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -214,6 +584,25 @@
   "categoria_auto": "research",
   "topic": [
    "neurodiverg"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9fcac1a7d9c9",
+  "fecha": "2026-09-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "The Independent",
+  "titulo": "Cats are the only pet linked to more mental health problems in children, study finds",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVliMmNuTjNham1ZcnlfUVE1MERfNF9SWlRuYWFTU0xXcDhyZmhTTFpBYVUzVmVsM3ltTWExQm5paVp1ZF9FVUE1UGV6LW5QXzNrdUNPZzllaXQ5RWU1VHd5Ny15MXZRUVZJOUlzWWFYMndJajlPejBlUFI0TWJtNk9ZSldDTDh3bkpvQThCSTkyQQ?oc=5",
+  "clave": "cats children finds linked more only problems study",
+  "capturado": "2026-09-23",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -440,6 +829,25 @@
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUNpcEwyVW96X1k0QjlMVFpqNHcwNVJ6U3ZXajJaUUdUYUJjTFFneEV3aTUxV1dOT1d3V0g5NWVJcEF5UkpodDF2cU1KXzl6dlVxSi1tTzE0bGRNQ3YtQ3J2ZTBKZ2R6c0szbW0yX2FZMHBWT1ZmUDduMmMtY2lwYllfSFRSQzVJV2xGZjFoaHl5ZVFULW9vTWlvSDZicDdLWVIwQnBrWGY0dlFwbHc?oc=5",
   "clave": "ambitos busca laborales proteger",
   "capturado": "2026-09-21",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d98db242e143",
+  "fecha": "2026-09-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Sur 24 Noticias",
+  "titulo": "El Senado santafesino sancionó por unanimidad la ley de salud mental en el trabajo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3d2a0lQYzQzdzRNcmRzclR6N0dZRmJiUE5POF9DWHg3TmxJd0dhaG1MREZmb0YwcGYwVG1hbTJPVUViWURZNmRQNkdqUnNIR1k1MVNfQXc1MnE4cDBQRFBzZ1p3TEtiV0ZKMUQ5Y05xVlhtWEhaVUZZZ2lyZEdZWi15aVlvUGk2LUp5dTFyblNOWVh0WnBmSUIyN2hIY0pkRTVpeUNhLWJWdnNrb2xTMDAtenQwZ0E?oc=5",
+  "clave": "sanciono santafesino senado trabajo unanimidad",
+  "capturado": "2026-09-23",
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
@@ -8490,6 +8898,27 @@
   ]
  },
  {
+  "id": "f50b4197540d",
+  "fecha": "2026-08-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "www.noroeste.com.mx",
+  "titulo": "Responde Selena Gomez ante demanda por supuesto fraude con Startup de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMWgtY3pBdl9qS0tMSFhaME1ZOEJBZktrQTViSFlzbkhHRnhfeUtHb0JiNk0wRGp6OExKWnpHWkZWZkdPaGlzcnNLa2JnNjd2RVhEWjR6ZEJLZjZkU3dqSEN5TlN6cTV2WDVzdFJVZTlaZmNJUlJVVUE0VFhyVjFWWW91LUx5WUZ1OHFfdVRkN2JQRUlCb3IxeHRFT1hkMFF5MEVUTmJRU2F6d0xSSWZ0MV9WeXdhSHp2WXZFOEV6elNZakVHbmNseHd2UEZLcnR1THNnSjE2VHdFR2JHajhGWEtkMWXSAeoBQVVfeXFMUEdZcjFkelJIQ1hPNXZyaHZkMUg3cGlqSUdlS0stMk1UOVZqeVpMeUhMU0t1d2dwd0JhX0xaaFZkdGt0LUt4V2NScnZ0ODJsQkhHWHpsRmxPUjB2MUpiWm1uMmJJREpsRkFZeW4tbm8wcTNiNjJPczNqZ1RQT0RHaFhnMHYwOXJVMTFtUGhDUFFrcU1BTlZyNW9NelNDeGZSdHpNUl9za0lKVlZDbmc3TmtfWjlrVWZqNnVrNE5adHRiS3V2ZmpwOWZDS3RUdmtwX2dDcUxUWGQ1VDdWNGtNZF9qTGxrUkJWVGlB?oc=5",
+  "clave": "ante demanda fraude gomez responde selena startup supuesto",
+  "capturado": "2026-09-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "producto",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "selena gomez"
+  ]
+ },
+ {
   "id": "84ecca5dde52",
   "fecha": "2026-08-15",
   "carpeta": "05 GOOGLE NEWS",
@@ -11746,45 +12175,6 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "0a571ae06ec3",
-  "fecha": "2026-06-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Clarin.com",
-  "titulo": "Salud mental: una ley que no llegue tarde",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTN1TnZDVjBXcFN2QnNpTlZWaUFRVHZDaFVWc3VjMm5zeGgzY3FtY3dqV0JrVU9td0FsWXRZQXZxM19nb0RDZDA4NXAxQXJJOXFTZjFLTVJwNUtzRHd5dGp3MXNWTnBuYkFWQ2ZFWTBiQXoxVHZObnVtektuNHZFbkh4aDA?oc=5",
-  "clave": "llegue tarde",
-  "capturado": "2026-09-04",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "a236de9a0412",
-  "fecha": "2026-06-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Atlántico Hoy",
-  "titulo": "Sanidad impulsa en Santa Cruz un proyecto para atender a personas sin hogar con adicciones y problemas de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORXdHaTAtd0ptMjBRZTlSOUxMNk9XTm1SRVFMeHZvcTFHQ0lBM3NUV2pfck1wM1FMSm1RV3NpcnJpRGVmcm9ZX3RYUXF4dWdKNjRzcE1zbmdrdVN1aXpIeExfTktMaVV0TTAyUUxyVmgzcENfSzg1azVERXczRG14al9LUFNUOGxUTkU2UjNiYklOdkwzRGNERHg4eFJDaV9IdmFmSmJ3bEhVTm5SdDlOV2YtNksyM0lsbjVpQWV6ZmFmM1AzWmtlTTZKaTc3RlRseVhVVVR6YzNPTTZEYnBGbmVWQjZvTFpHLW1SZTZTb212QQ?oc=5",
-  "clave": "adicciones atender cruz hogar impulsa personas problemas proyecto",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental",
-   "adicci"
   ],
   "ruido": []
  }
