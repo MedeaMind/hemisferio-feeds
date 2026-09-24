@@ -1,5 +1,124 @@
 [
  {
+  "id": "8f858d054c71",
+  "fecha": "2026-09-24",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Nuevo arsenal terapéutico y rol transversal del internista en la reunión SEMI de enfermedades autoinmunes sistémicas",
+  "resumen": "esta xix edicion pondra el foco en avances cosechados en campos como el lupus o la enfermedad de sjögren y analizara el impacto del primer farmaco para la patologia relacionada con la igg4-rd",
+  "url": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20260924/nuevo-arsenal-terapeutico-rol-transversal-del-internista-en-la-reunion-semi-de-enfermedades-autoinmunes-sistemicas/353546_0.html",
+  "clave": "arsenal autoinmunes enfermedades internista nuevo reunion semi sistemicas",
+  "capturado": "2026-09-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4bc9b2d3fc40",
+  "fecha": "2026-09-24",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/digital-health/pelago-expands-sud-care-mental-health-behavioral-addictions-employers\" hreflang=\"en\">AI-enabled Pelago expands from SUD care to mental health, behavioral addictions</a>",
+  "resumen": "the new pelago behavioral health platform means co-occurring conditions can be assessed and treated in a single plan. behavioral addiction programming includes gambling, gaming and binge eating",
+  "url": "https://www.fiercehealthcare.com/digital-health/pelago-expands-sud-care-mental-health-behavioral-addictions-employers",
+  "clave": "addictions behavioral care enabled expands from pelago",
+  "capturado": "2026-09-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health",
+   "behavioral health",
+   "addiction"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "607d6eb2d800",
+  "fecha": "2026-09-24",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "paraibanoticia.net.br",
+  "titulo": "Setembro Amarelo: Leis da deputada Camila Toscano reforçam cuidado com a saúde mental na Paraíba",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1dUVUlUZWtNb0FfOENUMGVhanpZdW1SY21yTHY0V0NjQi05TEl5ckVfOG9LSi1tRmdqVk9FLWtYamlLN1FudkZ2RjFxbno2NzFnSGxhR3ZXS0lUaTBBQkNZU1U0YXlWMF96eUR6OVRXNWo5aGxTRFZDeXdrT0tyUVBMQVVkYVBEX2YxSnpHV1RwQnM4Y0M0TEk0OGduM0MxcFIyNDliMl9KaWRyYWpQV1JVZFZGS3k0emNUaUtiTzFsY2puVkRZRFJB?oc=5",
+  "clave": "amarelo camila cuidado deputada leis paraiba reforcam setembro",
+  "capturado": "2026-09-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6cdf881c90f2",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "meutudo",
+  "titulo": "NR-1 atualizada volta a multar empresas que violarem regras de saúde mental nesta quarta",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOW1PcGFfZ0N0OUx5aEtLOHlOQWlISGJQQk54WlQ0NlFSMmdQLXdLbGRJZm55UjVXTG9uTjNzQmU3b1BIMzJPZVZUclNibUZudHFMVkhYd28yZHlkZnp2MmFwcUJGcmVKZ0o3WFlaaXBnUENoY2hBMTRZdG1IWVJldWFTcU51d1F5Q3ZZRFdhZ3VZNGRXdXZwVzdZeTJIVkFlOXNVWS1ESXE0NW1nY0NuQ2RfRklvbi1IN1N6R29EWDQteWRTTHB6ZmhGRnpmdnJrUnNB?oc=5",
+  "clave": "atualizada empresas multar nesta quarta regras violarem volta",
+  "capturado": "2026-09-24",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d350071efb2a",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "O TEMPO",
+  "titulo": "Saúde mental no trabalho: empresas voltam a ser multadas por descumprir NR-1",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNm9NNHFPLVBtZVUxb0pKYktyVWs3N0h4OWtUbl9xbmR3eHZtaVVLcmp0NC1uT1RpUHhVSXhyUWlFWVlxOERULXh3TjdSNl9OM0t5QnJlYmNpTnJhOW1sMFk5UkFuZGo4aFZRUEk2T2ZteDNOWlJteTJFWE0yU3g4ZzJoOUJrd2NoTHRYcF9hS0dUUXduY1pGQWtGN2VCVWdPSGRtQTFHa0tnRHNVNml2NURRNjMtV2FQeWfSAb8BQVVfeXFMTlo0UnJ2NldnMkYzUzhoWmZ6TnlGYWxMRzAzaktzUnNPZVJTUUNJWTB4ZXd3QURPVlZ3ZnJzU3Y4QXo0S1lCbWZmcHZrdExCN2lRdnBEYWpWbG5WdU9Kby1sOHNCVzFQN1l6ZkwxN1ZhcDVzNEpyQU1MRG11THpUeHIzMUR3WmhRelEwVVFzZVdpdFIybHBiM1ZpeFhBelRWcTE3N2ZTeHRVWWNNMTFuM2pxX0FxTlhkekFid1l1UlU?oc=5",
+  "clave": "descumprir empresas multadas trabalho voltam",
+  "capturado": "2026-09-24",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1b4c4d1a38b0",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "TNH1",
+  "titulo": "Empresas já podem ser multadas por descumprir NR-1 sobre saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGN0eHM4cjQ4eUxHYnNhenUwckxIZy16bkl5bmtlUFhPbnRTMGNwallhems1b01mLWZaZFJkcWhoUmVGTGtlU042eklLR2hGNVk3dm9QVjAtMDdwcmY4ejVfRnNMdmNtTmF4RUlUc25oNTcweEUxZTZtNlQ5Q0RzdHo2YWFUdWs2YUNRZ3NNakRpblN4S0RKTXI5cjYyTlBma2lhcUpTc2xHZ9IBpAFBVV95cUxNUHN1cGp4THlHSW4yV2YyaTUyVVZnYmFqcHU4RDN6ckllQnRaVXBuRUZwZUVRd3NIdVpFV0hWdzV2c0xxbklVMjRxZktscEpPdmIyR19pNzVzRUVHZ2xwMVJFLWN3U3pOc204bDJPQjhnV2Jwa2VpdkJUV1c5NHBHN3h2TzZWcTI1aGRfY3JkazRaenJ5STk0NXlFRnVsUTQ3RmtoOA?oc=5",
+  "clave": "descumprir empresas multadas podem",
+  "capturado": "2026-09-24",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
   "id": "dd0be9c34f07",
   "fecha": "2026-09-23",
   "carpeta": "03 BRASIL",
@@ -21,6 +140,82 @@
   "ruido": []
  },
  {
+  "id": "1b921276b084",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Campo Grande News",
+  "titulo": "Empresas já podem ser multadas por falhas no cuidado com saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLTRzMFFOTmRQenlIcmNIVkZZSy1GMXY2eEdjYTJXSlBNc3EtejVnWHNyMmUybHhtRC1BbTBMcFFVNlF6YjlHV0ZnU2lfME1QRGExUjNQcGtaQThGWnVIVzdmQnhkMW1RWEw2YXFTZkVDSGRzcDhrSmZ5Z3hzX1Vrc2JySDdQR29SbGt3THlCQklXSmYzMXVEdlRGaGU2T0FPaXlhRlhGTHpUTnp0UlY2cHN6ZGJocXgzdWVaNEhxa9IBvwFBVV95cUxPZ1k4UDU2RUxQa2tyNjdCbWRpV3lKWW5pN3Zsa3dKZm16cE4teTltYW5ZUG1SVGNCUzVaemp3a1ZJQlJTX2haTHhQV3lxY0w0N2RZSUZPcVg2Vzc3TGdNcVNRUVc1VFJNVlQ1WXBoTU1vVDRGUTZLeVppSUhEbkR5RDl0QWtPcVRiamNyOXdsMEExN3I3dkRzSzBxR0xaOEI0NFY0UFp6VjdYT29oOWV3d3RaM2x3bGdDRTllWVlnQQ?oc=5",
+  "clave": "cuidado empresas falhas multadas podem",
+  "capturado": "2026-09-24",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "04d2da5d6fdf",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Partido del Trabajo",
+  "titulo": "Fortaleciendo la salud mental en Guerrero, diputada Petista propone reformar y adicionar diversas disposiciones a la Ley Número 1212 de Salud.",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9abmpoNlAxc19DS3FackZXVEwzVWRNS0F4cnhCU0VUd0U4N3RLMDRDc1VyNjdUaEpzREJUdG5QUXZ5SEYzWmJacXIwZ0dnakNOWkJ0N0JKOWlVak5LMENHWjZNaWw?oc=5",
+  "clave": "1212 adicionar diputada disposiciones diversas fortaleciendo guerrero numero",
+  "capturado": "2026-09-24",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4099b11e3815",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "Alagoas Notícia Boa",
+  "titulo": "Na China, startup de Alagoas explica como monitora saúde mental de trabalhadores",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTJ3aFpBdmJNSFI3SXBIMHdRdzkwaXhoNkE1OFpXYUVJZTNXUkxvUk9CdHNJNE5WNEE0T05pYndBdFlzS2dOa3VKaFI5cUs2MmM3d3dEcFlKNVVkcnRXQXhTOWVCSnpyc256dC0tVXo3cnNWTndmVmdtZzZtVG9BQnpUZWtHYkFNc1RkY3Vad19mSmtHZnkwZkFOZnpJNmhCM2VNZkcxYURmODFp?oc=5",
+  "clave": "alagoas china explica monitora startup trabalhadores",
+  "capturado": "2026-09-24",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "df9286c22080",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Latin Times",
+  "titulo": "Latin American Travelers Are Prioritizing Mental Health, AI and Stress-Free Vacations, Marriott Study Finds",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeTNsUjJJWXdwSGlKRFNPeWRxYXB2RTlSUmpjQVFrU3FPdkZsekNBblVpZzNLY2gyaWJHWk5RTDB4T050aDlMajNMLXlLQ19BeW1uTFNmbktxcld4VTZrRzdKcnRjOVNSYTJRNnhvNDVOV2RDUHk2RzdhbWp4VUNIV192QTQyWGdCalFHb1h5c1ZRbXdWUzVMN0xGVDVZRTExa1lUbGFKRjBjU09rT2V0MnN4R3lRUHVpM0JrSE5FUVYzZHE0OE5MVA?oc=5",
+  "clave": "american finds free latin marriott prioritizing stress study",
+  "capturado": "2026-09-24",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "producto",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
   "id": "490e9bdc5938",
   "fecha": "2026-09-23",
   "carpeta": "05 GOOGLE NEWS",
@@ -36,6 +231,84 @@
   "categoria_auto": "empleador_aseguradora",
   "topic": [
    "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8b73934dc400",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "g1.globo.com",
+  "titulo": "NR-1: empresas podem voltar a ser punidas por descumprir regras de saúde mental; entenda",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNLUpVWFQ4aGFxbmMtaG5rb2Y0bTFaaXFQWTd6amw3XzI2WXhDTGdqTHZBREN5TkZFVmxmcUdYX2VpQzdFLUJFMkppM3Y0TkM1U0otczhCdW9jM1dkWjE2QVhfUHdqRVJXTk9QM2VfdjRRV3owMjU1YWFXNzNKa0JZTkc1RDdqbUVfMUswdk1LVi1HX0sxdjVlNFhNLWE3NExXZ3lseFlkMnZmXy1wdDcyU3dia01TTmo1WjRoeVJPSVJXeVlacGRrMy1tMk9QSGNnRU5hTFZadjctZW1CYVlOV1dPdTdTaVnSAfYBQVVfeXFMUFk2MTJuOXFrOXFlc2ozTDdFVklBeW1uMmlVUUJ3azFQaW43MTdxZEQzR0d3MVZHNzNBek1ybzlrTnl1Z3dYQ1dIRnNlc2RJTHVKTDlJTlJZc1lBVFlVdlF4aGtTR3JsbEk5eHN1OVNMWjhBMjU5ajZVdnFHMGc0dkp6REpvNzJKNjNhaDFqYl9jVG0yN1d4YXBJelBwYXliS0pLV1RDdHBtak54N2J1SUJOX25ocDRENzJ4S0tkU3VqRWlXRmhRSnZtbTNvaV9NbXF5ZmRPbm5TeGxFVnJXM2Nwd1BzY2kwWU1DcUhabjVEZnE4eTBB?oc=5",
+  "clave": "descumprir empresas entenda podem punidas regras voltar",
+  "capturado": "2026-09-24",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "82ca17167bf0",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Migalhas",
+  "titulo": "Prazo dado pelo STF termina e NR-1 pode voltar a embasar sanções",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRGRBdThFM2haZ29PR2FaZkVmX2lxQm42b3pmR2RBd2dKb1p1T09lVGM4RHRvYzdFZENmNjFwSFdERmNuYTczM3kzMDZtaXhJLV9DRmZnMmhhSGFVTlFIN01oeEZkTXV6NEJwOXRHTDJ3LWlZR0c3VG5yWkFMWDZ1RU90bDB3THpja2VxZVc0WmJLaHJMd0NXbXVJLUl4TzBKOGhwZ053T01iaXM?oc=5",
+  "clave": "dado embasar pelo pode prazo sancoes termina voltar",
+  "capturado": "2026-09-24",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "53eb38a0b10e",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Rádio Itatiaia",
+  "titulo": "NR-1: empresas podem voltar a ser punidas por riscos à saúde mental do trabalhador",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM0NndjhadFBBa0FxUmJZUHh2UnRmYjhNSHdiWEVacHUxVmc1cVRLSU9saXpIUmtQNGtEQzlESWZHTjlLSWRsajNzM0VYRnlTYWQ0YkQ1WW1IYWpSWjZnQ29KUWZVRUVTU1Q2dW9PSWw4Rm11cXdjeHF1ZVBmd194b1pWemp0S1d3NHY2dkxnN2VNaGk1bEtCWFI3VGZOSXNUV3ZXVkx3dXZ3QzNVNFdYNnREUW5GSGtZTVlUM3o3Szh1TWJPX0MwU0tB?oc=5",
+  "clave": "empresas podem punidas riscos trabalhador voltar",
+  "capturado": "2026-09-24",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8b1a34ec99d4",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Correio Braziliense",
+  "titulo": "Acaba o prazo do STF e empresas podem enfrentar punições pela NR-1",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0wwUVRocHhObThocDE3LUVVUFk5WGZnS2hFeXJhMGZFMWJoclRxenhaN1lPczNqOVhZSUszTGIzX09WZDdvMkI3N1lLWnVzWi1SU0Jsd2JqQXhtdG15S1hFZ0F0ckNnbG1NVGlDUHlwXzRTZDBZaWZqZlZZYVVCemkyMGxqVFNDNWdzUi1oSy1qcXRBc3FkaERBYWFNMEFhOUNmbTZlamNOUlhtWXhBaWZsQjVoOUFpQWZodGt5cllHQmpqQWRFbXZVMFHSAdIBQVVfeXFMUG9TYjhDRGNLMGZJN1hYQk1nREhpS01jY1VaSmVaZ2JmNVA3NEhJWUo3N2F0NE03cERHVEdXTTRZckZnbkExY2s2UnpMRWp4bjBnLUg3RHExU0R2ZUFPVmppaXBNQUtPUjA4Y3ROaVFoZldNRnNzM2UyS01od3Zmd180Yy1IeGNUM0RSd2lMal9FcHlQdmJDTXd1bzdXUHhhMTROYjlma2ZGalA3YU5EUTJHUDVzNXNuMG9YRExwVVZDbmpNRHU1bWVhTVQzT0dObE93?oc=5",
+  "clave": "acaba empresas enfrentar pela podem prazo punicoes",
+  "capturado": "2026-09-24",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
    "nr-1"
   ],
   "ruido": []
@@ -80,6 +353,64 @@
   "ruido": []
  },
  {
+  "id": "f1682dc9879b",
+  "fecha": "2026-09-23",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP participa de encontro nacional de Psicologia no Uruguai e reforça integração latino-americana",
+  "resumen": "o conselho federal de psicologia (cfp) participou do xxiv encontro nacional de psicologia do uruguai para compartilhar experiencias brasileiras e fortalecer o dialogo entre entidades da psicologia latino-americana sobre saude mental, direitos humanos e politicas publicas. a presidenta do cfp, … o post cfp participa de encontro nacional de psicologia no uruguai e reforca integracao latino-americana",
+  "url": "https://site.cfp.org.br/cfp-participa-de-encontro-nacional-de-psicologia-no-uruguai-e-reforca-integracao-latino-americana/",
+  "clave": "americana encontro integracao latino nacional participa psicologia reforca",
+  "capturado": "2026-09-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "11cf607ae19e",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "datadiario.com",
+  "titulo": "Santa Fe sancionó una ley de salud mental en el trabajo: a quiénes alcanza",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLU5yclU1RUFndlFMQXdmdDNVdG1iTW9XRk05aF9TWjBaQlNpQ1NBRGl1Ni1hcnRKNlhCQ2htUUliTjEzd1hWNnJvZHNXanFXY1RKc3ZLdEhPRGZKWlBVRXlHa0pKN3pRMEJaMnlZaS1KUkU2XzFkbnBtZUVFTDRlekcxQl9zaFJ5NjNWLWVwc3FPanc3NXBNQkNPY2FTX3ZCazc1RU5xREtlRWxmVWUtcWdEOHBoTWkxUzJkVHl0ZFRCWUp5Tmg3Y3czWncwdw?oc=5",
+  "clave": "alcanza quienes sanciono santa trabajo",
+  "capturado": "2026-09-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "61c489d0973d",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "XXV Governo Constitucional",
+  "titulo": "Governo convida OMS a avaliar estado da reforma da saúde mental em Portugal",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2NYajJYbkVvcS0zQkhzZDBCdHBBRkx0eW1RdGZ4MndsTms5ODk0LW92LTB5b3V6Q3dQX0FaelBVTGNmWGNNdExiTm9KeWJXVzcxYUxZaE1aUXBydGxqMW9PbmRwWGFHNmFoQ3RxR19oRmJ4R0lYX09lMXMxR21UNzhuLTJwV3g2cWRpT2ZFOVdJZ0wzSS1YcGd6andLR0l2aVlOX2FqQnJ3Rm42d3FqdGRlbl9KOWNhdTdaVEd4cTIxTG9YaVNqQ0YyaUY?oc=5",
+  "clave": "avaliar convida estado governo portugal reforma",
+  "capturado": "2026-09-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "b004e8e9f673",
   "fecha": "2026-09-23",
   "carpeta": "01 ESPAÑA",
@@ -118,6 +449,65 @@
   "ruido": []
  },
  {
+  "id": "e22978ca4fb8",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "IRE Somos Región",
+  "titulo": "Más prevención en el trabajo: Santa Fe incorpora salud mental, riesgos psicosociales y adicciones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM2FCelhJUDgxODFEMDBnWjl3ZzdEaXVlcTZsUE5rWE9BeTRkcGFWRUxMV0hZNmhwakJsM2p0N1NHcHNmUDBaeXJWZVJXQjJwWHNQczROM082VmxnWmtIcmFTTm5GemxwYlg5eUF5Y0VtUGlLUVI1QmlsWlNSVS03ZS1OV2ZMZTY2OXoybnFvSjd5aTlUWC1kWlYtTXdCd0Jmc0x6TjNxQi1HN2poWHQ1ZklOYjBSWXNVWkFQTzh0UHZPaGE0VkgtTkxPVTFMM2tUU2wyWEVHQ2xOdEh4N1lVS9IB4AFBVV95cUxOM2FCelhJUDgxODFEMDBnWjl3ZzdEaXVlcTZsUE5rWE9BeTRkcGFWRUxMV0hZNmhwakJsM2p0N1NHcHNmUDBaeXJWZVJXQjJwWHNQczROM082VmxnWmtIcmFTTm5GemxwYlg5eUF5Y0VtUGlLUVI1QmlsWlNSVS03ZS1OV2ZMZTY2OXoybnFvSjd5aTlUWC1kWlYtTXdCd0Jmc0x6TjNxQi1HN2poWHQ1ZklOYjBSWXNVWkFQTzh0UHZPaGE0VkgtTkxPVTFMM2tUU2wyWEVHQ2xOdEh4N1lVSw?oc=5",
+  "clave": "adicciones incorpora prevencion psicosociales riesgos santa trabajo",
+  "capturado": "2026-09-24",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "salud mental",
+   "adicci",
+   "riesgos psicosociales"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2b5781df2330",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Extra online",
+  "titulo": "Empresas que descumprirem norma sobre saúde mental no trabalho podem voltar a ser punidas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdXU2OFlZMDB0UWhFdzlJTXNZNUxLTWJmZHNGdXJ5RHFCNC0yUjhKM3BXUzBBZnp1UWpYVXNhUDRZc0VYZHUweUlQc1F6dXE2aHhtbGYxOURONm5DcFBObUUtWjJYZXh1dXd3U1RXc05RVlVSSGNKUWxZZzBuWkt1ZXUtcS1Yc2swMC15djA0Z1JaQkJmRFJ2TlY3cGcxSXpwbmtIRjVkTUgxc0VveFNLUUl1aFRzTkotZ3E0OFVLRUExdlhicWZ5VXFtSlV5Q1BCRFh2SUtVaXlFcnpw0gHrAUFVX3lxTE84MUczTlprU0hyXzcyWENiTDZJcHI1aEhUMkZEVWtYTHo0NlNSeDNtMEVOR2dtZzRWUHB0VVZDQktlQUZqRHpka1RENVl2WGxBQW5pRUh2Wk5rbUFqdkgwXzQwdFh5X2VfTDNJYm00aDcxcmtzV1hjM2ZXR1ZmaTdEWHpVQVFrbkEtSnQ4V0N2ZzNyeTNQX0s4bldQaVlrUEhaZFRMRmhxMm1GOWx6MGZJNHFiZV9NYzduTTI5SlBkQ2tPSmxKeThfaGV2QXU5YWJIUnpUMThjNE1FRG4yMjZ2LXJmenlZQXlKcDA?oc=5",
+  "clave": "descumprirem empresas norma podem punidas trabalho voltar",
+  "capturado": "2026-09-24",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "55f4f62ee3cd",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "g1.globo.com",
+  "titulo": "Empresas podem ser punidas por descumprirem regras relacionadas à saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMjk4emZjYWYtdE1FZUhXSU9HMG9raUdNZE9VRVdUeWVEVW00ZE5fWFJpMmc3azJVempybUh0b1Qxd3M5dXdHaGY5OEFIYVpkQTdwM1VyaWVMNVEyWGdIanJMVlVwZ014STdWM2I5amhvRDJPUkJId1dJUWlYbG93am9tbUJaOGRGcnk5Wk5YU1NBblduS2cxZ0tnTHdlTDF4Yjd3YUZzbzZNQURvN3VDOTZ1dnNnX0s0QTE1bnYzXzZlcV9Qc21EdUllMEVuc2trYjFHRGpmeFVBX2s2emwwQkU3MzZqVVZhajNEYWZoNnE3TWFNRWtJTWZIONIBigJBVV95cUxNTmZDdUdXbF9sb095RjdzWmVCRDNjQlNJc3hNbGE0VmFmVjRvZHRZaGtSUUlCb0hwSmhOaFVra2hkemE2SDRfSjRjYTdVaFVWd29GdXhTTHZUUUl6T0xTZ1FRdGx1bGhhZk9jbzd6bzdpTUhucEc0N1dzVWhycThEQ3BJVEg4Tjc1dnJ1SGotNUp3UkFOdEs4ZlVjTkRCQ2NCVzhVb2h1UnlLMEFGTTZwZDB3bWJTY3FLY29mbzdYUlVRYW1KYkZKM0NpLVhUN0xqYkd2V3hxVU01aWJQRkptbFIxM2J1aGNTQkRHMjdFWlRLd1hVcDMweV80VWRzdVpjVUdpVlJ3aks5Zw?oc=5",
+  "clave": "descumprirem empresas podem punidas regras relacionadas",
+  "capturado": "2026-09-24",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "b209c2ad6211",
   "fecha": "2026-09-23",
   "carpeta": "01 ESPAÑA",
@@ -135,6 +525,88 @@
    "psicolog"
   ],
   "ruido": []
+ },
+ {
+  "id": "f301f96ba117",
+  "fecha": "2026-09-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Menos comida ultraprocesada, menos síntomas depresivos",
+  "resumen": "psiquiatria saradomingo estudio piloto el estudio, publicado en jama psychiatry , es el primero que compara los sintomas de personas con depresion antes y despues de que cambiaran su dieta habitual de alimentos ultraprocesados por una alimentacion mas saludable, segun destacan los autores del mismo. los participantes redujeron su consumo de alimentos ultraprocesados en mas del 85 % y experimentaro",
+  "url": "https://www.diariomedico.com/medicina/psiquiatria/comida-ultraprocesada-sintomas-depresivos.html",
+  "clave": "comida depresivos menos sintomas ultraprocesada",
+  "capturado": "2026-09-24",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "research",
+  "topic": [
+   "psiquiatr",
+   "psychiatr",
+   "depres"
+  ],
+  "ruido": [
+   "dieta"
+  ]
+ },
+ {
+  "id": "501fc1df5b48",
+  "fecha": "2026-09-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Los MIR lo tienen claro: esto es lo que debería tener un buen tutor",
+  "resumen": "mir saradomingo formacion la figura del tutor durante la residencia puede marcar la diferencia entre limitarse a cumplir un itinerario formativo o sentirse realmente acompanado a lo largo de una de las etapas mas exigentes de la carrera medica. para david montes canovas, residente de psiquiatria en el hospital universitario virgen de la victoria de malaga, hay dos caracteristicas que resumen como ",
+  "url": "https://www.diariomedico.com/medicina/medico-joven/mir/mir-claro-deberia-buen-tutor.html",
+  "clave": "buen claro deberia esto tener tienen tutor",
+  "capturado": "2026-09-24",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a21b12eba34e",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "portal.azores.gov.pt",
+  "titulo": "Maria João Carreiro anuncia programa “Ment(ON)” com vales de 400 euros para investimento em saúde mental e resiliência emocional dos jovens",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ubzl1MTRjQ1Bncm90UF9vektobmVZcW1zWW1yakJPYjhua1dqaFZNWkdmZ0E0MUJiRmpFOHR0SldmekFoZ2RUZHhOQncwbXdvMGxjdDl3M0xuMTNyTC1tOFpCOGFpcmEzYkZjaU8yZXQ1LXBhY1hV?oc=5",
+  "clave": "anuncia carreiro emocional euros investimento joao jovens maria",
+  "capturado": "2026-09-24",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "78d7bad21feb",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Verdad Junín",
+  "titulo": "\"Hablemos de Salud Mental\": jornada para comprender el debate actual en torno a la Ley Nacional",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWpJblZRaHg4M2cyV3daTFQzTGNMQXI0QkFrd25uc1h5bDAyMzdKTlB1WlhmVFMtLUdkNzNzYUxiaDIwVmdQMHExVktyVnFvTU1OTDRlV2d4LUN0cUNRZFFZaVZCQWNZWnB4d1FUQ3dyNUZid3FJUVVSQWw1aFJDQV9PWUJ4LU91ZlJzNG5tUm9YWktCUVJyanNmN01GVjVJSlA5Ylk5XzVoSE5DaTU3NFpISGN6MzdwckhSMw?oc=5",
+  "clave": "actual comprender debate hablemos jornada nacional torno",
+  "capturado": "2026-09-24",
+  "puntos": 1,
+  "prioridad": "C",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "jornada"
+  ]
  },
  {
   "id": "355f76bda7cc",
@@ -233,6 +705,84 @@
    "adicci"
   ],
   "ruido": []
+ },
+ {
+  "id": "ad7bdff887a3",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Perfil",
+  "titulo": "Nazareno Pérez recuperó la libertad y comenzará una rehabilitación en una clínica de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWowd2ZmR1BTZ0JGWElrRHQwTVMzNUZFZXA1NTFuMmRNdldqS1lNSnFUbjBOejJTN0premFFTlh0eW02VmxPYjNYUkVkRXBjbWZHd243TEtpZVRFVExfUmJQTmVEMFhKSHpHTm9yRUxITFRJN09wRTR5cnRuaDNTcFN5LXBqcFJTSEY2bVktZHUtSEd0RXVvaGlrMGNocnI0TUlHTExKM18wVG5kMjVCSV9KS3BUYXNpNjRqVElCd3g5MWRJWmNtbzRPUGxpczNhWHZXSlJEdlFNcGPSAeABQVVfeXFMTlg5RHZvNVJZSElqcWR3RnJtNEdTZFhpY2hMNjFmOGRHUy1YYlE0RWZscmtlMGN0U29NWW1fY2g1SzctV0dVaXFZX2dkZndZajBOWHVORFpqWTZlMnNpQ1QySS1YRmU4a1BHT3hVbHVvS2Z1V2oyU0sxT3BkWjZWLW5WNmlWNXp4alJyazV5VmRRZ2JUd3l3bHN3SEhrOE5ESXBEaHJFYkRKSnVVek4xRlRpN2ttOWRMY3VmaW90UHpJcUViYjVjdlVBT1JqdkFLN3l2VmIwUmpScHJ1aWEyYTA?oc=5",
+  "clave": "clinica comenzara libertad nazareno perez recupero rehabilitacion",
+  "capturado": "2026-09-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ff2ec7c215d0",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Cartagena Diario",
+  "titulo": "El PP reclama al Gobierno central un refuerzo urgente de especialistas en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeW4xVTNtN1hqZ2ZvOTZUU2JSRW1LU2tDVGVIN2FGXzhaYmV5bEl3WHVWRkRIaUNRWTN0NUJHSmx1SGtZVGotZDREUkx0LXkyVUNZdmpiSms2Uzg1M0o0NTYxdlZQbndXd0lRalZiZjRkSlZtOHl6eWhZSHFWTlhYT2cyYm5EcVllSm9R?oc=5",
+  "clave": "central especialistas gobierno reclama refuerzo urgente",
+  "capturado": "2026-09-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "089ef6a51a04",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "FaxAju",
+  "titulo": "Setembro Amarelo acende alerta jurídico sobre saúde mental do servidor público",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQUE5R2JvNHJsdVF6MzFZVVFGYzJzOHA5b2JqYml0NFVqUGUxa2FsSF94QkRmVXJUMDdNQTFEV0ZOR0VZZmlEbThaUkRwUXppTXBfNlVnTW1uVXZrX21Pd0ppLUdBdzUwVTlXVVZYOEw3WVZsb05DNHN0YkExaWJ3Qlg5Y3lnTGFDOWhuVHFubm5HYUw4SFcyVWJYSWJzLXZsUEpfOGhMbUI?oc=5",
+  "clave": "acende alerta amarelo juridico publico servidor setembro",
+  "capturado": "2026-09-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e39669f8001a",
+  "fecha": "2026-09-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "La salud mental y el papel del farmacéutico, eje del primer Summit ‘Expertos en Salud’ de Cofares",
+  "resumen": "distribucion farmaceutica cristinaff@uni… encuentro la fundacion cofares ha celebrado su i summit ‘expertos en salud’ bajo el titulo salud mental y acompanamiento emocional desde la farmacia , en el marco del ‘dia mundial del farmaceutico 2026. eduardo pastor, presidente de cofares y su fundacion, ha reivindicado el papel indispensable del ecosistema de cofares en este ambito: “somos un pilar de c",
+  "url": "https://www.diariomedico.com/farmacia/distribucion/salud-mental-papel-farmaceutico-eje-primer-summit-expertos-salud-cofares.html",
+  "clave": "cofares expertos farmaceutico papel primer summit",
+  "capturado": "2026-09-24",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
  },
  {
   "id": "7bd1a768c9db",
@@ -385,6 +935,26 @@
   "categoria_auto": "regulacion",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "594720b71220",
+  "fecha": "2026-09-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Política Online",
+  "titulo": "Nueva ley de salud mental y adicciones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVm0waFZLZHhENG9vcHpVSmhCZDV0Z093blNqOGdqazlJYjNvWklRazZiT1lhVHhEdnNRTTYzZnJ4TmdnQnNia2Y4eTRkaTg0SU5KdjRZQW5DSUl6Z0plMW9EZzEtYWVha2hlZzVpeVNLRFlBMEpQVUZVbURiU0xnZGhuRktTaElO0gGLAUFVX3lxTFBjcnJkQVM3ZktCenpIUWcteTM5aFgyVTdTYXVQdTdqQkh0ZmRTRWpjeGxiX3dDbV9YdTZIUGM4UkxxTHptYS1LbjVvamE5al9TdjZYMkFodnQ0Q2RRSkM0ejZ5VzQtNHJvemZBNU5nY09zMUdjalY5dERJUG96X1QyMm05cjRPME5GWUU?oc=5",
+  "clave": "adicciones nueva",
+  "capturado": "2026-09-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "adicci"
   ],
   "ruido": []
  },
@@ -3083,6 +3653,25 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3eb621968a0c",
+  "fecha": "2026-09-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación (edición US, hl=en)",
+  "medio": "The Conversation",
+  "titulo": "¿Tienen base científica las recientes medidas impuestas a Meta para proteger la salud mental de los menores?",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT3h5OTRlazdtSUJhRElHaC0ydTRoZHVYMm9NRWZ4LTVhWENyOWp2VlJ0bXZVNTlYU2RkVzRtQ01xTDhLSm9KWUU5eXRDYzZUM0xHNFhWV3EzU1RFbWRKMVVsNVZFazFHN0hIbDlxU0Z0TXVOT0RMLTUzdmZIWGhSeGR4RGU3SG5nVXhNWTg3TGtYYmxNaV9XT0RKUzJOd3hNUGhiTjN5ZF9NS3g2WXZnTWtPX0JKa3lkT2lDSld1ZUZTT3NIcjFoTUFJbDVCMkhta0pVR2pRSTA?oc=5",
+  "clave": "base cientifica impuestas medidas menores meta proteger recientes",
+  "capturado": "2026-09-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -10098,6 +10687,25 @@
   "ruido": []
  },
  {
+  "id": "2d7bdff3fb6a",
+  "fecha": "2026-08-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP Divulga: CRP-SP realiza diálogo \"Saúde mental e descolonização: diálogos contemporâneos sobre as migrações\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRVI1YmJOR0R0NDM1Qy15TGxGbUhVeVlNbWQ4Rk1mWkxZU1ZubEhqbTVzLVVCNzluTWRac2N1YnZHTWg0R2ZzTkZDUFR0eE1NR3k5eUFyNHMxMk01MEZsWnNqX2M5Q29pTTR3N05Yb1hkaEpzblY0Zm10NHdYWUIxWkhyWG1adUt1bkoyM2ktT2NnR200ZXBvUVNXc2NSVlQzRkJUdC1FOThCVXJ5VmYxYThlV1lXTjktcUtUQ3ZYOUhmY3RMUU9aVWQtRUc?oc=5",
+  "clave": "contemporaneos descolonizacao dialogo dialogos divulga migracoes realiza",
+  "capturado": "2026-09-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "14df07dca95d",
   "fecha": "2026-08-05",
   "carpeta": "05 GOOGLE NEWS",
@@ -10108,6 +10716,25 @@
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PVW15LXZnOGJGeWVqT1FheHFMWnlWcFF1V1FBam5pa0FEM3NSVUw1ekhqUV9aNnVCdVB4QmxOenFtX0JJUkJfT1g2cjY4b1ZOT2hEelItaDcyQlZsQkRGdE9aNEhzdw?oc=5",
   "clave": "aplicaciones mejorar",
   "capturado": "2026-09-04",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7c3329355406",
+  "fecha": "2026-08-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "APN La Pampa",
+  "titulo": "La Pampa puso en marcha el Plan Provincial de Emergencia en Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYy1ZcWduYkVIRFhOdTJ3Rmg3YUZPbm55Yko4OExSNEdqSXFoTW14SXRMOTg5bXN3QW1RWmZERlZzRXJNT2tLclNSVExubHh2cTdwMU52bWkzX1ViaGhoeDJ5N1hQN285MG12dlRwRzZpY3JXNXRCMlBKcVN5RTA5OEtjc2FaZVVTTk14VHpBLWdyUmJ1OHhqaTlvNTM3VDlldlVCRThnZUM3ZUVpd1RVUkFfenlGcnhOV2VVWllR?oc=5",
+  "clave": "emergencia marcha pampa plan provincial puso",
+  "capturado": "2026-09-24",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -12079,102 +12706,6 @@
   "topic": [
    "salud mental",
    "suicid"
-  ],
-  "ruido": []
- },
- {
-  "id": "90d34e104c07",
-  "fecha": "2026-06-25",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "UOL Economia",
-  "titulo": "STF suspende multas para empresas que descumprem regras de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRUlxY1VPc0gwR0k0QlN0R1hOUjIwY0xzd1VLNVdQVC1rby00dDhDZlBfRWtDS1VkSlFlYWp1U0I0bjNQVVFuZFVPMEUyRnpKeW1BRFdsRHVRS3VMWVRLdThNYW9NT2FuQ0h1Nmk3MnlDa18tU0l4YXVsX3VxeXYwN09wRnE0TnVVNEtyamN2Z2VWT0dIN2RvZEVYRnF3Z0Z2WUFHOEVWREpPcHhsNm5SS3RSbTB3MzM1NS11YnRjcmhQT0xLVjBLdlNYVmhiTEJfZHBMWjVwc3h3YmdjLU9oRDVlTkR2a2M?oc=5",
-  "clave": "descumprem empresas multas regras suspende",
-  "capturado": "2026-09-05",
-  "puntos": 7,
-  "prioridad": "A",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "1c7b4e0580cd",
-  "fecha": "2026-06-25",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "stf noticias",
-  "titulo": "STF suspende sanções da NR-1 e abre conciliação sobre regras de riscos psicossociais no trabalho",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNelRTa1E4ZUE1aWVwY0VVUGtPZFIxN0N6Z2FxQmQ2Rjl5OVp6em1iVHBUejlEczNCTGVuaHJHVU5zRzZkWWRWZUdabFhPRkMwOXIwMnphTWl6NmpQWF9tMzRIM19lV0k5ejYxME9pOVoydjFESWhNVEY2UXA2SjRSTGRrYzFyMHk1czFnVEFCUGR3TEszeUlEcmtyWXo1bHpLUU10c25KTVpfYTByNVJBbEJyOUU4WkFWdU5sMzA3WjBCZ05obFVJT20xNUpNWGRIb01rVkRR?oc=5",
-  "clave": "abre conciliacao psicossociais regras riscos sancoes suspende trabalho",
-  "capturado": "2026-09-04",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "nr-1",
-   "riscos psicossociais"
-  ],
-  "ruido": []
- },
- {
-  "id": "060d1dd8eb71",
-  "fecha": "2026-06-25",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "senado.leg.br",
-  "titulo": "Tristeza e saúde mental: nova lei garante acesso de crianças e adolescentes a atendimento no SUS",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbmJqU1pSa3o4U3d6NmFLS2F0aGltNmV5aV9URnVGTV9RQzlZekRDTldXWW81amI4SWNvb29RSE5QUU03eVpvM1g4X0V3QS1MYk9MU1VTLXBUbTBMZDVxYVhOMXNzTzMtUktmaHZsc2NJUDFZbEtqU3N4aGlFXzBGcHQ4aUZSZkdaV0g3UVNuamFSb3JwelhIam0xWUlHWEVSZjlnUzVZZmZNanNDVi1ac1dNNFlmczMweWV1OGZfNHljcEtzUjU0VWdrRHhSeFVtT3lyQjUwa3p5Q2JjNFdacVhsSjRjbVFPNjhOeG9R?oc=5",
-  "clave": "acesso adolescentes atendimento criancas garante nova tristeza",
-  "capturado": "2026-09-04",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "2c1b4d61e672",
-  "fecha": "2026-06-25",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "El Diario de Madrid",
-  "titulo": "Matute reivindica la salud mental como una prioridad estratégica de la sanidad madrileña",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTZQSUI5M1dCSWZYa1hjOUdxb0kxV2tTemhmbTJEWTR5Ql8yNklyWnQ2eWFjbWFGSTZjbnIweU9ZNU5iN1FuclA4VzliQ2c0bkNzdXI5Q0RUdHBnVVc4aXNBa3VKeHhVdTRQNzdEVVlhUzN1aFI0RDlBVm9Va1lHT1U3eEE3dHItalZnd0RzWU9QbVF1NTJULU5UMGthWDFDTFQtc0N2Q2s0cFJZSVHSAbMBQVVfeXFMUHZldDlxYjNBeHNIT2N4YmJRcWxYbWl1c3pHRGcyS21paEtlUXJmYndybURGMl9GT19hcm1VZ1kxdnVnQURvOUFnTndmYXNCMWNRNXNCM3l6a3J0dUNlRFMxbEhDU0E3MmRLRkRpUEd3RGhxOFBaVFlISXRQR2NNVXQ2WFJlSlRYS2lUZkJYUnF1TEFCTTFoaE94bDVpbWdBcFRuY2ctUElobHBxaVJEbV9IbzQ?oc=5",
-  "clave": "estrategica madrilena matute prioridad reivindica sanidad",
-  "capturado": "2026-09-05",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "918568b4b131",
-  "fecha": "2026-06-25",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Poder360",
-  "titulo": "Entidade aciona o STF contra regras sobre saúde mental no trabalho",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFA1MjkyYmNYU0czOHMyS0JadmdHMFlTaGQ3QjBKVFhFYUp3ZU5leVI1eE5kQlN0MkFqM25JbEJzWmp2Mkl0QkcxaUg3WDM3aVh5Yl81VFluYV9QZnlpeVdGSWdZSjMtWVpBMnI5ZHdxbVFsNHh1R21HOVo5MlVIZzNYdU5zOVRIcmg2QlUzbHdZTm1PWlVFcW9saGxiRWlQWks1Znd5VnVPc3U0WUE?oc=5",
-  "clave": "aciona entidade regras trabalho",
-  "capturado": "2026-09-06",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
   ],
   "ruido": []
  }
