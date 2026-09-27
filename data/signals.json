@@ -1,5 +1,146 @@
 [
  {
+  "id": "04e588740d29",
+  "fecha": "2026-09-27",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Ansiedad, depresión y opioides: la conexión que conviene vigilar en pacientes con dolor crónico",
+  "resumen": "psiquiatria saradomingo ansiedad y depresion el uso de opioides para el manejo del dolor cronico es un tratamiento reconocido desde hace tiempo, pero su uso indebido o excesivo puede acarrear la aparicion de problemas adicionales. en este contexto, un estudio liderado por un equipo investigador de la universitat de valència (uv) , en colaboracion con el hospital general universitario de valencia ,",
+  "url": "https://www.diariomedico.com/medicina/psiquiatria/ansiedad-depresion-opioides-conexion-conviene-vigilar-pacientes-dolor-cronico.html",
+  "clave": "ansiedad conexion conviene cronico depresion dolor opioides pacientes",
+  "capturado": "2026-09-27",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "psiquiatr",
+   "ansiedad",
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6f01c1e72fd1",
+  "fecha": "2026-09-27",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "La huella del azúcar en la primera infancia: un estudio la vincula con la ansiedad en la vida adulta",
+  "resumen": "un estudio en translational psychiatry analiza el racionamiento historico de los anos 50 para revelar el impacto a largo plazo de la dieta temprana en la salud mental y ademas: la cara b de la 'generacion sobria': psiquiatria alerta de que los jovenes cambian el alcohol por los ansioliticos",
+  "url": "https://www.redaccionmedica.com/innovacion/avances/20260927/la-huella-del-azucar-en-la-primera-infancia-un-estudio-vincula-con-ansiedad-vida-adulta/353703_0.html",
+  "clave": "adulta ansiedad azucar estudio huella infancia primera vida",
+  "capturado": "2026-09-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental",
+   "psiquiatr",
+   "psychiatr"
+  ],
+  "ruido": [
+   "dieta"
+  ]
+ },
+ {
+  "id": "f8d3eee34166",
+  "fecha": "2026-09-27",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "El azúcar en los primeros mil días de vida se relaciona con más riesgo de ansiedad en la edad adulta",
+  "resumen": "los primeros anos de vida son una etapa en la que el organismo y el cerebro atraviesan una transformacion constante. durante ese periodo, la alimentacion no solo aporta energia y nutrientes, sino que tambien acompana procesos que pueden dejar huella mucho tiempo despues.",
+  "url": "https://www.infosalus.com/nutricion/noticia-azucar-primeros-mil-dias-vida-relaciona-mas-riesgo-ansiedad-edad-adulta-20260927082951.html",
+  "clave": "adulta ansiedad azucar dias edad primeros relaciona riesgo",
+  "capturado": "2026-09-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "ansiedad"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5e7adf588c4f",
+  "fecha": "2026-09-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Razón",
+  "titulo": "Cofares apuesta por cuidar la salud mental desde la farmacia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVptLTk0d01fWUNiLXE2WGljc0xpNVNLRERwdWNiRzE2YV9IR0ZWRHROdWRXX1Bwc2k4RE9xejFwYXZVeUdNVnVNRWJoUFdMM25DUGxMeTZ6UEJFdGNFZzZabFY0ZGtWTFV5SDNXZldscXBNdWRZak5kSEtiSktKRER6RnEzdHhFckVNSmF1WFI5SWtaWWtTQ1plaWxJODcwcDlseWFKNWhTTDY1OUR2ctIBxAFBVV95cUxQRHoxUHhHSkNuWWVNNXE5VFRWalRJQjY0MFZuNGkzSEtFb2FUYThlQXczN2UtamVzNEhqakJaVVRUYnFDUTQ3QnpHdHFCLTVOa0lLX3lIQlRidTZ3b3Bfd2gxU0p5ZlpXeGt3cnNLd2h3eDJsczJ6Sm5UVW5GU0ZtTEVPVlRsakVUcjd2Qzl4ZzcwM3JKakVYX05sNEJSWWV0dXFRQ2M2SG9PM0pDdW9Wb1ozdk9vNFdBU2EwcGZxRmV5STBS?oc=5",
+  "clave": "apuesta cofares cuidar farmacia",
+  "capturado": "2026-09-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7bc521d90cf2",
+  "fecha": "2026-09-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "estradas.com.br",
+  "titulo": "Saúde mental dos caminhoneiros ganha importância na prevenção de tragédias nas estradas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSnJadnRCY1A3ZDFWMjF4aksyeWpRUVowUEhRekc2R2lyMWdicVFDMnZtRW1LXy1hNm9BOTduRE5oYUQ1WS03MnFSbThoWS1qbzVpZl9mQ3I1MkxVdUQ0Y01jaTdVWXZVdFpwc085N2NtdGdtNE1hR2lMRVlUaXllQi1Lbmdxd0lfMUh1aE42ZFlxSTYtQkpEd3ExQ2RFT09PWE1ZZ0pNOUZ3SkJhZHpqN2F3?oc=5",
+  "clave": "caminhoneiros estradas ganha importancia prevencao tragedias",
+  "capturado": "2026-09-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2c50eca73110",
+  "fecha": "2026-09-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Chorrillero",
+  "titulo": "Salud mental en contextos de encierro: realizarán una jornada de capacitación en la UNSL",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRGxndlVYT2VObFlmVm0tT0N3T0pJLWtlN3ZXX3hPWE9tRzNneThzT1puNXo4dlBPbTFoNjI0WWsxYmlKdlR1VmViSGpydWc3Tmpjdk1LMi13c1JpR0hFTUN0eE1mRHo0Nk82dC1tNXlacElya0xCUTBTUzdnTlZzRmhjbTdrNGxNNXVKNXhveHl4VHdaZ2lXQmZtbTJJTWNfSk5LTENKTE9ZZ2o4ZVFVLUlILXpreW8wQXExUWI3bW5BSl9qUHlyOTE2NW1pMk54cXlpLVpLY3jSAdgBQVVfeXFMTURsZ3ZVWE9lTmxZZlZtLU9Dd09KSS1rZTd2V194T1hPbUczZ3k4c09abjV6OHZQT20xaDYyNFlrMWJpSnZUdVZlYkhqcnVnN05qY3ZNSzItd3NSaUdIRU1DdHhNZkR6NDZPNnQtbTV5WnBJcmtMQlEwU1M3Z05Wc0ZoY203azRsTTV1SjV4b3h5eFR3WmdpV0JmbW0ySU1jX0pOS0xDSkxPWWdqOGVRVS1JSC16a3lvMEFxMVFiN21uQUpfalB5cjkxNjVtaTJOeHF5aS1aS2N4?oc=5",
+  "clave": "capacitacion contextos encierro jornada realizaran unsl",
+  "capturado": "2026-09-27",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "jornada"
+  ]
+ },
+ {
+  "id": "67747c39df2d",
+  "fecha": "2026-09-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El 'caso Maricarmen' tensa al Gobierno: Mónica García y el bloque de Sumar lanzan un ultimátum al PSOE por la vivienda",
+  "resumen": "la ministra de sanidad y sus companeros de grupo avisan de que no asistiran al proximo consejo de ministros si no se lleva el decreto de la vivienda y ademas: el impacto psicologico tras un desahucio como el de maricarmen: \"perder su casa es perder su biografia\"",
+  "url": "https://www.redaccionmedica.com/politica/20260926/el-caso-maricarmen-tensa-al-gobierno-monica-garcia-el-bloque-de-sumar-lanzan-un-ultimatum-psoe-por-la-vivienda/353991_0.html",
+  "clave": "bloque caso garcia gobierno lanzan maricarmen monica psoe",
+  "capturado": "2026-09-27",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "d3da0112ddd2",
   "fecha": "2026-09-26",
   "carpeta": "05 GOOGLE NEWS",
@@ -72,6 +213,142 @@
   "categoria_auto": "regulacion",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "90a4388d582c",
+  "fecha": "2026-09-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infobae",
+  "titulo": "El Senado de Estados Unidos aprueba una ley para que los pilotos puedan pedir ayuda psicológica sin miedo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTS1iSjJoU2hYVE1oRDVfQXAya2VhQnFYNTZpal9MaDQ1TnZiODRwQnZkbUp2dzZJbGpGZFNWanVzX3FJVEVaNVdZUXQ4WkVxYnlUYnF2cEM0ZFFiTEFIZjlUSXlkT2gzT3ZnWXFtdm5NTWFaMmI5ZFlQV1R4X3hXXzZLanBYNWR6dEo2Smdjek9jQklJczBpWEd4Q0FwR2xFWEdJU1h6bHR0dHNOZU9PVmRBWTJ1OXJmeDJ1Y3dxbU1BTEo0WU1DMXBhQlptbWlJNTNaQXJJdk1nNl90NG96UXdaMHhHVWd3SWtmeNIBhwJBVV95cUxNSzNjaHV3WWhJd2JYeGlyby1RZzhMNFlnN24tdG1HVWUwMkRfVXZycGVtNGFHZGNJZ1lTXzlwSU90ZGRvdFdLdGpXamQ3VmppdTd2Tkt1ZUhNWUQyREhEMGZKWVBNcHdHRWUzOE9YWTdjYjRJN3h4LUVrcTJUOVVRNFFldWtIYmk5RG12V3VsVTNZaHJHcG1STlA5M0Qxb3lvZlBMbEhkWms3LUV2QWRoTGhTeXhkNGJWR21XS3FtNDZDTWMtMGVkbmZMcDd0aDdNNnR0TEpfOW5xY0FiMkhvMG9mMlVxU0pCQS1XU1Q4b2RzaWk2N2xTX0xtbmdiUkU0T2JhWkdPbw?oc=5",
+  "clave": "aprueba ayuda estados miedo pedir pilotos psicologica puedan",
+  "capturado": "2026-09-27",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "71377c8657a8",
+  "fecha": "2026-09-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "ancora1.com",
+  "titulo": "Nova lei em Assis prevê mobilização de escolas, profissionais e instituições pela saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXliYzVUUjNSNTVQcnFpMnM2cnFNaGpGODZkTThjY0N5SmdRaHRSV0VvZjNyeFJKazhGQTRLR1RvMlZHa0JEZUlNaTg3b3hFZWJhU05RdnJnWTJEQk1POFB1WlBTQVBmdmxWOWdwNU1tcHR0UFNMNERJS1hPY1FkUER2V000Ql9IcGFHWDN0MFdnSlB5RF9wd0xzWnhzQUxiWGV4UEp5STVfWldBMktWUlZmZllaR0U?oc=5",
+  "clave": "assis escolas instituicoes mobilizacao nova pela preve profissionais",
+  "capturado": "2026-09-27",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "aaa06d09f2b9",
+  "fecha": "2026-09-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Jornal Grande Bahia",
+  "titulo": "Câmara Municipal de Feira de Santana aprova programa de acolhimento silencioso para autistas e cobra mais profissionais de saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPX3JkUHBZeTBMc2wtanFJU21Vend1ZlQyT1VfRjAwQi1WZ1ZkUUZyR3MyLXI3ZjVKcVpBeDMxVG10UmhJbUZqcFRGdm0tb2g3ZXZYQU1EUHhQN0xaRnRXU00xUHBfWnFLdEV2end6Q3ZoUG9nX0ZKNEVSM0RXRldIZ252aU1sWGJTakhiY0N1THhwWnlyd0ViWTZ6YV9yeDY1MGhHbDBUZWZPNHJwakFtcVBvRXBjZUdXSzJ6X3pfRElxNU9PU1lxRFJHc0FrYm5iUzUxREw2aEY2YTY4U0trTUhSYXU3NVVMUTZ4S2FxSXNqUzRPUk9xSFJVa0pfWnZ6ZW1WNjE4dG0?oc=5",
+  "clave": "acolhimento aprova autistas camara cobra feira mais municipal",
+  "capturado": "2026-09-27",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "504adf5d1cc8",
+  "fecha": "2026-09-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Rafael Vicetto, fisioterapeuta: \"Cuando hay una diástasis abdominal importante, el hipopresivo la aumenta\"",
+  "resumen": "el especialista cuenta en redaccion medica el mito de los hipopresivos y como la ecografia da unos resultados que muchos desconocian, ademas del impacto que tiene la diastasis en la salud mental y emocional de la mujer. y ademas: guillermo pou, cirujano: \"la diastasis no es solo estetica, tambien dolor de espalda, hinchazon e incontinencia\"",
+  "url": "https://www.redaccionmedica.com/profesionales/medicina/20260926/rafael-vicetto-fisioterapeuta-cuando-hay-una-diastasis-abdominal-importante-el-hipopresivo-la-aumenta/353749_0.html",
+  "clave": "abdominal aumenta cuando diastasis fisioterapeuta hipopresivo importante rafael",
+  "capturado": "2026-09-27",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8cd3d9d61765",
+  "fecha": "2026-09-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "Classe Politica",
+  "titulo": "Santaluz recebe investimento para saúde mental e equipamentos para trabalhadores da pedra",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb0NCMmllNUJMSXoxTWhwNXdMbWNJbGMzYVMwdW9EOXFsb20zUnEzdG01bzZaVVBxWWJvWnd4ZDlNRUNOc3pjckNLYzBjQl9CbUVjb1ZRenNRT2xWZ01FNGhPSGpHUl9YWFBxRTA5SkFOOFRNOTdSdEg0RUpQQ0VGdElZaTg1Q0NUaDIyaEdnTldBUlM2RnY2WWI1TGwydHVsOGFvOUZSSHcwWk9lRmRFR1djQlRpUUJUUTlQZXRkZ1NXVnVPclE?oc=5",
+  "clave": "equipamentos investimento pedra recebe santaluz trabalhadores",
+  "capturado": "2026-09-27",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b908fd7bac1f",
+  "fecha": "2026-09-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Muere Aquilino Polaino-Lorente, psiquiatra y catedrático de Psicopatología",
+  "resumen": "la familia del docente ha confirmado su fallecimiento este viernes en la capital, donde desarrollo el grueso de su actividad academica e investigadora y ademas: sanidad encarga una evaluacion externa para fiscalizar los planes de salud mental del sns",
+  "url": "https://www.redaccionmedica.com/profesionales/medicina/20260926/muere-aquilino-polaino-lorente-psiquiatra-catedratico-de-psicopatologia/353984_0.html",
+  "clave": "aquilino catedratico lorente muere polaino psicopatologia psiquiatra",
+  "capturado": "2026-09-27",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "373ecc18a2f1",
+  "fecha": "2026-09-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Argentino Diario",
+  "titulo": "Salud mental en la era Milei: el récord de suicidios avanza mientras el Estado recorta la prevención",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRU5zajJfN1pmVzZnbjV2M1dkaWdYVkdqNGpQaExzQk1tWnFBM3lYNm1LbWdpVDZkbzJfbkJkRnkwWHU3dkUtTG9KM2tNT09IZmROOGNXemFuekRqNHdSVVZ0Z2R1MGRib1lEUUJmTzcwdFFWbG1LS25PMHp6MVZMRDVwNUlSaERWejBaM2xPVkxMbUp5cmVZSmZ1cmhWNTBlRDVIMFpSNy1DRUxxakZocDZicFpIWmZhUjl6by1BOUN0M00?oc=5",
+  "clave": "avanza estado mientras milei prevencion record recorta suicidios",
+  "capturado": "2026-09-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "suicid"
   ],
   "ruido": []
  },
@@ -1410,6 +1687,26 @@
   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRmVRUHdTalhPRjdBU0UxSEluT2JTeDBKVFJwUzlCUkhCRVhVcV9IMGdoZy1iVnBWb3VUSDYxNkRHYno0SmExRW1CMC13OGJCRWRqRUF1NkNoRFdBSFM5SGlFeW9fUndVckNvdnlzbTQ1SmYwejVJN1VTSVNoVTcybGdPVzJ2VUZsS1Z3a1BCQnpHTGhPU0l2VGg5di1raVZXR3dPdXFhSlU1dHZC?oc=5",
   "clave": "empresas multadas pelo podem riscos",
   "capturado": "2026-09-25",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "736538fad15d",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "O TEMPO",
+  "titulo": "Saúde mental no trabalho: empresas voltam a ser multadas por descumprir NR-1",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNm9NNHFPLVBtZVUxb0pKYktyVWs3N0h4OWtUbl9xbmR3eHZtaVVLcmp0NC1uT1RpUHhVSXhyUWlFWVlxOERULXh3TjdSNl9OM0t5QnJlYmNpTnJhOW1sMFk5UkFuZGo4aFZRUEk2T2ZteDNOWlJteTJFWE0yU3g4ZzJoOUJrd2NoTHRYcF9hS0dUUXduY1pGQWtGN2VCVWdPSGRtQTFHa0tnRHNVNml2NURRNjMtV2FQeWc?oc=5",
+  "clave": "descumprir empresas multadas trabalho voltam",
+  "capturado": "2026-09-27",
   "puntos": 9,
   "prioridad": "A",
   "categoria_auto": "empleador_aseguradora",
@@ -4353,6 +4650,25 @@
   "ruido": []
  },
  {
+  "id": "20f8ec11a32d",
+  "fecha": "2026-09-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": ":: Bahia Jornal ::",
+  "titulo": "Prefeitura amplia assistência em saúde mental na zona rural e institui políticas de inclusão para pessoas com TEA",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS2ktbUlyTkFGQXRjcGNVT1ZCUHpfQngzbFBJU185SGVoMWZpZUVMdktFV2R2dlRLcFo5VlFTWThZSGpQMFE3U1A2b3pwZ0lUNG1wWWpsd2V2ZVFYUzBpNjVSZEJ5M0hqWlkyTUFqa0kzVWhXZDNWVjhwQmFoQlB0eE53OHBZbEZxS3VCMjJsaGVXY3luNHc4WXhrTkxHM1oybTRZVW5ETmZfYVUyMlZzQ0hoMm1VZG55N2w3a0hRa2U4QzgtMVl3Vm02WVJyXzg4SU9xazQxU3VnTmpHTEwtbGJxOHJobUQ4b3dBaE8xdnY?oc=5",
+  "clave": "amplia assistencia inclusao institui pessoas politicas prefeitura rural",
+  "capturado": "2026-09-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "52b699dcf446",
   "fecha": "2026-09-15",
   "carpeta": "05 GOOGLE NEWS",
@@ -4907,6 +5223,26 @@
   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWGt6WlEtOE82eHRpZHAtR1FYTGE4RWttUDM4UjRTSDFJMW56M0QxU1NtY0hzWElmTU90Z3VDZ0U0MFJxUUVFMHRycnJvVlF5QkFSNkN5WFBsNGdGMTFBQlc0bDBwdXRvY1VuekFsbVZRblBBbkNWX2ViRnNwM1lacE1oSjRnWW56MW01SE90VHVIN2ZFNEtVRi01bVE4TDlfTUZCUEhjS0FHZ3JGZXotVlhrX2Z3dkJyS2ZxaS1haUZaY2dnNVM3TjA5aEdRVGlHeHc?oc=5",
   "clave": "prevenir profissionais promover quer seguranca suicidio",
   "capturado": "2026-09-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e6c0a8ba2690",
+  "fecha": "2026-09-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Portal O Dia",
+  "titulo": "Lei quer promover saúde mental e prevenir suicídio entre profissionais da segurança no PI",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQejhqWm1CVDhQMmNoY0tIaXd2Ym9IOGNwQU5FS3NpZllKaVdSY0Y2cG80aEZ6VjZVYmR2VTI3M2VDaHZ4WlF3RjI5WlRjLU5LdlRBWGZFTGZMYjBCZk5CaGt3TGJfb090MHZzLUpPR2FQbnlLQTRUNE1SUkFXcGRRZkZxcUV2SWlYQWt3S0tSMm5UaHlvYUhDZlQwbHVMU09vOWZHMnhuYnU1UmQtb3Zja0VCOVMtWVlDZkJpaWtQcDg0R3BieUE1VlJJdUY5RVMzdXQyWWpB0gHbAUFVX3lxTFByaHhjSW1UM0tnWHFmNnExdkhEa3NtclFIbFpPZ2RKLVhTcmQ3RTkyZTZhQUs2V05ESldCQmdVUFVWX2lFV1F3d2JFTVFaNGptWUlnWGp1YkRCR2xaUEtWOGZkY1dWUEhhTmlzaG5xSVk1eE00ZThhLUR4cjNkc3NPNGljQTNRcFJJMGdaa2dIX2RpbHhfUUdMaExIQ0MyN2RBYjV6dW1JRGwwOFJxcTY1RnJtZUtNMjk1QjkyZGRrVkpMU1hXR0xaalZPXzlhNzRuU2lsc0RIQjRFZw?oc=5",
+  "clave": "prevenir profissionais promover quer seguranca suicidio",
+  "capturado": "2026-09-27",
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
@@ -11718,6 +12054,26 @@
   ]
  },
  {
+  "id": "7549a0422613",
+  "fecha": "2026-08-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Educa Mais Brasil",
+  "titulo": "NR-1 amplia responsabilidade das empresas com saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLU40Z25XWnREeFM5WE9BbnMxZE0xaThHWFZPWUFhbDItcC1UamlIRjBiMkdKTUU0S0ZocnBjNVZrUEh1Nl9wZEdhNVVWOTBMSmd4QnJiWHR4VW5qMVdCNndRT3lKSThMUkxyWHRFRlMzbGZya0NxUkFOT3ZrR1BvV1FsdEtCVFhVcGk1ZXFhX0tXbVhyMHloYzBmbjd1OEVOWDhiU0ZYZ0NLNTNTclVr?oc=5",
+  "clave": "amplia empresas responsabilidade",
+  "capturado": "2026-09-27",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
   "id": "29049f098ab0",
   "fecha": "2026-08-12",
   "carpeta": "05 GOOGLE NEWS",
@@ -13868,25 +14224,6 @@
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "fd413f23d086",
-  "fecha": "2026-06-28",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "portaldotransito.com.br",
-  "titulo": "Nova regra obriga empresas a olhar para a saúde mental dos caminhoneiros",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVJKT1ZYZUFKRGlzUml0VGdkdXdnVjFQclN0MDh6Yk1UZmlhV0tYTlZ0cGlVNS13VUtWUEcteG5HNFJtVE1sQ0ZHVkI2ekhPMWlidWNrQjUxY1l6ZHZieFZncVQ1SWVEMG9MbW1HQTNHT1Z4bU5zd2F5Zk5yUk1fTVVLTnVjdHprdmcwSzJrVVNKc3cydWpoUTlsbTFocnNWalRZYUhZclNnV0k5YWp0VmlFWHdkUGdqaUHSAb8BQVVfeXFMTnV5OFRhWXB4Q3pjOEFjM0VWLWY2cWwtS2lTOWtBbzVNSDFyR2VjUE5XNmtDb3FUWnhkTm92VXJvYTFQc3p1azBXbDhQeS1waFVrc1c2ZnpGTWluNk5zQlBnZTdSd2RCNkg1dE1rT0E1MWNZYnlvWDRkajBCV1dVMzBUYzk5UFVXV2J4T2xxZnRYQ2hQaXJETDVOejU2SnNiSEwtdW13QnRlNU5zb1hiZU5IQWd2a1VFOEV1cE5LSkk?oc=5",
-  "clave": "caminhoneiros empresas nova obriga olhar regra",
-  "capturado": "2026-09-04",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
   "topic": [
    "saude mental"
   ],
