@@ -1,5 +1,179 @@
 [
  {
+  "id": "8046b76a2349",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "andaluciainformacion.es",
+  "titulo": "La Junta abre en Huelva una nueva unidad de salud mental con 13 consultas y más personal",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZ0QxNHhESFNiN3Z4Q0JhZkx5RzJ5T05CbVVnLXhHREVLYXFELVFTOWtsZkY4STA0Y1JjV1h1RHV3QnlxOXZIQjdlX3FPaml6OG40RWhJd1hLQWl0bjhMc19HYlZHZmthS3hIZXRidzBuMW1id1A4VW5DdGpxLWFLbzZkVEFJckpGS0NfVDB2TU5kY0ZyQ282UHpGYk0yV014ODk4ZDFJNGR6ZEpiQ0tVSTNkLVlOeldnQzFtcWlSTnE5SEhQQXZiZVl1MVRUMFRxUE44eHliZU5OLVZ5QjhHRVRXVURhM2NFdXhlMXp4amFUbFFDMHBEbW1LTFM4d9IBgwJBVV95cUxQNnkwd1NHMUtGbHFmNGhxVVJGRGs0VDRENDIzQ2R1RUR0eDItRG14SDd1Y0dyd1dqZExGbGEyWWllWHhZeWN6cklHcHBZNHhyckt4TUczSnpPU2NKYkdMVzRjQnFsd1JGRVFfWVRweG1tRm1aLTBPTnJ1cUp6cnZyT19pMHNvRXJLZGVldV81eUY0R0xTN2tmSlc1QTZiTHprQ2NlMWRQUzlESDI0YTBCZ1R3WXh6cFFyVmw0bFlKelhBU1g2Nk5oOThYNkFSOUhOa3BJbUhkQ2FBamZGbHVySks5X3dmV2o1cV9yUUNTNEY5Zl9uVXh0X1c5d3pOb1JxZHpZ?oc=5",
+  "clave": "abre consultas huelva junta nueva personal unidad",
+  "capturado": "2026-09-28",
+  "puntos": 10,
+  "prioridad": "A",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7238c7c4d259",
+  "fecha": "2026-09-28",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Insomnio: dormir mal se relaciona con un 26% más de riesgo de ictus",
+  "resumen": "pasar una mala noche de vez en cuando puede parecer un problema menor, pero cuando las dificultades para dormir se mantienen en el tiempo, sus efectos pueden ir mucho mas alla del cansancio durante el dia. el sueno esta estrechamente relacionado con el funcionamiento del cerebro y con numerosos procesos del organismo.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-insomnio-dormir-mal-relaciona-26-mas-riesgo-ictus-20260928082148.html",
+  "clave": "dormir ictus insomnio relaciona riesgo",
+  "capturado": "2026-09-28",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "insomni"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "82b111c3bdf7",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Constitucional",
+  "titulo": "Corte ordena a aseguradora equiparar cobertura de salud mental a prestaciones físicas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWQ4R2VITWIzUkJhbjBObUpSN2s4YkdwWlRfUjZ3ekgyTkRsc2tRQVdaTDNkOHAxLUQtblRfdHhnb0gyMGtnM3VHWEhhSWpESlBGMUZlOTdudTdKLWpsVnVkclpYYkhMajZpT1d4bG1Ed0I4cnQwdGYxclFwdzMwdENjWHhzZjRPNmU2SjJrZkEzSy00NTBQZVB0ajJkZUlWZ25OVW1SQmZ0YlljQ1RaeXhMR3kxdjJTbERmWXlLcktBdE43MURudWw0ekU0Zw?oc=5",
+  "clave": "aseguradora cobertura corte equiparar fisicas ordena prestaciones",
+  "capturado": "2026-09-28",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8a321589415b",
+  "fecha": "2026-09-28",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Las médicas registran 20 años más de vida potencial perdida por defunción que el resto de mujeres",
+  "resumen": "el cancer, las patologias cardiacas y el suicidio son las principales razones tras este escenario y ademas: el cancer y las patologias cardiovasculares se situan como las principales causas de muerte del medico",
+  "url": "https://www.redaccionmedica.com/profesionales/medicina/20260928/las-medicas-registran-anos-mas-de-vida-potencial-perdida-por-defuncion-que-el-resto-mujeres/353937_0.html",
+  "clave": "anos defuncion medicas mujeres perdida potencial registran resto",
+  "capturado": "2026-09-28",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5a8dbbc4fe83",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "ESdiario",
+  "titulo": "Huelva está de estreno en sanidad: nueva unidad salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZkFaSkFlcmx6RVVsZFdNVmxVVHlyVWpNTkMxSGFEMzF5WmllcVM1Y3d2NnlaWklOTUZYcjlmWUE2N2piVVBzaWstVHhpRXdpdFRwT1dVYmNCOVJmVDR4OVpCdkw0WHhoaDhhY2hRSXRPTm4weHdsRkZINndFZmVZbXpicWh3TGViSllJSFRzZDVqa0FxM1lIOWFtU1N0SEJQWXhnaNIBqgFBVV95cUxQNWViTF92Vk9xSVdqUk1KMlZmNmFXaXVzNnQwYnlNckRreXlCbExPQjA5NUtsTnRwVkNLZmgyT0toMXFGOHMySXFKRDdrWURrbUZhUVlQbl9EbjREMU05QTIzck1lVWxLYk84OTZQZ3RGWXI2cW94bUVNQUpfdTZlTVJ1MUFsR1k3U19vMWZqQ3NXWm84RXZ0a3hSVm9hRFpfNmRvdXdoTDF1Zw?oc=5",
+  "clave": "esta estreno huelva nueva sanidad unidad",
+  "capturado": "2026-09-28",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4bb828e88bfe",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "andaluciainformacion.es",
+  "titulo": "El Hospital Virgen de las Nieves extiende la terapia canina en Salud Mental Infantil",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbFhHZC1fTF9wUmttX3VsQk42MndoYXQzTXpKN2EwMGNTdlNfMkgzRDNodU5jeHIwQl9DRzctWi1uTnNsRHgydlE0YmhiQU40TEJQOFRBM3pHeV90RF9YUFdZYVZzbFF2OFRGV3l2bFdSSUpFZnpxT3pBM1JpeUdjM3VaN3l2dUJDX3ZZc2ZPMW9YUlE2ZERKTEptQ0s5aUVtbE5ETUpVdWY0VDJKUjZaT29GanVwaVFIY0l6WWVUQ2hYUHlfM3VwVUt4Sm5JQTlkZU15VzBVa0VvbzYtbHEydC1qdUM5VjRWSUhzY3JtR3daMnY2Sll0LXAyRUhrYmlSaXdxWklLOWgzbUhEa3RF0gGUAkFVX3lxTE9wV2NWRlIwNnNRSXp3WnZ1cUJ5bzA2Zk1nRnl6RllPSndSS0FTV0pBMFJtczRGQUNiUGFPWTFxaWpsbElPZnltWmp0S1ZKS2dFdklEM0FSRktHOTRXZTRYSjlKeC1xaXB6QlVlT3pkbGxuU1laSHJJMDBrYl83emp3RkF6Smp4cFN0X3IwQzlaVEZLSG9zTzVXWUsyWF9leW9UY3VoQ283WU5OdjkzeFdEbDBJeWtJaVI5LWRMMlZWS1I0d1FZbzRrSXNoQ0VpcTFwTGFDRVE5SnQtRnZ5cUhVZ0M3RndxaFdJR3Ria01vamI2ZS1CRHNsSUhzdkNUaHl3MWJIMko2ZUdWZy05RzZncE4ycg?oc=5",
+  "clave": "canina extiende hospital infantil nieves terapia virgen",
+  "capturado": "2026-09-28",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4c0474aa7446",
+  "fecha": "2026-09-28",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "profesionales | Una de cada cinco mujeres presenta algún problema de salud mental en el período de lactancia",
+  "resumen": "profesionales: una de cada cinco mujeres presenta algun problema de salud mental en el periodo de lactancia",
+  "url": "https://www.consalud.es/profesionales/una-de-cada-cinco-mujeres-presenta-algun-problema-de-salud-mental-en-el-periodo-de-lactancia.html",
+  "clave": "algun cada cinco lactancia mujeres periodo presenta problema",
+  "capturado": "2026-09-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e79539a1f4e1",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "castellonaldia.elmundo.es",
+  "titulo": "Mamen Pastor: “La salud mental es una prioridad estratégica para las universidades”",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUnZNYWxpUGx6Tkh2ajctbnZCcDdDVEI0NW9LcUZpU2lWM21BZU9taVh1NWJvOWtMWlRfc18wS0kyck1kYjRiVUJPQzVMc203X0ZEZHJpVndlelVLa3ZlOWRHSEtaLVlGSXVPZVRHT1VCZGFRZjgwNWZ4ZHNWMXB4azZSMjVpS1JwRWJiaC1KRC16eWFGUkR4SVJPaGg0SHhhY0trdC03SWNETEFPOGNfWmhhdXZBWHJDRnRQUVh1bDJuNnE3Y2VWN2hyRm80a2JJZW5kem1RS1J4YUlha0E?oc=5",
+  "clave": "estrategica mamen pastor prioridad universidades",
+  "capturado": "2026-09-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9f56ad633e0d",
+  "fecha": "2026-09-28",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "El psiquiatra y la media distancia entre la oscuridad y la luz",
+  "resumen": "opinion saradomingo obituario el psiquiatra aquilino polaino-lorente ha fallecido en madrid a los 81 anos. catedratico de psicopatologia y profesor universitario, dedico 45 anos a atender a personas con problemas de salud mental . converse con el durante cuatro mananas, poco despues de que cerrara su ultima consulta. de aquellas conversaciones nacio todos somos fragiles (tambien los psiquiatras) .",
+  "url": "https://www.diariomedico.com/medicina/opinion/psiquiatra-media-distancia-oscuridad-luz.html",
+  "clave": "distancia media oscuridad psiquiatra",
+  "capturado": "2026-09-28",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": [
+   "opinion"
+  ]
+ },
+ {
   "id": "04e588740d29",
   "fecha": "2026-09-27",
   "carpeta": "01 ESPAÑA",
@@ -101,6 +275,25 @@
   "ruido": []
  },
  {
+  "id": "84a6382df1d7",
+  "fecha": "2026-09-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Portal Metropolitano",
+  "titulo": "Telemedicina reduce gasto de bolsillo en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmxBMFpfeFctbXUyQkdPVFhUbjQzM2FLWjdWMk9qNnZFajJVSWRmMDVqZUFvOGFpcThpa2kzSFNvY3A1al9oakhnaU1EdWJQcFpYTHJMV2QwT0ZxYzB5MDduR2xySGZ5bGlzWkdWZHpuTFlEUDdnM2NUYTViTmFmZVlNVGo0VnktWG5TTXln?oc=5",
+  "clave": "bolsillo gasto reduce telemedicina",
+  "capturado": "2026-09-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "2c50eca73110",
   "fecha": "2026-09-27",
   "carpeta": "05 GOOGLE NEWS",
@@ -111,6 +304,27 @@
   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRGxndlVYT2VObFlmVm0tT0N3T0pJLWtlN3ZXX3hPWE9tRzNneThzT1puNXo4dlBPbTFoNjI0WWsxYmlKdlR1VmViSGpydWc3Tmpjdk1LMi13c1JpR0hFTUN0eE1mRHo0Nk82dC1tNXlacElya0xCUTBTUzdnTlZzRmhjbTdrNGxNNXVKNXhveHl4VHdaZ2lXQmZtbTJJTWNfSk5LTENKTE9ZZ2o4ZVFVLUlILXpreW8wQXExUWI3bW5BSl9qUHlyOTE2NW1pMk54cXlpLVpLY3jSAdgBQVVfeXFMTURsZ3ZVWE9lTmxZZlZtLU9Dd09KSS1rZTd2V194T1hPbUczZ3k4c09abjV6OHZQT20xaDYyNFlrMWJpSnZUdVZlYkhqcnVnN05qY3ZNSzItd3NSaUdIRU1DdHhNZkR6NDZPNnQtbTV5WnBJcmtMQlEwU1M3Z05Wc0ZoY203azRsTTV1SjV4b3h5eFR3WmdpV0JmbW0ySU1jX0pOS0xDSkxPWWdqOGVRVS1JSC16a3lvMEFxMVFiN21uQUpfalB5cjkxNjVtaTJOeHF5aS1aS2N4?oc=5",
   "clave": "capacitacion contextos encierro jornada realizaran unsl",
   "capturado": "2026-09-27",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "jornada"
+  ]
+ },
+ {
+  "id": "86fd0e3b0f2c",
+  "fecha": "2026-09-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "avilared.com",
+  "titulo": "La salud mental centrará la jornada sobre lactancia materna",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTm52UTBDSFpVNmYxVGRUVWpLQXVnUk5iY2RJNzR4VVpzY2dBbklyWkp6ZVVzNHg3WUVfSkx5UDJXODlJbHV2dnRuTVFWOHFqcXh3U3IzSGRRWW1HSVZvYUFaM0ZiYTRnWnotOE9kQUU1MjFQYjYtVUZSNHBYZW9DUGFBRFYtY3JTSjFzRFVVM3VkM21Z?oc=5",
+  "clave": "centrara jornada lactancia materna",
+  "capturado": "2026-09-28",
   "puntos": -3,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -348,6 +562,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5f3a21002e66",
+  "fecha": "2026-09-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diari ARA",
+  "titulo": "\"Llevamos a Paula al menos cien veces a urgencias antes de que se suicidase\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3c0UHVuS213QlM3TF9pV0h1N29zVWJRUHhZWDZtZXdfREYyeVFnNWQ3ZjcxOEpGWlJDekl0bHE4Z2xsemh6amtFRUE1a1QzSXdIak9vbWkxT3VBclRwUlJEWnpjcmlaRHNwdHlEQkphb2JRVHE1VFozbWU5TXpZVFNZQ1Fha3FCc0ZLRXJ5cnJENFhUbF9OT282ZmlLd0HSAaQBQVVfeXFMTVFMcERicE9nelBOOUVmSkZjTVo5VDVGZWFRWVN4NXNXMWxtdVhKS3hsclJXMXNWa0hkMEhkbWNDZjV4cmVVRVZqNlQ4SUtsWFd4RVhPWERTRzI0VzJLWWI1czJZYUg1aUpDN1N3cFhkRGRiRXpBTnhGTW92UUhvMXZCSVRhQ3JMbUUyWmtrUWc3N2dvMVlEVml2V0R1YXEtMzd2MmI?oc=5",
+  "clave": "antes cien llevamos menos paula suicidase urgencias veces",
+  "capturado": "2026-09-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
    "suicid"
   ],
   "ruido": []
@@ -1365,6 +1598,26 @@
   "ruido": []
  },
  {
+  "id": "554a6a4df97e",
+  "fecha": "2026-09-24",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "SITEPD",
+  "titulo": "NR-1: fim da suspensão de multas reforça regras sobre saúde mental no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTFrNlRNUXkybGVPVmZEaXh0UUdnVy1NQWFFUGl6WHRwWWZEU3FrVHh5QzY4Rzd2WV9IUTRNeVRNM0YzVEttd0JJRktLMTAtUWVwYzFvT2FabS1RNmdaOEZFS2gydHdjWjhlenN5ODBRSUxKdm40bmNKb0MzMmx0WW13QkFNWm9zWlFfRGtBZG1VdVF4b3NYQzYxazRYYnptTFNibWEzc09rZjN0UkhFQQ?oc=5",
+  "clave": "multas reforca regras suspensao trabalho",
+  "capturado": "2026-09-28",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
   "id": "04a1f8543e78",
   "fecha": "2026-09-24",
   "carpeta": "05 GOOGLE NEWS",
@@ -2196,6 +2449,25 @@
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ubzl1MTRjQ1Bncm90UF9vektobmVZcW1zWW1yakJPYjhua1dqaFZNWkdmZ0E0MUJiRmpFOHR0SldmekFoZ2RUZHhOQncwbXdvMGxjdDl3M0xuMTNyTC1tOFpCOGFpcmEzYkZjaU8yZXQ1LXBhY1hV?oc=5",
   "clave": "anuncia carreiro emocional euros investimento joao jovens maria",
   "capturado": "2026-09-24",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "767ad962af83",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "Portal do Governo dos Açores",
+  "titulo": "Maria João Carreiro anuncia programa “Ment(ON)” com vales de 400 euros para investimento em saúde mental e resiliência emocional dos jovens",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yWDlIbXRqejFIdUVrcW56alp1emIyUEFnd0NBbXNrZ2xLMG1jRDZzYXJUSzhRaVRpTDR0VTlrWHdJQ3RlUlVCZ1RlSm4xVldQdXdIY2tZWWQxaDlaRjY5ZldMeDBDaU9mckJNMWRRRDdXNm5BMnJZ?oc=5",
+  "clave": "anuncia carreiro emocional euros investimento joao jovens maria",
+  "capturado": "2026-09-28",
   "puntos": 2,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -14189,44 +14461,5 @@
   "ruido": [
    "consejos"
   ]
- },
- {
-  "id": "fde4bc9ec8b7",
-  "fecha": "2026-06-29",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "EL PAÍS",
-  "titulo": "Una ‘app’ para prevenir la ansiedad y la depresión",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa09faExsTEpQZzZ0VFp3aHRxZVl3QXppeVZLamViMEZuWkhpNER5NTdUMjN2LUlDLVpTUVRkY2J3dkxQTEJFOE05aGVoVGhMV3BvNjZrd25OTDRIZWxWZzIxakhmcmlSWmtMelY0MXh6SXlidEo5YWV4cmprd2JYOHMwRDVSZFNlUkZKVG5oV011U2dDOE9v?oc=5",
-  "clave": "ansiedad depresion prevenir",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "ansiedad",
-   "depres"
-  ],
-  "ruido": []
- },
- {
-  "id": "6ff85f8920d3",
-  "fecha": "2026-06-29",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Outras Palavras",
-  "titulo": "Silêncio sob ataque, na luta pela saúde mental em SP",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQS1yVmxsWFkzdEFRc3QzbEJJZ0tDUjlxU3BCLVhWV1NJOWM2R0NrclkyV0pUdTFpTUNldW1BWjVoMTBReWt4cWhFNUIwZUM1d2lVSjlXbXpHV1ZNNE9PSnR5UXhSc00tN19xSFhkbU5wcko0aWpMLUlqZ1RvdkQxb2lkV2VhM2o3OXVtVUN2STU5SW5EQUhkV0dn?oc=5",
-  "clave": "ataque luta pela silencio",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
  }
 ]
