@@ -1,5 +1,159 @@
 [
  {
+  "id": "7eca74716426",
+  "fecha": "2026-09-29",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Novas regras do CFM exigem médico exclusivo para exames e procedimentos sob sedação",
+  "resumen": "exames e procedimentos medicos realizados fora do ambiente hospitalar passam a seguir novas exigencias de seguranca. o conselho federal de medicina (cfm) publicou a resolucao cfm nº 2.471/2026, que atualiza as regras para procedimentos diagnosticos e terapeuticos realizados sob sedacao em regime ambulatorial. a norma estabelece requisitos minimos de estrutura, equipamentos, monitoramento e assiste",
+  "url": "https://medicinasa.com.br/cfm-anestesiologista/",
+  "clave": "exames exclusivo exigem medico novas procedimentos regras sedacao",
+  "capturado": "2026-09-29",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7e46c15e75f1",
+  "fecha": "2026-09-29",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "La pérdida de bienestar asociada a insomnio subclínico supone casi 6.500 euros por persona y año, según estudio de Cigna",
+  "resumen": "la e-health manager de la compania aseguradora cigna healthcare, la doctora daniela silva, ha senalado que la perdida de bienestar asociada al insomnio subclinico o leve \"equivale a dejar de recibir 6.407 euros al ano\" por persona, lo que afecta al 37,65 por ciento de los espanoles, dato que ha extraido del estudio propio 'impacto socioeconomico del insomnio en espana'.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-perdida-bienestar-asociada-insomnio-subclinico-supone-casi-6500-euros-persona-ano-estudio-cigna-20260929132418.html",
+  "clave": "asociada bienestar casi cigna estudio euros insomnio perdida",
+  "capturado": "2026-09-29",
+  "puntos": 8,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "insomni"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b09a5ef88107",
+  "fecha": "2026-09-29",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Unimed Porto Alegre amplia gestão do cuidado de crianças com TEA",
+  "resumen": "a unimed porto alegre firmou uma parceria estrategica com a neurosteps, empresa de coordenacao do cuidado e gestao de terapias para pessoas com transtorno do espectro autista (tea) e outras condicoes do neurodesenvolvimento. a iniciativa tem como objetivo aprimorar o acompanhamento terapeutico de criancas cuidadas pela cooperativa medica na casa tea. “esta parceria representa um […] the post unime",
+  "url": "https://medicinasa.com.br/unimed-casa-tea/",
+  "clave": "alegre amplia criancas cuidado gestao porto unimed",
+  "capturado": "2026-09-29",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "partnership",
+  "topic": [
+   "terapeut",
+   "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "89070bd82abc",
+  "fecha": "2026-09-29",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Hospital cria protocolo para diagnóstico do câncer de pâncreas em 72 horas",
+  "resumen": "curitiba ganhou um servico inedito voltado ao diagnostico rapido do cancer de pancreas, um dos tumores mais agressivos da medicina. o pancreas one-day clinic, programa de atendimento do hospital nossa senhora das gracas, em curitiba, e o primeiro do sul do brasil com protocolo acelerado para diagnostico e definicao do plano terapeutico de doencas pancreaticas […] the post hospital cria protocolo p",
+  "url": "https://medicinasa.com.br/pancreas-one-day-clinic/",
+  "clave": "cancer cria diagnostico horas hospital pancreas protocolo",
+  "capturado": "2026-09-29",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "218bccfe8538",
+  "fecha": "2026-09-29",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Gemma, la estudiante de Enfermería que busca mejorar la salud mental en la profesión: \"Necesitamos tener comunidad\"",
+  "resumen": "durante sus primeras practicas, gemma fue testigo de los efectos que la carga asistencial tiene en los profesionales sanitarios. esto le ha llevado a impulsar un espacio para compartir experiencias y ademas: sara, la enfermera que entra a medicina desde un master: \"quiero hacerla en 4 anos\"",
+  "url": "https://www.redaccionmedica.com/formacion/estudiantes/20260929/gemma-la-estudiante-de-enfermeria-que-busca-mejorar-salud-mental-en-profesion-necesitamos-tener-comunidad/353489_0.html",
+  "clave": "busca comunidad enfermeria estudiante gemma mejorar necesitamos profesion",
+  "capturado": "2026-09-29",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "94289f03b5c3",
+  "fecha": "2026-09-29",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El protocolo pionero de un psiquiatra español contra la depresión: \"La neuromodulación ya está desplazando a la farmacología\"",
+  "resumen": "alvaro moleon, director medico del instituto andaluz de salud cerebral, ha desarrollado una serie de recomendaciones basadas en el uso de la estimulacion bilateral secuencial",
+  "url": "https://www.redaccionmedica.com/innovacion/20260929/el-protocolo-pionero-de-un-psiquiatra-espanol-contra-la-depresion-la-neuromodulacion-ya-esta-desplazando-farmacologia/354055_0.html",
+  "clave": "depresion desplazando espanol esta farmacologia neuromodulacion pionero protocolo",
+  "capturado": "2026-09-29",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psiquiatr",
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "05c0f3f1eabf",
+  "fecha": "2026-09-29",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "avances | Investigadores del CNIO descubren una diana terapéutica que abre la puerta a prevenir metástasis cerebral y evitar recaídas",
+  "resumen": "avances: investigadores del cnio descubren una diana terapeutica que abre la puerta a prevenir metastasis cerebral y evitar recaidas",
+  "url": "https://www.consalud.es/pacientes/pacientes-avances/investigadores-del-cnio-descubren-una-diana-terapeutica-que-abre-la-puerta-a-prevenir-metastasis-cerebral-y-evitar-recaidas.html",
+  "clave": "abre avances cerebral cnio descubren diana evitar investigadores",
+  "capturado": "2026-09-29",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3bd0e297d040",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Medios Provincia",
+  "titulo": "Comenzaron las Olimpiadas de Salud Mental para promover la prevención y acercar espacios de ayuda a los adolescentes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWlJXeDJaSGNFTzBLbFRQMlo1UFhyVFhwY3Z1WWNKWjZ4R0xCMElzNUhuLVpXdkRyQzNNODhUZW9SMC0zekxUQUZEVjExMkhGRENCVHhaX0I1RVNOQWtqamg3X3prYnppMHVNS2R4MXJ3V0phckNwX3JMMFR4RmZVUnpQWEloWEd4Vnhhb3hLVkNhc3ZCY2piMmdWVVNtR0ptNk1BYlE2OWVFSHJaNFljYXFRdFA3eU8tc0VvSC13Q25HWE5CRi01S055TElkeE0teWZDX1NFVGpuSGhTVjRLaDVOZlI5MS1fRkl2OFFZZ3gzcU0?oc=5",
+  "clave": "acercar adolescentes ayuda comenzaron espacios olimpiadas prevencion promover",
+  "capturado": "2026-09-29",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "8046b76a2349",
   "fecha": "2026-09-28",
   "carpeta": "05 GOOGLE NEWS",
@@ -11,6 +165,44 @@
   "clave": "abre consultas huelva junta nueva personal unidad",
   "capturado": "2026-09-28",
   "puntos": 10,
+  "prioridad": "A",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0e552e886146",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Comentario",
+  "titulo": "Nueva Ley de Salud Mental no tendrá presupuesto adicional en 2027: Heredia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLZ21talNKSTdNUVJaeEtiZDY5djFrMkExWDFid1RyNi1BR3V1ODF2SHd5RGI1LTdVOHFQd09QdlBtcWRFamxJckdweUNZdDg?oc=5",
+  "clave": "2027 adicional heredia nueva presupuesto tendra",
+  "capturado": "2026-09-29",
+  "puntos": 8,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fe32bc3d353d",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Canal Sur",
+  "titulo": "SANIDAD: 13 nuevas consultas para la Unidad de Salud Mental de Huelva",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVBQOVBlMnY5VU05UXJIeUhTNUZVVkZjbHBWSHdvbm52LXZzcnlzNlFReFVEaWJNR1VaaVA2eThVaHkzNWVXdnBCUGxlUFoyRVBIZkc1MGV3LXJCdVh0bHRxZnVPMi1xeWR2ak5qRFBmMmhRbEFqa282anV5T1VKNW1SMHVuZmRxM1lRc2NKNkRQdjN5NWE1ci00ZE9RQQ?oc=5",
+  "clave": "consultas huelva nuevas sanidad unidad",
+  "capturado": "2026-09-29",
+  "puntos": 7,
   "prioridad": "A",
   "categoria_auto": "sistema_publico",
   "topic": [
@@ -34,6 +226,44 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "insomni"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b46c080f87d7",
+  "fecha": "2026-09-28",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Sanitarias acampadas en Sol para reivindicar el derecho a la vivienda: \"Esto no puede seguir así\"",
+  "resumen": "unas 1.000 personas, entre las que se incluyen profesionales y estudiantes del sector de la salud, han participado en la multitudinaria protesta que reclama un decreto ley que solucione la crisis de la vivienda en espana y ademas: el impacto psicologico tras un desahucio como el de maricarmen: \"perder su casa es perder su biografia\"",
+  "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260928/sanitarias-acampadas-en-sol-para-reivindicar-el-derecho-la-vivienda-esto-no-puede-seguir-asi/354081_0.html",
+  "clave": "acampadas derecho esto puede reivindicar sanitarias seguir vivienda",
+  "capturado": "2026-09-29",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9b2e004ba1ed",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infocielo",
+  "titulo": "\"Se mintió descaradamente\": la palabra de una especialista sobre la Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmdtSVh0ZE1nczRGcU5Uc1Z6RWRodXFnTzNhdlZ5dl9pekhPWGNrQTBxR1htUzdSZW56cjZnUzlick0wSC1VQVEyZWdEYjI5c1V5aDhISVdSQy1VLUNFa1ZkbXk0Ui1HbC1aV1BUMWxfUkppSzhKM1RXQ1UxUF9haXNQYk1POUN2OFhBazdEeUo0cF9Fang5OXZKdlVXb2R3UjNGZzcwaHRnc0owNUoyaS0zb1hZRFEzeGVZ?oc=5",
+  "clave": "descaradamente especialista mintio palabra",
+  "capturado": "2026-09-29",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -114,6 +344,25 @@
   "ruido": []
  },
  {
+  "id": "c935e5c50e7f",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Tribunal de Justiça do Estado da Bahia",
+  "titulo": "Podcast +Saúde aborda 10 Regras de Ouro para promover saúde mental no ambiente de trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONDJyTXpTaDRYdVU1ZDBNRG9xWjZDNVRXLWcwblp2UWc5T1ZPUmRRMzhpRWc4dFp5SGtyYk5tYmNrWkt2ZWtBazBLOUhXZ205ZjRHT1RFVWh2NG9jZGJMYWMzR0JpWTNWZlJlT0FObmdJUmk4N1NLN2dTOG45bEhSbnBtYU9yeTBYNGFwLVVEaFpSZUdnZ3lyUDFQXzVpVnJIOUcyUnRhM2RwZlp0ZE5kZ2IzdlplTHJYYXpOWnFR?oc=5",
+  "clave": "aborda ambiente ouro podcast promover regras trabalho",
+  "capturado": "2026-09-29",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "4c0474aa7446",
   "fecha": "2026-09-28",
   "carpeta": "01 ESPAÑA",
@@ -150,6 +399,122 @@
    "salud mental"
   ],
   "ruido": []
+ },
+ {
+  "id": "63f778e312f9",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Constitucional",
+  "titulo": "Corte ordena a Nueva Masvida equiparar cobertura de salud mental con prestaciones físicas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVG1xQVduMHF0NkhiT1g5YVNuZV82NFZDVWtISU9iWTVKUnpPTGZwR2FsYUhpUVU3a0ppNElQOFVuV0hwQjFMSnlLNGtONXdFVFlCMmxReTJyRTNBNjFhekxpOFFiakZoaHQtU243SkhYUll3NDY3aHpMWUdxWGYyaS1GMUNTdXl1U2tYMi1ILUwzQ1hGUkEtLTNndEdJYzV1c3plRVhxTTFpMTRNUFVqMXBxcWVkWk9tSEs5ZEFDUnp2RVN6N0F5QnRpQ2NHM2FIanc4?oc=5",
+  "clave": "cobertura corte equiparar fisicas masvida nueva ordena prestaciones",
+  "capturado": "2026-09-29",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "08a9af643752",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Constitucional",
+  "titulo": "Corte Suprema ordena a Isapre Cruz Blanca igualar cobertura de salud mental con prestaciones físicas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZXhVTWE0a2E3ZTg5LWRfMDZwZ2lkWGdJamtZMXpLUUd2WS1ralFHYmhmZ2Q4dUNpTTdQelUzNjI1R3g1VVNSREd4cThjRzd3WWN0RmVGcXRjLWNTNV9kSlpvS2tlYTkxSG8wWGVuMHM2TGlTdllHc3F1Y2NQcS1LRVRwbVVOMkEwSHJqTW13cHAwRURNdTJrSWtWZ3VvRnNmNEpSLTFoWTNYakVsNllOMGdaR2FfU05QWHBJVFBjejJjaWpOTklpZjZ3QVNVSkZwc05tTlctODkxU3J5LTVyRDF3?oc=5",
+  "clave": "blanca cobertura corte cruz fisicas igualar isapre ordena",
+  "capturado": "2026-09-29",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7659807ef755",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Constitucional",
+  "titulo": "Corte ordena a Isapre Cruz Blanca equiparar cobertura de salud mental con la de salud física",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMkxmbUptOGh1VjhQdjE5U1R5WTFBa1NlSDZ6aXgtQ3k2eXQ5YV9ldlV2a0FHellENDhoMzFZZFVXanRXN0pGMzdEWURBb0tHd09kTzRKVk9GZVQ5dXE2MjJWWEFZc3g3YjZielVyRkhCS3JPNEpHYXNjNE1ON1ZFcGlFczhobF9sblNaNUxKdTBhMHpud1Ffa256UVlEVlJTcWRNTzVqaF9oMWd0c2xfeG1EdjVITTJvRE5lVmd2d3VuUm1MX3luMk5rZUd0X2hqaVFnZVE5aw?oc=5",
+  "clave": "blanca cobertura corte cruz equiparar fisica isapre ordena",
+  "capturado": "2026-09-29",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a8f62c7ea29b",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Câmara Municipal de São Luís",
+  "titulo": "Setembro Amarelo: Três leis ampliam diretrizes de saúde mental em São Luís",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORzlYWmhhbFkycUNORWZDZHZ1ekcwMEo3ekp1d05uRlloT29rd0tfeTM1Y0V5YUduMHNlNzhLQU1OYWNhRUNLUU9BbEFjQXdWbno1TnozODZRcXZwalg2bHU4emZsMkFHNm5Ec3ZIWXpBZ2lRWm9RbHUzZDhpandGWlBLV2lRaURING9SWVgwUmdpU29LTG1sRDJNVjBmb3lSNFhfbVprczBQdW1Selh0M0NQRnQwanBiS1E?oc=5",
+  "clave": "amarelo ampliam diretrizes leis luis setembro tres",
+  "capturado": "2026-09-29",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "36e9e071ba68",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación (edición US, hl=en)",
+  "medio": "La Voz Canaria",
+  "titulo": "Canarian Health Addresses Mental Health in Madrid",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUJtSENtLUFSenIzLXBNNWYwaFY2S2FPRGd5WjBhT3RDbzRPRmNzU2tJa2ctaVpjMDVFNFFIazdEZW15R1hIR3NuVDEtUXNiclNxajdnRFhtdkkzUVFHdkdDMU9pczVJYmRFYXI3R0xsblFkcEpXZmdOQ2NERzVpcTlQbld1V04yZ1JpaHJ4WEJycVNDVm9WOU9KRTBaLTR1VHExb2Jib1VGX1RVMndxSzZYb08?oc=5",
+  "clave": "addresses canarian madrid",
+  "capturado": "2026-09-29",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4de9e8577ae2",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Voz Canaria",
+  "titulo": "Sanidad Canaria participa en Jornadas sobre Salud Mental en Madrid",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3hBRjlRQWEwVXZ2X3p1TGRyUC1XNXNSTTB1QXZrcFJ6eDYyYVJSeVV3TExLVGlFdVlLcjhhODd2bC1qdU1QdTBFZk11cGlRQ3puaFVrS1BVQ0xnd25lTURZQi1rWFBnU1VEZkpqd0FtZG1MWURDOXRHbTMtdTZjZTYxMjVPY2JuRWYtME5KSjU2RTg3RlFhODhYTTRhdGZzWkJKNmF1dVcwdWFxWklpNg?oc=5",
+  "clave": "canaria jornadas madrid participa sanidad",
+  "capturado": "2026-09-29",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "jornada"
+  ]
  },
  {
   "id": "9f56ad633e0d",
@@ -4937,6 +5302,25 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e1d096369bcf",
+  "fecha": "2026-09-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "World Health Organization (WHO)",
+  "titulo": "La salud mental en el trabajo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wOEFqeTlsZWdKV2NsVk5TWGxoSTNRb0pJeFRrbHFCMmNOSVlqRktZVWhtR2RNNXBWZXQxbFZKMXZ3ZktEVjZ5QWFpeE1EWVIzSC12UnNDQVRLTUVvLWk0bFBWdTdveEEwcWtqWlhuc2xVNUFZaGp3NXJzcVBHZw?oc=5",
+  "clave": "trabajo",
+  "capturado": "2026-09-29",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -10664,6 +11048,25 @@
   "ruido": []
  },
  {
+  "id": "e06d14722bd3",
+  "fecha": "2026-08-24",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "NewsDigitales",
+  "titulo": "La pelea por actualizar la Ley de Salud Mental entra en una semana decisiva",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0liY3dKdmliVGJLSmFyTC11WUdQdk1mVW1jNmJ2bjBjWDhqSWFkeUZtZldwZ1pGVU9lbVBmUzRqTWlJU3AyZ3BfMjNFVkp0eVhaTDE2WTFJTG12OEVVTDlIWUY4NkRhUXM2V053bjFyZlNGZlZORGhWeEQ2TzNQaDFOOG9zQm1hTGdvbFNhWmozOXNRRlZnVFFaUVhmazZ0b2JQRnVmdy1vMElqcjQtSEtJYkNZN0R0SlE?oc=5",
+  "clave": "actualizar decisiva entra pelea semana",
+  "capturado": "2026-09-29",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "dc95bf9ca831",
   "fecha": "2026-08-24",
   "carpeta": "05 GOOGLE NEWS",
@@ -12558,6 +12961,25 @@
   "ruido": []
  },
  {
+  "id": "684b55304b76",
+  "fecha": "2026-08-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Bahia Já",
+  "titulo": "SAÚDE MENTAL NO TRABALHO: NOVA REGRA FORTALECE DIREITO DO TRABALHADOR",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTFOYlRiNjItTzE5MVY0aXM0ajA4LWYtOUoxOEx6XzdBTkNSSFhrOWN4Q21MaGk5U0g1SXdPeVRERkJrMTJzNzNSa0N2U0h5R2dqZ0hRV1V3cUZxU2lMbjVJOXJwcUNwWVQtMkJvQnBEb2FzeDY5YmNyeVVVdE5xSlZKQVhBMjNqUjVPai00QlhFMjBLRDlET2Y1dEw1cnl5X29KTUxHVjBJcjg0dmNfUlY0cEhhd3Axa1loYUlPaDNEc2t3MWpWbGpMS3I?oc=5",
+  "clave": "direito fortalece nova regra trabalhador trabalho",
+  "capturado": "2026-09-29",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "2156595928ae",
   "fecha": "2026-08-07",
   "carpeta": "05 GOOGLE NEWS",
@@ -14421,45 +14843,5 @@
    "salud mental"
   ],
   "ruido": []
- },
- {
-  "id": "f483d8930d21",
-  "fecha": "2026-06-30",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "amazonas atual",
-  "titulo": "Empresas devem cumprir norma para garantir saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1VTYTdZSDFiTnBMX1N1M1Rfb2x2dzQ2NEhEcjRrTTU1eVY2eE9JOWRsVGVrLXFra2R6M1ZPanpzX25VZGxIM2tsbWJIZ3ZXTEdad05BSGJITC1ObWlIRWxfU2pyS3Q3WTBCRzBVSkdVX0t1MXpvUHFiXzdtRDllMGNZTnpYQmUxcVNGMTJn?oc=5",
-  "clave": "cumprir devem empresas garantir norma",
-  "capturado": "2026-09-15",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "c168d8799926",
-  "fecha": "2026-06-30",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "El Español",
-  "titulo": "El 56% de los españoles busca consejos de salud mental en la IA y el 34% la prefiere a los profesionales",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUnFvV0Y1WEhRQ1U0T3p0dkFCSUNvZi1iR3h4Wkx4ZjJIV19YYzNzQjVzTmNGX1gwWFNrYmZsNndUUVJFZDlEN29jek0yeUtGVWpFUlkyQUxMV0ZSSVhmM0o1dDh0cXVfblkzN2lCa2pFVkxhSFl2MHVaNWJMZ3lkUEFlTHR6RzZfVTVpeVBZSXJyM2U4aXIyYVFqOG9JRlRHTUhZN3NtcUlNZTF2VldXc2Z3TXpiNGYwb2pZTk9LWVhVM2V6TFNZbkhvSldub3RUWWROM2VMWk9icjhzbEw1U3FlSmnSAeoBQVVfeXFMTWV0ZTF4Z3pWdTNOVmpSdDBCcWRGVHN1U2cxSk9OSzdkLTVmUnpwdF95OEs2dkJ0T3RQbWpLbjRISzhod1R1MXRjcnJwLW9QQnB5RXVkX2lEWVFNdGdlWmgzaGJtclNlMFVjdE1JTnJNd0ZiMWZaUnZoa3RYQmxwYzNmQ3RMbTh6Y0hjeEh6OVlTY1ZySVN0MVR6U0daOXJaM0xuYkRBb0s5alhDYmd0eXYyM2FzaXNwUWRzRGZORUF2RXJTRi1lNmxGS2g3eVZvUlBWRTJKMjU1XzRZVXRLZjIzZjFtZW1yNzVR?oc=5",
-  "clave": "busca consejos espanoles prefiere profesionales",
-  "capturado": "2026-09-05",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "consejos"
-  ]
  }
 ]
