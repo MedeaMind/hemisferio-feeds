@@ -1,7 +1,10 @@
-# Hemisferio — señales 2026-09-21 → 2026-09-29
-185 ítems con tema salud mental de 1190 leídos · 178 historias únicas · A=45 B=62 C=71
+# Hemisferio — señales 2026-09-22 → 2026-09-30
+190 ítems con tema salud mental de 1193 leídos · 182 historias únicas · A=48 B=59 C=75
 
 ## PRIORIDAD A — hechos con datos (leer artículo completo)
+- [2026-09-29] [03] **CFP Divulga: Coalizão Brasileira pelo Fim da Violência contra Crianças e Adolescentes lança Plataforma INSPIRE Brasil** — Conselho Federal de Psicologia · cat≈producto · 11 pts
+  o conselho federal de psicologia (cfp) integra a coalizao brasileira pelo fim da violencia contra criancas e adolescentes, espaco articulado que reune cerca de 90 organizacoes, entidades, universidades, coletivos, movime
+  https://site.cfp.org.br/cfp-divulga-coalizao-brasileira-pelo-fim-da-violencia-contra-criancas-e-adolescentes-lanca-plataforma-inspire-brasil/
 - [2026-09-28] [05] **La Junta abre en Huelva una nueva unidad de salud mental con 13 consultas y más personal** — andaluciainformacion.es · cat≈sistema_publico · 10 pts
   https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZ0QxNHhESFNiN3Z4Q0JhZkx5RzJ5T05CbVVnLXhHREVLYXFELVFTOWtsZkY4STA0Y1JjV1h1RHV3QnlxOXZIQjdlX3FPaml6OG40RWhJd1hLQWl0bjhMc19HYlZHZmthS3hIZXRidzBuMW1id1A4VW5DdGpxLWFLbzZkVEFJckpGS0NfVDB2TU5kY0ZyQ282UHpGYk0yV014ODk4ZDFJNGR6ZEpiQ0tVSTNkLVlOeldnQzFtcWlSTnE5SEhQQXZiZVl1MVRUMFRxUE44eHliZU5OLVZ5QjhHRVRXVURhM2NFdXhlMXp4amFUbFFDMHBEbW1LTFM4d9IBgwJBVV95cUxQNnkwd1NHMUtGbHFmNGhxVVJGRGs0VDRENDIzQ2R1RUR0eDItRG14SDd1Y0dyd1dqZExGbGEyWWllWHhZeWN6cklHcHBZNHhyckt4TUczSnpPU2NKYkdMVzRjQnFsd1JGRVFfWVRweG1tRm1aLTBPTnJ1cUp6cnZyT19pMHNvRXJLZGVldV81eUY0R0xTN2tmSlc1QTZiTHprQ2NlMWRQUzlESDI0YTBCZ1R3WXh6cFFyVmw0bFlKelhBU1g2Nk5oOThYNkFSOUhOa3BJbUhkQ2FBamZGbHVySks5X3dmV2o1cV9yUUNTNEY5Zl9uVXh0X1c5d3pOb1JxZHpZ?oc=5
 - [2026-09-23] [05] **NR-1 atualizada volta a multar empresas que violarem regras de saúde mental nesta quarta** — meutudo · cat≈empleador_aseguradora · 9 pts
@@ -103,11 +106,13 @@
 - [2026-09-29] [03] **Unimed Porto Alegre amplia gestão do cuidado de crianças com TEA** — Medicina S/A · cat≈partnership · 6 pts
   a unimed porto alegre firmou uma parceria estrategica com a neurosteps, empresa de coordenacao do cuidado e gestao de terapias para pessoas com transtorno do espectro autista (tea) e outras condicoes do neurodesenvolvime
   https://medicinasa.com.br/unimed-casa-tea/
+- [2026-09-29] [03] **GT de Solução Consensual de Conflitos avança na revisão da Resolução CFP nº 07/2016** — Conselho Federal de Psicologia · cat≈regulacion · 6 pts
+  o grupo de trabalho (gt) de meios de solucao consensual de conflitos reuniu-se na sede do conselho federal de psicologia (cfp), nos dias 10 e 11 de agosto de 2026, para analisar as propostas enviadas pelos 24 conselhos r
+  https://site.cfp.org.br/gt-de-solucao-consensual-de-conflitos-avanca-na-revisao-da-resolucao-cfp-no-07-2016/
+- [2026-09-29] [05] **Advogada lança livro 'Burnout tem lei' para orientar trabalhadores sobre saúde mental** — bra1.com.br · cat≈producto · 6 pts
+  https://news.google.com/rss/articles/CBMiywFBVV95cUxNekFLTFgwTXB3RDVXQ0VDejM3YTRVZmZnNVFGVlZVWnJKZnlORkNoWjNOZ1lpRDFOdFc1MVpwanpOdDVtUzlCWFo0OW5UWFUzMl9HVnRlTm5FYU4wSWZ1cFdLd2xTUzVuYl92bk9GY2ZuZzlDNkVONVdTVFJ0QmkyT1FiOFY1Mmwtb0pHVWNoQWMwRnE1QnVXaE54UXpZR2NKLXRGR2dtTTRwNm5tY0RfTnYwc29TNzlvUEoxdnMxQTVIUFZZMzJRY09hcw?oc=5
 
 ## PRIORIDAD B — contexto útil
-- [2026-09-21] [05] **Saúde mental, prevenção ao assédio e a nova norma NR01: caminhos e desafios para proteção das mulheres e da classe trabalhadora. - CTB** — Central dos Trabalhadores e Trabalhadoras do Brasil · cat≈empleador_aseguradora · 5 pts
-  saude mental, prevencao ao assedio e a nova norma nr01: caminhos e desafios para protecao das mulheres e da classe trabalhadora. ctb - central dos trabalhadores e trabalhadoras do brasil
-  https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV1Y2SEtfdGZ4T3BORHZveEtxTEJEZXBGZS1PRlFUUnZUQlNyV2RlUDRTMlhwTzdtNDk4UElKOFhLRVpwdUxpUlRSV2dqdllQdGhKQ21JTVV6UW50Rll6SUdKR0RwSFhnUTJURWVQT0gtbXJvSFNDTF9jRjNSRHpZRlJRNF9wUk1lMFpyeWRvQV9DamlpcTVlVHpNWW1MSU5qTUVadERKbXUtTWlESEhBZGgxakZFeFV1ZjZoTGZza0RhTWUyZTNjTDlLLTFYV3JHU2cwUHVLSG9EdmpJMEFKNGFQa0VwT3lrZHhPZ3diaFhqdw?oc=5
 - [2026-09-22] [01] **Las infecciones TORCH se asocian con hasta 30 veces más riesgo de discapacidad intelectual grave** — infosalus.com · cat≈research · 5 pts
   las infecciones que, en raras ocasiones, pueden transmitirse de la mujer embarazada al feto estan relacionadas con un mayor riesgo de autismo y discapacidad intelectual en el nino, segun demuestra un estudio del institut
   https://www.infosalus.com/salud-investigacion/noticia-infecciones-torch-asocian-30-veces-mas-riesgo-discapacidad-intelectual-grave-20260922081847.html
@@ -138,14 +143,8 @@
 - [2026-09-27] [01] **Ansiedad, depresión y opioides: la conexión que conviene vigilar en pacientes con dolor crónico** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈research · 5 pts
   psiquiatria saradomingo ansiedad y depresion el uso de opioides para el manejo del dolor cronico es un tratamiento reconocido desde hace tiempo, pero su uso indebido o excesivo puede acarrear la aparicion de problemas ad
   https://www.diariomedico.com/medicina/psiquiatria/ansiedad-depresion-opioides-conexion-conviene-vigilar-pacientes-dolor-cronico.html
-- [2026-09-21] [05] **Nueva Ley de Salud Mental regulará prevención del suicidio y centros de rehabilitación** — El Comentario · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5POHh1cENQVEpWNDl5LVVBU0NpRWR0VWhmLWE3RVBPclBWMmFmOFN0RTVwQ3hBRVVnMGxrZER5RkgxT3l4aTFIeUgxM3IwS00?oc=5
-- [2026-09-21] [05] **Es Ley la protección de la Salud Mental y la prevención de Adicciones en los ámbitos laborales de Santa Fe** — INFO VERA · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVm9zWTJvRXBpdFRaaTJ6XzFIcXlzb2E0a2l1NTNlbWllM2F5dEpnc3E5VUxfMWJQQlFFdVUzeUtBNGZWSTU1VUppLWR5dWVUNW12RFVEODlEazgzajFmc1NPYmhrM3V2dFpRN2x3Z0lzU2N6MzJudkhHOXEwaWZUaTlNOGxlZm41Q0YteXhHWnhCc3lhd1o0bG5qOWpBZmpwTnJGYW5zNkp0aVJuM3RtbzVaWUJ0akhNNXNPanJLN0VCQ2pfajU4ZEt6TmhXZ3F2RlZPaW9WY3hmSnUwYTZN?oc=5
-- [2026-09-21] [05] **Expide LXI Legislatura la Ley de Salud Mental y Adicciones para el Estado de Colima** — Colima Noticias · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzdhUURRZEFxZ1ZXV3ZWX1VZMzJKQTM1TjMxdG1sRm5JbkxyLUs1YkJoZGN3cnlxTUctMDNUb0tpem1pM1h3VWJDRlZJTGFCSmExcWc4M2FmTWh0SWlZSDJWMzhTZGZNSlpKQjFxMDRGaUpsWENnMG1OUkFiVWppZ1l3VENLaDhJWllCVG9rNUszZGY4bWNKZGwtb3FVQk5ub2ZzMVhjWjNDQ29BbVhIWlp2Y3dGUQ?oc=5
-- [2026-09-21] [05] **Lei cria política de saúde mental para moradores da zona rural de Vitória da Conquista** — Câmara Municipal de Vitória da Conquista · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMizAFBVV95cUxPaFY0WmJGM1lZV1VYT19uRVpfaV9fWVNGcWJETkt3Sk4xUVEwSGppQlJJR3Rua285TDcwNmJnOFlWa1hrLXhoZFhiVGVhUWh5MzE4WlRUZzNmc2lwb3VaZ0Fjb0YxZXBqMl9PaGpKRkFwaDg2TVJCT3JSU3lzbkNBY1A5d1hFM25HXzlrZHltUTdkU0lhUEd2SDRoNnBHaXRJT2lXQ2ZRM2ZBdkpGaG13dWQwN2dvZTI1WjMzNXNJbWc2ZmFkZi1OYk9teTI?oc=5
+- [2026-09-29] [05] **Salud mental: el Municipio lleva dos meses sin responder un pedido de informes sobre sus programas y recursos** — diariojunio.com.ar · cat≈research · 5 pts
+  https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWUhiTVNsNGYtek03cFNJSG1IUXFxam9FTXVSaXBUVWZYVmR1QUgyMGEwQ01YUjNxaExYRGRsOVVuQjNTU2VHcHFLcnRVNW9NMGxtNXZQRkx4OUVFVTBfY2tmazZJVkFEbGZoUzE5VWs5S191Rko4TWdndl9CMFZiZnc3Z0VMTmRGUFVnWlBabFFSdUp6NUthRjBSZmxXaDdlWGNmVmpLLTdPWXFrZkxWcG5LeV82NWF6U3BkT0Rob1dtUlJyclhCQ25MVTJFVjlISENNRWJHUVZNdV9Kbi1KMQ?oc=5
 - [2026-09-22] [05] **Nueva ley de salud mental y adicciones** — La Política Online (+1 medios más) · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3JyZEFTN2ZLQnp6SFFnLXkzOWhYMlU3U2F1UHU3akJIdGZkU0VqY3hsYl93Q21fWHU2SFBjOFJMcUx6bWEtS241b2phOWpfU3Y2WDJBaHZ0NENkUUpDNHo2eVc0LTRyb3pmQTVOZ2NPczFHY2pWOXRESVBvel9UMjJtOXI0TzBORllF0gGLAUFVX3lxTFBjcnJkQVM3ZktCenpIUWcteTM5aFgyVTdTYXVQdTdqQkh0ZmRTRWpjeGxiX3dDbV9YdTZIUGM4UkxxTHptYS1LbjVvamE5al9TdjZYMkFodnQ0Q2RRSkM0ejZ5VzQtNHJvemZBNU5nY09zMUdjalY5dERJUG96X1QyMm05cjRPME5GWUU?oc=5
 - [2026-09-22] [05] **Aplicación de Ley de Salud Mental dependerá de suficiencia presupuestal** — El Comentario · cat≈regulacion · 4 pts
@@ -203,11 +202,12 @@
 - [2026-09-29] [03] **Hospital cria protocolo para diagnóstico do câncer de pâncreas em 72 horas** — Medicina S/A · cat≈sistema_publico · 4 pts
   curitiba ganhou um servico inedito voltado ao diagnostico rapido do cancer de pancreas, um dos tumores mais agressivos da medicina. o pancreas one-day clinic, programa de atendimento do hospital nossa senhora das gracas,
   https://medicinasa.com.br/pancreas-one-day-clinic/
-- [2026-09-21] [03] **Envelhecimento da população neurodivergente impõe novos desafios à saúde** — Saúde Business · cat≈research · 3 pts
-  o his 2026 trouxe luz a necessidade de antecipar o cuidado, integrar dados e preparar profissionais para uma populacao que ainda recebe atencao concentrada na infancia. the post envelhecimento da populacao neurodivergent
-  https://www.saudebusiness.com/eventos-3/healthcare-innovation-show/envelhecimento-da-populacao-neurodivergente-impoe-novos-desafios-a-saude/
-- [2026-09-21] [05] **Cats are the only pet linked to more mental health problems in children, study finds** — The Independent · cat≈research · 3 pts
-  https://news.google.com/rss/articles/CBMikgFBVV95cUxNLVliMmNuTjNham1ZcnlfUVE1MERfNF9SWlRuYWFTU0xXcDhyZmhTTFpBYVUzVmVsM3ltTWExQm5paVp1ZF9FVUE1UGV6LW5QXzNrdUNPZzllaXQ5RWU1VHd5Ny15MXZRUVZJOUlzWWFYMndJajlPejBlUFI0TWJtNk9ZSldDTDh3bkpvQThCSTkyQQ?oc=5
+- [2026-09-30] [05] **Propone Beatriz Vélez crear una ley de salud mental; es un derecho fundamental, dice** — El Sur Acapulco suracapulco I Noticias Acapulco Guerrero · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1pzNGZFSmk4cWh3am5oSGV4aDNlNm9RdFhIb21VeFFYcWk5U0E3LUotLU5vOXBqdkJTX1N4akZGTEs5S0tTa1ZCUTI2VzZyUTYxZk95T1V4WnFjd3VtRzJrSlRHdTFQZzloWFNNV25pOTJnLWRhLTVSbHJhUmwtVDFDUW03bHM0dlZVdy1GaGllZW9Rb2JHb2dHdGx5dGtVbzhGMEpLek5hdw?oc=5
+- [2026-09-30] [05] **"No es un lujo, es un derecho": propone Beatriz Vélez Ley de Salud Mental Gratuita y Universal en Guerrero** — El Sol de Chilpancingo · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZGF2eW1tU2NCVWtuSmNrdkw5QWlIMnFCdGxrc0dJSEtZWjE5X3k0ZGt4NGlOcjJON0VkYWVBYmprR3k1dW40WklIVlN0YmxNZG5lalJWM1BqSURmRWlDOTl0aGhKZEYyS3M5cjhZaEFySWM4SWpSbjB6XzNyOExNOERsT0JUaXNLNWYyckdYa1lpQWFTb3FuYmwwVnh4M19ocGFsd19NSWU3OFV3TjZvVE9CNVhVa3ZJRkdzOVdoQjQ5dmdNZlF2MmZWVElpbXJWbVFiSFljZXBGWl80bXpqTS1VMA?oc=5
+- [2026-09-30] [05] **Por gestión del PT, se logra aprobación de ley de salud mental y adicciones: Diputada Andrea Heredia** — AFmedios Noticias · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSzBFZ2VIN2xLQ0VYQ0JZNGlMb1lZbHFsc0tvckRvUVNOT3dFbnZrYlhtWXlFMDZrRXJDZ3FsY2lyZFdxMWNQVmpueUZIQlJmN2gwcDZNYl9CSElFbUtPbC1yRTVqa0NnM3M4bWF5dURKcm82RUU4RU9rc3BuUUxEQk1xRjBYYzNZSWVPOHg0amtTeU1XQzBFZzFtQm5GU3RBckFPWGhOUzVqX3FEcUlrbWxINldDdTJZTE5nTmhGZXBZdw?oc=5
 - [2026-09-22] [01] **Un estudio halla nuevas vías para reducir el dolor y síntomas depresivos asociados a la fibromialgia** — infosalus.com · cat≈research · 3 pts
   un estudio de la universitat autònoma de barcelona (uab) y el institut de recerca sant pau (ir sant pau) ha identificado 2 compuestos capaces de activar mecanismos de defensa antioxidante que pueden reducir la hipersensi
   https://www.infosalus.com/salud-investigacion/noticia-estudio-halla-nuevas-vias-reducir-dolor-sintomas-depresivos-asociados-fibromialgia-20260922105528.html
@@ -252,10 +252,6 @@
   https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWQ4R2VITWIzUkJhbjBObUpSN2s4YkdwWlRfUjZ3ekgyTkRsc2tRQVdaTDNkOHAxLUQtblRfdHhnb0gyMGtnM3VHWEhhSWpESlBGMUZlOTdudTdKLWpsVnVkclpYYkhMajZpT1d4bG1Ed0I4cnQwdGYxclFwdzMwdENjWHhzZjRPNmU2SjJrZkEzSy00NTBQZVB0ajJkZUlWZ25OVW1SQmZ0YlljQ1RaeXhMR3kxdjJTbERmWXlLcktBdE43MURudWw0ekU0Zw?oc=5
 
 ## PRIORIDAD C — probable ruido (solo títulos)
-- [2026-09-21] Sanidad fija nueva fecha para el examen de acceso a Urgencias por la vía extraordinaria — Redacción médica - Home
-- [2026-09-21] COVID-19: descubren cómo una proteína del virus 'engaña' al sistema inmunitario para propagarse — infosalus.com
-- [2026-09-21] Costa Rica traza su hoja de ruta en salud: listas de espera, cáncer y salud mental lideran las 10 prioridades nacionales — Infobae
-- [2026-09-21] La psicóloga Julia Ferreras, entre los diputados atacados en Ceuta — Redacción médica - Home
 - [2026-09-23] Gran parte de las personas cuidadoras restan importancia y desestiman sus propias necesidades emocionales — infosalus.com
 - [2026-09-23] Menos comida ultraprocesada, menos síntomas depresivos — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-09-23] Los MIR lo tienen claro: esto es lo que debería tener un buen tutor — DiarioMedico - Plataforma de profesionales sanitarios
@@ -272,12 +268,13 @@
 - [2026-09-28] El Hospital Virgen de las Nieves extiende la terapia canina en Salud Mental Infantil — andaluciainformacion.es
 - [2026-09-28] Podcast +Saúde aborda 10 Regras de Ouro para promover saúde mental no ambiente de trabalho — Tribunal de Justiça do Estado da Bahia
 - [2026-09-29] Gemma, la estudiante de Enfermería que busca mejorar la salud mental en la profesión: "Necesitamos tener comunidad" — Redacción médica - Home
+- [2026-09-29] ARPEM convoca en Ronda su primera marcha por la salud mental el 18 de octubre — Cope Ronda
+- [2026-09-29] Más de 100 estudiantes participan de las Olimpiadas de Salud Mental en La Rioja — Nueva Rioja
+- [2026-09-29] Colegio de psicólogos exige no recortar presupuesto de salud mental ante crisis que vive Chile — eldesconcierto.cl
+- [2026-09-30] La frustración con el liderazgo y el burnout empujan al 40% de cirujanos a meditar su renuncia a la profesión — Redacción médica - Home
+- [2026-09-30] Madrid Salud atendió a 24.000 personas en programas de salud mental y duelo complicado durante 2025 — El Diario de Madrid
 - [2026-09-23] "Hablemos de Salud Mental": jornada para comprender el debate actual en torno a la Ley Nacional — La Verdad Junín
 - [2026-09-25] Realizarán una jornada sobre salud mental en contextos de encierro y regulación emocional — Agencia de Noticias San Luis
-- [2026-09-21] pacientes | La Sociedad Española de Diabetes reclama una educación terapéutica accesible y homogénea — https://www.consalud.es/rss
-- [2026-09-21] El Gobierno impulsa un acuerdo de país para un uso "humanista" de la IA con gemelos digitales y protección de la salud mental — Redacción médica - Home
-- [2026-09-21] Preparan app para atención de salud mental por videollamada — El Sol de México
-- [2026-09-21] Saúde mental vira briga judicial: livro explica como provar burnout no trabalho — bra1.com.br
 - [2026-09-22] avances | Identifican nuevas vías para reducir el dolor y síntomas depresivos asociados a la fibromialgia — https://www.consalud.es/rss
 - [2026-09-23] ¿Qué tienen en común los profesionales sanitarios y los cuidadores de pacientes crónicos? — Redacción médica - Home
 - [2026-09-23] El COP se reúne con la Comisionada de Salud Mental para abordar el refuerzo de la Psicología Clínica y la atención infanto-juvenil — infocop.es
@@ -313,7 +310,13 @@
 - [2026-09-28] Canarian Health Addresses Mental Health in Madrid — La Voz Canaria
 - [2026-09-29] El protocolo pionero de un psiquiatra español contra la depresión: "La neuromodulación ya está desplazando a la farmacología" — Redacción médica - Home
 - [2026-09-29] avances | Investigadores del CNIO descubren una diana terapéutica que abre la puerta a prevenir metástasis cerebral y evitar recaídas — https://www.consalud.es/rss
-- [2026-09-29] Comenzaron las Olimpiadas de Salud Mental para promover la prevención y acercar espacios de ayuda a los adolescentes — Medios Provincia
+- [2026-09-29] Comenzaron las Olimpiadas de Salud Mental para promover la prevención y acercar espacios de ayuda a los adolescentes — Medios Provincia (+1 medios más)
+- [2026-09-29] Recibimos y publicamos: Comunicado de la Comisión Nacional de Contralor de la Atención en Salud Mental — Sindicato Médico del Uruguay (SMU)
+- [2026-09-29] EL ÓRGANO DE REVISIÓN DE SALUD MENTAL REALIZÓ UN NUEVO PLENARIO EN LA PROVINCIA — Gobierno de Tierra del Fuego
+- [2026-09-29] Proponen reforzar la atención de salud mental en menores de Tabasco — Tabasco HOY
+- [2026-09-30] El nuevo RD de Vivienda exime de 'castigos' fiscales a quienes dejen su casa por motivos de salud — Redacción médica - Home
+- [2026-09-30] Corte acoge protección y ordena a Nueva Masvida igualar cobertura de prestaciones de salud mental y física — Diario Constitucional
+- [2026-09-30] Mental health under strain: Spain lags Europe in access to psychologists — Euronews.com
 - [2026-09-28] Sanidad Canaria participa en Jornadas sobre Salud Mental en Madrid — La Voz Canaria
 - [2026-09-23] La salud mental y el papel del farmacéutico, eje del primer Summit ‘Expertos en Salud’ de Cofares — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-09-25] Las nefropatías mediadas por el complemento entran en una nueva era terapéutica — DiarioMedico - Plataforma de profesionales sanitarios
@@ -323,12 +326,13 @@
 - [2026-09-27] Salud mental en contextos de encierro: realizarán una jornada de capacitación en la UNSL — El Chorrillero
 - [2026-09-27] La salud mental centrará la jornada sobre lactancia materna — avilared.com
 - [2026-09-28] El psiquiatra y la media distancia entre la oscuridad y la luz — DiarioMedico - Plataforma de profesionales sanitarios
+- [2026-09-29] ARPEM y FAISEM presentan la I Marcha por el Día Mundial de la Salud Mental — Andalucía Información
 
 ## Estado de los feeds (hoy)
-- 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 3 · ok
-- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 1 · ok
+- 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 2 · ok
+- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 0 · ok
 - 01 ESPAÑA · https://gacetamedica.com/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
-- 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 1 · ok
+- 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · El Referente · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · Agencia Española de Medicamentos y Productos Sanitarios · leídos 30 · nuevos 0 · ok
@@ -339,20 +343,20 @@
 - 02 LATAM · iProUp.com - Últimas noticias sobre economía digital, c · leídos 6 · nuevos 0 · ok
 - 03 BRASIL · Saúde Business · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Futuro da Saúde · leídos 10 · nuevos 0 · ok
-- 03 BRASIL · Medicina S/A · leídos 10 · nuevos 3 · ok
+- 03 BRASIL · Medicina S/A · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startups · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startupi · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Brazil Journal · leídos 10 · nuevos 0 · ok
-- 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 0 · ok
+- 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 2 · ok
 - 03 BRASIL · Portal Médico · leídos 1 · nuevos 0 · ok
 - 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 3 · ok
-- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 6 · ok
-- 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 3 · ok
+- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 4 · ok
+- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 10 · ok
+- 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 2 · ok
 - 05 GOOGLE  · Google News · PT Portugal · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 29 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 52 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 77 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 31 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 52 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 78 · nuevos 0 · ok

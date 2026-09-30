@@ -1,5 +1,178 @@
 [
  {
+  "id": "4c00d54a86a3",
+  "fecha": "2026-09-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Sur Acapulco suracapulco I Noticias Acapulco Guerrero",
+  "titulo": "Propone Beatriz Vélez crear una ley de salud mental; es un derecho fundamental, dice",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1pzNGZFSmk4cWh3am5oSGV4aDNlNm9RdFhIb21VeFFYcWk5U0E3LUotLU5vOXBqdkJTX1N4akZGTEs5S0tTa1ZCUTI2VzZyUTYxZk95T1V4WnFjd3VtRzJrSlRHdTFQZzloWFNNV25pOTJnLWRhLTVSbHJhUmwtVDFDUW03bHM0dlZVdy1GaGllZW9Rb2JHb2dHdGx5dGtVbzhGMEpLek5hdw?oc=5",
+  "clave": "beatriz crear derecho dice fundamental propone velez",
+  "capturado": "2026-09-30",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "611f33813005",
+  "fecha": "2026-09-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Sol de Chilpancingo",
+  "titulo": "\"No es un lujo, es un derecho\": propone Beatriz Vélez Ley de Salud Mental Gratuita y Universal en Guerrero",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZGF2eW1tU2NCVWtuSmNrdkw5QWlIMnFCdGxrc0dJSEtZWjE5X3k0ZGt4NGlOcjJON0VkYWVBYmprR3k1dW40WklIVlN0YmxNZG5lalJWM1BqSURmRWlDOTl0aGhKZEYyS3M5cjhZaEFySWM4SWpSbjB6XzNyOExNOERsT0JUaXNLNWYyckdYa1lpQWFTb3FuYmwwVnh4M19ocGFsd19NSWU3OFV3TjZvVE9CNVhVa3ZJRkdzOVdoQjQ5dmdNZlF2MmZWVElpbXJWbVFiSFljZXBGWl80bXpqTS1VMA?oc=5",
+  "clave": "beatriz derecho gratuita guerrero lujo propone universal velez",
+  "capturado": "2026-09-30",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fd0242cc096b",
+  "fecha": "2026-09-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "AFmedios Noticias",
+  "titulo": "Por gestión del PT, se logra aprobación de ley de salud mental y adicciones: Diputada Andrea Heredia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSzBFZ2VIN2xLQ0VYQ0JZNGlMb1lZbHFsc0tvckRvUVNOT3dFbnZrYlhtWXlFMDZrRXJDZ3FsY2lyZFdxMWNQVmpueUZIQlJmN2gwcDZNYl9CSElFbUtPbC1yRTVqa0NnM3M4bWF5dURKcm82RUU4RU9rc3BuUUxEQk1xRjBYYzNZSWVPOHg0amtTeU1XQzBFZzFtQm5GU3RBckFPWGhOUzVqX3FEcUlrbWxINldDdTJZTE5nTmhGZXBZdw?oc=5",
+  "clave": "adicciones andrea aprobacion diputada gestion heredia logra",
+  "capturado": "2026-09-30",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "363943dbde46",
+  "fecha": "2026-09-30",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "La frustración con el liderazgo y el burnout empujan al 40% de cirujanos a meditar su renuncia a la profesión",
+  "resumen": "cada baja tiene un coste medio de mas de medio millon de dolares y un retraso de ocho meses para encontrar otro profesional e incorporarlo y ademas : andrea, la medica que deja su contrato en cardiologia por burnout: \"estaba perdiendo la ilusion\"",
+  "url": "https://www.redaccionmedica.com/politica/internacional/20260930/la-frustracion-con-el-liderazgo-burnout-empujan-al-de-cirujanos-meditar-su-renuncia-la-profesion/354118_0.html",
+  "clave": "burnout cirujanos empujan frustracion liderazgo meditar profesion renuncia",
+  "capturado": "2026-09-30",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "burnout"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9d68d76e21ba",
+  "fecha": "2026-09-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Diario de Madrid",
+  "titulo": "Madrid Salud atendió a 24.000 personas en programas de salud mental y duelo complicado durante 2025",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa3pTcTM1bEZfcEJUOFA2Y2kwdFlTYWxvOVEyNWZEYllXY2pZdjlfTmpJaS0tWElRZGJDa1dpMG5NU28yeU1fN2xzMUZvQkxXNG1ZVEFoaXpyYTZ5dEhBU3BraFlZWXZyVzFXTFhKU2xQZkxFblNPV1ZfaEFKVm1kWFBZVEp3Z1JWQWxTSGN2cE9kVTR5YVVwSHQ4TGMtZm1Bc0xYdlNja3RVVGVpRTdubUx2RHlfeTVPdERGM1gxeC1HOC1XeTFfek4yb2ZGRTlYWmFabW1ucHVXdWRKb0Vz0gHkAUFVX3lxTFBJSUNuaEJvaDJyb0VUTFNmSENaaWhQTkFzM1ZmdHNibmRnT3lWY09RRW1PTTdxWW1naTl5WU04cVhfaG1Kc2F2SVo0WTRZejBlTVplT2ZRZ2tqRURsem1vWmU4MVdiWElhMExFT1YxN3lfMEFYUlUzREV6dTViWC1venlvQWhGQUQzdVBQczJ2c0JBTnZENEZuMnl1czA5TWVPaDd3ampyNGFCUGl5d19nTThRYjVQN3RablpNanR3YjYyN0VRMTRXTno3VUhpOW9qSjkyVkVydDB4ZG0ydk13d041Uw?oc=5",
+  "clave": "2025 atendio complicado duelo durante madrid personas programas",
+  "capturado": "2026-09-30",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "42d67eb56710",
+  "fecha": "2026-09-30",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El nuevo RD de Vivienda exime de 'castigos' fiscales a quienes dejen su casa por motivos de salud",
+  "resumen": "la normativa aprobada en consejo de ministros impide que las entidades adquieran vivienda por debajo del 70% de precio de mercado salvo para fines sociosanitarios y ademas: el impacto psicologico tras un desahucio como el de maricarmen: \"perder su casa es perder su biografia\"",
+  "url": "https://www.redaccionmedica.com/politica/servicios-sociales/20260930/el-nuevo-rd-de-vivienda-exime-castigos-fiscales-quienes-dejen-su-casa-por-motivos-salud/354300_0.html",
+  "clave": "casa castigos dejen exime fiscales motivos nuevo quienes",
+  "capturado": "2026-09-30",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "889c12999ab5",
+  "fecha": "2026-09-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Constitucional",
+  "titulo": "Corte acoge protección y ordena a Nueva Masvida igualar cobertura de prestaciones de salud mental y física",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEpNWC1sSHNFbkpHUFR4S0RLN3RxSGl6VTY3T3NlY095N1U0YlQtampISG1LWmstZE1FdU5KZ1Zpb19sZVZTRHBpMmhWN3d5RG9JN2pEXzAwWEh2REtWTTJsdW1KTk9HRUFXMEtJbkdfdnFUQ3kxZmZjcEJJcnh2Vlk0VHlmR1Jmb0NlY21fYlR2aktOaGVOVTZMM2ZRakViZ0dPV0VFNHlmbFJNeXdwMkxwTEpacUpxcGFJYWVSeHNhU3c2LWxCUHA3ZVpZOWdpbUQyVHNIZ0EyWkhFR1QxYm1USWVLNjI4aWc?oc=5",
+  "clave": "acoge cobertura corte fisica igualar masvida nueva ordena",
+  "capturado": "2026-09-30",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4e20c6daf1a4",
+  "fecha": "2026-09-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Euronews.com",
+  "titulo": "Mental health under strain: Spain lags Europe in access to psychologists",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzhyNktuVUdSMUVFRlBKRkRRRjRpbDlhaTZnOFFkN1FuYWZDVjRNRkRkRG1NZk5ONnBjbWstcnVLLWZWSWFEYy12blg0cmVXYi1xSnRVdlc2SkFVaFBwd1Vvd3ZRU2tJUHlZTjhyWEpCdk41eWxJU2E0MG82ZzJrWnJqcW1CVk1pZ0xqRWcxaEcyeW1WcjhNR0tuMUdiZjBBZ3VBc3JZRUZNVWJnZml3Ug?oc=5",
+  "clave": "access europe lags psychologists spain strain under",
+  "capturado": "2026-09-30",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health",
+   "psycholog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "333eefd1671d",
+  "fecha": "2026-09-29",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP Divulga: Coalizão Brasileira pelo Fim da Violência contra Crianças e Adolescentes lança Plataforma INSPIRE Brasil",
+  "resumen": "o conselho federal de psicologia (cfp) integra a coalizao brasileira pelo fim da violencia contra criancas e adolescentes, espaco articulado que reune cerca de 90 organizacoes, entidades, universidades, coletivos, movimentos e redes de atuacao nacional. a presenca do cfp na … o post cfp divulga: coalizao brasileira pelo fim da violencia contra criancas e adolescentes lanca plataforma inspire brasi",
+  "url": "https://site.cfp.org.br/cfp-divulga-coalizao-brasileira-pelo-fim-da-violencia-contra-criancas-e-adolescentes-lanca-plataforma-inspire-brasil/",
+  "clave": "adolescentes brasil brasileira coalizao criancas divulga inspire lanca",
+  "capturado": "2026-09-30",
+  "puntos": 11,
+  "prioridad": "A",
+  "categoria_auto": "producto",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "7eca74716426",
   "fecha": "2026-09-29",
   "carpeta": "03 BRASIL",
@@ -58,6 +231,64 @@
   "ruido": []
  },
  {
+  "id": "8a91d38db422",
+  "fecha": "2026-09-29",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "GT de Solução Consensual de Conflitos avança na revisão da Resolução CFP nº 07/2016",
+  "resumen": "o grupo de trabalho (gt) de meios de solucao consensual de conflitos reuniu-se na sede do conselho federal de psicologia (cfp), nos dias 10 e 11 de agosto de 2026, para analisar as propostas enviadas pelos 24 conselhos regionais de … o post gt de solucao consensual de conflitos avanca na revisao da resolucao cfp nº 07/2016 apareceu primeiro em conselho federal de psicologia .",
+  "url": "https://site.cfp.org.br/gt-de-solucao-consensual-de-conflitos-avanca-na-revisao-da-resolucao-cfp-no-07-2016/",
+  "clave": "2016 avanca conflitos consensual resolucao revisao solucao",
+  "capturado": "2026-09-30",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2c448e76db4a",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "bra1.com.br",
+  "titulo": "Advogada lança livro 'Burnout tem lei' para orientar trabalhadores sobre saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNekFLTFgwTXB3RDVXQ0VDejM3YTRVZmZnNVFGVlZVWnJKZnlORkNoWjNOZ1lpRDFOdFc1MVpwanpOdDVtUzlCWFo0OW5UWFUzMl9HVnRlTm5FYU4wSWZ1cFdLd2xTUzVuYl92bk9GY2ZuZzlDNkVONVdTVFJ0QmkyT1FiOFY1Mmwtb0pHVWNoQWMwRnE1QnVXaE54UXpZR2NKLXRGR2dtTTRwNm5tY0RfTnYwc29TNzlvUEoxdnMxQTVIUFZZMzJRY09hcw?oc=5",
+  "clave": "advogada burnout lanca livro orientar trabalhadores",
+  "capturado": "2026-09-30",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental",
+   "burnout"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f1dec36d3ebf",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "diariojunio.com.ar",
+  "titulo": "Salud mental: el Municipio lleva dos meses sin responder un pedido de informes sobre sus programas y recursos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWUhiTVNsNGYtek03cFNJSG1IUXFxam9FTXVSaXBUVWZYVmR1QUgyMGEwQ01YUjNxaExYRGRsOVVuQjNTU2VHcHFLcnRVNW9NMGxtNXZQRkx4OUVFVTBfY2tmazZJVkFEbGZoUzE5VWs5S191Rko4TWdndl9CMFZiZnc3Z0VMTmRGUFVnWlBabFFSdUp6NUthRjBSZmxXaDdlWGNmVmpLLTdPWXFrZkxWcG5LeV82NWF6U3BkT0Rob1dtUlJyclhCQ25MVTJFVjlISENNRWJHUVZNdV9Kbi1KMQ?oc=5",
+  "clave": "informes lleva meses municipio pedido programas recursos responder",
+  "capturado": "2026-09-30",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "89070bd82abc",
   "fecha": "2026-09-29",
   "carpeta": "03 BRASIL",
@@ -92,6 +323,64 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0bbcc6efdc8f",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Cope Ronda",
+  "titulo": "ARPEM convoca en Ronda su primera marcha por la salud mental el 18 de octubre",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdi1jRG92TWZFV1BlNUVvZHRaU1NWR2pTNzlVRW9XNkgzV0JGWmtZWklrM3pVd0plVUhsQ2k1T1lDbHFudFItOFpoR25OR3RZY252OENxWEduN21qTGpfMmlfTWhoTVRzMENFQU1nLUVPaS1kbjhOZUV3aXljTEtYaHNKVGFndw?oc=5",
+  "clave": "arpem convoca marcha octubre primera ronda",
+  "capturado": "2026-09-30",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b568ab18dc55",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Nueva Rioja",
+  "titulo": "Más de 100 estudiantes participan de las Olimpiadas de Salud Mental en La Rioja",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGZFWUEzUVMzRW5Bcm1fMzdDT3N3bTV0Yl9QUExSUVFLR0kzQmQxNzRoWXA5TE1SRFJ5c3BaXzRzb3NHc2JuZXZQY1ZyZVAtSWpZaUNwYjdycnVIWS1ueGtMcmlEUmJaOGdCZnprNlNnWWpVUmdyay1DTTRHTWhYN1VaQl9hd19pUFZRa3oyeXpYR1JZX3dNZl9sNHMyWlJFQVk4aHNPM2h2M3ZlSksyQ3lRQdIBswFBVV95cUxOcGZFWUEzUVMzRW5Bcm1fMzdDT3N3bTV0Yl9QUExSUVFLR0kzQmQxNzRoWXA5TE1SRFJ5c3BaXzRzb3NHc2JuZXZQY1ZyZVAtSWpZaUNwYjdycnVIWS1ueGtMcmlEUmJaOGdCZnprNlNnWWpVUmdyay1DTTRHTWhYN1VaQl9hd19pUFZRa3oyeXpYR1JZX3dNZl9sNHMyWlJFQVk4aHNPM2h2M3ZlSksyQ3lRQQ?oc=5",
+  "clave": "estudiantes olimpiadas participan rioja",
+  "capturado": "2026-09-30",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fa7d4478ca23",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "eldesconcierto.cl",
+  "titulo": "Colegio de psicólogos exige no recortar presupuesto de salud mental ante crisis que vive Chile",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkFHLWRlMUJiazl5SFhxaWJqdC1qMUNYbURrMld5cGllNXJpbnc1NkJpRC13ZXJDLTVWQzZFS3Zrbl9ZSEtSaWhIbjdLbDN1bmtnd1VtdmpYY1VldXAydDdUU1pEMDc2a1pUYVlQWDNrYzc0cnN2R21DNkR5VVVKNlh0ODhFRDVucElGUEhiZlZIYzJVcWZGTmNkU2NLSDJIQjdTRjJNbV8zczlUaEE5eTBhN1pHM0FxNmstQm1WNHRjcTc2a09QMQ?oc=5",
+  "clave": "ante chile colegio crisis exige presupuesto psicologos recortar",
+  "capturado": "2026-09-30",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "psicolog"
   ],
   "ruido": []
  },
@@ -152,6 +441,103 @@
    "salud mental"
   ],
   "ruido": []
+ },
+ {
+  "id": "d93f0a7ba7d8",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Medios Rioja",
+  "titulo": "Comenzaron las Olimpiadas de Salud Mental para promover la prevención y acercar espacios de ayuda a los adolescentes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTkpBR1F4UkZCNEI5Z0x5N0RUbXB6ZGREcG9TdVRac3hIYkNaTjRjMHMxcHQ1UHpsd0o2QUlLd2lTdDFzNEg4S0dMOVFOYXFPa1BvMGQ5ZENONDlCX0U5QXlwRG93ZUZKeGdLb0Z3aXdxcWZkbFc5NHZJU2NFUldzVXJNMTFmM29sVWxVMW9YOGFtWlJUMWpmV2pvN0RvQmlGU2V5TjBWZ0lLSDZJUjZNajBIU09GeUVHWHFDWjZFZmxLdEhoeXNQTU9VWUtkVndNbGt1VFRjeVBjU1BQ?oc=5",
+  "clave": "acercar adolescentes ayuda comenzaron espacios olimpiadas prevencion promover",
+  "capturado": "2026-09-30",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8764af5b22b0",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Sindicato Médico del Uruguay (SMU)",
+  "titulo": "Recibimos y publicamos: Comunicado de la Comisión Nacional de Contralor de la Atención en Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWo4ZzF2RnV0MzlOdExIUWo0azdGak9aWkhSTk9aNmdaZ2oyTFZfdGg3ZFpOYS1XdkhURE1iSDBqSEhVRE5YeFh0b1I0M0UtSHFhckUyZTdYV0U4bElpYnhFXzZwd3plelpCNzVyUHNzc2Y1Q1VFOGlXQlFSOUtwZ1RYeWdJQ1ZfN29qMm00N3pzaEhSdm1jWDhLMTRDR3FzdDJ2M3cxQ1U?oc=5",
+  "clave": "atencion comision comunicado contralor nacional publicamos recibimos",
+  "capturado": "2026-09-30",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a2b18b7dd6d9",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Gobierno de Tierra del Fuego",
+  "titulo": "EL ÓRGANO DE REVISIÓN DE SALUD MENTAL REALIZÓ UN NUEVO PLENARIO EN LA PROVINCIA",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPczFmVHJ0T3hTYnFxNVlZRkdrb05ZZ2tlODVfSXg5RmdTdFZ0Q25TMElndlBTaWtYX2xsa0x6NXFKS1dxYndPT3NMdEtTLU4tZnJUcnZUSUk2aG1DMERiSkdMV19QR2V5NEVtM2w2bmVsanFRTTZ5WVc2RUk5RDNJaEt5Yl9vWUhtUVl4eGhKYXlFdWkxYm5hNVVadm1Hb3Y5ZjJKTE9XcjNKUlJkWkhBLUZac28tZ0laN0M5M1ZNX0JvOFEwdmxxSHpn?oc=5",
+  "clave": "nuevo organo plenario provincia realizo revision",
+  "capturado": "2026-09-30",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "739d7d8936ff",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Tabasco HOY",
+  "titulo": "Proponen reforzar la atención de salud mental en menores de Tabasco",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmJ6Tk5OUEJQa3I1TVR1WHd1SWtDUXdwVFpfZnEwQmhyWE5yS0hhclRPUl80R3RFNGh4VzJjVjBhVGY5Xy05R0ZKU293ZVMxbEJJN3F1SklHb3VOUmRMY2dyZVFkUXhMX0VsN0NvMnBScnVoYTNQQUVnNHlqWXVSU0JIVnBncjRrZ3lWTDZhVDRpX2JCd0Z3N01UTQ?oc=5",
+  "clave": "atencion menores proponen reforzar tabasco",
+  "capturado": "2026-09-30",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8dd1b49bd000",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Andalucía Información",
+  "titulo": "ARPEM y FAISEM presentan la I Marcha por el Día Mundial de la Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSnVpR2dvMXp6LW9jclVndHZwX0s3c3NrT1gzUHJteERqX3BSanAxSmtZbWJObkFPOEFDMGhuT0RDY1JZLVhkUjBIWml1SWpaaXlFWHB3cFJnMmt6VGNCY1dONFA3MFNpNDB0SEVBdkNQbmZEamdNa2w5WExCQVpWTW9hNGVIRDB1a0xhbVFSdG13VExNRFlvWnNFVmNNM0h2ZUMzdy1pbzhJdHRfOVdUSFVoMFRJQ25aNDdmQmxMZjVXeU9TRG1ybEVYdm9sRUHSAdQBQVVfeXFMTVVtcjFwbXRrcGZMbk13OG5iMmVXS1JyVHB2ZTV5VzlLOEhaOFpLRmtzTDVVREpRQ2tYUU16Z3p0TjFqMEpRSVZLTXZOTWtTSXhmZFRzeExBaEZrcWYweHlST2JTN19TeUt5NDg3QUNseGxvYzJfNWdmNmc0bHRLN0ZaRkxkcXdCbkFYbkdwc1o1ZEhObVZzZlNhcG1EWEtxbHY1SXJXM1JTNHZFQzZ5SjctU3FpVDNTSXZUM2lGQ08zcm5nYjlZZFFEVVFkaW4wY0J2MXI?oc=5",
+  "clave": "arpem faisem marcha mundial presentan",
+  "capturado": "2026-09-30",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
  },
  {
   "id": "8046b76a2349",
@@ -12000,6 +12386,27 @@
   ]
  },
  {
+  "id": "ac7c969f7940",
+  "fecha": "2026-08-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "Kinvo",
+  "titulo": "Notícia Startup de saúde mental de Selena Gomez é processada por investidores; artista é acusada de fraude de US$ 1,2 milhão",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUzh2b1RnRmVfd3hiemZSc3loTnRtMkMtWlNGNVVSbFZTVGZPaWktd3dsNm9NX1Q1Tkx0dnRuX1dsQ19WdE5neVkybXYxSktWWlpTSThUOFU1OVJLdmtidmJLdXBVbElxdE9WYXFJc0pXVm9IRXFEWHJ2VWtTaHdjNjR6cDJpMWtHWV9ObjY4ajJ0WlFuYzJJZGpNZnRKQ3BNZFBNeV9QZ2NDbGZyNlNWeUdTOEhHYnNrX1hxeC1hRjhYWU8tS0xGNGtiYUh2SFVwUDJwci1nbkw2NTA?oc=5",
+  "clave": "acusada artista fraude gomez investidores milhao noticia processada",
+  "capturado": "2026-09-30",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "selena gomez"
+  ]
+ },
+ {
   "id": "8f7fc47f9767",
   "fecha": "2026-08-14",
   "carpeta": "05 GOOGLE NEWS",
@@ -13575,6 +13982,25 @@
   "ruido": []
  },
  {
+  "id": "47467888b311",
+  "fecha": "2026-07-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Futuro da Saúde",
+  "titulo": "Bets e saúde mental: dano das apostas não cabe em uma única especialidade",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxeExWX21ma2c0QW1zWTdJVEhLejdSMmlKblh0TDhRdVlmeUF2ZzRXb2YzTzNuUXlzT2pIRnBQcHFXWVNiSG9SdGNBSW1ROVNUVVRwLVB5cHh5OFVKZE40OW45NTF0c00?oc=5",
+  "clave": "apostas bets cabe dano especialidade unica",
+  "capturado": "2026-09-30",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "bf757b7909f9",
   "fecha": "2026-07-28",
   "carpeta": "05 GOOGLE NEWS",
@@ -14822,25 +15248,6 @@
   "topic": [
    "salud mental",
    "psiquiatr"
-  ],
-  "ruido": []
- },
- {
-  "id": "2de3551c82bb",
-  "fecha": "2026-07-01",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Comercio y Justicia",
-  "titulo": "Startup argentina lleva medicina de precisión e IA a tratamiento en salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONmF3V1NxYnBNcUQ3WEtzLVZQZ2NhY0kzc2pfWTA0TVVsdlplME5YemQ2SW5CNHpyOTYwSTg3TDlrZUNPdENvN05NSmx4ZzB0WlVVemxLdFRyV2Q0cDVYSHRPbFpXV1o3dS1oNk9zZ0M4X09XbUxlXzRSVW9iRFQ5SUtVZ1Z4TnlVMlNQQk9Dem8wSlFTZTNyYkhmSk5RbFJIQkxhUjZFQ3ExWmJwQWhESVVpcG1YU21iV29jc1dn?oc=5",
-  "clave": "argentina lleva medicina precision startup tratamiento",
-  "capturado": "2026-09-05",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
   ],
   "ruido": []
  }
