@@ -1,5 +1,120 @@
 [
  {
+  "id": "5cc7e8d8436f",
+  "fecha": "2026-10-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "elblogoferoz.com",
+  "titulo": "SANIDAD | Los pacientes del Área Externa de Salud Mental del Complejo Hospitalario Universitario de Canarias exponen su obra en el Parlamento",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaEdIVUZfTHFqQkx6a1ZCWWZ1Zk91czluTWRaaWVLM1M1WGx2NmN5WmF3VWpqQjVpRW5lVVBhcTZYSDdRNUQyaXJKNWFEWGtla1Z2N0J0NXhudWUxU0ltTkJYVnIzemFmQ3JYVUNROExFOG1pTURxbDN0cGhucURmWEFmMnBwcDNuUk13N1lBelFvMmdOOTFZcllzN1g1VW1YUzFnV2R4U1ZRMmJDNmRRZ3NrNTI1Nm9PSFR0Vk5sVkJUV0swLXFRelZWeXhncDNzZTFsRy0zcVJXVHRmTDllNzFWX0pSOGp1dlR5bE1Bc0lVWEppR29lNlYyU1NPRVJ0OVVwb3lIaHNkWTVJ?oc=5",
+  "clave": "area canarias complejo exponen externa hospitalario obra pacientes",
+  "capturado": "2026-10-02",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "59cc8ad443f0",
+  "fecha": "2026-10-02",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-awards-nearly-250m-addiction-treatment-overdose-prevention-grants\" hreflang=\"en\">HHS awards nearly $250M in addiction treatment, overdose prevention grants</a>",
+  "resumen": "projects supported include those to strengthen mental health support in schools, expand trauma treatment for families and children and more.",
+  "url": "https://www.fiercehealthcare.com/regulatory/hhs-awards-nearly-250m-addiction-treatment-overdose-prevention-grants",
+  "clave": "250m addiction awards grants nearly overdose prevention treatment",
+  "capturado": "2026-10-02",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health",
+   "addiction"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "933d1c59fcc2",
+  "fecha": "2026-10-02",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "La falta de acceso a una vivienda, un problema de salud pública que agudiza patologías físicas y mentales: \"Es devastador\"",
+  "resumen": "redaccion medica habla con una psicologa, una medica y una persona que ha sufrido un desahucio para conocer el impacto en la salud de este problema",
+  "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261002/la-falta-de-acceso-una-vivienda-un-problema-salud-publica-que-agudiza-patologias-fisicas-mentales-es-devastador/354404_0.html",
+  "clave": "acceso agudiza devastador falta fisicas mentales patologias problema",
+  "capturado": "2026-10-02",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "66c112aaedca",
+  "fecha": "2026-10-02",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "O impacto do sofrimento ético na saúde mental do médico moderno",
+  "resumen": "por kleber fervenca o cenario da medicina contemporanea tem sido marcado por uma transicao complexa: da autonomia clinica absoluta para uma gestao baseada em metricas de eficiencia e produtividade. embora a busca por valor em saude seja necessaria, ela trouxe consigo um fenomeno subestimado, mas devastador para a saude mental do profissional: o sofrimento etico, […] the post o impacto do sofriment",
+  "url": "https://medicinasa.com.br/sofrimento-etico-saude-mental/",
+  "clave": "etico impacto medico moderno sofrimento",
+  "capturado": "2026-10-02",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "016b3dc7282b",
+  "fecha": "2026-10-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "professorrafaelporcari.com",
+  "titulo": "– Uma regra de Saúde Mental:",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Wjc1aHlsNl85MjJIOWJlRFFhV2JWRklVeDBPUDctYjNhejFfWU9HaEs4cFlCNVJQUng1MjJzSFc4WkZ5WEFnandMNWwzcEFVVlVDTmJidWJRSEdqLVdnaXJZMy1FNUJvLWlYLWNnbmo4cXYwemxzOTY5MlkzY2M?oc=5",
+  "clave": "regra",
+  "capturado": "2026-10-02",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e24245a5e43d",
+  "fecha": "2026-10-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Reuters",
+  "titulo": "Cubarsi urges young players to seek mental health support without fear of judgement",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMEVFcEtNN0ktdlZRbEVSZVFZcDZNeksxZElGREhGSDg1VWdxY2Q5N1JDTXphRUJPQWVSRWtpbVdjNUJXNU11SHhJNXQ0ZWJxZnVIMkdvcmhaUTI3RmN3M2w4UlQtTk5UVXhPQ0hlSDZOdHNVSjVqX19GOWFDYTJ1WXhnS2c2aExOV2JSdXo0VE5yQVpXRUpSczA0aHI5YjRwalNSQ0xmRkp5MEZDNi0zRDdZNm93MnBXa05yRE1KRTQ4TElXZnc?oc=5",
+  "clave": "cubarsi fear judgement players seek support urges without",
+  "capturado": "2026-10-02",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
   "id": "8241a96e8a1b",
   "fecha": "2026-10-01",
   "carpeta": "03 BRASIL",
@@ -15,6 +130,25 @@
   "categoria_auto": "producto",
   "topic": [
    "wellhub"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "45b9ea75c58d",
+  "fecha": "2026-10-01",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "Planos de saúde e plataformas digitais: Conselho Federal de Psicologia promove diálogo com ANS sobre remuneração decente às profissionais psicólogas",
+  "resumen": "a sugestao legislativa nº 12/2025 (sug nº 12/2025), em tramitacao na comissao de direitos humanos e legislacao participativa (cdh) do senado federal, sob a relatoria da senadora ivete da silveira (mdb/sc), propoe a instituicao de remuneracao minima por atendimento psicologico … o post planos de saude e plataformas digitais: conselho federal de psicologia promove dialogo com ans sobre remuneracao d",
+  "url": "https://site.cfp.org.br/planos-de-saude-e-plataformas-digitais-conselho-federal-de-psicologia-promove-dialogo-com-ans-sobre-remuneracao-decente-as-profissionais-psicologas/",
+  "clave": "conselho decente dialogo digitais federal planos plataformas profissionais",
+  "capturado": "2026-10-02",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
   ],
   "ruido": []
  },
@@ -75,6 +209,44 @@
   "topic": [
    "mental health",
    "behavioral health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "57ee6b555ce7",
+  "fecha": "2026-10-01",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Análisis Digital",
+  "titulo": "La salud mental y la trampa del espejo: cuando el relato reemplaza al Estado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZHluMVUzanotWjFwX0huSmE4VE9peXJWdWRvU3BLTnJHVmV0UEZ1am1lUXBQYmQwNktRUEVQMEd6MTVkSDNudW0tN2RxUHpsaGtqN0ZqMzNGN0dNTFpoTmU2WWttQkdWdDF1YWtSck5LX2tWVDRSME5kcnVkOGQ0NEFPSHYtMXQ0eGpsUlo5TmlyRDJtcnRCZDNZQWw1ZFpXVVhfM3BXY0ttMEx4bU9pZk1WdzdIM0VlajlPREt4Uzd5MVR5M29WcQ?oc=5",
+  "clave": "cuando espejo estado reemplaza relato trampa",
+  "capturado": "2026-10-02",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "592c7092cdb5",
+  "fecha": "2026-10-01",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Tempo Real",
+  "titulo": "Após norma federal que proibiu bets, Alerj discute criação de núcleos de saúde mental para pessoas com vício em jogos de azar no Rio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5VUtkZjVBSDZNUGhZMU5GNVpndVB5LUlXZDlRUExuY2ozTDItRzRlbkQ4eUZGTDQwYnA4Z1RfN3ZtWjVIWmZaVmFhaFdNM3RVTWJpZGEwaE9oNDU1NzVrcnloODVtSU9RN0Ita3lyeDdCVUJjajNUVTN3MA?oc=5",
+  "clave": "alerj apos azar bets criacao discute federal jogos",
+  "capturado": "2026-10-02",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -211,6 +383,25 @@
   "categoria_auto": "regulacion",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "89f7706d3d36",
+  "fecha": "2026-09-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "jacarei.sp.leg.br",
+  "titulo": "Câmara Municipal aprova lei sobre abordagem humanizada em saúde mental e mais um projeto (anexo)",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNamZBaGhkRC1iODhjb1doRlR4Vm9hTHV0bEw3QzRDd0FSTVQwOVZpWUlsR0hXVGNyRVp5ZF9GTHFxNHg3bG1aamJyVU5fZ01xeDBnbXRSaUN3b2MwM0RrdXBjMlpDUDdtZTd1anVhcmo4b00xaTdGeVl4N01JV2lUX1ZxRHNfV08tOGktOGNQd1pxV0xsRHVqemVRQndIRm9JWHRvME16OVB4MlpsZHlHR1hsVGdNX0dNRklJaTJYQ1pXYzhmdi1zU0YzcGliTWFhY0pMa1duRUxkSGJfWFZKaXBtdnAzTXVLR01JSE05UV93WktjZDk5MHhOOHhhNHVRY1ptaG1lV1NURC1RR1g1ZmtWbXhNWEtQeDNDQzlRT2dFN3ZCaXJOb1AyRUh1OTltS3BnMDYzTWU5X3NEY1lOVDR6OEx6azBSZjU0?oc=5",
+  "clave": "abordagem anexo aprova camara humanizada mais municipal projeto",
+  "capturado": "2026-10-02",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -15480,83 +15671,6 @@
   "puntos": 2,
   "prioridad": "C",
   "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "dfdfb7d8b1e4",
-  "fecha": "2026-07-03",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Análisis Digital",
-  "titulo": "Informe de salud mental en Entre Ríos: “La ley no falla, falta el presupuesto”",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNUxVS0lqTVFMS09FRTBfcXVMQ2FNb09RcHVZYWxwMi1WU0VqRE9aQXFPRXoyQkp6d2xuTGtmOWY0Q283aDI2TXBXQUJjSl9JbVlGMk5NQ0Q4VFlPbHBRRzNBR3FzaWVjU3JlR0xKOXE1ODZvOGJjNUw1bEJPM3JjNURUVzBCemxkcjJ4NjducnlpQjB2MDVlUmIxU1NQMzhkOUIxejR5UXR3QUE3NEJMZGlIeFZGX2tUSG9LNng3R3VnRGEtdjdZUXJ1dEpVdw?oc=5",
-  "clave": "falla falta informe presupuesto rios",
-  "capturado": "2026-09-17",
-  "puntos": 9,
-  "prioridad": "A",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "f295dcfdf871",
-  "fecha": "2026-07-03",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Sintrajud",
-  "titulo": "STF suspende sanções da NR-1 e enfraquece avanço na proteção à saúde mental dos trabalhadores",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbm9lekh5TTNBWGR0NW4wT1d4ZEdOY0Y2V2NqRnZCT0hYcWNCSk1sTW9XZm9mXzJJekx1elUwZWlsbjNXbTl1Z3NhMXc4R0xmTUc5UUhuWFJmQmxERDRIU2o2MzhiSVRGZXVmMzdmdGxLa3psS29zRTU0Vk5peUZ1WnRwa29JNlpqT2l5ZlU0ZWJvczM3WjlCaUlNNnN5SE52NzlZMlZvZThlWV9CMl9iVms1d0xnWGY4aTItZGdleC1HY1o0ek9nVk50TGJPZw?oc=5",
-  "clave": "avanco enfraquece protecao sancoes suspende trabalhadores",
-  "capturado": "2026-09-04",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "a331b5efcd29",
-  "fecha": "2026-07-03",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "JOTA Info",
-  "titulo": "Proteção da saúde mental não dispensa segurança jurídica",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmVuOUxNZUlSbWFMajJkVW9LQWRaZDVvR2lxMHpPTHRoVklnWGQ1ekt0VG9PeEdaZU5mREhOV0JSX2tucS1UcWtMQkJUc2RFX1dTREF3enl0a2dfNk1vOFItV0JfMkd3eWpVQmZfS3VsRHYwaUlvMS0yOEc3NEllLXBzXzNfMmZkejJmRk5TUEhOOWQwQXhWUFVrM3o2MlpkZDdkeks3dw?oc=5",
-  "clave": "dispensa juridica protecao seguranca",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "6d2c9fe87a96",
-  "fecha": "2026-07-03",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "El Litoral",
-  "titulo": "Salud mental: gastar más no alcanza, gastar mejor es imprescindible",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWlFEQ2c1X1BTNlVpV0czRkVxanJQc1JLQkpTWHRzQVJhZlBfYVpKNVdGeTlUeWpqSmw0S1BTZm9TVjBSWTllc2ZzVGlscmN3TkdHLUt5Y054TWdlS1RWTzRtNC1oRFZ2YWNVaFVhaVRieWdjMXBlVWFlT3dHM0Q2MVN6YjgtZ0pqWWtSRTRSQUtyTUVlbmpJNWxmNkZGZHp0NkVINjRYUjNHbHE2RjdmNzRNalprQ1FCeWJnOS1QZF_SAcYBQVVfeXFMTU1lRW56bXIwX1pjU1l4el8zXzltenRueDFNMWZjOTdsSFk4cEI3dHdicmpzR211RTgySzljeUgwRkRPTVpyT0djWk03R0pqc0FoOUFiZG1JbExSUFRrLXhDdkx1N05yN2g5ODN4WE9aNEZCMFc5eTlsbnNFeHdzcXRlMUc4T0NVYzVfM2EyZUNyTGVXU0RYX1Q0anhPeWJfaW02LXdoSnViZTNOV3VlTDQ5UlZmSHFwdEhJRXF1bnRwVFBfbk5n?oc=5",
-  "clave": "alcanza gastar imprescindible mejor",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
   "topic": [
    "salud mental"
   ],
