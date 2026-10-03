@@ -1,5 +1,68 @@
 [
  {
+  "id": "65dba7955036",
+  "fecha": "2026-10-03",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "La música puede cambiar el cerebro de las personas con adicción",
+  "resumen": "un estudio realizado investigadores del instituto de investigacion en musicoterapia de cambridge de la universidad anglia ruskin, en reino unido, ha encontrado evidencia de que la musica puede alterar la forma en que el cerebro procesa las emociones en personas que reciben tratamiento por adiccion a las drogas y al alcohol, ademas de reducir sus antojos.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-musica-puede-cambiar-cerebro-personas-adiccion-20261003082952.html",
+  "clave": "adiccion cambiar cerebro musica personas puede",
+  "capturado": "2026-10-03",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0d09338e7ef2",
+  "fecha": "2026-10-03",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "La justicia absuelve a una psiquiatra de Córdoba de homicidio, pero advierte del retraso de Andalucía en Salud Mental",
+  "resumen": "politica y normativa soledadvalle sentencia la pena de banquillo no se la quita nadie a la jefa de servicio de psiquiatria del hospital reina sofia de cordoba, pero, sin duda, debio de sentir un gran alivio al ser absuelta de los delitos de homicidio imprudente y denegacion continuada de asistencia sanitaria . los padres de un paciente psiquiatrico, que se suicido, emprendieron una batalla legal c",
+  "url": "https://www.diariomedico.com/medicina/politica/justicia-absuelve-psiquiatra-cordoba-homicidio-advierte-retraso-andalucia-salud-mental.html",
+  "clave": "absuelve advierte andalucia cordoba homicidio justicia pero psiquiatra",
+  "capturado": "2026-10-03",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "psiquiatr",
+   "suicid"
+  ],
+  "ruido": [
+   "homicid"
+  ]
+ },
+ {
+  "id": "6c5ad702f62d",
+  "fecha": "2026-10-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Diario de Salud",
+  "titulo": "CMD y SNS realizan jornada científica sobre los desafíos de la salud mental en República Dominicana",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT19rdkZKU2ljQm82UGs2bHdwdWdzYmFFVmV5ZEE3MTR3ejZ2Uy0zcU5pY2gwOGFnV25BYU10QTI2X3VPMFdpVURCbElCVHFQbVJqVkl2T0MtckhpRTdnRFJWQ2FsMjluUlFxNVZVX183WFRRVldybzFKWXVqbUNQeW1EX2hjeXBaVkVydFRtX3BKU21nekhydkp0ZWUzcGRUUXRWckpXNWQtS0dpSFRVLXBzeUZWOTdtRE5uX0ZadmN5VkJtUGpOR01GU3doS1hJcG9aTzB2dEFjT1hQenRz?oc=5",
+  "clave": "cientifica desafios dominicana jornada realizan republica",
+  "capturado": "2026-10-03",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "jornada"
+  ]
+ },
+ {
   "id": "5cc7e8d8436f",
   "fecha": "2026-10-02",
   "carpeta": "05 GOOGLE NEWS",
@@ -113,6 +176,89 @@
    "mental health"
   ],
   "ruido": []
+ },
+ {
+  "id": "63f49b54e64e",
+  "fecha": "2026-10-02",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "Rede PePsic promove debate sobre uso de inteligência artificial no contexto científico",
+  "resumen": "entre 3 e 4 de setembro de 2026, a rede latinoamericana de periodicos de psicologia (pepsic) reuniu pesquisadoras/es para o seminario “uso e impacto da inteligencia artificial no contexto editorial cientifico”, que aconteceu na sede do conselho federal de psicologia … o post rede pepsic promove debate sobre uso de inteligencia artificial no contexto cientifico apareceu primeiro em conselho federal",
+  "url": "https://site.cfp.org.br/pepsic2026/",
+  "clave": "artificial cientifico contexto debate inteligencia pepsic promove rede",
+  "capturado": "2026-10-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "producto",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": [
+   "editorial",
+   "seminario"
+  ]
+ },
+ {
+  "id": "60a762f5908d",
+  "fecha": "2026-10-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "La Gaceta",
+  "titulo": "Pantallas, autoexigencia y dificultades económicas: qué hay detrás de la crisis de salud mental en Argentina",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVTZnZ2ZVNHBUSlVuT2N1ajNCajdKODNPa3YzMjU3cHhZUjIwTlFXQnVOMC1CR1Bnc01wc2U3aFpYZDhhOWNSX2R4WWJKaTd5OXNWQ0hSa3JTbEpUNlJQZ3RfeG9pT0VIN0oyUkdrbE1ybFNwVjI5d056anFkUnc2LXJISWU2dXVMZ2ViVktZMUhtZHQzemQwSnZWNFZFWWdpUjkzeFJEYmtSYU5SZ1k4VG1BU2RhNklMd1N5eFNNbExLSlk5ZkxnUElpMTFodFE0aE1fUlUwSW9RTmvSAeABQVVfeXFMT1NjUXZIdzdYekFjOTh5SFE5NVdFb2x5aXU1R1VIOEh0Qks5Sk5tMnM4N0JUQUhtVk5YUXhVZmJ5cFB0a3QyRUpyWjF1QmJHR1RoTUJWWk0xUzRKbXlHNnRqZEVYOERKOFl0TXFleVF6Y2lqbUNNSlk1YjFFMGhiWjNXODVROGNMYzVmNE5pd2xYRTV2c2pmajhEdEY1eEVnb2l4WWtfNW5Jc3NiaUJicnYzcENFdHNzSjVJV0xDdjROY1J0LU54YnN0dk01RFRBUzNsdERHS19CUjBERHVhWHM?oc=5",
+  "clave": "argentina autoexigencia crisis detras dificultades economicas pantallas",
+  "capturado": "2026-10-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3dbcfcdf693c",
+  "fecha": "2026-10-02",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "Psicologia e Direitos Humanos: Nova edição do Boletim da CDH propõe uma atuação anticolonial, interseccional e pautada no Bem Viver",
+  "resumen": "o conselho federal de psicologia (cfp), por meio da comissao de direitos humanos (cdh), lancou a primeira edicao do volume ii do boletim universais e interdependentes. a publicacao, apresentada oficialmente durante o evento que celebrou os 30 anos do conselho … o post psicologia e direitos humanos: nova edicao do boletim da cdh propoe uma atuacao anticolonial, interseccional e pautada no bem viver",
+  "url": "https://site.cfp.org.br/psicologia-e-direitos-humanos-nova-edicao-do-boletim-da-cdh-propoe-uma-atuacao-anticolonial-interseccional-e-pautada-no-bem-viver/",
+  "clave": "anticolonial atuacao boletim direitos edicao humanos interseccional nova",
+  "capturado": "2026-10-03",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": [
+   "evento"
+  ]
+ },
+ {
+  "id": "af76f25d3f09",
+  "fecha": "2026-10-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Surco CLM",
+  "titulo": "El Colegio de Enfermería de Ciudad Real convoca la V Jornada Bioética para abordar los retos en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR3ZPeGo5WHBIM09WampESXR1S2E1TE1TQ3p1RktkOVJ2NWlRdy02eTBTN0UyQXZOekt3b1VXZDVWR2k3TzdmYUJKbWQ2SWk2X2x4aW1lMmRwcDBoaVBpSnlEd3o0MU4wV3RyUkVCTjVmR0FWVDFwcF85bjR4bmxJZ3M2LTB2RmJYRFFsMnYwRFM4MENETUpwdHlFM3FsRnhKVWFBNFpIY3RMMGdHUTlYd2w2cHozaWNHTFRIS0RUVTAzajdENEpDV0Zmd1BNdXRVZGFJLTRpdzRrZmZ3NW9DQ3M4NXhndzNWN2lqVGd1ZnhyeFU?oc=5",
+  "clave": "abordar bioetica ciudad colegio convoca enfermeria jornada real",
+  "capturado": "2026-10-03",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "jornada"
+  ]
  },
  {
   "id": "8241a96e8a1b",
@@ -2533,6 +2679,25 @@
   "ruido": []
  },
  {
+  "id": "1239c0e2a268",
+  "fecha": "2026-09-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "radiomontecarlo.cl",
+  "titulo": "Telemedicina se abre espacio en salud mental: pacientes gastan 12,1% menos de su bolsillo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkg3ZldxRjVSMDVLQUVoNjNtRTR4aU81bjVyYUU2dzVneUl0OEw2cFptMDgyVjNqbTljZHNoUHRBc0JBZnM5aFV5ZG5NcUZaaHVhUTJTWHRhN1p1aTlUeVJweFYzY3I0ckF4bEtrRDFiVW9nbno1dlVHZXF1MXo0S3JpN1dqRE9pUmVORXhNYWpNdFZGYkVkTm5DRzROdURyelY3b096aDk4NnF5eXRSRzRuX2RJdGJMUHc?oc=5",
+  "clave": "abre bolsillo espacio gastan menos pacientes telemedicina",
+  "capturado": "2026-10-03",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "7e45a1f00739",
   "fecha": "2026-09-25",
   "carpeta": "05 GOOGLE NEWS",
@@ -4142,6 +4307,25 @@
   "categoria_auto": "otro",
   "topic": [
    "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a7bb3a9e185b",
+  "fecha": "2026-09-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Redacción médica",
+  "titulo": "Europa respalda que la salud mental de los sanitarios sea un indicador clave de rendimiento para los gestores",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNajdnSk1XNFNPYklvMVo1cTRNRl9qTjFDSUhEZFlRX2FucUFaQXJqNkRpRmN2TFYzcnNIV25PQ3d5dGJBWmxNUHpKdmVrT3hHbi1ob0wzNkMtZGkxZ29fU0VpZlJDWklETkZXWWNhLXVURWpwSWlrWE03Wk5sN3hVTjhLbWc1RUZYQXR5ZmVFSkowRlU2Q0JNM09tX2F0YzlwcnB6bFBVbTBJUHhIYS1GWEh3aXlqYkwtY29QWENRaS1MdTJtSUZnZk1HT2dGWTg0cXNpbXJSMjhNc1NOczhqcklEOVNGNkQ2QzNmcmVTRHp1ajN0Wk5vMk530gH_AUFVX3lxTE1VSjZVVUN0WXhyTkVucm92ZEtSY2FJSnNQMHhZaG80VGpzbUJITFNpRTVNcFlrWExOQXFHb3FfMzYzOG1QSWE5b1A5MjlDMUFORm9QMExhVHdtSzA0NmU5aGpxVkNIQ0JvRHM2MWxYNGxnZWJ5SldWaWV4VkdFQ2xSSkxNSE1KdnNGWnlrTWNFc1pVc0ZGTXVsd0NFd18zbE05aWRmYlJPU21TRWNqQWNFM0lyU09VYmd0dl9tUXpHVDN3Y2h5bUxrTHlNMmNnVE1uMjM5ZGRNX1R6VnRhV0RSMlpvYU5sMlNXYzN2TXJPQjJWd1lnU3BHMVd4V3pNYw?oc=5",
+  "clave": "clave europa gestores indicador rendimiento respalda sanitarios",
+  "capturado": "2026-10-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -12538,6 +12722,25 @@
   "ruido": []
  },
  {
+  "id": "d0f6f2aee4d7",
+  "fecha": "2026-08-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "Prefeitura de Fortaleza",
+  "titulo": "Prefeitura fortalece atendimento em saúde mental com a entrega de mais um equipamento reformado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDc4aUE4UzgzQ01WQ1NzTmpvc2xqUHFsZnhSSjltV0dzakxwQ0k4R3lUYzJzOXlyYk5hQ3RkcnA5cnZCQXE4WTR1aDl1TFhKUXktNHJ0RUJmRTlmcE1WWWNCbTcwZlZXeWRfRzhKTUEyUHdOVDVaVGFJT2FueXlfRjJkVHpzN2NSNnBaNTQzU21GbVY4aWJIM0pfalhNMzlBUXpuM0NZaHdTRG9QdlNkNmJOUGpQTF94TWJqZmFMTlg4SFdOblBGVGc5V1hqRnBjU2c?oc=5",
+  "clave": "atendimento entrega equipamento fortalece mais prefeitura reformado",
+  "capturado": "2026-10-03",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "6e1501a43b60",
   "fecha": "2026-08-17",
   "carpeta": "05 GOOGLE NEWS",
@@ -15449,6 +15652,26 @@
   "ruido": []
  },
  {
+  "id": "ee967f895a1c",
+  "fecha": "2026-07-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "infocop.es",
+  "titulo": "Invertir en salud mental es rentable: la OCDE defiende reforzar las intervenciones psicológicas basadas en la evidencia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMlFPalQxVnRaVFJoeHRSblc2UER2NFhneG5UcVdUM3dmYWpCVXFUTlY5eDFPV3QweFNsX0tqZUw5aEwwYmZNM3p3elJiNEtNMzlqUnVVY2J1dHdBdk5DNzZnanp2Tm1PSUd2X2lfdWFTcjJqT2hjS2RSalZXc093anZiUTVQcDY5c2pjVFlQcWNJTkU4RHRoTlczaDMzam9YYkYyUnZtTHMzeC11cW1pMURVelBOOGpLOWJRTEJ6OVBMVlpMcjVDM2JCb3R3Y3h5M2NsMURjcWFydw?oc=5",
+  "clave": "basadas defiende evidencia intervenciones invertir ocde psicologicas reforzar",
+  "capturado": "2026-10-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "e86347117105",
   "fecha": "2026-07-08",
   "carpeta": "05 GOOGLE NEWS",
@@ -15502,6 +15725,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1fb99c1eba0f",
+  "fecha": "2026-07-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "G1",
+  "titulo": "MP aciona Justiça para obrigar União, estado e João Pessoa a regularizar rede de saúde mental na Paraíba",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHczbWY4R0FzNFRsUW9kSjc3Y2I0TXFPMUwtVTljZTVoZnZHakh6V3V4WVgyNkFwUFNSSU9lQnJacm1ScFRxdTBlb2JpRmlJU015dUJjX3hMbFY0WXc3X29odGg0WENyMWg5NEdnd2RUTUJqVWtTUHZPaDNoMnJZX2VLODhMZXNzQXh6d1JLblFjcVlYS05XdDFyYmNRQnBNTi1YTEZnb3hIeFVaeFZmMW1WR0d4R0p6YnhkWWR2a2pFbmd3eWhQbTM1TlFQbEFJMGIzSUlmVnR2OEV0VGctTURGNjFjVlJLRXhZMHJwSUpKQdIBgAJBVV95cUxOSE1pUTd3b2sxSHhKOXZIWTd6Z0RRdDJQV1dlUVRCVUV6X3ZrTzlLeTVhNmJVSFY0T1YzRlR2eVJYX25OWDlGdUpYQ0h4eXZRaGZiYW9nTlhqa093Ukl2R2hPUUJ5SlJfakZISFh2X3A4V0ZmN1VsZEl1bmRKU2ZTdWN4U2JfY2kzbGlyVFhYak1tcGFTRWZpS28tVkJ2Vy1mbFFVSnJnd3VNbG5wMmVxaFVvYnBQRTlEV2dmTDRDcFBacTNiYmZJdEUtQ0J2WmxUTnVmRUIyVnVka3dCQTNBTXNTZXhNLXhuQmJMc0dUZDdGRjk3MkJsMHkwWnJBbHpi?oc=5",
+  "clave": "aciona estado joao justica obrigar paraiba pessoa rede",
+  "capturado": "2026-10-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -15582,6 +15824,25 @@
   "ruido": []
  },
  {
+  "id": "a23352e41789",
+  "fecha": "2026-07-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "toledo.pr.gov.br",
+  "titulo": "Saúde Mental realiza 2º Módulo de Capacitação a profissionais da Raps",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWRpWi1JcElrQ1R5YnFiWlQ2Y1M0aXdrOVRBZTZ2Z3FNMlZGYjdWR3lRMVFMYzd4eXhKckEtX0JoN0twdnZseWV1Z09kM2Z0ZzNjekQ1VWNnMGlXbC1PdDNJOC1YUVNjaGF3RmNzX08zbHU3NHluaVNxSDVqenpFemI3WmVpeEpCRng2VGZfSUhmRW9vQzMwNUZ0Mmd4dlVuT0xxclNJdVFLYkJOS3ZVTg?oc=5",
+  "clave": "capacitacao modulo profissionais raps realiza",
+  "capturado": "2026-10-03",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "e632b777f09d",
   "fecha": "2026-07-06",
   "carpeta": "05 GOOGLE NEWS",
@@ -15648,25 +15909,6 @@
   "resumen": "",
   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdDl3RWRjU1ViamoyR3YteHBVbWNyLWdkUHctQjVSc1Y3ZG9ieVRrQnUxbThoY0NEbjgwWndBSi1FZWJOMzlYMUc0eWxJYUp0S0lERmp5ci1La21TemdMN2JWNXRwS1pvQnZZeDA5b2dBdTZYLVJib3BZSzhCendTc01NT1R2UXl1bzc4eHMtZy1kYmlhWFpFMFJJZnJMd0IwZXA3cW5rMTZZOUlIUV9sMzRkRlVMWVhRNEZZRWdFWnVXaWJTX1RCQTBwOUtIVEZxSVdqN3FR0gHWAUFVX3lxTE90OXdFZGNTVWJqajJHdi14cFVtY3ItZ2RQdy1CNVJzVjdkb2J5VGtCdTFtOGhjQ0RuODBad0FKLUVlYk4zOVgxRzR5bElhSnRLSURGanlyLUtrbVN6Z0w3YlY1dHBLWm9Cdll4MDlvZ0F1NlgtUmJvcFlLOEJ6d1NzTU1PVHZReXVvNzh4cy1nLWRiaWFYWkUwUklmckx3QjBlcDdxbmsxNlk5SUhRX2wzNGRGVUxZWFE0RllFZ0VadVdpYlNfVEJBMHA5S0hURnFJV2o3cVE?oc=5",
   "clave": "crisis cuando golpeando inversion publica sigue sociedad",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "ae723b4efa94",
-  "fecha": "2026-07-04",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "chequeado.com",
-  "titulo": "Crisis en salud mental: cuál es la situación presupuestaria de los hospitales de la Nación, la provincia y Ciudad de Buenos Aires",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTFdheGdPcGZyWnFYbFRnelo1eXFJWEFndlQ0c09XWS1rX3Z4VnN5bnM3LXFmemxhOFdMdi1ueDljSXpEYUtCUm5mTlhCd0dVQ2FKeEt0T3UzMEhjYnlyWTdUR1VHSUt3cU1NaC00dHBpZWVQajU0ekItS29qMVhyOTlhRmNHM3JLM2xEbGw3Q3p6MWRESlM3MEVvWlQ5NlRPVUxLYng3WFFNVnNlN1VlZEE0Um9fV1RvNTJzX3d1dWROcE53aE9hbGdQMW9zN3Y2NXktdGlzNVV0b2xRT0xfOFZISG13MzZDNVlpMklWUmYwOGgydXZF?oc=5",
-  "clave": "aires buenos ciudad crisis cual hospitales nacion presupuestaria",
   "capturado": "2026-09-04",
   "puntos": 2,
   "prioridad": "C",
