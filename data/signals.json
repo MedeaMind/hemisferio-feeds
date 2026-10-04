@@ -1,5 +1,62 @@
 [
  {
+  "id": "5b859f07bc31",
+  "fecha": "2026-10-04",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Perfil",
+  "titulo": "Veteranos de Malvinas: el presupuesto 2027 prevé una reducción en atención a salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZHg5NFZPczZDT1Q0blBsMHZsTUFKNFBjTTdtTFlVeXN0a0dMZms3UURCeHFNV3RjdmJkeEhVazV3ZTRHclMzdnRiWUhiUm5HTUc2WkV0M29LSUJycHdpU2k4V05mcEVMY0pSZ3Iyek04d2dWZE55WElMRnlmeVYwME1yal84d3U0aUk1bzUteGl1Y1djMXRiU29sSnlINW9ZTFFSVjR5N1hvYlBJcWs3RS1xbDNHMjA0Zi1IeXNPLVJCZGc3ZUZjRHVIcnFVbjVl0gHWAUFVX3lxTFA0NkVRN1FkdklGTjIxRk9mNVBvRGVXc1pkTXJoODNXbnRFU0lJYzl3SWNvM1hzLTVBTE1VQ0F3aWdGNFJjdzgwM3EwQy1wMGw1Zzc1REd2RXgzeUFQWFlqakp4Q05ZWFhfTHVDcnBneFVBYmhKM0FnRHRSTndnekZiNG5RT1k4WmdnZ1lWb3VwalFJaWwtWHpGSWwxWS1QLW9zNFU1bjFTRV9CRjJyTzdULW5kWC1HS0pEeVdObllmYmhkZUdJNnBfbXA4SThEQndCN293SHc?oc=5",
+  "clave": "2027 atencion malvinas presupuesto preve reduccion veteranos",
+  "capturado": "2026-10-04",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1abac6ea3c94",
+  "fecha": "2026-10-04",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "avances | El insomnio podría aumentar en un 26 % el riesgo de accidentes cerebrovasculares",
+  "resumen": "avances: el insomnio podria aumentar en un 26 % el riesgo de accidentes cerebrovasculares",
+  "url": "https://www.consalud.es/pacientes/pacientes-avances/un-estudio-estima-que-el-insomnio-podria-aumentar-en-un-26-el-riesgo-de-accidentes-cerebrovasculares.html",
+  "clave": "accidentes aumentar avances cerebrovasculares insomnio podria riesgo",
+  "capturado": "2026-10-04",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "insomni"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b935013a4633",
+  "fecha": "2026-10-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "correiodamanha.com.br",
+  "titulo": "Câmara de Barueri reúne 150 pessoas para discutir saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTE1HNERmZ0ZrZXFrRm5vdUtkZXAtbFlYSGtnRkNlOHRQem1wM2VvMHVuRDUxV2hjRVNQLUFVbWxlVlNIbi1ZREx4Ny1YcDBmSk0wTkdiSlJZVkZ3Q2ZrMFZNU0VncDRKMzN1TjdZaHlhdmVMSFl2ZGE1VUhFdW1SYjFrN2pTMmNQOW93QTlVd0JtODdFT2swazVvOFQ2bWY1aWRERHAxWVJnYVJjMklnV0lfTHRBVmhPTTFCUTVWaHJ1QnRuWll4bmZsQmFnWWtSVmtncE8zS2o2Z3FfZ2p2S1dYMmI1WlU?oc=5",
+  "clave": "barueri camara discutir pessoas reune",
+  "capturado": "2026-10-04",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "65dba7955036",
   "fecha": "2026-10-03",
   "carpeta": "01 ESPAÑA",
@@ -15,6 +72,25 @@
   "categoria_auto": "research",
   "topic": [
    "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "81320924da49",
+  "fecha": "2026-10-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Análisis Digital",
+  "titulo": "Salud mental: el Estado se demuestra con decisiones y presencia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGx2ZDJoSGgyQU5fMXlMcDBNZFYtYzJfZEdvV3UxWGFRLURFU3UySy1uZ3ZqQ0lWZnh2STBMM0djNFlTZGdaVHVvNUttdGJFalZWOFJkNWpjTUU5Q2hLT1ZZR0FIR1VzX1ZXX0xfeDNYcWxSRDk1cU1fSV9WaE04MHo2SnQ5dGhRdGVnYjE3c0E5MnBSZzZQQzJDcGxFbXh3eGlMc1g4SVQyVDZpSjRkY1lKTDd6WXM?oc=5",
+  "clave": "decisiones demuestra estado presencia",
+  "capturado": "2026-10-04",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -703,6 +779,26 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "71bf652d29a5",
+  "fecha": "2026-09-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "IndexBox",
+  "titulo": "Spain Mental Health: Psychologist Shortage and Two-Tier Care Crisis - News and Statistics",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEV0YVhqSjFMQ3kzeUxVXzdQVU9UY0w3dnJMWF94UGtoRG1qZ0VaTWRmX3VFUW1nX256NmtnV1BTTGhvN2ZCZ1U3MnBpeEpOSVN6QjNxTmthaFZkWTVMVWhIV0swS3FDb2ZHd05kbUR6UWs2bDQtOGU0cFFQWXc0azJQY1Fub0NRQURhQlR0cVJDTmZIRTNrVzJVR0ptbVU?oc=5",
+  "clave": "care crisis psychologist shortage spain tier",
+  "capturado": "2026-10-04",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health",
+   "psycholog"
   ],
   "ruido": []
  },
@@ -9519,6 +9615,25 @@
   "ruido": []
  },
  {
+  "id": "5de9d91f65b6",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Caracol Radio",
+  "titulo": "Medellín implementa modelo de telemedicina para agilizar la atención de urgencias en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjNtbHNZZDB2ZHJ1X19CSFZMZnc4QTBZNVp1emRhRWh2VmE5RnFscjFoS1Y2eVhzOHpvd3J6bWtiRUJJMWpUUjZ1eGhJelVzS21zN2NBeVR2OWlrTWZyRnZIc2hpODlNU01RZXVzdzJ2dWMyRXR6WTVZMEd0N0lGQzJpWjN1dksxNm9fNkRoelVfZXZBWVd1Z0dwblgtZzhJT2c5SUUxTW1SaXd2QnFHMVR4WlNidDBlYTNIakRLYkFWNnNhakoyMmRVeGQ?oc=5",
+  "clave": "agilizar atencion implementa medellin modelo telemedicina urgencias",
+  "capturado": "2026-10-04",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "646123d0e1eb",
   "fecha": "2026-09-07",
   "carpeta": "05 GOOGLE NEWS",
@@ -12703,6 +12818,27 @@
   "ruido": []
  },
  {
+  "id": "f8627b7473a0",
+  "fecha": "2026-08-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Revista Sarah",
+  "titulo": "Selena Gomez y su madre enfrentan demanda por presunto fraude en startup de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS3VGWTVYaktIRWZRM3hCejdYbWhsVEhfQ0JLQXNacHV4dUF0bVNGVlU0X1ZZVjZpSjBSNHRDVWlDa1dVZmt6a21IeHFzaWVKWERpR3lwTmNtVEctUmFpcUsxc3RBclpEZU5qWVhCMkUwQVN3V0hONWx0dVp1X1VnMk5sT3BJUU1iX0YybTlsSG5Fa1JwTWF2SFFfRlFDdFdYMzRJZV9ISEx1bDFETnlLVnB6Nk9IRlZO?oc=5",
+  "clave": "demanda enfrentan fraude gomez madre presunto selena startup",
+  "capturado": "2026-10-04",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "producto",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "selena gomez"
+  ]
+ },
+ {
   "id": "a142831538e9",
   "fecha": "2026-08-17",
   "carpeta": "05 GOOGLE NEWS",
@@ -14074,6 +14210,25 @@
   "ruido": []
  },
  {
+  "id": "445d371a6f68",
+  "fecha": "2026-08-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Grupo AMANHÃ",
+  "titulo": "Novas regras sobre saúde mental no trabalho entram em vigor hoje",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcGRsUldhQU9FbnZvRmkyWVNHS1NScGk1N2Fja2tNQnVuN3FKazJMSmdLYUVZQ185YUJqTmJPWmdiZTFCaGRfaTFEQjk4UHlnVmVyS2hiaWYwNGhSaUhUb3ZoZkNadUZhZnlVTW5Qbmd0OUQ5bDkxOVZjSklmYXdWY3B1cFFDcmhVMUhDa1Z2YmhVN1J0dkdOYzN3QXdjQlpu?oc=5",
+  "clave": "entram hoje novas regras trabalho vigor",
+  "capturado": "2026-10-04",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "2156595928ae",
   "fecha": "2026-08-07",
   "carpeta": "05 GOOGLE NEWS",
@@ -14226,6 +14381,25 @@
   "topic": [
    "salud mental",
    "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f5d0840cebcc",
+  "fecha": "2026-08-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Diario Textual",
+  "titulo": "La Pampa puso en marcha el Plan Provincial de Emergencia en Salud Mental con una inversión de $12.000 millones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNmllem9nLS10Z09fcEdSdWdTeFZqaWE2REMtcnYwNjNRdDR0eEZhYzVIREpxMUFoOE8yZ005MHJmc0dnbzZtOE5adzdicmUtdmNEV2NhcnNOMmpwNF8wTjFOMlpFWENwT2FkVm9TY0JwaVp1cHdRQlBmVnJiZ0ZVR3dfR0hJVkFDTHA4TDhLemZTbGtVWFQ0YWpwWkFia0IyWU11am8yU3RXSktua2E1aEREYkhhLU92X3M5NjE1RDdDcktpMXNHQVVldkNaQ214bjIyckFBTmZmNnFwWFNmemFsOG9hVFk4emx2TUE5QnQzUmJ3WHk4?oc=5",
+  "clave": "emergencia inversion marcha millones pampa plan provincial puso",
+  "capturado": "2026-10-04",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "deal",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -15875,44 +16049,6 @@
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "3e12465c7270",
-  "fecha": "2026-07-05",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "R7",
-  "titulo": "Projeto de lei restringe publicidade das bets para proteger saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUFYV3ltZ2NISklkUEYtcmRGeEZPTm02QnFDZ0h1RXNfQ2NpOVNBejhzZVlMbVVLS1pOSlBYY3pXUkZLbml2OFNsS2pET0RqODZyb0FtUUY2dnJ3eFpqUTh3VE90UlhkY1FhT3JqbjBhNlF6U3ZPdU5lWnhDQjJhYjRJY1VBZkhNa3lKQ0RNdDlqSXdPT0l2THc3VVhQM2xaTEYxUVdhaWRjVTVwZ0h1ZjlWRmo4dw?oc=5",
-  "clave": "bets projeto proteger publicidade restringe",
-  "capturado": "2026-09-08",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "23922330e275",
-  "fecha": "2026-07-05",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Acento",
-  "titulo": "La salud mental, ¿para cuándo?: de la inversión pública a una crisis que sigue golpeando a la sociedad",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdDl3RWRjU1ViamoyR3YteHBVbWNyLWdkUHctQjVSc1Y3ZG9ieVRrQnUxbThoY0NEbjgwWndBSi1FZWJOMzlYMUc0eWxJYUp0S0lERmp5ci1La21TemdMN2JWNXRwS1pvQnZZeDA5b2dBdTZYLVJib3BZSzhCendTc01NT1R2UXl1bzc4eHMtZy1kYmlhWFpFMFJJZnJMd0IwZXA3cW5rMTZZOUlIUV9sMzRkRlVMWVhRNEZZRWdFWnVXaWJTX1RCQTBwOUtIVEZxSVdqN3FR0gHWAUFVX3lxTE90OXdFZGNTVWJqajJHdi14cFVtY3ItZ2RQdy1CNVJzVjdkb2J5VGtCdTFtOGhjQ0RuODBad0FKLUVlYk4zOVgxRzR5bElhSnRLSURGanlyLUtrbVN6Z0w3YlY1dHBLWm9Cdll4MDlvZ0F1NlgtUmJvcFlLOEJ6d1NzTU1PVHZReXVvNzh4cy1nLWRiaWFYWkUwUklmckx3QjBlcDdxbmsxNlk5SUhRX2wzNGRGVUxZWFE0RllFZ0VadVdpYlNfVEJBMHA5S0hURnFJV2o3cVE?oc=5",
-  "clave": "crisis cuando golpeando inversion publica sigue sociedad",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
   ],
