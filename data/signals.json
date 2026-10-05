@@ -1,5 +1,125 @@
 [
  {
+  "id": "8bb2fec8e3bc",
+  "fecha": "2026-10-05",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El 'minihuracán' de Cataluña deja incidencias en cerca de 25 centros sanitarios",
+  "resumen": "en centros de atencion primaria y salud mental de barcelona el temporal ha generado goteras y filtraciones",
+  "url": "https://www.redaccionmedica.com/autonomias/catalunya/20261005/el-minihuracan-de-cataluna-deja-incidencias-en-cerca-centros-sanitarios/354802_0.html",
+  "clave": "cataluna centros cerca deja incidencias minihuracan sanitarios",
+  "capturado": "2026-10-05",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4ac15f70330b",
+  "fecha": "2026-10-05",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Psicología reclama más medidas sociales frente a la adicción al juego: \"La legislación es muy permisiva\"",
+  "resumen": "especialistas piden proteger especialmente a menores y personas vulnerables y reclaman combinar regulacion, prevencion y mas recursos para tratar las adicciones",
+  "url": "https://www.redaccionmedica.com/profesionales/psicologia/20261005/psicologia-reclama-mas-medidas-sociales-frente-la-adiccion-al-juego-la-legislacion-es-muy-permisiva/354679_0.html",
+  "clave": "adiccion frente juego legislacion medidas permisiva psicologia reclama",
+  "capturado": "2026-10-05",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "10601821b440",
+  "fecha": "2026-10-05",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Radiografía del examen MIR: por qué el éxito ya no depende de acertar las preguntas más difíciles",
+  "resumen": "el experto en la prueba, jose curbelo, advierte que conseguir una plaza ya no radica exclusivamente en el conocimiento teorico, sino en la capacidad psicologica y ademas: ¿el mir te vuelve hipocondriaco? la respuesta esta en la ansiedad",
+  "url": "https://www.redaccionmedica.com/formacion/mir/20261005/radiografia-del-examen-mir-por-que-el-exito-ya-no-depende-de-acertar-las-preguntas-mas-dificiles/354654_0.html",
+  "clave": "acertar depende dificiles examen exito preguntas radiografia",
+  "capturado": "2026-10-05",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog",
+   "ansiedad"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8a2571d99ca0",
+  "fecha": "2026-10-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Constitucional",
+  "titulo": "Corte Suprema confirma fallo que ordenó a Isapre equiparar cobertura de salud mental y física",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONWlHYmtvMFhKQUVUeFFUY1k1TUNSWUZELWxyNmdzQV90UDhUa3NYYUY2bzU3cURaMDh6bUtQd0xhWnVET1Q1V0xGY0ZQeDdqY25fUVIyVUVOcnpGM0tGYUFzSUtBblk3Z3BaNkpqM0Jfb0dRSnM2TGo4VkRIdnZkRnVoeEhEeXloWHJxV01CV0xpVE5xbnVEcUhWTE43NW9iRzVaYU5jZGoxZHl5a1RsY3l3cTNUMjIyb2tkbGFKZTMyZnpyZTB1cnhpb3F5OGZPbmU4cUx4Z1Y?oc=5",
+  "clave": "cobertura confirma corte equiparar fallo fisica isapre ordeno",
+  "capturado": "2026-10-05",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "83b1d95b1660",
+  "fecha": "2026-10-05",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El Nobel de Medicina de 2026 recae en Deisseroth, Hegemann y Nagel, los padres de la optogenética",
+  "resumen": "este metodo biologico emplea haces luminosos para encender o apagar neuronas especificas y redefine por completo el abordaje terapeutico de los trastornos psiquiatricos y ademas: del fracaso como opositor a premio nobel de medicina: el viaje del genio",
+  "url": "https://www.redaccionmedica.com/profesionales/medicina/20261005/el-nobel-de-medicina-recae-en-deisseroth-hegemann-nagel-los-padres-la-optogenetica/354767_0.html",
+  "clave": "2026 deisseroth hegemann medicina nagel nobel optogenetica padres",
+  "capturado": "2026-10-05",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psiquiatr",
+   "terapeut"
+  ],
+  "ruido": [
+   "premio"
+  ]
+ },
+ {
+  "id": "f42e4c939e67",
+  "fecha": "2026-10-04",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "moncloa.com",
+  "titulo": "Psiquiatras y juristas reclaman una regulación de la IA en salud mental que llegue a los juzgados con garantías",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeE0xUkk2dnNHNjRHZGlvMnRjajhWd2g1eUdBeWRmYWtKcGpnM3dCNVhXT0pQRWI4ekR3SVJrMGViR09WQ1lBTGJmQ1luTzVVYlY1N21xaFNfa2ZJMlNBNkhwVUd3Y2kxeVhjaFhuUTgwY0FkRllFOXNLaUhNc1UxVllydldkdw?oc=5",
+  "clave": "garantias juristas juzgados llegue psiquiatras reclaman regulacion",
+  "capturado": "2026-10-05",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "producto",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
   "id": "5b859f07bc31",
   "fecha": "2026-10-04",
   "carpeta": "05 GOOGLE NEWS",
@@ -13,6 +133,25 @@
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6fb69ce08045",
+  "fecha": "2026-10-04",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Nación",
+  "titulo": "“Luz, esperanza y compromiso”: con una vigilia de velas, vuelven a reclamar por la reforma de la ley de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWkQyY2t3UXhFaTM2RHZrc0VaNXEzLWx0X2NCcFl4c0loR1dOU2haRjBKcXdBOWpab2NxLWdackpNd3d0ZUtCczlDWTA2dHZLTVpWYXk2cGJVNTE1SXRyUnFGSVlFSkdReXdpTDI4MzhpYzdPVTE4eWphMHhnTzVQMUVDTk1QTGVZaGVXVnAydkVvU1g2MXpOai1aQy1sSTkzZjFSZGYzZ2ZwbFNKMzZ4ZTFXdVZXOGhpZGVZY1JSZUVXYXRsTnZKNVdWZ3lpSHNpbDJQSlBmY2VlekJsOW92RkRn?oc=5",
+  "clave": "compromiso esperanza reclamar reforma velas vigilia vuelven",
+  "capturado": "2026-10-05",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
   "topic": [
    "salud mental"
   ],
@@ -291,6 +430,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c9fec549081c",
+  "fecha": "2026-10-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "The Straits Times",
+  "titulo": "Cubarsi urges young players to seek mental health support without fear of judgement",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUGVGeWVBU1JwZWJabjdUOElaSTlRMGcxMks0RU9IeW1MRjNtbklMUXFsZ2JHc3VMNmZqM0hZTUFpQkhGSUIzakRkMWJLNzRjbG5VSXRwQ1lWa215ZS1XQUpLa196M1ZYVjhVMnpvXzkycFVhQ2NSN3lDWHZPNlpGbmZoY0FkZ0VKNmxRYUxBc0hYRVJJYzJPRlFFc3JpdDN3ejBpQ3F1X1BKOFBHQjVXeG9XamFRNWpPV2FzWXMycWxXbl9mYzlPWnQ4RzBFSld5YmUybnVqZTU2bkhDZ1hSbFp3?oc=5",
+  "clave": "cubarsi fear judgement players seek support urges without",
+  "capturado": "2026-10-05",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -803,6 +961,25 @@
   "ruido": []
  },
  {
+  "id": "f06df3ea3126",
+  "fecha": "2026-09-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "BBC",
+  "titulo": "How empty chairs are helping people's mental health",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fbC10MDl6cU0zMklNZzhVSzJ5RjRPRU55R2N2Q3dldkJkUGVZWFZUbVhwcmsxUV93U1FJdUdBU3g5cm5EQmpzNGhDN2VjeG5wSHNIZVFrTm5JdUk?oc=5",
+  "clave": "chairs empty helping people",
+  "capturado": "2026-10-05",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
   "id": "333eefd1671d",
   "fecha": "2026-09-29",
   "carpeta": "03 BRASIL",
@@ -837,6 +1014,26 @@
   "categoria_auto": "regulacion",
   "topic": [
    "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b3ab60d3b2da",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "SMETAL",
+  "titulo": "Saúde mental em espera: STF prorroga suspensão de multas da NR-1",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNExRQUhNdkZEVUpLNXQ5Z3pYcmJJZV9jLXBLdm5WYndkcklMMkJPV2FnY3ZTWEJsVTlhaDZ0bDl2WnJ1bVlPNk5hWnh4T2otQmNsT1JPdnJHWWdVRzJlWUhyWFBySmRCdkV1OUwyNTF2dUtyRnR4NU9RenR2a1N6MU1KU0VWNDJqLWpUMi12SkM5eVRqdDlCZVlIZw?oc=5",
+  "clave": "espera multas prorroga suspensao",
+  "capturado": "2026-10-05",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "nr-1"
   ],
   "ruido": []
  },
@@ -12295,6 +12492,25 @@
   ]
  },
  {
+  "id": "5a413bdbc8b8",
+  "fecha": "2026-08-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "iSanidad",
+  "titulo": "La sanidad privada realiza hasta el 42% de las intervenciones quirúrgicas y concentra el 75% de los hospitales de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbmUxRUVYaFVfZ3BCcGZlcExzWDFVUWJtWnV6ZTdlbFNTUVpURkJjWVNtcHQwX3MySURaek9mb1c3M2l4dFpXdUhtaUJZYV9tMFRBMndfeWpnWnpNSFdYQ0sxY0pvWFRFY2FYYjBLUzV2WmVyZ0l1a1lVdkhtMjNFci1NRmJNNWVESk1aQnFGTVlnRUN4SEJkVTJnUnVvbFhhY09hYlN4MnZpTDhXTE1aSk10RXFKU3UtdFM5QlJ1dV9QV3pRd2FJWnY5RkRqVnV5X3lMcV9pcjNQenVBd2ZJQzVwcXJMSjFV?oc=5",
+  "clave": "concentra hasta hospitales intervenciones privada quirurgicas realiza sanidad",
+  "capturado": "2026-10-05",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "c18ccdc1fcca",
   "fecha": "2026-08-22",
   "carpeta": "05 GOOGLE NEWS",
@@ -12383,6 +12599,25 @@
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qbDRzN25fRndZb1g4N1JKYkI5NHY1R2dPcTByVmV3UEkzdmlsYTBRUk5IeUxDcF85VnNidlVqZWJzQjFEcEs1cWZnN3Y4cW5hYmNFX1JIMElHYmlxM0NIa0lSTjVDMlRnSk5MZ3ExQlNxaDdKOXc?oc=5",
   "clave": "devem empresas prevenir riscos saiba trabalho",
   "capturado": "2026-09-05",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "27adf449a521",
+  "fecha": "2026-08-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Extra online",
+  "titulo": "Saiba como empresas devem prevenir riscos à saúde mental no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3M5cXBzNmxOUnZKdG9vQzdmTWltMHQ4M2Jod0xtQnU4dExRVE45RXBSa180VzB3UGVUMDFTeC1YbG1lcmF4ZkdtbF9DNjhlV0lZMHlqakd2c2xwQmxoSjZfZHd6YW5jTnc5R1VldmZhQXV4bkxvRXZvMVc4RzZHSjlVaWp6LUQ0dk5vTVBEUmFoaG1ITXhiS0RTdmFyZHpSdTQ5WDE2bG5KNUlVZEFzTmlzUUdmSmpWbGU1Q2o2TUPSAc8BQVVfeXFMTjNKc3d1RHBEbjI2dElUQ05hOEhRNWtCRDVhS09OYmFNVlhQQjN1ZThmWXQ3SWJ0M0RkdXcwMXUtU2tQeS1OYjdXbFVWS21DV2hTSXhYRksyX3c0TzJuckU1c2V2STAyc0FtV1RySTBRd3R2MzN3cE9QaUhZeDY2T0M4NWpUSWJxempMTzk1WElpOXBMTHY5U09yUTJDUTY4aTN0MjctNEEzTHJ4MjNPMEhLaUNVbjBQTFhYVnZUNWVWTDdoZFdkSVk2OHU3X3Rv?oc=5",
+  "clave": "devem empresas prevenir riscos saiba trabalho",
+  "capturado": "2026-10-05",
   "puntos": 3,
   "prioridad": "B",
   "categoria_auto": "empleador_aseguradora",
@@ -13708,6 +13943,27 @@
   "categoria_auto": "producto",
   "topic": [
    "saude mental"
+  ],
+  "ruido": [
+   "selena gomez"
+  ]
+ },
+ {
+  "id": "70ad36a32b32",
+  "fecha": "2026-08-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "MunicipioSur",
+  "titulo": "Selena Gomez enfrenta una demanda tras inversión millonaria en su empresa de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYnJqN1N2NkZFVkk2WXZEZEgwNExzVm1lbHM0QkF5TE1NekNqZkpxSnl4cXpnbUNVVDRXclYwMEFGOFlMRFZoZmp5WDVmLTdGNGpIM0xBNy1mZlp2YkRjckh2dERqb0c5R294WmlhTTJQYUtRVmo0ckZkYUhLYS1jN3h5NHh6aUNTZ1JuWHRDS2p1bjZaeDdDbUh5cEYwVlFmNG10bXkyNU9vVTVhVVNERXZmNC1wVlFybkJtU0dlQkN6SUhN0gHKAUFVX3lxTE9PMkZ4eXNneVEzT2J3YnNXcXR6ZnNWVXhLTjREN01YWWZ5OVIxR1h2aVFGVUdrb2RlLXFFTGo1VEZpNXRWQThQUC1DRjZKeTBqaUtqUjR5SHdpNkVvREJORDk2VXNCYmRGYW44eVRVX0R4NV83Z0tMbVpSTjh1RFFNR2RBMzJLN3gxM2ktQWNzQnRJS29ERmtqODRVQVBUTXpFWTJwMVdPRkxEV3JLN3UxTU9TOExVYVo1N1Z6ZXRYRkQyUmpMS1JqR1E?oc=5",
+  "clave": "demanda empresa enfrenta gomez inversion millonaria selena tras",
+  "capturado": "2026-10-05",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "salud mental"
   ],
   "ruido": [
    "selena gomez"
@@ -15956,101 +16212,6 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "6e14abd644d4",
-  "fecha": "2026-07-06",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Diario de Ibiza",
-  "titulo": "El Área de Salud adopta más medidas para reforzar la unidad de salud mental de Ibiza y Formentera",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTdjUmtlajk2bEJLbnRvVVdSQzZEQk9oWjd3ekdrRG1UcGlLeFFoWjM0Z3k3MUUxNDRBTFcyTlM1REtTS2JQR2JPeF9uR2c3dW5RSjAxN29xTzMyR2cxUDRvM2ctd1V3cWJLR1paRlE3dlM5ZE5vT1ZiajFZM3l6TG1JQ08xMGJrSE9NVHpPSi1WVUF0MFBCeGpsOWR1ZUnSAaQBQVVfeXFMUGlzN3RIRFFJamlLSU00anVpNUZXdHd1U1BGQUdzTDZkZ0ZOWC1mV1BqeEx5U3BESEZQaDBobFh0dTR2ZTRrMG1kYldyX2s0OUVwUkVOcTlleld0SGw1YmpGZGFlaGtGVXdnV2xZSzZOSTJ0dnpwVXUwd3YwSkRkX3o0ZzFjeG9xcldSeGNYLWNjR29pZ0VVdnQ3ZzFJUlE4Zzlxbkg?oc=5",
-  "clave": "adopta area formentera ibiza medidas reforzar unidad",
-  "capturado": "2026-09-05",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "dba7d0f5baea",
-  "fecha": "2026-07-06",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "WH3",
-  "titulo": "São Miguel do Oeste inaugura nova sede do CAPS com investimento superior a R$ 1,5 milhão",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSkR0LTVPdVpfQURyQ1JCNTExdkpkUFFuRHZBdFM0ZDJRTFFwMjdlT05YUnAyX1Q3dkZmQ2l5dkp4eHlRQWgta004cXdURkhQanNmRTVoWUtvREFBS2RxclFGb0lXaHA1S0t2X1RYVFNLMlYyZFFHd3FzeXRLTGFQOFVjQUdsTm9xVzZyQnlnSFJKVFptaTQ5MUhRRGpYRjAxSkFzdHpCbDJjYjU1X2NPMXlIXzJvSzY0VFkwV1RldlhLZ0g1?oc=5",
-  "clave": "caps inaugura investimento miguel milhao nova oeste sede",
-  "capturado": "2026-09-21",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "caps "
-  ],
-  "ruido": []
- },
- {
-  "id": "a23352e41789",
-  "fecha": "2026-07-06",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "toledo.pr.gov.br",
-  "titulo": "Saúde Mental realiza 2º Módulo de Capacitação a profissionais da Raps",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWRpWi1JcElrQ1R5YnFiWlQ2Y1M0aXdrOVRBZTZ2Z3FNMlZGYjdWR3lRMVFMYzd4eXhKckEtX0JoN0twdnZseWV1Z09kM2Z0ZzNjekQ1VWNnMGlXbC1PdDNJOC1YUVNjaGF3RmNzX08zbHU3NHluaVNxSDVqenpFemI3WmVpeEpCRng2VGZfSUhmRW9vQzMwNUZ0Mmd4dlVuT0xxclNJdVFLYkJOS3ZVTg?oc=5",
-  "clave": "capacitacao modulo profissionais raps realiza",
-  "capturado": "2026-10-03",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "e632b777f09d",
-  "fecha": "2026-07-06",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · EN sobre nuestros mercados",
-  "medio": "epha.org",
-  "titulo": "Beyond prevention: Why Europe should invest in Positive Mental Health in schools",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYURqblZ6MGphV1lJYXpycVV4ZFpodUxNYTJSS0p2c3lrRTh5eHV5cnMzOFhwYzdEWnhXbE1FRDk4eW5LSzY1VHZ0RXJtYmZPRHpIRlNHRHpjdlRwV1ZqZXFxNmRva21GdU1HTjVJbGdvaGpQcGxfSF8zUlcwdkJKUHZfb1hPektEakdOakk4TnpOZmR1aGVFUU9IbHlWQQ?oc=5",
-  "clave": "beyond europe invest positive prevention schools should",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "mental health"
-  ],
-  "ruido": []
- },
- {
-  "id": "9ddd74b30174",
-  "fecha": "2026-07-06",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "telemundofresno.com",
-  "titulo": "Estudiantes de Mendota se convierten en campeones nacionales: crean app para salud mental de jóvenes",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUGJUb0tDU0x0U2RsMHVTTnprN2NWYWlBeFIwSm1UOFBYVTQ1clRnb2ZoekV1M09WWGdad1kwcTV1YS1fNWxNcVBiZkpHOVhwYlFaU01xcERVRlZOcmR3cDZZLWpUcWhqQmNKN1JlNVFJQ0wwV2ZqRGdScTkyVFZIY0ZlVmdOM0sxWi1mMzVEY3BnUTJPcDl1VHUzbHVNU3I4c3NocGN5cDduWFRaOWlJakh3QXNQT0VQRUloTFptdVNtQ3d4Zmp0TEVuWjlfdkRIM2VGZkR2TU9TUHfSAeMBQVVfeXFMTjhxRGVZMkg0am1DVW9hOUtiVEh0amlfR0F4TFZuVnkxWC1pLW9LeThDSl9yZ09DSGZpUE1xUW1aSG5EQUVTUzF3OUZFOWZwU1otZ2luQVllS2w4TEVKM1hGZlFpMHNTTnFQUDR1U0NYV1Z4bTVMY2ZySExMVEFJWGIwaVBnTDBhMXBkSzZ0QVR6dkVjU0ZIX2VJamFZMWhnYnU5X2V5SXhkSFdBeEw3Z1dhOU9IT0tmbjFESGFMWm1Kd1Q3aWFWLVAxdzhtb3FCb2xUWjZlRDY3ZS1PVENQZXp4WDg?oc=5",
-  "clave": "campeones convierten crean estudiantes jovenes mendota nacionales",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
   ],
   "ruido": []
  }
