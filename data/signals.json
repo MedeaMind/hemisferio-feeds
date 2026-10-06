@@ -1,5 +1,299 @@
 [
  {
+  "id": "1c66e7192c1b",
+  "fecha": "2026-10-06",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Hospital Sapiranga inaugura novo Serviço de Hemodinâmica",
+  "resumen": "o hospital sapiranga vai inaugurar, na terca-feira, 06/10 seu novo servico de hemodinamica, resultado de um investimento de r$ 3,5 milhoes realizado integralmente com recursos proprios. a estrutura ampliara a capacidade da instituicao para procedimentos diagnosticos e terapeuticos nas areas de cardiologia intervencionista, neurologia intervencionista e cirurgia endovascular. o servico permitira a ",
+  "url": "https://medicinasa.com.br/hospital-sapiranga-hemodinamica/",
+  "clave": "hemodinamica hospital inaugura novo sapiranga servico",
+  "capturado": "2026-10-06",
+  "puntos": 11,
+  "prioridad": "A",
+  "categoria_auto": "deal",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "cbd338c9fc9d",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "elcaribe.com.do",
+  "titulo": "Comisión a punto de rendir informe nueva ley de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVThJanRnLThoQjRYX1d2SjN6M3c4S0xnOXNpSk9vTHJhMm43RUlUOEw0ZnVfdGNqM29tbDdfLTdtVHZsRDVjY3RheF81RkY0RE9TeDBNMld3WGhndXRkVmJ0WW1aalI0c19meGZEd05QdFRscFg5aGhNV2pqQ3Nkcnhudl83ZGFsck02UWs0TG00OW1KdHM1a2tlcTJjN3RIanZaTzF3?oc=5",
+  "clave": "comision informe nueva punto rendir",
+  "capturado": "2026-10-06",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bef95fc5ee2e",
+  "fecha": "2026-10-06",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El Gobierno obliga a las casas de apuestas a advertir del riesgo de perder dinero para frenar la ludopatía",
+  "resumen": "el boe de este martes recoge una nueva resolucion del ministerio de derechos sociales, consumo y agenda 2030 que busca frenar la ludopatia y ademas: psicologia reclama mas medidas sociales frente a la adiccion al juego",
+  "url": "https://www.redaccionmedica.com/politica/servicios-sociales/20261006/el-gobierno-obliga-las-casas-de-apuestas-advertir-del-riesgo-perder-dinero-para-frenar-la-ludopatia/354894_0.html",
+  "clave": "advertir apuestas casas dinero frenar gobierno ludopatia obliga",
+  "capturado": "2026-10-06",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog",
+   "adicci",
+   "ludopat"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "de3fa0b57162",
+  "fecha": "2026-10-06",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | Solo el 54 % de los japoneses buscaría tratamiento ante problemas de salud mental graves",
+  "resumen": "pacientes: solo el 54 % de los japoneses buscaria tratamiento ante problemas de salud mental graves",
+  "url": "https://www.consalud.es/pacientes/el-estigma-social-puede-convertirse-en-una-barrera-para-tratar-los-problemas-de-salud-mental-en-japon.html",
+  "clave": "ante buscaria graves japoneses pacientes problemas solo tratamiento",
+  "capturado": "2026-10-06",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1d93d572d8f2",
+  "fecha": "2026-10-06",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Cuando faltan recursos para criar, el cerebro materno cambia: un estudio en ratas lo revela",
+  "resumen": "cuando las madres carecen de los recursos necesarios para criar a sus hijos, esta adversidad genera un gran estres que puede dificultar el cuidado de la descendencia y provocar depresion posparto, segun un trabajo de la universidad de texas en dallas (estados unidos) realizado en ratas.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-cuando-faltan-recursos-criar-cerebro-materno-cambia-estudio-ratas-revela-20261006081748.html",
+  "clave": "cambia cerebro criar cuando estudio faltan materno ratas",
+  "capturado": "2026-10-06",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1aee5edc32b1",
+  "fecha": "2026-10-06",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Un 30% de los profesionales sanitarios en Europa presenta síntomas depresivos y el 13% reconoce pensamientos suicidas",
+  "resumen": "un estudio internacional, liderado por investigadores del area de salud mental del centro de investigacion biomedica en red (cibersam) y de la universidad autonoma de madrid (uam), revela el impacto de las condiciones laborales en la salud mental de los profesionales sanitarios, concretamente medicos y enfermeros en europa; asi el 30 por ciento presenta sintomas compatibles con depresion, el 23 po",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-30-profesionales-sanitarios-europa-presenta-sintomas-depresivos-13-reconoce-pensamientos-suicidas-20261006124739.html",
+  "clave": "depresivos europa pensamientos presenta profesionales reconoce sanitarios sintomas",
+  "capturado": "2026-10-06",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental",
+   "depres",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f0e903441a6d",
+  "fecha": "2026-10-06",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "El desgaste psicológico laboral se concentra principalmente en la franja de los 40 a los 49 años, según un estudio",
+  "resumen": "el desgaste psicologico laboral se concentra principalmente en la franja de los 40 a los 49 anos, segun un macro estudio epidemiologico realizado por quironprevencion, con datos de entre 2022 y 2025, en donde ha analizado el impacto del bienestar psicoemocional en la poblacion activa y descifra la frontera entre el entorno laboral y los factores personales extralaborales",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-desgaste-psicologico-laboral-concentra-principalmente-franja-40-49-anos-estudio-20261006134122.html",
+  "clave": "anos concentra desgaste estudio franja laboral principalmente psicologico",
+  "capturado": "2026-10-06",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "853c3542629d",
+  "fecha": "2026-10-06",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Projeto usa dados do SUS para estimar risco de violência contra a mulher",
+  "resumen": "uma pesquisa realizada no instituto de ciencias matematicas e de computacao (icmc) da usp aplicou tecnicas de aprendizado de maquina para estimar o risco de mulheres sofrerem violencia fisica, sexual e psicologica com base em dados publicos disponibilizados pelo sistema unico de saude (sus). o estudo foi premiado na 9ª conferencia internacional de aprendizado de […] the post projeto usa dados do s",
+  "url": "https://medicinasa.com.br/dados-sus-violencia-mulher/",
+  "clave": "dados estimar mulher projeto risco violencia",
+  "capturado": "2026-10-06",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2b1124024f5c",
+  "fecha": "2026-10-06",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Sobrecarga laboral y problemas de salud mental: el círculo vicioso que agrava la crisis de plantillas médicas y enfermeras en Europa",
+  "resumen": "un tercio de los profesionales europeos presenta sintomas de depresion y uno de cada cuatro, de ansiedad, siendo problemas \"sistematicamente relacionados con las condiciones laborales\", segun un estudio publicado en the lancet y ademas : europa respalda que la salud mental de los sanitarios sea un indicador clave de rendimiento para los gestores",
+  "url": "https://www.redaccionmedica.com/profesionales/20261006/sobrecarga-laboral-problemas-de-salud-mental-el-circulo-vicioso-que-agrava-la-crisis-plantillas-medicas-enfermeras-en-europa/354945_0.html",
+  "clave": "agrava circulo crisis enfermeras europa laboral medicas plantillas",
+  "capturado": "2026-10-06",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental",
+   "ansiedad",
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2f9795341a10",
+  "fecha": "2026-10-06",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "asturias | Asturias presenta Cerca, un programa para prevenir los problemas de salud mental integrando a la comunidad",
+  "resumen": "asturias: asturias presenta cerca, un programa para prevenir los problemas de salud mental integrando a la comunidad",
+  "url": "https://www.consalud.es/autonomias/asturias/asturias-presenta-cerca-un-programa-para-prevenir-los-problemas-de-salud-mental-integrando-a-la-comunidad.html",
+  "clave": "asturias cerca comunidad integrando presenta prevenir problemas programa",
+  "capturado": "2026-10-06",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "161814198ec0",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "The Express Tribune",
+  "titulo": "Instagram turns 16 with 3 billion users under shadow of data privacy, mental health concerns",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeXVvamhkb01WN3pxMUpPYnlnMGZaR3o3Z25oSzNEcE00ZEp4bUEzZ0pwOEUzQkUzUk91aEVTWUw4ZTE3NTNqRlhEWEZCS0RHV29HNzdZampDOGlEN21RbVBYbmpHZFJKT2tob2wtQnNOUkpTUExwc1hFR2Jyb1EyVVlzblhMLVkwUzdfWEhBZTVwVnZsV3p1bDVaN19GdmNpb3hkVHpYTkd1R2hJQVhLTTdXbFptWVlwUHRTanNEMFZDaU5YV2c40gHPAUFVX3lxTE1ZNVp5ZDlCU1VVRjFBa3Z6N2ppczFWODFxZjkxekNPaEZYR1JZQWZFNGtNNmxQZmZsRnI2b1V2S3Y3a3V1UkN0WlgzM1VaMzZZWldOS0JBUWl6VS1oVFJ1ejJQai1qdGg2Zk16VVJ4NWlYSmlXWlJTWlNsV2l0ZlZUSU5iLXFHaGczYnF3Y19vZ0JMUkZDMzdvU1lEVmwxT3c4QTVVMHBvd0U0SUxZSnpBWnVvNFFXUEJObUYzc3MzaG5aRmxVOEdVM0RJQTlSNA?oc=5",
+  "clave": "billion concerns data instagram privacy shadow turns under",
+  "capturado": "2026-10-06",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "494a40467f5e",
+  "fecha": "2026-10-06",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | Ansiedad: cuándo deja de ser una reacción normal y empieza a afectar a nuestra vida",
+  "resumen": "pacientes: ansiedad: cuando deja de ser una reaccion normal y empieza a afectar a nuestra vida",
+  "url": "https://www.consalud.es/pacientes/ansiedad-cuando-deja-de-ser-una-reaccion-normal-y-empieza-a-afectar-a-nuestra-vida.html",
+  "clave": "afectar ansiedad cuando deja empieza normal nuestra pacientes",
+  "capturado": "2026-10-06",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "ansiedad"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a51d1ee0e421",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Diario de Yucatán",
+  "titulo": "Apoyo a la salud mental en Mérida, con una app que previene riesgos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNU9uSm42YkNrQk5jM3JqZWRZQzBUdlQ4a0hhUTdwMTRRTXY0RVpBZ2Z1eXBkRWtZem5HeWk1OFN4SGdINWk4ZU5uNXBhNllWaGZpWmN4Y0VPR1RJYV9aRVBGX085UUF5aEZLWnFlVXFwNGVFTGFRZWdQN3NIRVF6ZEd3YVZBa1FLMGlncHlmcVJsTzl3S05MbllBaUNwc1BGa1ZSQ3RTdm9Ka2V4a2VHOHNqSlY0TWM?oc=5",
+  "clave": "apoyo merida previene riesgos",
+  "capturado": "2026-10-06",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d21678cff039",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario de Ávila",
+  "titulo": "\"Escucha\" y \"prevención\", claves para la salud mental de niños",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamdXam5oQ3JwYUFLd2xDLW10QnpEWkRPYVAtakViOTB2V19XM2E5LUE0UzYxalMycGVXUEZsZUlQVHc4ZUlOQ2ktZ0drY1otOXhIcXFIdHN1VUFJV1BmWEVuMEZMSWd2eG44YmxGSUlXV0xOVkpfNGJtOVpjb2N0cnZ0Qlh3Q0pkVnM2cmVxbnhzS25KRFFfRTB1anNpdE8wbmhURXhfNnB2M1VHZUQtbzBfS1hHWHV6MHVTRHVLSzFLOEtET2ZreHQzV1kwVk80Y3NFUA?oc=5",
+  "clave": "claves escucha ninos prevencion",
+  "capturado": "2026-10-06",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "claves para"
+  ]
+ },
+ {
+  "id": "84c0261f121a",
+  "fecha": "2026-10-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "gazetadasemana.com.br",
+  "titulo": "Novas regras da NR-1 ampliam espaço para ações de prevenção em saúde mental nas empresas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUWg3R3NUaXEwSnZYME44VlFQeEdaSG16Mno5TDJLT2I3M3RERG9lNVNFTi12UUx2WHJkUEdwNTRaNy1JWlJSSXZBS1VaNlkwRnh6Wlc0YnNja29QYmZOX0xaZlhsZzBDd0w1Y3E2XzdCRzBuRVJvTXgzUGl5X3djYUJxVVdZbUJmMGlSVGowZVVkVnM5MU11Y05CSndYanRvdHhEdXlXOUxIRXBqNTJXSy00bFJWT3ZBQ0oyeHp3UDdqTWVVdTFvNER1NW5fQQ?oc=5",
+  "clave": "acoes ampliam empresas espaco novas prevencao regras",
+  "capturado": "2026-10-06",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
   "id": "8bb2fec8e3bc",
   "fecha": "2026-10-05",
   "carpeta": "01 ESPAÑA",
@@ -69,6 +363,45 @@
   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONWlHYmtvMFhKQUVUeFFUY1k1TUNSWUZELWxyNmdzQV90UDhUa3NYYUY2bzU3cURaMDh6bUtQd0xhWnVET1Q1V0xGY0ZQeDdqY25fUVIyVUVOcnpGM0tGYUFzSUtBblk3Z3BaNkpqM0Jfb0dRSnM2TGo4VkRIdnZkRnVoeEhEeXloWHJxV01CV0xpVE5xbnVEcUhWTE43NW9iRzVaYU5jZGoxZHl5a1RsY3l3cTNUMjIyb2tkbGFKZTMyZnpyZTB1cnhpb3F5OGZPbmU4cUx4Z1Y?oc=5",
   "clave": "cobertura confirma corte equiparar fallo fisica isapre ordeno",
   "capturado": "2026-10-05",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5ce217bfef0e",
+  "fecha": "2026-10-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "BioBioChile",
+  "titulo": "Insomnio, soledad y tristeza: la salud mental de los chilenos tiene su peor nivel desde la pandemia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxON1ZmUlZ3QWJuTG9MM0ppUGcyRnV2YmVMUkIxUTlSNnVCSmVkODBoRU9GeVJuX2pZUEJyd3Q2c2VtNEg2c1hvSG5Od1ZYYkkwTFllM2plTUZiVWVPSlYzSmFBV1Y5TnlYZktXNTRvUkxtdEFXdXJqd2RaWWYzcHNrenFjTkJpVFkwYlZSRW5pNHo3bnJ0Tl9fTzFqR1dsQWFPRmotNTVta3hQcEYtb0VxN3NPOVRWRlcwWk5XTTIxck5ZbkZTVkxFSE8zQXB0X1pPa2V2bG5ZNmZhR1ZWU3FYVHhhelhEeERETHF3RFlWamlQdHRGNUpjRkxvcmZaRk1uWDhnWg?oc=5",
+  "clave": "chilenos insomnio nivel pandemia peor soledad tiene tristeza",
+  "capturado": "2026-10-06",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "insomni"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5c038b7cb150",
+  "fecha": "2026-10-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "El Nacional — La voz de todos",
+  "titulo": "Aseguran que la pobreza y marginalidad en RD están creando problemas de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0M4UXBvLTVhWWt4SVBMQ0VzcWU0SnJOWUpCNlB5ZUthZWllY2xUaVlyaFpOMkdZR0pUNjhsTnBPdERYUEo0cWdGZzluS1ZQQWJsQVNabkxPa3ZBWjdWeGlOclZNRzFJd1VzY3BoYTl6R1JyRnRZSU9KcXVtcHVwcXRvTnpKUHB1WUtab0tDUlRoajh3ZHBHZV9nLXFSWjM0Q1ozZTJ3OENxTkdj0gGyAUFVX3lxTE5hWGg5dE00cGxGdjVqU2VHaUdXcUNSaDJ4WEJiTHVzc3EzNHBrbHZFSUEtT3VUaG9YYzhsT3dBaXFfSnlUMjJRa0JoQ3NDeXU2M3ZPZlBaVnJOOTNDUDFjWFNjdEFnSjZHNFplYmFDNjdLd2RLc002U3RiMWZoYVFZTHhJM2FnM1hlTlE3UWNwempRZDdsLUtEbjhuaDBCQ25mNmQ3d0l4RDdwWXBzUTM2dlE?oc=5",
+  "clave": "aseguran creando estan marginalidad pobreza problemas",
+  "capturado": "2026-10-06",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -234,6 +567,26 @@
   "ruido": []
  },
  {
+  "id": "ad343b4efb10",
+  "fecha": "2026-10-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Razón",
+  "titulo": "En marcha un servicio para prevenir adicciones y promover la salud mental en Madrid",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTzMtbnUwNVdWVnN4UUt3MW9sTC1GWmlVT24wVFZTV0pKRXU2ZGl4YkhtMDJxTS13UHhWT1NEeTkxaWNkaG5VbTBYNTdmNnBTZUFqMV9wTFBuYmkwNGhhbV9FaFBoazRkS0YwMUlWYS0wYU5CU1pvZFdhSm1odjU2MFN4T2hnSUpOdC1xSUt1clFveHZhNVRmOG9DemZMbzEyUXVKcWZlUkRzZlJxcThPZnF5bENWZ1pXbzlDcWJwM3FEZVNWMFctSFBoMmHSAeABQVVfeXFMTWMyUGhRYlNHek54RmdXTy1EUFRjdDZiZXJWcDIzOVA4V2xjT3NuWDA5ZmxBcEl3MC1wQl9qcU1pSjFVQTc0aG14Rmpkd3dIXzc1cTh5TjdWVlZiNmFhUnd6VFloRGJQM21sS2Q0b0NxMlVBRmRaZjNhNlBoVEM3MEZfVG91OEY1b1hkNmVSeTJPMWZ2ejVsZWZJcC1ZbUNoWXNCVFl6eDE3NEVPdTRTdW5keTB0MFNhNXdCbHphZlhLdkRscEwyUk14RWozSUNzUE5OTjZWaGpCYlJ1Rzh6cXQ?oc=5",
+  "clave": "adicciones madrid marcha prevenir promover servicio",
+  "capturado": "2026-10-06",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
   "id": "0d09338e7ef2",
   "fecha": "2026-10-03",
   "carpeta": "01 ESPAÑA",
@@ -313,6 +666,25 @@
   "topic": [
    "mental health",
    "addiction"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d395954bdbb6",
+  "fecha": "2026-10-02",
+  "carpeta": "02 LATAM",
+  "feed": "LatamList",
+  "medio": "LatamList",
+  "titulo": "Wellhub adds $18.8M to credit fund for Brazilian gyms",
+  "resumen": "wellhub added $18.8m to its credit fund for partner gyms and studios. galapagos capital manages the fund, and… the post wellhub adds $18.8m to credit fund for brazilian gyms appeared first on latamlist .",
+  "url": "https://latamlist.com/wellhub-adds-18-8m-to-credit-fund-for-brazilian-gyms/",
+  "clave": "adds brazilian credit fund gyms wellhub",
+  "capturado": "2026-10-06",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "wellhub"
   ],
   "ruido": []
  },
@@ -10119,6 +10491,25 @@
   "ruido": []
  },
  {
+  "id": "11ea36a8b395",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Vivir Ediciones",
+  "titulo": "Galicia Plan Salud Mental 2026-2030 inversión 177M",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzJqM216TDBqa0tsaHM2UlVjM283ZlViV2pZWnU0NlY3VXVXS0hwNDF4T0VnNmY2NXdlMlE3dm9pLTZPeExmTXFzSDgtRklqdG5ONkNDZncySVN6UDNzcURQLUVzVkJZcEdRZzliVEkyVXA3SGF5eUgwRDhjcGV3UFB3NDZ3R3dO?oc=5",
+  "clave": "177m 2026 2030 galicia inversion plan",
+  "capturado": "2026-10-06",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "52e82c160797",
   "fecha": "2026-09-07",
   "carpeta": "01 ESPAÑA",
@@ -11927,6 +12318,25 @@
   "ruido": []
  },
  {
+  "id": "a89d442a3d55",
+  "fecha": "2026-08-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "082noticias.com",
+  "titulo": "Startup de Alagoas é escolhida para testar tecnologia de saúde mental na China",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblRIUFRLeHV4bW1vbzF0N0FEQlNtVEF0d01CenZCc1FFa2lnU1BNSFhjNzdrZUlQcmFVUnlVdDRJTk50WDVZYmpRS0ZJTWxpVXMtOWFjeU5OZ1BIcGtvTndfaWdPQV9GWTRlblM4ZjlyMHl5MmJuUmkyaTFxSm8wSDJuY2VaNUZuQlYwd2wxazlaXy1faVlpRE12cG1CemVrLXY1Nlc3aUFyZWZfS3I3UWtn?oc=5",
+  "clave": "alagoas china escolhida startup tecnologia testar",
+  "capturado": "2026-10-06",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "10cbb1bbc2af",
   "fecha": "2026-08-27",
   "carpeta": "05 GOOGLE NEWS",
@@ -12003,6 +12413,25 @@
   "topic": [
    "salud mental",
    "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0d4c7eed956a",
+  "fecha": "2026-08-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Peru Construye",
+  "titulo": "Tacna: Centro de Salud Mental de Pocollay tendrá nueva infraestructura con inversión de S/ 18.7 millones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXhzekMyeHBhSTZ6MTE1VGl3X18yRnlNV05jdDU1QUVySW9KNTd0Tl8wZzVMWGhsVVVxWFByenpHZ2V1VldnaHBCenFlOWlaVXMxbk1HTHFOTVR6Y3Y0MlpSTnptQ05ubWh6Sks3NEFTLXp6a3h6cExJQTROTEp0VEhGQ05wVTM5Y0FkTnlfNFRqazNqTk5HNnJRZ0I5V1ZuNXc?oc=5",
+  "clave": "centro infraestructura inversion millones nueva pocollay tacna tendra",
+  "capturado": "2026-10-06",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "deal",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -12467,6 +12896,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c95088a46cfb",
+  "fecha": "2026-08-24",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "FIEMG",
+  "titulo": "SESI Vida promove encontro gratuito sobre saúde mental, fatores psicossociais e dependências, em Ipatinga",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdEtvSG1NYno3elZXd3dUMzBkZ00zdDh2THRSVlBicnBydTJsb0gwaFFVSmtpZFZiWXZfWWJ2WThHdFV1elRob2pEWnBhdTdSNVA3Mld4MFVtclZuTzlPWmhLcG5xNU8zZW91NWNoOUF4LW02eUhDUWJtekJWY2pFVjVTa0JxZE4zMHU0eWotN0d1VU10eFYtMzVMSFM2azR2X2k1emd3NkhyTWhCajIwTnJXTE5mV2hTcUxzYjJFSVRscnViZ3NFSWJTNFdLOHBDN0o1U2VndUY3bUtUN2xrMzQ0WHgya01SXzlOOEo1UFI?oc=5",
+  "clave": "dependencias encontro fatores gratuito ipatinga promove psicossociais sesi",
+  "capturado": "2026-10-06",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -14390,6 +14838,26 @@
   "ruido": []
  },
  {
+  "id": "d73284185f5f",
+  "fecha": "2026-08-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "PCGuia",
+  "titulo": "Mena.ai quer ser «o sistema operativo da saúde mental europeia»",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGRkalhENnYtaTVKYmtTd0o2cl9JbDRQNHE1cmhSc3BESEZsMHljTV9naWxmX1ZrQWRDc3JwSFEwdDdmc1BhT1NZZGJNRTZTbXpXa0tRTlIyQ291OWRlUWRyQWJlX2xIczRhVjg2LWZ5TFpRUTN6Z2hiYjBFRjZOQVJoTkRzVko2NXJBN3MxZS1JZG5ZOTlZ?oc=5",
+  "clave": "europeia mena operativo quer sistema",
+  "capturado": "2026-10-06",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental",
+   "mena.ai"
+  ],
+  "ruido": []
+ },
+ {
   "id": "ffbeeb64b638",
   "fecha": "2026-08-07",
   "carpeta": "05 GOOGLE NEWS",
@@ -16169,44 +16637,6 @@
   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHczbWY4R0FzNFRsUW9kSjc3Y2I0TXFPMUwtVTljZTVoZnZHakh6V3V4WVgyNkFwUFNSSU9lQnJacm1ScFRxdTBlb2JpRmlJU015dUJjX3hMbFY0WXc3X29odGg0WENyMWg5NEdnd2RUTUJqVWtTUHZPaDNoMnJZX2VLODhMZXNzQXh6d1JLblFjcVlYS05XdDFyYmNRQnBNTi1YTEZnb3hIeFVaeFZmMW1WR0d4R0p6YnhkWWR2a2pFbmd3eWhQbTM1TlFQbEFJMGIzSUlmVnR2OEV0VGctTURGNjFjVlJLRXhZMHJwSUpKQdIBgAJBVV95cUxOSE1pUTd3b2sxSHhKOXZIWTd6Z0RRdDJQV1dlUVRCVUV6X3ZrTzlLeTVhNmJVSFY0T1YzRlR2eVJYX25OWDlGdUpYQ0h4eXZRaGZiYW9nTlhqa093Ukl2R2hPUUJ5SlJfakZISFh2X3A4V0ZmN1VsZEl1bmRKU2ZTdWN4U2JfY2kzbGlyVFhYak1tcGFTRWZpS28tVkJ2Vy1mbFFVSnJnd3VNbG5wMmVxaFVvYnBQRTlEV2dmTDRDcFBacTNiYmZJdEUtQ0J2WmxUTnVmRUIyVnVka3dCQTNBTXNTZXhNLXhuQmJMc0dUZDdGRjk3MkJsMHkwWnJBbHpi?oc=5",
   "clave": "aciona estado joao justica obrigar paraiba pessoa rede",
   "capturado": "2026-10-03",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "d7a2e4cdaad0",
-  "fecha": "2026-07-07",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Migalhas",
-  "titulo": "Saúde mental no trabalho exige maturidade regulatória e gestão de riscos",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnFOUEFROWZTN2ExdG1qd0Vkb3NrOTg0VUdBRzJoeDYyN1A1T0xEeUVPejg0VzFjQW43OWNmRF9OblhEemtpb2lrcXFWY3ZEcEVGM2swOUl3Ti0zakkzOGtuZUNqTFNIYzdSYzhiQ2NyNk5mMGg3c0g2WXdhTzl4VFBVQV9RcjdSSjFYcS01ZEpmbVJTZENQbnRPN3BlM0E5eVlRekZWWQ?oc=5",
-  "clave": "exige gestao maturidade regulatoria riscos trabalho",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "feeb45797779",
-  "fecha": "2026-07-07",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "cnmp.mp.br",
-  "titulo": "Fonasm-MP conclui ciclo de produção normativa e inicia nova etapa de implementação da política nacional de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdW9YOUQ4MVlVb0lNVWFYbnl2VWhULVZtWXJ2dHJ0Y2s3V0IzRjlteEl4aTBPZGpOa3Fnb0prX0VZa0Fxckt1dFdFSTluZEo5MWtLOXhfSG1EV3FQdEI0STUzaVFneEpZVDlBVjJKTHRmQ0RHaGxXR3FQMmlyMEVJZXlyTkNpei1JZ1NQYXpHWmNiTGNrRDNKaU8wQkVsQUxfSG42MW8zRVg4RURnV05DQW1mQ2lzTEl1LUQwNk5Pam9OOG1URUxBWWJxY1B1UDUxUmg2X3hrOHBPYTZ3Nk9HLXFfVzZwQWhEWDZ0S2lTNnU0QlNPY2xabTZVd1pzWTNwSVpz?oc=5",
-  "clave": "ciclo conclui etapa fonasm implementacao inicia nacional normativa",
-  "capturado": "2026-10-01",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
