@@ -1,5 +1,236 @@
 [
  {
+  "id": "d38c8367c33b",
+  "fecha": "2026-10-07",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Ministério da Saúde amplia núcleo dedicado à saúde mental dos trabalhadores",
+  "resumen": "o ministerio da saude iniciou uma nova etapa de estruturacao do nucleo de acolhimento a trabalhadora e ao trabalhador (natt), criado para oferecer escuta, orientacao e encaminhamento a profissionais diante de situacoes que afetam sua saude, seu bem-estar ou suas relacoes de trabalho. o projeto e conduzido por renata rivetti, pesquisadora da felicidade e do […] the post ministerio da saude amplia n",
+  "url": "https://medicinasa.com.br/saude-mental-trabalhadores/",
+  "clave": "amplia dedicado ministerio nucleo trabalhadores",
+  "capturado": "2026-10-07",
+  "puntos": 8,
+  "prioridad": "A",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bffda73be245",
+  "fecha": "2026-10-07",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "La sanidad privada afronta el reto de atraer y fidelizar a profesionales con talento, bienestar e IA",
+  "resumen": "aspe celebra su vi congreso de recursos humanos y salud con el foco en el papel de la tecnologia y la salud mental en la gestion de sus plantillas y ademas: \"la sanidad privada espanola es un referente para europa\"",
+  "url": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261007/la-sanidad-privada-afronta-el-reto-de-atraer-retener-profesionales-con-talento-bienestar-ia/355133_0.html",
+  "clave": "afronta atraer bienestar fidelizar privada profesionales reto sanidad",
+  "capturado": "2026-10-07",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "congreso de"
+  ]
+ },
+ {
+  "id": "00e1d04bc295",
+  "fecha": "2026-10-07",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Las medidas de prevención del bienestar de la infancia impulsadas por las empresas son \"parciales y desiguales\"",
+  "resumen": "las medidas de prevencion de la salud mental y el bienestar emocional de la infancia y adolescencia impulsadas por las empresas privadas son \"parciales y desiguales\", segun se desprende de un informe de unicef espana, zurich seguros y z zurich foundation, que ha analizado las practicas de 57 empresas de los sectores de ocio y entretenimiento, tecnologia, moda, estetica y seguros.",
+  "url": "https://www.infosalus.com/asistencia/noticia-medidas-prevencion-bienestar-infancia-impulsadas-empresas-son-parciales-desiguales-20261007131807.html",
+  "clave": "bienestar desiguales empresas impulsadas infancia medidas parciales prevencion",
+  "capturado": "2026-10-07",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "salud mental",
+   "bienestar emocional"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "447966bbb753",
+  "fecha": "2026-10-07",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Sant Pau testa una tecnología para hacer más precisa la cirugía contra la 'enfermedad del suicidio'",
+  "resumen": "en el dia internacional de la neuralgia del trigemino, patologia en que tarda hasta 4 anos en diagnosticarse, hospitales como el barcelones destacan avances en su abordaje y ademas: sant pau aspira a liderar la investigacion en cancer de pulmon del sns",
+  "url": "https://www.redaccionmedica.com/innovacion/20261007/sant-pau-testa-una-tecnologia-para-hacer-mas-precisa-la-cirugia-contra-enfermedad-del-suicidio/354977_0.html",
+  "clave": "cirugia enfermedad hacer precisa sant suicidio tecnologia testa",
+  "capturado": "2026-10-07",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1514862fd859",
+  "fecha": "2026-10-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "TN",
+  "titulo": "El Gobierno quiere reactivar el Senado con la Ley de Salud Mental y el tratado de patentes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOXdJWVFNVHFQd0x2RWtIRzNJM0VGdG4zX05ydGZEWHZCaW1qVXNJSEtGTm5nRUtCUDFIYnFDWEdvYTBGSmxjYmI5dHMwOHd6MUNIUXRFZlJKcUl2d1NtM0ZRaDBtbjVWZEtacjE2VUtkNHAxZHJGX2d5c3BISGgwOTVQY1QxanJ3QXdvLXZyUjZGQmYwTkVmeDMwZ0VheFpxQndUMWtLZVJKQ0FKeXpfQktUTVlGbjNGVjA4cmlzc3QtZ1MzWkhNWNIB3AFBVV95cUxPV3BaRGZfWU5McGJFT3lkQVRVYjJQSFVoMWt1YmNqa2NUUVVRUDhkbUhkZWdKVTI4ZHc1MmVrMjg4eE81cElsb3F6bVZnZ1VyUEpETkJMOHBtSHh4Z0tFbWdUOTZZRFJNYVNiaHhlOEFVZEtGX1RFZlVlU05NVDNfLTU3cFlTeDhaTzBJazdsSzNrZWYwb0ViZHZUcmh4SjNWWnpESUVCcUFQbnFzb0hLb1FBV1lNczRPSW8ybGRtcWhUWkZxMktrU1BRdndtSUFUdi1OZUotazlGa1l0?oc=5",
+  "clave": "gobierno patentes quiere reactivar senado tratado",
+  "capturado": "2026-10-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9df553cf1e28",
+  "fecha": "2026-10-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Del Sur Diario",
+  "titulo": "El Gobierno quiere mover el Senado con Salud Mental y patentes, mientras la reforma política queda en pausa",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2Fob1Jld2R1UnBNb3N0cGJDOEliLXpqSVdwNGlCRFVGV3RRRWdtMEk4WU5NY2J4ZFdLX1Rvcmp4bUZsV0poUmo3UWRVTjZyNTJ1RGg0bTc5c2dTVVNrVTlEOHA0QkZiRlpEaUVpSkxkajRMcGsyMUJGMVRkaDZtc3ViYldFRjYydU8xbG5PVG45ZTZjdzdYNVpUbXN2NE43ZUFRa0tyNFN0dFFTV002c0U4ckF1SGUxT1dTYlFvQmxHMVpiVUpEc2FxTDZmLVo5TkQ0OTRMbEdJUQ?oc=5",
+  "clave": "gobierno mientras mover patentes pausa politica queda quiere",
+  "capturado": "2026-10-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2af0e096eb6c",
+  "fecha": "2026-10-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Jornada Zacatecas",
+  "titulo": "Presentan una iniciativa de Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qOG14c0pLRThrc3ZDekZ3NGVjMzFFU1VRV19EYTJWQWtVVWR6Z3Uybk9OMTREU2xVT2loOHMxU0FoN215TEJzakNzNjF1WTFGbS1SaFhXa1RoT212dklid0k3NHJkSS1rcWc0UlVBM3JmNHR2dDg3dnF5Mkw3Y1k?oc=5",
+  "clave": "iniciativa presentan",
+  "capturado": "2026-10-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c2a0ffa79e1f",
+  "fecha": "2026-10-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "NTR Zacatecas",
+  "titulo": "Presentan nueva ley de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RbVVnQXNYQzFKTXl6OEs1X2xsYjRwZHM3NmJKc2ppZTIzZ0VGLTI5RE9ZX19SQmdjNnRLVm11bGswMG84MUZWODFoNTlNNWFCVVRrdDRkel9VRE5HU2EzOTNTWTU3ZU1IUk9FcUQ1YlZiVXRsRHVqVw?oc=5",
+  "clave": "nueva presentan",
+  "capturado": "2026-10-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d0ed80e8b840",
+  "fecha": "2026-10-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Horizonte",
+  "titulo": "La ley de salud mental sin dirección",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc1llRzR1MXVoSUxHdTktVWpXWkZva05UZWxMWnpMc2lHNHE4bTlzNWR4RnNBMmYtaW1GRmRWOWxzT1laQkZXSXBhb0RBMEpsMklDN183c2F6LUkzM1cxc2JLaUpKQ0dLVjU2M3Y3TkZ3N0RTUThRbHZsbkExNldrYXdWOHNBb1VLWlE?oc=5",
+  "clave": "direccion",
+  "capturado": "2026-10-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b9b84834c5ba",
+  "fecha": "2026-10-07",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Investigadores españoles analizan el potencial terapéutico y los desafíos de la optogenética tras el Nobel de Medicina",
+  "resumen": "rosario moratalla, profesora del centro de neurociencias cajal, profundiza en las posibilidades mas alla de la restauracion de la vision",
+  "url": "https://www.redaccionmedica.com/innovacion/avances/20261007/espana-estudia-el-nobel-de-medicina-en-parkinson-como-alternativa-la-via-farmacologica/355004_0.html",
+  "clave": "analizan desafios espanoles investigadores medicina nobel optogenetica potencial",
+  "capturado": "2026-10-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "33e24c3ff0b1",
+  "fecha": "2026-10-07",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | Las relaciones familiares y la falta de recursos económicos, principales factores que afectan a la salud mental de los españoles",
+  "resumen": "pacientes: las relaciones familiares y la falta de recursos economicos, principales factores que afectan a la salud mental de los espanoles",
+  "url": "https://www.consalud.es/pacientes/las-relaciones-familiares-y-la-falta-de-recursos-economicos-principales-factores-que-afectan-a-la-salud-mental-de-los-espanoles.html",
+  "clave": "afectan economicos espanoles factores falta familiares pacientes principales",
+  "capturado": "2026-10-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "946fa7295b79",
+  "fecha": "2026-10-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario de Salud",
+  "titulo": "Alexandra Hichez pide convertir la salud mental en prioridad de las políticas públicas de República Dominicana",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcWlQelZFRjluU2tIRmxmZGpHSDJabll1c05TVVZzYmRVajZCWmNZcjRLNC1DQUpGRlVwb2tpVlJIOWxkR1JTbWUtVmxNSVdwUkg5RWVYTUZEdUd4Uy0yU2YtVFhlZndEYmVObmhCYVlGcEcxdjhqR1lZanNBS3lsZkZxLWRkc2VmSHhQNTE5WTlrYTgtZ1lNOFFsRUp6Q0h4eEFTV3ZDbkUtUGxLdDZRM3FTRlNvWjJCTGs4TU5jN0NXRlFzUmI5cTM1ZE1acTZvTWIwSkNsOUNxVnVSLWNwSC1yV29BWm1LLV9TQQ?oc=5",
+  "clave": "alexandra convertir dominicana hichez pide politicas prioridad publicas",
+  "capturado": "2026-10-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "1c66e7192c1b",
   "fecha": "2026-10-06",
   "carpeta": "03 BRASIL",
@@ -156,6 +387,25 @@
   "ruido": []
  },
  {
+  "id": "0b9cd29de43b",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "El Nuevo Diario",
+  "titulo": "Comunicadior destaca aporte de RD Debate; llama a aumentar inversión en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSndsNmpKdUlaWjM2ODdGTXRxMW5OYm5uU29HZENNMFBhS0FfQzBjZDNDcU9rUE5hdzNkV2lHQWV4a2xCNVg2akJKbW45eG1TNWxsNVBDd3NDOWNLaXE4RTFJbzhuTVNsOTlaNG9BbjIyRXJkWjFqZmlldHEtTVhOUzN1SUd1cDIwMWI2X1E3dlJ3aFVoQTdJTlZJMEt0MXNGcG03ZEVQa1o5YjF4NlVNX09PZw?oc=5",
+  "clave": "aporte aumentar comunicadior debate destaca inversion llama",
+  "capturado": "2026-10-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "deal",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "2b1124024f5c",
   "fecha": "2026-10-06",
   "carpeta": "01 ESPAÑA",
@@ -173,6 +423,26 @@
    "salud mental",
    "ansiedad",
    "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8635d936a618",
+  "fecha": "2026-10-06",
+  "carpeta": "02 LATAM",
+  "feed": "Saludiario",
+  "medio": "Saludiario",
+  "titulo": "Doctoralia Terapia: así funciona la plataforma digital para el cuidado de la salud mental que une a pacientes con psicólogos",
+  "resumen": "doctoralia terapia es una alternativa digital para el cuidado de la salud mental simplifica el acceso a profesionales de la psicologia.",
+  "url": "https://www.saludiario.com/doctoralia-terapia-asi-funciona-la-plataforma-digital-para-el-cuidado-de-la-salud-mental-que-une-a-pacientes-con-psicologos/",
+  "clave": "cuidado digital doctoralia funciona pacientes plataforma psicologos terapia",
+  "capturado": "2026-10-07",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "salud mental",
+   "psicolog"
   ],
   "ruido": []
  },
@@ -215,6 +485,45 @@
   "ruido": []
  },
  {
+  "id": "40e041691758",
+  "fecha": "2026-10-06",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Andalucía defiende que el reproche judicial a su atención a la patología dual \"no refleja la realidad actual\"",
+  "resumen": "politica y normativa soledadvalle salud mental la primera comunidad terapeutica de patologia dual de andalucia abrio sus puertas el lunes 14 de septiembre de 2026 en tarifa (cadiz), segun anuncio la consejeria de sanidad de andalucia en una nota. \"un centro pionero con el que damos un paso historico que refuerza el compromiso del gobierno andaluz con la atencion directa y especializada en la salud",
+  "url": "https://www.diariomedico.com/medicina/politica/andalucia-defiende-reproche-judicial-atencion-patologia-dual-refleja-realidad-actual.html",
+  "clave": "actual andalucia atencion defiende dual judicial patologia realidad",
+  "capturado": "2026-10-07",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9decc2c36908",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "radiolider.com",
+  "titulo": "Noia tendrá un nuevo centro de salud mental de 890 metros cuadrados: la Deputación aporta 200.000 euros",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ0F2d21TbXFxQnUyMUctT3M5MGhBUmJIbW9mblA3R1ZVX0JWTWg0RGlUQzNDSm5TZVU1NFZEdms5Y3F4SXJfOEdSQzRxMURDZXRxNkZEaHpMQWY4MWN1aUhsZXVDZm1KWUZBcmFDb2ttVXJfRGFQVWQ4TXlUU2J6XzhUVXdCX0d6c0ZmRjFtUm5NX3hjQ0pCZF80Z3REZWFlMks4cW5jc2s3OWRXVmVNNWVkTGM5bUtkbnlPVkJOVHgtcUNC?oc=5",
+  "clave": "aporta centro cuadrados deputacion euros metros noia nuevo",
+  "capturado": "2026-10-07",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "494a40467f5e",
   "fecha": "2026-10-06",
   "carpeta": "01 ESPAÑA",
@@ -253,6 +562,123 @@
   "ruido": []
  },
  {
+  "id": "3e018bfc7db3",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "La Gaceta",
+  "titulo": "Por qué la salud mental de los jóvenes está en su peor momento: el diagnóstico urgente de la presidenta del Colegio de Psicólogos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQemxtVkg0ZWtVU0R4M3c2UW1jaWZjc3IyZ2N2YUI5T1p2WDdQVGFRZXA3NFRRV21yQnRoODdXYmk0N3JRNkk3NnBvMVBNMkt5aHFrY0l3SHpXeGFqcVQtVzllbFJVQjdUUDBiOFFRczY2ZG5MTk94X1MxV3cxbkZxVnBBNHNzc0dWWG9xdXo5cmRpSDBZTGppcG1kbThES2hCOVdjQjJQQzNuM3pZeHBHOVhfQVNLcUFldkxGNzgyUDVEUG1NQUFITFRGM0JlXzlvcW5LZXZxTi1Ball4RVU5b9IB5gFBVV95cUxNLW9namRBQnFlQnJJOUNJeXYtQmFaNllDWUFmc3hwMHVpc2JZdm02LXlTXzdURW5yMEhyd09VbURKQThDbFFNLUVNREw4OGhITW95MUpZNXJnVXl1aWlKSS1zTG9XeGxZSlA1SS1KdmxlMnJYOWJWR0tnS3hpR3NuX3NpdVVBSjdTNWQwQXllMWE4bVZQdHJsZGhlUG4xMm1Bd1hLOExzTXdXdi1XV0RiY1lXdHd2ZWhEbF9GQjNqaGt6elYyeEdDTzh0YWpTT0Zwa3haeFJvaVo1Qlphbm8xZnJvZFRNUQ?oc=5",
+  "clave": "colegio diagnostico esta jovenes momento peor presidenta psicologos",
+  "capturado": "2026-10-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "056eac6aab8a",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Demócrata",
+  "titulo": "Salud Mental España señala la vivienda y la precariedad laboral como claves en el malestar psicológico juvenil",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNWdRVVZBWWVmYVRLT0hldlNwdXpkSXd3WFZUVHJ4THljaFhHN1lrYWdYY0VOajk3U3hJc1YwSTQ5OXg2bnd5VktaYUJlbzBVLXVpeGJwMmRwb2dqT0pYTFpzRFRubmxmMGZ3dE81MnZZTFBEbVU4LVVmQllBMmg1RkNYWHllQ0RvaTcxeHJaNFJQSW5JVFREeW9YbVpjbzU5NmZTNmhZVFFQbnNZV1hObEN3alRkTEtEWi0yOHplSThBUWJTcUtKWG5fSEJyU0lQNTlUSGJwNlAydXZ40gHiAUFVX3lxTE9YelA3NXJ2bXdhc0JobTJSbGE5dVB1cWhiWm5vM3htaThNVExSQ2pXQnA5a2ROTlZabVByRkh0dVNvQ2cxLUJMamFsMl93R1FNWkowcXFYaXhwZS1mRkh2anFQVWcxX3ZZaWJVOEtmZFk5c1dLVUFfNUJicEJIckRrS2llVDdUcVdvejRJR244b3hYSDBzLVhKRTFjSlc2U2FNU1pSZXYySzVsQTFHLTRjQlJsTURCR2RzdmRnNjNlRHExWVhQZDNaSEdnQXRhQlV1NlVLQ2xMNEZWbGZNVmJ3MlE?oc=5",
+  "clave": "claves espana juvenil laboral malestar precariedad psicologico senala",
+  "capturado": "2026-10-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0f7bba494f33",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Milenio",
+  "titulo": "Comisión de Seguridad Pública analiza iniciativas para salud mental de instituciones policiales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdmNBd3Jtd1dyWlJPRVRFSzVxNmIwb3ZTMXBVM0RJTnJ1Tlhkby1CeXVMZ3d6bnVMcFVlbGhocFI2azloZUE0RE9RNkh5ZU1QWkhFaDk3dGhDYVA2YlhUSWk1MmVJdDhDanJpS3BnSVNPcDN1SUxnRWdmVXBZdTJtM3dQb1drdFMwZDZqbFJNWFVXMFXSAZMBQVVfeXFMTXdEdXJ1dC1VRTV5UHJ4aEg0a1pQVHZaa0F5Vk96YjBjd2F4UUsyYlMxYXdBMnRkaTFmZmgxME1kUWNQd1I1bEtHUzNrRzF3VzRpbEpIU0Q4akZWX2g2SnlZRTFqN01XZ1ZPRnNnV0RNUXQ1Ylk0R3NYekJsTDZmU24xR2JRc3RWT3Z3Yk9XNjRBcnlJ?oc=5",
+  "clave": "analiza comision iniciativas instituciones policiales publica seguridad",
+  "capturado": "2026-10-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e0ee4f6a2aea",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Gente Tlx",
+  "titulo": "Tlaxcala, entre los estados con disposiciones específicas para ejercer la psicoterapia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOGN6UTFBcmF2dU1HVmJPUGFISzFERFRwZE1NbFNxQ2c4dlhGbWJGUHJnZmYtak93Um5RazNJRVJZSUdmOGlzQ2dYbGd0MWx5QWEyN25Fd2w4b0lLbkNmQUoxX0lUMVl0a0dtdlgxSmlvcU5WMXBJRDNQVUhfTHdWcFhwSW54NURFR3JGbE8wb2NxQ2NtY003bmUzdVVXdU1nSTZUelZ3TXh4Q3BULS1Sc0c0YWpWaERTaGNOUnVR?oc=5",
+  "clave": "disposiciones ejercer especificas estados psicoterapia tlaxcala",
+  "capturado": "2026-10-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicoterap"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "10a160036cb2",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Guanajuato Informa",
+  "titulo": "Discuten propuestas relativas a la salud mental de las personas integrantes de las instituciones policiales y a la función investigadora de las instituciones policiales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNMGxmekdZdnVZVkpIOHJkN2pvLUY1c1N6TW5qSEdVZGFnRVRYSTdyYV8tV2E4Vm8tRW1WMUtNSzVRU0NiNWlPSjQyT0dzYW1lb1J1SWhBbVpycVhLZjNlVkpPd1Rwd0ZTckNPbmo4UUwzM2ZyLTBOQUg4Q2xydjZ4N1JwUnpEUm9xdERQc2ZYc2NnVkdJZ0tiTHBROWVmYV9UeDhLanRqSFk4bXpnX0F5YjRWVnhtd1htTm9BczU0UE9qenBxY0ltanc0eUVERk9uUnlJRDE0N09zeEItajMwMFRDa1ltTlRPYV9sRG1hYVZ2WFpldGY2V1RkN1ctQ0l2eVpoNU92RUxXWjY5Z2xmZUNReTBOc0JRS2Qzd1NHQjV3Wlo3ZWc?oc=5",
+  "clave": "discuten funcion instituciones integrantes investigadora personas policiales propuestas",
+  "capturado": "2026-10-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2d4b04294a44",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Demócrata",
+  "titulo": "Mental Health Spain points out housing and job insecurity as key factors in youth psychological distress.",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ2xaeC15QldQaEQtbFRiNFlPcHZSaENERElZVG5TN1NtWVFNMXk4eGp5ODAzRTA0Z3B4aU5xd3RTRHo4YzZ3ZWpTTVVoNWI1eGh0MUFXbkZQR3FOUXBFbjlBdmdWb09sMmFGdnd5dzVzNUlEM1pXcVloUjJWSzNMaXozcjltY29CUUVUYndaRl83VlhIZ1h0N182aWRxZ0drZXVYc2tBMWZFV1g3U2ljUjV2LUtQclpsTHJ2R0JyQmFEenVQOXB6bGViN2l1TG1MQ2hvUVhBVdIB3AFBVV95cUxNYlRpM29kMG1KQjd1VlVyTFFPSDF5eHVTaEtJZ09ZbzJRc25LM0Y4TFZ0eXo3a1otU3BBUXctRmNtQmNESG4wb3FId1lfdkV0bWtkQWRZODFfUVNnanZjdDRka1ZndmhsY0l1c2pZUGZBQXZyYjZtOFU1VkQ0cU9hNDlvM2l6TmlDMm45eE9uc3IyMm9vOENUeGcwWmo3Z1gwcHBHUUd5QzBpblhEVEJ2clF3LWxOSTRZcnBpbWdGTS1UODZ0dUFOT3VoOWNpR2dEVHl6cl9BSWlhMDhz?oc=5",
+  "clave": "distress factors housing insecurity points psychological spain youth",
+  "capturado": "2026-10-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health",
+   "psycholog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "d21678cff039",
   "fecha": "2026-10-06",
   "carpeta": "05 GOOGLE NEWS",
@@ -263,6 +689,27 @@
   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamdXam5oQ3JwYUFLd2xDLW10QnpEWkRPYVAtakViOTB2V19XM2E5LUE0UzYxalMycGVXUEZsZUlQVHc4ZUlOQ2ktZ0drY1otOXhIcXFIdHN1VUFJV1BmWEVuMEZMSWd2eG44YmxGSUlXV0xOVkpfNGJtOVpjb2N0cnZ0Qlh3Q0pkVnM2cmVxbnhzS25KRFFfRTB1anNpdE8wbmhURXhfNnB2M1VHZUQtbzBfS1hHWHV6MHVTRHVLSzFLOEtET2ZreHQzV1kwVk80Y3NFUA?oc=5",
   "clave": "claves escucha ninos prevencion",
   "capturado": "2026-10-06",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "claves para"
+  ]
+ },
+ {
+  "id": "4c830eacfc60",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Razón",
+  "titulo": "Alejandro Vázquez destaca la \"escucha\" y la \"prevención\" como claves para afrontar la salud mental de niños y jóvenes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORkVIRUxSLXhlc1RhaE5ONmtuUUxMSThwbGFGRi1QZkc4aTNYUUxfWnF5bWlvT2JmY0R3ZDNuVEE2SWVVdWQ5YnFUeTZCX3pDSXhwczJ6c3k1amRzaUFnd0VNdnRyVm5ONmdRWjk1Ujd3TVhhZlc1ZkY1YUQzc2tDdG1qcXNTby16UHRhRFViUm5ERGlmcURodWlNWnNPNUhwQ1ViMGtYUnp2UFhFU3RTTkY2QVVYNlNxaXJsUTZUNkY4aXNOZDR1UU1Pd09EMzR1eXQyUU5zVC00T3IxVlM0NDRubDItNWpqQTYxU2hXUk5FT203bXJKckpta19CZw?oc=5",
+  "clave": "afrontar alejandro claves destaca escucha jovenes ninos prevencion",
+  "capturado": "2026-10-07",
   "puntos": -3,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -3170,6 +3617,25 @@
   "ruido": []
  },
  {
+  "id": "680acdb1dd86",
+  "fecha": "2026-09-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación (edición US, hl=en)",
+  "medio": "TradingView",
+  "titulo": "El Senado aprueba una ley sobre salud mental para pilotos y controladores aéreos de EEUU",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40b2F0SGhHZXF3VEJqQ29oMTR1X19pRFhnNTlUZVFNVklDQ3pfZHFPR19BMVFoaW5iQXdGd3NLX3ZQV1hZY2s5X01URDhWX0p1VXQtczQzR3dLamZieE4xWXE3YmZfVVVKcmJWUnVnVTRVRFlfbm9raA?oc=5",
+  "clave": "aereos aprueba controladores eeuu pilotos senado",
+  "capturado": "2026-10-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "2407b85c051b",
   "fecha": "2026-09-25",
   "carpeta": "01 ESPAÑA",
@@ -3893,6 +4359,25 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e7b3ab1dff34",
+  "fecha": "2026-09-24",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Confederación Sindical de Comisiones Obreras",
+  "titulo": "CCOO denuncia la fuga de profesionales por la mala gestión de la Salud Mental en el Departamento de Salud Manises",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUVpmRGNSbmRmcmVScVdwbGY2Z2dRZ2djMVhMSVZ0MHN1SmVkLWVCYWtDMmtaa0dYUjhhdkU0aEdHc2dsa2RqaS1BNmVDSXZGSmR2bVJ4OVF1WWdBc2phU2gxVUNtb3dKNmdjVGpYcU83UTRmcHk5YUh6cVRKRGJOWU1TNC1vU2VycVpwOVRCVU83bUVwQ201eFNmZ25MNy1iWkNPX1RXSThHZ0hCRjNQU1ZLeWVEekY0WlV1V2VRa1dzXzhSUENjQk5MSkZvT3EwdlJSc1huaWVvQ2lOR1dvSWNBZGtDdjUwSVRzN2lyQlJHSVlUSU9CNHhaNkxXRXRsWG5YN2RuQ1pORjROU2JJSkhnclpXUUhZSXd4aXRR?oc=5",
+  "clave": "ccoo denuncia departamento fuga gestion mala manises profesionales",
+  "capturado": "2026-10-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -5372,6 +5857,25 @@
   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3d2a0lQYzQzdzRNcmRzclR6N0dZRmJiUE5POF9DWHg3TmxJd0dhaG1MREZmb0YwcGYwVG1hbTJPVUViWURZNmRQNkdqUnNIR1k1MVNfQXc1MnE4cDBQRFBzZ1p3TEtiV0ZKMUQ5Y05xVlhtWEhaVUZZZ2lyZEdZWi15aVlvUGk2LUp5dTFyblNOWVh0WnBmSUIyN2hIY0pkRTVpeUNhLWJWdnNrb2xTMDAtenQwZ0E?oc=5",
   "clave": "sanciono santafesino senado trabajo unanimidad",
   "capturado": "2026-09-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "216ed23c74c5",
+  "fecha": "2026-09-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Litoral",
+  "titulo": "Una ley busca proteger la salud mental en los ámbitos laborales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQM0FSc1lzMXVjQlFJVXcyMU12dkJIeEZxSEVFeVNlUFgwM18zc0oyenlTMUdNTGxHZ3hMb0JEZTlJM0V0RHUtd2N2dGR5VS1tbGtrQmxzQWlpM2tXUEYyN3VrelByMk5UcktLVTBBaUF3OE1LZUpCbktHbWN6V25MZE5DcFlaQzNqUlVPYVVDdk1yQkVQeDQ0WTNqcWs5bFUxSHB3OTdiWG1mNkNXODJzd2MwZHpiU0R4dnNBcS1DeVFONFJZRnlyb2Q2THZTTWw5RnBmSHJ5UDNyT2JO?oc=5",
+  "clave": "ambitos busca laborales proteger",
+  "capturado": "2026-10-07",
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
@@ -13075,6 +13579,25 @@
   "ruido": []
  },
  {
+  "id": "86f277d95a8d",
+  "fecha": "2026-08-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Extra online",
+  "titulo": "Saiba como empresas devem prevenir riscos à saúde mental no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3M5cXBzNmxOUnZKdG9vQzdmTWltMHQ4M2Jod0xtQnU4dExRVE45RXBSa180VzB3UGVUMDFTeC1YbG1lcmF4ZkdtbF9DNjhlV0lZMHlqakd2c2xwQmxoSjZfZHd6YW5jTnc5R1VldmZhQXV4bkxvRXZvMVc4RzZHSjlVaWp6LUQ0dk5vTVBEUmFoaG1ITXhiS0RTdmFyZHpSdTQ5WDE2bG5KNUlVZEFzTmlzUUdmSmpWbGU1Q2o2TUM?oc=5",
+  "clave": "devem empresas prevenir riscos saiba trabalho",
+  "capturado": "2026-10-07",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "10955c33f290",
   "fecha": "2026-08-21",
   "carpeta": "05 GOOGLE NEWS",
@@ -15223,6 +15746,25 @@
   "ruido": []
  },
  {
+  "id": "2bc817da1185",
+  "fecha": "2026-08-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "APN La Pampa",
+  "titulo": "La Pampa puso en marcha el Plan Provincial de Emergencia en Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2s2RmFqNDlzcndCcFo0a3NsenB5UGI1aFhkYXBMNjhRb041UDdFZjhvNk1jSTVsM1p2Tm5sUlNmUWxkcDFPcDVTM2lsNURGZTlYQkVEa1ZNcnpVZ3JhSFBQdkNFSTk2YTctVTBONEx1bENqcDNWeTllbTlCVGYxdmpxQmRRUQ?oc=5",
+  "clave": "emergencia marcha pampa plan provincial puso",
+  "capturado": "2026-10-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "82ec676318eb",
   "fecha": "2026-08-04",
   "carpeta": "05 GOOGLE NEWS",
@@ -16566,82 +17108,6 @@
   "topic": [
    "salud mental",
    "psicolog"
-  ],
-  "ruido": []
- },
- {
-  "id": "e86347117105",
-  "fecha": "2026-07-08",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "Provincia de Buenos Aires |",
-  "titulo": "Kicillof inauguró un nuevo Centro Comunitario de Salud Mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGFBQU5pZy1xWUhjUlJCTnVHYkJHUm9hejRoQ01McVdfZnRzNE8wS3E2NVVlb3p3NWZjRWN1YnRtclN5VV9wdHRFUGlVVUJVSFlaR2R0RnQ4WlVYYXpIdmZrOEZvX3pfODhnaFRfMDM3SFBHV0N0VV9RS1BNRHJweE0tOXd1TkZaV2ptTHh6WXE4dVZXZ2d0QUxTVk1QYnM2Rl9zY3FWelhTV29XNW9BdDlZemlHWFR6eFpiM2p3?oc=5",
-  "clave": "centro comunitario inauguro kicillof nuevo",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "07af877ce6b6",
-  "fecha": "2026-07-08",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "andigital.com.ar",
-  "titulo": "Kicillof inauguró un Centro de Salud Mental en Trenque Lauquen y lanzó fuertes críticas a Milei",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVJuSTRINkxoZ3hSZHV6TklPUjU2QzA3M1lJeFJXaVVEZ2J6cWVvZ3o2VG9lY3pGYjdaQWdjdUFtbTl5UnpJRGxYdi0yTVdPRDhIelR2SFozcG1UaXVoUlllVUo3cU12UEliUU0zcjZCaEtMS1BlcU5ISmVmTkR5LTBiaGoyMHphX3pMSF9jR2ZYbEZrVWtJV2dUYVBNQ3h3WkNrdG1oTHJmc2MzRnh5UXlfbWZqdEV3ZUQ3QWNCajI3VFVjazBFRV9GYUh6dw?oc=5",
-  "clave": "centro criticas fuertes inauguro kicillof lanzo lauquen milei",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "5d7b95b16c6c",
-  "fecha": "2026-07-08",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "La Ciutat",
-  "titulo": "Andorra crea una nueva Visura Ciudadana para debatir sobre vivienda, salud mental e inversión extranjera",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVGtZTk9udjNhd2FubGdFQ29sMjJPempBNWtDY2dnaGk0S0hBMGpYcHBaN0QwMFBFWWtkaTRraW94Y2NXTENpeEVpUUNzZlBLTVJqTHJNWkRLaDR4Y1FMSkN0NEFrQTFQbnh3eVZ0VnhlN3lwdENkbDRpX2JKWHgzQURfVWxJOTd0QTlzazI5Njd5WnpaemdieGZaeVlFRFFNWllpQXZmZXJpY1BwaC1wYXBRdHVEWXhVS1paVFJFOUpsZ2Jhc1YyVVlreVUybXU2QmlnenlIN3prRWh0WHh2WnNB0gHnAUFVX3lxTE1xbEJIVFFkbkFBeTVCbzVNUl8yaVRndFg2WDFpMzNKRUFIbnlmcGg5UGE3a3JyUUhVNk9fdWVJMm5HWVZjMXkzWlRNZUlCT3FsSmdSbURYMGFaWTJhYjFjWHRBcjI2OWtGNmNnbjJKSTM5QnY4eDBXNS1nMklMNTRiV1VzaDBMU0cxOFhoYzJKcUhDVVB0Z3EyOWh4S1ctelAxY2M3REpEUVBnUi1rc2NPeGJiMTI0NFRMa3pnWE1tT1RvUGFsNW96eVc1ZGMzTzFQcXN4SjBwRlVad25RRndQQzdHQUlTbw?oc=5",
-  "clave": "andorra ciudadana crea debatir extranjera inversion nueva visura",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "1fb99c1eba0f",
-  "fecha": "2026-07-08",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "G1",
-  "titulo": "MP aciona Justiça para obrigar União, estado e João Pessoa a regularizar rede de saúde mental na Paraíba",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHczbWY4R0FzNFRsUW9kSjc3Y2I0TXFPMUwtVTljZTVoZnZHakh6V3V4WVgyNkFwUFNSSU9lQnJacm1ScFRxdTBlb2JpRmlJU015dUJjX3hMbFY0WXc3X29odGg0WENyMWg5NEdnd2RUTUJqVWtTUHZPaDNoMnJZX2VLODhMZXNzQXh6d1JLblFjcVlYS05XdDFyYmNRQnBNTi1YTEZnb3hIeFVaeFZmMW1WR0d4R0p6YnhkWWR2a2pFbmd3eWhQbTM1TlFQbEFJMGIzSUlmVnR2OEV0VGctTURGNjFjVlJLRXhZMHJwSUpKQdIBgAJBVV95cUxOSE1pUTd3b2sxSHhKOXZIWTd6Z0RRdDJQV1dlUVRCVUV6X3ZrTzlLeTVhNmJVSFY0T1YzRlR2eVJYX25OWDlGdUpYQ0h4eXZRaGZiYW9nTlhqa093Ukl2R2hPUUJ5SlJfakZISFh2X3A4V0ZmN1VsZEl1bmRKU2ZTdWN4U2JfY2kzbGlyVFhYak1tcGFTRWZpS28tVkJ2Vy1mbFFVSnJnd3VNbG5wMmVxaFVvYnBQRTlEV2dmTDRDcFBacTNiYmZJdEUtQ0J2WmxUTnVmRUIyVnVka3dCQTNBTXNTZXhNLXhuQmJMc0dUZDdGRjk3MkJsMHkwWnJBbHpi?oc=5",
-  "clave": "aciona estado joao justica obrigar paraiba pessoa rede",
-  "capturado": "2026-10-03",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
   ],
   "ruido": []
  }
