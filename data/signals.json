@@ -1,5 +1,297 @@
 [
  {
+  "id": "f90751bd8dd6",
+  "fecha": "2026-10-09",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "profesionales | La AEMPS busca la participación de los profesionales para actualizar la Guía Terapéutica Antimicrobiana del SNS",
+  "resumen": "profesionales: la aemps busca la participacion de los profesionales para actualizar la guia terapeutica antimicrobiana del sns",
+  "url": "https://www.consalud.es/profesionales/la-aemps-busca-la-participacion-de-los-profesionales-para-actualizar-la-guia-terapeutica-antimicrobiana-del-sns.html",
+  "clave": "actualizar aemps antimicrobiana busca guia participacion profesionales terapeutica",
+  "capturado": "2026-10-09",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1d26725e88db",
+  "fecha": "2026-10-09",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Agencia Española de Medicamentos y Productos Sanitarios",
+  "medio": "Agencia Española de Medicamentos y Productos Sanitarios",
+  "titulo": "El PRAN inicia un proceso de participación pública para la actualización de la Guía Terapéutica Antimicrobiana del SNS",
+  "resumen": "generar pdf fecha de publicacion: 09 de octubre de 2026 categoria: la aemps referencia: aemps, 26/2026 los formularios de participacion permiten canalizar propuestas de actualizacion de recomendaciones, nuevas preguntas clinicas, aportaciones de evidencia cientifica y comunicacion de errores o erratas relacionados con la guia pran las aportaciones recibidas seran revisadas y valoradas en el marco ",
+  "url": "https://www.aemps.gob.es/informa/el-pran-inicia-un-proceso-de-participacion-publica-para-la-actualizacion-de-la-guia-terapeutica-antimicrobiana-del-sns/",
+  "clave": "actualizacion antimicrobiana guia inicia participacion pran proceso publica",
+  "capturado": "2026-10-09",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "181e51f30af8",
+  "fecha": "2026-10-09",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Outro clinches $7M for deprescribing; Rightway pulls in $155M to expand pharmacy benefits tech</a>",
+  "resumen": "keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
+  "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+  "clave": "155m benefits clinches deprescribing expand fierce fundraising healthcare",
+  "capturado": "2026-10-09",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "deal",
+  "topic": [
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f63e6bae1921",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "areacucuta.com",
+  "titulo": "Ley 2460 de Salud Mental: educacion emocional en colegios de Colombia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZmFFM2EyZEtfZEVYT2VINHRhc2pLQnpKVkNuSTBoOEFyejViQlJGOFRQWFJUYWdiUlZNR3pDbXl1V2xrVHBLTlQ3dzFHbng2TXZ4RFJRM3EyZEhjWlM3Ukc0WDNKVXNpand2VDRPZDg0VW53b0VYN2RrcE9hczFkanJlWFdma1Z4UlN6UlI1SEtROE5xWW5NU3lrZXVQUGtBN3F3cm9rTk9JYzc2NHNOcEhRQVRESm5MRUV2Z1kwaFQ1eGFZdFBhTF90OGs?oc=5",
+  "clave": "2460 colegios colombia educacion emocional",
+  "capturado": "2026-10-09",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a1dd32667b89",
+  "fecha": "2026-10-09",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "Comunidad Madrid | Los hospitales de Quirónsalud en el Sermas cuentan con un programa de detección precoz de problemas de salud mental en adolescentes",
+  "resumen": "comunidad madrid: los hospitales de quironsalud en el sermas cuentan con un programa de deteccion precoz de problemas de salud mental en adolescentes",
+  "url": "https://www.consalud.es/autonomias/c-madrid/sense-el-programa-de-prevencion-y-deteccion-precoz-de-problemas-de-salud-mental-en-adolescentes-de-quironsalud-para-sus-hospitales-del-sermas.html",
+  "clave": "adolescentes comunidad cuentan deteccion hospitales madrid precoz problemas",
+  "capturado": "2026-10-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "da52f5194729",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Tribuna de Ciudad Real",
+  "titulo": "Sanidad pide un abordaje multidisciplinar de la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT3lXY1djVVk3SU5uVmNNUDdmNEhHOF9vZUhMVVJ6NDNNaVVPZ1lJZ0Z6ckxtdXpESmlsYVBHaGdPU0VIa1kyeXlSMjN4cklCVXRrS0FEbzEtb3ZVTVQ2ZkFIMnFER0prRWpqR2RZTjIyRFZuU29rc3NfWTd6dHBQbURvVHJBZ1FTUUhMX2I5allaZGtmN1VOZ2dCYXpVM0tpM0JTa0JlRkp1a0haclgzc01HRTZlczZxVk0tMk5nbmdvQVRuTDI5amtTZmQybW8yN2NudUU4OU1kQXU1TjlWSDR5aw?oc=5",
+  "clave": "abordaje multidisciplinar pide sanidad",
+  "capturado": "2026-10-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3910bd9358c0",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "tvlapalma.com",
+  "titulo": "Sanidad celebra Día Mundial de la Salud Mental 2026 con el lema 'Todo puede cambiar'",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb05vZ0NxY0xwUEtxa3hJTENfdkhScVJUclBqVzBoc29Ob1lNSUtqYS1HWE1uV3FVXzl0bWF4MEkyQTdzdzBXS05nT3phaGgtWkpHckY2SVoydENqMW9CbS1FcFVQMENYbnBiajA4QnM1ZU5VdWwtWEh6SjNrTC1hZ21PZy1pTzdtZFBmcE9OOHFIaHo2cHVmRnZR?oc=5",
+  "clave": "2026 cambiar celebra lema mundial puede sanidad todo",
+  "capturado": "2026-10-09",
+  "puntos": 1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
+ },
+ {
+  "id": "46f5fd351c20",
+  "fecha": "2026-10-09",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "enfermería | Las enfermeras malagueñas exigen contar en los equipos de salud mental con profesionales especializados",
+  "resumen": "enfermeria: las enfermeras malaguenas exigen contar en los equipos de salud mental con profesionales especializados",
+  "url": "https://www.consalud.es/profesionales/enfermeria/las-enfermeras-malaguenas-exigen-contar-en-los-equipos-de-salud-mental-con-profesionales-especializados.html",
+  "clave": "contar enfermeras enfermeria equipos especializados exigen malaguenas profesionales",
+  "capturado": "2026-10-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "58a7e56aeecc",
+  "fecha": "2026-10-09",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "La reina Letizia reclama un acceso universal y real a la atención en salud mental",
+  "resumen": "la reina letizia ha reclamado este viernes que los tratamientos y la atencion especializada en salud mental sean de acceso universal y real, tanto para las personas que sufren patologias mentales severas como para aquellas que padecen sufrimiento emocional.",
+  "url": "https://www.infosalus.com/actualidad/noticia-reina-letizia-reclama-acceso-universal-real-atencion-salud-mental-20261009114024.html",
+  "clave": "acceso atencion letizia real reclama reina universal",
+  "capturado": "2026-10-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a911426a6244",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Periódico",
+  "titulo": "Illa: \"La salud mental muchas veces expresa lo que no funciona en otros ámbitos; las condiciones de vida importan\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcnJqai1RWUQxaHIwY3A0aUxFTFU4dlZESmJ0TmNrVGxrU0ljRWJBTkl3VDlGT001TjgxWlBPUlVUcUNXTi10bWl6WVZtbXpVVktFVUdaTHlTcVVnUkE5dG5zc05xWTlSZC1SRnhoMjFoYndBVy02MFBxQ3J6OGIwZExUb0F6cVRDUk9ESmZodGFHV3hkbTNQQTVxNXE0c0JpTGF5azJOdGFKUEhXdnFLM2hjNVNrOGwwUHdUVENLbGlBdGJTN3lSYkdBRjB6Mi1zaWNTaElUY09jSHhGYklQZUxLNzfSAeQBQVVfeXFMUFdpU210LXRTZTZlek80ZzJoT1lVYWpVZkpOQXZUejZ0aDFQeldsSVJXUERYVHhaQXQ0Y25IbDBoaHVVZDZycVJmYV8wUEd5c1VZaVdDcmw0blhBcEN3LWREQUVWYV96X2tlRlMzV052d1FOWV9fMkZOdGxfcDdJWV9waGgzS0JUcUFpNGJHMjlvYTRwWUZKSGZrQ3pQS2tIRVlVY3ZDYWlOYWtMRHMwWUFZbEV1WWhJLUtTSmFDb19sRl9IQTY2Wk1TYWdwMVptVi1uU1owY1lOSVlpOFF5eGtGTzA2?oc=5",
+  "clave": "ambitos condiciones expresa funciona illa importan muchas otros",
+  "capturado": "2026-10-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a2fa52fa7a1f",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "heraldo.es",
+  "titulo": "Expertos avisan en Huesca del empeoramiento de la salud mental en niños y adolescentes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRkF1bXI5ek9sQ2F0VC1aQUlvWGRYS19CS0ZSb3YzZ01pU0hsSWZyZUV3dGZLRTNhSjVsVkxtZkxIRnpTYTg1ZkU3RVB2dE9EZHJTWmdEOW0zYWFsYjg1bzRLY3pxdmdqeURmOEZkdGItWEFrRXM1UGlranVDc1piN0JjOWRZa2kydWpnVkxMV2FFUjJoeWlHWnRDN2VhSDJSMHJhVWdaRG12N2FFdnRxZzJ1SENWWmFyN040Q2FKUndkREdjdF9uM09nRkpuNHRFc0RNSdIB2gFBVV95cUxOUkRXQ3dWa0dZQjQ4VGItX09ZMllablR4YWhvV2dJUEp3SXpLdDZ1c3Q1b1VxeFd3VlF6bVFMbzVXMUU0VU1ralBoTUN1Sm5GTlZUWVZDelNQM1ZyUF9UOFdzVThjMk9TSXdxbUh3U3dyUVdrLUlhRFJuTktyeGh2U3hMSUstWkJMRWUtQ1FRVXJCNzR1bzhqTkNqbzFCR1hEUm1EVFdEME5CWXdyQjM4TjNZeGZxR2FPLU15cVVsTVlIZ3YxMTlhbGN3V19lLTZCdjNTMUVUWkNHdw?oc=5",
+  "clave": "adolescentes avisan empeoramiento expertos huesca ninos",
+  "capturado": "2026-10-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c78ec45eff0b",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Time",
+  "titulo": "El SCS incorpora dos recursos de salud mental en La Palma en los últimos tres años",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQVl0N0lHWnhkTV8tVzZFbE5Scy1GdlJleko5UEF6bklKWTFrR2d3TFdmZnVKQVNhbG1GZ1ZPcVdPdHZTaUtaTzJXVXZUNXR0SjVZSVFLbVdKY2pNd2FaSWYtTExrMnpybkltVW5Ma0ExUU5pc2pZVldtUkNIcUwyVHplLTdHaW43VFVUNi1QQlJPSEFkSUxBSVJfeGlBNW5QOUNYNDVRY0oxbVc4ODR6bGxFWkI5VEM2dnd5TkpCRTdodw?oc=5",
+  "clave": "anos incorpora palma recursos tres ultimos",
+  "capturado": "2026-10-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "afea9963f720",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Demócrata",
+  "titulo": "La reina Letizia pide que la atención en salud mental sea realmente universal",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVpLbzBjUFhFZjU5UWNXeUlLc2FLOXhYMTZJZU45dFFKQzR1TzIxbUxLNHIzLThnWG5va1Jqb1ZKRUVXYVFzSEdmOF95YS1FZzBiOTVzaDM2RGpLZ19YX2VtME5tTEFHdmdrd1o2WWpZWFdJYTBMTEtNRm40bEgyTGhSRlV2NndEUW5hV2oxbU9RQ016VzhQb19ndjdKb2g4ZHpxODNUSUJma2dFbEFYedIBtgFBVV95cUxOTERaSGJjcU5EOHdyNDVsejdZWm15dU1NR2x2RmtKcmlxQlR0YXlBTmUyM3BQU3ZmSHZfVnB4MF9WbjRheFJrRlpmTDNVMEQtVC04YlEwUkRVVERuRFZ6TXJ5YkFUM3lVcVdITzlyeWlsZ2ZMZnUwZFFTMW9yMl9wc1hyb1JoMlNaRVFuUmVTSjN2RXgxTFVKSC1telVYZXRpOXBCN0l5TUFMU2tSVTVENkh0Vk44Zw?oc=5",
+  "clave": "atencion letizia pide realmente reina universal",
+  "capturado": "2026-10-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "02bda498e396",
+  "fecha": "2026-10-09",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Cataluña avanza hacia una nueva cultura de salud mental para \"comprender el malestar emocional\"",
+  "resumen": "la nueva campana de la generalitat con motivo del dia mundial de la salud mental promueve ser mas \"conscientes, empaticos y asertivos\" y ademas: la falta de acceso a una vivienda, un problema de salud publica que agudiza patologias fisicas y mentales: \"es devastador\"",
+  "url": "https://www.redaccionmedica.com/autonomias/catalunya/20261009/cataluna-avanza-hacia-una-nueva-cultura-de-salud-mental-para-comprender-el-malestar-emocional/361156_0.html",
+  "clave": "avanza cataluna comprender cultura emocional hacia malestar nueva",
+  "capturado": "2026-10-09",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
+ },
+ {
+  "id": "6200f8638ccc",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Andalucía Información",
+  "titulo": "Hospital Clínico de Málaga celebra su segunda jornada del Día Mundial de la Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORmhqODhnUGFGTVI4ak9iZ29WVXFYaWdad0JfbWpHVXduMGNPMWpUVWREN0d2NkNmcmhaYzI0Sy1fOTR1czJqaG9rOUFDWXFLMk1xbENPMjlYV1FEZFJJZmt4NEwzWVozU0x0ak1keHE3MkxVQURoMlZsYVJKRXd6R0RuUVRZRV9aVmpIcURWU3NvVnIzTDdJbXl2bWU0c3ctNnpmcVZmeXVqektsT0FjclpOakI4eGtwQ1NXNFg2SUtwT2JhX3ZreXIyNEM2RU1WcjQ0RzRXZVFOZlhqQTZJa3VCTWl3d0lGQUJWd3ZHMTIzd3pMQUV5TU5NVkVUOWZSaE9kbmUwaFBieUxvSDZHdTlxdldUaHZQZkHSAZ8CQVVfeXFMTi1JRGZlTTdZaGo2SFdrRFhPYXBBLXZoYko4QUpGMFd6WFZoLXVkTjVQRXd6aVc2S0gxNHFieGhEZnRzVVktMXgtWmV1RDkxTUZycmlsQ25qUmllNEpsNWJaMXJYN2VHZGp0N1NXd045QjJicWNqaHprdjhlYW9POTJtWDBQanZGdFR3TGpmem1OLTR6UktyOS0ta1dJeFJ2cThnN0lKc09iSHBMZEVYSkV4aUV1RGlidVllVWpnM1g1eFNSekhDNDQwdTJnQ1k0ckhZOXh2WlJFQm9FNy1mZzVvWlVPd2QwSWNvUnZtS0hOZEg5bHRNZHMwVWxOay1KeFNyWWgwRGNhZm1CTHYtWTJmRktVYVJUQV9CYnpJSHc?oc=5",
+  "clave": "celebra clinico hospital jornada malaga mundial segunda",
+  "capturado": "2026-10-09",
+  "puntos": -4,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "jornada",
+   "dia mundial"
+  ]
+ },
+ {
   "id": "e886d0c78e60",
   "fecha": "2026-10-08",
   "carpeta": "05 GOOGLE NEWS",
@@ -19,6 +311,25 @@
   "ruido": []
  },
  {
+  "id": "14787156ee17",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "ND Mais",
+  "titulo": "Com investimento de R$ 18 milhões, novo complexo de saúde mental com vista para os cânions começa operar 100% pelo SUS na próxima semana em SC",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qSXJBY2E4T3k3aWcyLUlTOVRaTmhfUXVBeGUtQWRneEhydTNWSG9BLUpHR2puaGg3WEZvakx2dzg3c2ZGZ0dMbzc1MGtfMmNoRWlJZDJuakhnMXIyb0JzOFJmZS1uUWY3ajhBdFZ3?oc=5",
+  "clave": "canions comeca complexo investimento milhoes novo operar pelo",
+  "capturado": "2026-10-09",
+  "puntos": 8,
+  "prioridad": "A",
+  "categoria_auto": "deal",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "201c7054ac15",
   "fecha": "2026-10-08",
   "carpeta": "01 ESPAÑA",
@@ -32,6 +343,64 @@
   "puntos": 7,
   "prioridad": "A",
   "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "adc12086cfb0",
+  "fecha": "2026-10-08",
+  "carpeta": "02 LATAM",
+  "feed": "Saludiario",
+  "medio": "Saludiario",
+  "titulo": "Psicosis por IA: estudio de JAMA Psychiatry analiza el impacto de los chatbots en la salud mental",
+  "resumen": "jama psychiatry realizo el primer estudio acerca de la psicosis por ia e identifico el impacto que tienen los chatbots en la salud mental.",
+  "url": "https://www.saludiario.com/psicosis-por-ia-estudio-de-jama-psychiatry-analiza-el-impacto-de-los-chatbots-en-la-salud-mental/",
+  "clave": "analiza chatbots estudio impacto jama psicosis psychiatry",
+  "capturado": "2026-10-09",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "producto",
+  "topic": [
+   "salud mental",
+   "psychiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c59a1cc92c46",
+  "fecha": "2026-10-08",
+  "carpeta": "03 BRASIL",
+  "feed": "Startups",
+  "medio": "Startups",
+  "titulo": "IA aumenta pressão sobre founders, aponta estudo da Endeavor",
+  "resumen": "saude mental acaba sendo deixada de lado nas mentorias | foto: canva segundo o estudo, 78% dos founders afirmam sentir pressao alta ou maxima para acompanhar o avanco da ia; para 90%, cobranca vem deles mesmos o post ia aumenta pressao sobre founders, aponta estudo da endeavor apareceu primeiro em startups .",
+  "url": "https://startups.com.br/negocios/inteligencia-artificial/ia-aumenta-pressao-sobre-founders-aponta-estudo-da-endeavor/",
+  "clave": "aponta aumenta endeavor estudo founders pressao",
+  "capturado": "2026-10-09",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1d63327e1a9a",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Digital Conclusión",
+  "titulo": "Reclaman mayores recursos para trabajadores de salud mental: “No hay un presupuesto acorde”",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc1dCMzZNbGttR1BwbWpiVGsxTlRLT244c2s0eVJDOFhaS19jczVIV2RtbE9yUFBfSmItMFdSYzJ1eExoQXcxQ0VSa0lkc09pSHk1b2lpOWI5d2p3RGxHUVlHc0szVllHMVQzNkE0T2NQOFBIVV9YTUV4QWk4ekY4eHc1MUFvT0ZwMWloOENzalNYcGNvQkhUTmRBQzJ4TFJYOXlkWFlaSDdSV0U4LTB6RWxHLTZwME9rTWEteUlqTk0tdzFsREVGQzRMSXlMdndaMHZR?oc=5",
+  "clave": "acorde mayores presupuesto reclaman recursos trabajadores",
+  "capturado": "2026-10-09",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
   ],
@@ -133,6 +502,101 @@
   "ruido": []
  },
  {
+  "id": "74e07451f5dc",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "castellonaldia.elmundo.es",
+  "titulo": "Sanidad atiende a cerca de 31.659 castellonenses en las Unidades de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdEU2NGdBT0FZblZEa3VnZmpsSDgwVXdjUHBabjdxSndadFFYamF1Ul8xd0I1ZUwyZHNINXBmQ2pCcnJwZ194Y21sQUxoR0YyLS1wUjJiRVBBQU5teWRBSlNGYjlZZFJkalhBcEd6WHJvWHIwTG55bTI3cGZ6aDlxU21hNXhhS0EwWUYzTmdXVC1Ddw?oc=5",
+  "clave": "atiende castellonenses cerca sanidad unidades",
+  "capturado": "2026-10-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2a676cb9fd45",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Alicante Press",
+  "titulo": "Sanidad atendió a más de 82.000 personas por problemas de salud mental en Alicante",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1Z5NGt2S1lQd1ptVldUZWdSNVlsRDd1S3N0Vkx0WmRuVnp5eTBmdTd0SkZSUlY0a1VwcjgzOTI4b1dGcWFtOVBOdWVTNGQ2UmV4MmwtOWhHV3RjRlhfTkhhX0VabUN3QWF0M0VuNUxBUkJMSlZmYUtTUVZodzdIcTdmdGNPY3N1ckE5ajMzQzBrU3JxTkl6cjQ0cmtHZTZmVm1qN1lIUmlTemRETVRLWkRocE85OXFo?oc=5",
+  "clave": "alicante atendio personas problemas sanidad",
+  "capturado": "2026-10-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "eee3db8f5e43",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Diario de Madrid",
+  "titulo": "El Hospital José Germain cumple 175 años dedicado a la salud mental en Madrid",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObXNHOTgwU1JvQ1A2M3lBUXl2YkVPV2RjRzdLTEhjUjJTY1hVUlFCOUdjTlp2YVJxVHJNcTZnemdISjMxM2RXeVpJWFFFOURldnVZU3hGNlcxSTZkb3g2VGNGWTFoaFQwTERxQk93V1hjVTBiLUh6aTVvemJMRHpSQm9GWjRKY1UtcEZ4Rm5PTE9EVnBhX0tleHI5TkJSLVFJWU1mM0ZjWG1lbHVIR3hjZWx2dmtPZE3SAbwBQVVfeXFMUEo1eFA0UVpGaHRCU3FacGcwLWIwVmFLMklQRHBDdU1tZC1jVjg0Q1RURDRWZzl1UnRVSlVsTlFOUGVtTnFyMjlqWG1NWEdxRnU4ZVQzd2RhOWh1QU5lSXA2NEFZclVvcVQ3Y214TjVZQnRlWmFxSGYyUXZScGJsVG11T1Y3cnBhYU0xVk1wc3RoUnhhUDhuR1JwRlRvTTlWUVluNXlpTlZrV3hxZUZxWkMyMDdQVDl4enBKSlQ?oc=5",
+  "clave": "anos cumple dedicado germain hospital jose madrid",
+  "capturado": "2026-10-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8e0c3a006ada",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Actualidad Castellón",
+  "titulo": "Sanidad atiende a más de 31.600 personas por problemas de salud mental en Castellón durante 2025",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWU9aWDJzVVpkbm92VUFUSlZZNGd2ZGo1enVxMWdUcFUxSG5iNzhlNUVBc3RDUERySTJBd2NYZ3pPd2JRLXFOT3RqUHBUVDZFZEdxYjY0YlZDUWYzeHRkd0p2LVVVQWtoaS1KNE94b3pxTkhJcUNWUEZwYUZ3U0VRckc1NWw2cnBxRlZPZl9R?oc=5",
+  "clave": "2025 atiende castellon durante personas problemas sanidad",
+  "capturado": "2026-10-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ab30982c895d",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Portal CMBH |",
+  "titulo": "Diretrizes para ampliar e fortalecer rede de saúde mental podem virar lei em BH",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLWlGdkhxaWt3NEg4aEJkRjVHU1pOaW1rVE5KaFNFSTdFRkZqODNRdWZnTG9UbWcyUjNGMkNTX0hXMVVfNFBzSGNQYmVKWjRPMFlqanVEbmVNcjF3a0kzMXoyY1hlaFBRMXhUa1lBVURSa3pVekpqU1NDZ09jcTZ5TFZaSnJyenowVWVsMkl0dHNFNzZuR1NPZFpnNXJFWmhKblZtMndSWXZpNnJaX2dZdUl1anhxNFNiYVIyV2tlTWNlc3EtOXpfQlRBTThKUjhKZnVoWnlEcmZTT096Wmc?oc=5",
+  "clave": "ampliar diretrizes fortalecer podem rede virar",
+  "capturado": "2026-10-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "91b22626ecf2",
   "fecha": "2026-10-08",
   "carpeta": "01 ESPAÑA",
@@ -189,6 +653,26 @@
   "topic": [
    "psiquiatr",
    "trastorno alimentar"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "867501029170",
+  "fecha": "2026-10-08",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "La FDA autoriza una 'terapia digital' para los síntomas negativos de la esquizofrenia",
+  "resumen": "empresas cristinareal de click therapeutics la estadounidense click therapeutics, empresa de salud digital que desarrolla terapias digitales de prescripcion basadas en software para tratar y mejorar determinadas enfermedades y trastornos, ha recibido una autorizacion 510(k) de la fda para motivista (ct-155), una terapia digital de prescripcion desarrollada por la compania para el tratamiento de lo",
+  "url": "https://www.diariomedico.com/medicina/empresas/fda-autoriza-terapia-digital-sintomas-negativos-esquizofrenia.html",
+  "clave": "autoriza digital esquizofrenia negativos sintomas terapia",
+  "capturado": "2026-10-09",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "esquizofren",
+   "terapia digital"
   ],
   "ruido": []
  },
@@ -267,6 +751,101 @@
   "categoria_auto": "otro",
   "topic": [
    "psychiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "dd4d052316d1",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Surco CLM",
+  "titulo": "Sanidad destaca la importancia de abordar la Salud Mental desde una perspectiva comunitaria y multidisciplinar",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZHpNM3lSSDF5RlVod00zZkdOdGFiVmVQSllaeV9nemlaWlBnaXo4YTRpeWdtNlBEbHYxRldldlJXYm1QS0Zkei00bGZCRVRuNm1vV28xc3RTdlRaSHRIUXRNMGhsaV9rZE15OFJhTGtZSENEUVdvWURFeTRsWFRVMTVIRTVzdHhXRkFwTjhtVE5JQ2VyVkMxSk9CQlAwaVlPaTFLMllQSGd6YkR5cDFleWJQbHBEMzhvVGlFR1ptWlFOME10cmF3cmxVWlNLb0dSTWhuRG0wTVNZdTJtSzNMV3VaQ3NGRWF1VGgxb3FMMGd6QWExSm5VSkp1S0dfZw?oc=5",
+  "clave": "abordar comunitaria destaca importancia multidisciplinar perspectiva sanidad",
+  "capturado": "2026-10-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "643ab2f48c8d",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Español",
+  "titulo": "Jabonero (OEI): \"El 80% de los trastornos de salud mental en niños no son atendidos, es como si no existieran\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVkxpTUROMWdsUDRpT1J4aUNrQVJFdGxHdU5WdVJ1eFdJd2Ztc0ZheUR2b2RvTnZCaXV0UGFpdzl2VTY2dzJJZ1hHZHlZOHJDQ2lhWEN6R21GaEY3M1hlUzBRUHJjV2ZLLU1WSnFiR1B4QmVkS2dLTlA4NmlaR0MyY2FOSExlNnR2ei0zWmFMZHIwWjZJN3BEd3d1T1ZMRnk3a1laYzZlSW1lNy0zSXVIZGxkWFhKdk4wY1RiNDlNU19jTXc2TlBHRDRhQVEwNW80WlpTa2dvcnRJMEhURHJOa2ZUSXhsalJGMzZyQjhJZmZoLWxENzlKcktfdDU1Skd1TGkyV2dZZ1BQc03SAZACQVVfeXFMTXpYOHM5ZDdObzd3RzlLck1XYUNfQU9VVGtfSkpYMjNsbVBCUU4zZFhpZTY4bWI2WXhjSThyRGFHUks1UTZWeEpyc3hyX05Ud05wNVpXWG9SUjFKZ2NET1ZTejIwVk5pNFp5VXNJVWgycVotTzlZc3lVQjZpOVJUVFcwZTVVd0VHSFZNYXVvbkxkQWd0MG13TWQya1pQQ2dUQ21mZGs0eHNKdkdsc19YeGhXOWZXdlRpeF9vdlQ0TmJDNGY4YUhBWlBiU05zc3N0WW80MU1Na3lyX0xLQUxhYS1QTXUyQm5RU3BfZnpDUEZYNzhCblFONXBFamlOYWFyTUN3cG1lQVUtWGphUC0wcXk?oc=5",
+  "clave": "atendidos existieran jabonero ninos trastornos",
+  "capturado": "2026-10-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "51fe9f117110",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Demócrata",
+  "titulo": "El 62% de los españoles sitúa la salud mental como su mayor problema sanitario por quinto año seguido",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa09ELXJ5allzQldtMUVkOVRsejNFbnVpSTg1aGp3OWpyXzNhaWhRUjBTYTRHQWZ1eEJFdFBOcmQ0X052X0otc3JFbTZtaEt3UTZUSEc0eVZGdFdJR3hIZ1NFaC1BZmYzTG00dWczOTNOYXBrTEZJcU5aQ3J6ampZNFhiRWVoZENZbFFOWmZFWUEwZHJjZ21HVzY3OU5JR2JWaE9RY1VQVVFWbGhQYVBaOGZjWHhxZHJ6WERaS0s1dmJrNk5MNXdySWlLZjg5ZmfSAdQBQVVfeXFMTmhsUHdKcWpycWRFNWtiQjN6WFFSUExOcG9HZ0ZnN3A4SndjMjZrZUxOU1g0bGJpd2Jyal82QlZGdnh1YWJPTi1RSmN2dXdUS3h1VnBwcUw0VE80S1RoWVJxQWM2NzdmdThzNFd2cVZDRUs5eVdmdlBUN20yRUhPVHRzUkxaV3IwYnRzSVE2SXhDNFA2YW1Wd3hLMDJoc1MySVRkRHVNemQ2Q2tMZ2J3NUVuSXdjX3RXX1pUci10S25YVjQxVmduU0VySHFuSlNSMHdEUFQ?oc=5",
+  "clave": "espanoles mayor problema quinto sanitario seguido situa",
+  "capturado": "2026-10-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1cf1edd08818",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Quincenal de Los Pedroches",
+  "titulo": "El Hospital Reina Sofía organiza la Carrera ‘Solidarios con la Salud Mental’",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3dMcWRMZnExMXI3WE9TYnJoNE5FSFQ2dGVxZG9CWUtkS0g3c1hIeTJsb3llQWVERU5ZNmNJb0htMnAxazZ4cjd6LV9oQTRSU0ZBcndoVGNmYWxwN19Md29jT3E5SVFKT1NURUpDUVVjcFdwNzJ0X2tSVVdMVFhPQWJPb01vWDJQMnZfOG1IVExvQWlVck4yWEdROGUtZS1sVkh4X05tdmFuOGZPTmVwQUdDQWIyRVE?oc=5",
+  "clave": "carrera hospital organiza reina sofia solidarios",
+  "capturado": "2026-10-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2020df2bab6d",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Demócrata",
+  "titulo": "62% of Spaniards place mental health as their biggest health problem for the fifth consecutive year.",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb2lJbDB6Y3hFZEZ3Qi10Mk5FUmFLakpraUtZSWlKV2lJalc0WkwzX0Vidng4ZXRHbUlEOElvcnU5anl6QXFha0VWaGhSV3ZOX3FUN1BPRFEzcnNqRFNRbEFGNmRuYWVLQktHd09YVUlkdHh4ZS1ydkxTUm8wTmdZLW9ncVBsZm1hU0c1VkhmRmtxNmF5RmxLTzdhYzNuRGFIdEZBeTg3NnM2azZfck90Y0h1RDB5a0pFTDhKNzBwbGplSkRTOUVHb1c1OGRzODDSAdQBQVVfeXFMTXlvRmpCdlhSTDJFRmoySGhwNjg0V3ZNT2w4b0ZiTC1oRFFDdFpqRjBKZ0VTcy1XWFh1RTBqelllbWJTb3BfZnQxRnZzdjJrWDVETzhwbE5EazBMTjJENmgtcnhmbUZfR1dlWnhKVG5UQkhIXzVUU1NveHBTLVBVSDNabVdwM3BvNTNhM2R0VzZYTTNBLXdVQXNROXBfaFI5LXZDTWtzM1lzMVRZTkRZRWU3VTd2cV9SelBuYWxXbmQ5R19zU3N5ekVBc1IyTlBjYlZIZVY?oc=5",
+  "clave": "biggest consecutive fifth place problem spaniards their year",
+  "capturado": "2026-10-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -388,6 +967,84 @@
    "salud mental"
   ],
   "ruido": []
+ },
+ {
+  "id": "2385d298af2c",
+  "fecha": "2026-10-08",
+  "carpeta": "03 BRASIL",
+  "feed": "Brazil Journal",
+  "medio": "Brazil Journal",
+  "titulo": "O rali das small caps",
+  "resumen": "no rali desta semana, 18 acoes subiram mais de 20% em tres pregoes. dessas, 17 estao no indice de small caps – a excecao e a localiza, que valorizou 20,5% no periodo – e apenas sete fazem parte do ibovespa (e com pesos reduzidos). depois de subir 7,7% na segunda-feira, o ibovespa caiu 1,3% nos […] the post o rali das small caps appeared first on brazil journal .",
+  "url": "https://braziljournal.com/o-rali-das-small-caps/",
+  "clave": "caps rali small",
+  "capturado": "2026-10-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "caps "
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3ff1628705de",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Español",
+  "titulo": "Raquel García Fuentes (COFZ): \"La farmacia puede ser un punto de detección de problemas de salud mental\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNaW5XeWRBQUU2d0F2OWZzQkM1ZlNRQ2FybU45c193RGZEQUtQY2lBSmNSNXJiMDMtUGR3ZjJ4dkhBLXZOalotam13RXJOMFNRWTVyd1E4azF2dEEwVDAtbmZUTDQ5T09XX09WUGlQcGJwdnhBMnVtalVjZmhDbVF2Tmh6cXoyV3RtMFEwTGxVOVlhODkyM2JVQ2x5X3pJWEpQZUxnQ1Y1MjVGdk96Z2d3WXJUNTk4S0dvQ2ZhUm9oVENrVHpPaUREWm95R21fN09wMS1wXzVlZnNlWnRXZlpvM1ZIVEwtZkxERzVEZkt3OTJBRjIyUnhVay1acUFJZG9NdVFKdWxYZ05NeEZvVVRyS1BwbHVzc0Z5NGlscFBn0gGjAkFVX3lxTFBlM3Ixdm1vUU1wTjlwZU9nYTQtQzdHNUM2Z3RFSUpGRGJ5cDlPbFVjM2JxTTNxeE1NRU43YVE5TTMyTi1UUmluV2ZWVHBkbFVPaE8tOW9heHlWVWR5Z2VaZ2R0S0ZlQXktUUxLdTBFZE5hbWhXNUstM0VDVUF5R0UteWdPYk9iMXFyMERFZDdMamU3TGNVR2MxMG1PN1dsNXdjbGpBb0lVVTRFSHdzOTN3ZU1Sa0JEZEppbmJoUEw2cTRwOWVQZV8yNm5XSVdHWTdPUVZja3FPUnoyT3hnRjBvQWF6Q0xacHZ4YjlhcmZGQjZyRjBYY3puLVhQTXZNcjBLaHlZeWpfV29FQllvWUxJTFBpVUhNUWpXdU5KVHBJV1d2WQ?oc=5",
+  "clave": "cofz deteccion farmacia fuentes garcia problemas puede punto",
+  "capturado": "2026-10-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "812574b76dd0",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Agencia de Noticias San Luis",
+  "titulo": "Capacitarán sobre salud mental en contextos de encierro en el auditorio ‘Mauricio López’",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUWxRSndoU29JRUZFeTlxY0x5SkNndUYtM3NHXzhWNG5hU1ExeFlQV2NMVkRqWWRtWnBHWUtZazNtWUlvOEFUNEZTUnJMR29YRVFSSms5dWYxLTZEb0RDUVZXaVhidEpjVFpmeGhtMF9tMFB2aWpHdF9TVndpYmtUUzFOTFRQZFVNeHBGNG94aFlaTWFnd1ktSmNXYWRBXzVOSXdHUFc2SjdLOF9xU0ZHNDZZcVU5ZHhkOWFVM2NWS1VmTmJYWlozcDRoZGdwUQ?oc=5",
+  "clave": "auditorio capacitaran contextos encierro lopez mauricio",
+  "capturado": "2026-10-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "25041843e296",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Teleprensa",
+  "titulo": "La Junta celebra el Día de la Salud Mental con actividades de sensibilización y convivencia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZzJMa1hQN0dCckpydEdHVEQtUU5BSTlCX3BLNS00T3ZYclBpVENDV0swU3g5U3BOR3dFMTNTTDVnMGhDRWI5UVM0MEsxNmUtODFOUDlTQy1lbDF0SGU5VHplYUZjTGw5Vlh0bkUyY0dYNTZnd3FPWWhnVExTcExqVm5zVEg5MDkxaGRuY1JvNXVIV18teTlKbWo0aHZnRW50NGNaTFZhREFTUHFXUWtJVk5oenpZS2NGUlhrbmNUUDNBRERmdmxZcWUyQzNNZjduZkhHWXdR0gHbAUFVX3lxTE1TMnJPdVNQRTdvODFEeXpkZXZqS0ZMd3J1YXNMUVp3cGlwWXpOQ0JHRE5LY2RMcFVSanp4dUM2WUZLalhnaXVqNHFTcGlMVzU2NTg3U3dHVnFSUmtfWWoxVkVVNjNoZGJocURXa29uc3lKd2lNZnUxYzh5aGVqWXFmV1FIcTRPeFdfN1Q2ZHdIbEN6dDlmN0dhR0pieTdLOFBndmtVRV9mUmN1Q2dxTTh6V2N1NGNQQ0t5RGRSUVZTeElFOFNSemFzdjNqWEQwMzVEekFmNnVwTlRiYw?oc=5",
+  "clave": "actividades celebra convivencia junta sensibilizacion",
+  "capturado": "2026-10-09",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia de la"
+  ]
  },
  {
   "id": "ac80f652cf38",
@@ -909,6 +1566,44 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "965522457964",
+  "fecha": "2026-10-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Corresponsables",
+  "titulo": "Salud mental y espacios de trabajo: una inversión con impacto real",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQU84Z1NhT0JLOWI0eGM4YTlyNTRLaGFSQmZoMnBoSHd0Qnd1RXFCTHE0NkRuQlhRRUpCWDVaLUZHczFidm9HR05xUVBITkhacm5yTXFZMGdNQWFEakotaHJhYlpzcW96SG5XV2lpRDJQR3YtV1UtLTRMVkN3MWpXcnZMTjlyY1h0c2VVc243d3pOQmlKbWREaXYzSlFNSGxNc0U0?oc=5",
+  "clave": "espacios impacto inversion real trabajo",
+  "capturado": "2026-10-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "870235daf2ae",
+  "fecha": "2026-10-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario de Mallorca",
+  "titulo": "«¿Cómo estás?», el lema con el que Manuela García quiere concienciar sobre la salud mental en Baleares",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0QzSmV5UVU5RWxnOXlzOURNQ29pWUYtZGhoaVVSaEtLcDBZYnV0TVU5OEkwUl8zZjl2WklQcG52dFdRVU9LRFlwZjNZd2dOVzA3MXpxbGJXZ3lwVWlkdkxyc3VTb3YwQ3BvOWQwQ3J5QzFYOWpsNnJXbTBTZFpXaWs4LUJKclg0dy1HckR5R0xuWEpybVEwazdyMEpqcHRpSjEyMms2QUTSAa4BQVVfeXFMUDdQTXJPYjBNZmF5Y1hMdzhhaXkwMGoxWmZIeVJtMW9JRFVCcXZhZ3dQbUpGUDB3cmZzYWFiZExvQ2pVUWZDa2VLZF9qVGVMb2RSOVBMMVZRU2NSVGpBY3pSME1XSkxlbFQyOWRWZGxid3dteVpCM0xrbVdZTjJJSllvZnpueUMzSlFqMFplMTBnTzJSUkg4WWM4SFhTbWhxY0hlSkt2X1JwX2U2X0pB?oc=5",
+  "clave": "baleares concienciar estas garcia lema manuela quiere",
+  "capturado": "2026-10-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -8857,6 +9552,26 @@
   "ruido": []
  },
  {
+  "id": "d85338d9940f",
+  "fecha": "2026-09-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Mirón de Soria",
+  "titulo": "Sanidad prepara nuevo sistema de vigilancia de salud mental con Registro Estatal del Suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSXFnbmwya0lDRDZOMHJDdDdOblVYVWJ1clFLXzkwSS1HclNzeDk0REtTNEFyRzZLME8xbDVDajJDLThzdTRBMXNYUFByeGdxaFM5Z251XzF5ZV9XQ2QwaF9DYk90NThPLVVxNnRJSW5XOUtuX3ZWYk1CT2UwSzhQbllxRGpsUDNMRF81NHdNWko1andtNEtkeGIzQ2RkMUdoOWk0NnRRRk5wVXRNTUFTeFdPYmpKZV95RDZieXZQMjg0NDg5SnJwZDlIeS16enJEZjY40gHYAUFVX3lxTFBFc3VSZGlpUjctV0dGNF9PR2ttQTdQcEp6RW03M0drRmdTbmpPRDdMTC1zLVBvdnJBU1JhbUNGWWx4U3JZNWlmMHI2QlNsd0hpTnFMZVFadXowYkh0QUItNmwwSEsxZjRTb18wem82ajdtd2RYWkJiZzFXLUYzUVppdkJmRC1ha1dxRnhpVExZbkJxTXFvMjM3SGtNTDNsRktrNkJVQ0U0aDJpN2JwWGgxTmZYb000eDRHQy1FNVFoWXBqenRBc2txVjJ2bE4ycjJHSVBqN1V6ag?oc=5",
+  "clave": "estatal nuevo prepara registro sanidad sistema suicidio vigilancia",
+  "capturado": "2026-10-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
   "id": "51960268dfc5",
   "fecha": "2026-09-13",
   "carpeta": "05 GOOGLE NEWS",
@@ -13169,6 +13884,25 @@
   "categoria_auto": "producto",
   "topic": [
    "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7bb082ba02ee",
+  "fecha": "2026-09-01",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Senado Federal",
+  "titulo": "CCT debate proteção à saúde mental no ambiente de apostas - 1º/9/26",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeTNBTFAtSUh5VzFBUDZUZUtLa2xjODRBVlM3Tjl2SWtDbTFnYThNeXk1SVdqWDRxR1RKMEZiaGliZ2lJWXg2OHNISHptQjh6TjZ1WEI3OFpYWmZUTWVYTm5YMTZhZnFXLWczSzZDTjJxbG92eHVucV96QlZMbGhPa0d6LTdiX0VLQ2hreTc3UGtzeFlBWHl1YnJTZ3d2NERnLVROOWR6MzV3bHpyUkRld3NZSHdNakpOZ251aFZ6UGRpY0E?oc=5",
+  "clave": "ambiente apostas debate protecao",
+  "capturado": "2026-10-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -17735,83 +18469,6 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "e689bd91a212",
-  "fecha": "2026-07-10",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Migalhas",
-  "titulo": "NR-1: A juridicização da saúde mental no trabalho e seus reflexos",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZV9nTUxXaEFXU1ExR2tXdlp4SVdMaTJadU9MX3I5c3NNN0xrYmRkbWEtSlUwZng5RU5QdTZ5OHIwTUxGS0dTa3RDQWhtYkFqOXdNSUtueU9RLXQ0NENlUGxqYkZZRVRMWno0S1Zsa0ZPT2FyQjBwVWFQWWhDbVdxSERwdkFIOWg1SWJDQTBhbVBFeHM2Q1R2YU5zWWpUZ1dBd0JjVVZBM1Q0Zw?oc=5",
-  "clave": "juridicizacao reflexos seus trabalho",
-  "capturado": "2026-09-04",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "9b7d02f34ce6",
-  "fecha": "2026-07-10",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "WH3",
-  "titulo": "Prefeitura inaugura nova sede do CAPS com investimento superior a R$ 1,5 milhão em São Miguel do Oeste",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTUxZSG1adEFaaVRoTFp1a3hmUmZlejhzYlBmbWtwbGEzUERYVlllNWxzVnJjT2NHMG10a3ZjeVM2ajhHcDF6QWo3Nld4b1BPMDQ1Vzl5blVvVXdQamxTQjhaM3FnSlMtUWhob1J2Y0ZVNWtrazVSTGxzSUtEcXlaN0pteHMzT3VzV0ROYW5CUVNabk5TM2h5QWh2YkFfOWlYTkdoN2czc1N0Mi1fa0RhREtSVFpNdmY2S2lkelpORGhiYS1vUGVCa3VWdUZrbVVGOGpEQjBpNA?oc=5",
-  "clave": "caps inaugura investimento miguel milhao nova oeste prefeitura",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "caps "
-  ],
-  "ruido": []
- },
- {
-  "id": "69deeafbbcc2",
-  "fecha": "2026-07-10",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Comunica GVA",
-  "titulo": "La Conselleria de Sanidad triplica la financiación para prevenir las adicciones en Torrevieja",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RbWt6N2UwQWlRY1dabHlrMGNaRWpvSU1kNGM3RkRHVXFMMDVKQ0ZYS3dwYk5wdDVWY0NKS2sxQ3oxSE44STQydFIyZ3VQazJtNlJyTFZmaWJCd3VxbHFnenpEWno1bzM2ekRIRmlBTQ?oc=5",
-  "clave": "adicciones conselleria financiacion prevenir sanidad torrevieja triplica",
-  "capturado": "2026-09-07",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "adicci"
-  ],
-  "ruido": []
- },
- {
-  "id": "cabcaddcd97a",
-  "fecha": "2026-07-10",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · EN sobre nuestros mercados",
-  "medio": "DW.com",
-  "titulo": "Why the World Cup can be good for your mental health",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTC1aSW83RTBDcGVHVElETTRVTGQ4MTR3NjRhNGlTYTFSS2FoWkRCZmVqRktGZmE1Q01fUENWbXphY3EwazlOdmUzOW5PcFA4SUNoRWE4dzh3eWhCNGpLazdtSi1aYnhlbVdudlpCLXowcUtZNlZ0blg1RVlLNkgxTkphWWFXbHdaeU9TRXV30gGOAUFVX3lxTE1vYjJha3M3dHpHZ1V5aDFjX3pxbjlNYzhYZDExbkVKR25Vam51Z0RmQ2JiWG5jX1BaN0hlRUFnQmFhTG9XN0ZsZkdxdkEzLVhuOW82ZGJSQkVscVUteE02TTdJdWpQbHZOS0RSSlNXLVJ1UTlFOUVfM1c5X2VyNkpTVGduNmxENGl3SWZoOGc?oc=5",
-  "clave": "good world your",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "mental health"
   ],
   "ruido": []
  }
