@@ -1,13 +1,12 @@
-# Hemisferio — señales 2026-10-01 → 2026-10-09
-148 ítems con tema salud mental de 1193 leídos · 144 historias únicas · A=22 B=39 C=83
+# Hemisferio — señales 2026-10-02 → 2026-10-10
+175 ítems con tema salud mental de 1196 leídos · 170 historias únicas · A=24 B=44 C=102
 
 ## PRIORIDAD A — hechos con datos (leer artículo completo)
 - [2026-10-06] [03] **Hospital Sapiranga inaugura novo Serviço de Hemodinâmica** — Medicina S/A · cat≈deal · 11 pts
   o hospital sapiranga vai inaugurar, na terca-feira, 06/10 seu novo servico de hemodinamica, resultado de um investimento de r$ 3,5 milhoes realizado integralmente com recursos proprios. a estrutura ampliara a capacidade 
   https://medicinasa.com.br/hospital-sapiranga-hemodinamica/
-- [2026-10-01] [03] **Wellhub amplia FIDC em R$ 100M e libera mais crédito para parceiros** — Startups · cat≈producto · 8 pts
-  wellhub | foto: shutterstock um ano apos entrar em servicos financeiros com r$ 100m em credito, empresa injeta mais capital para apoiar academias parceiras o post wellhub amplia fidc em r$ 100m e libera mais credito para
-  https://startups.com.br/negocios/estrategia/wellhub-amplia-fidc-em-r-100m-e-libera-mais-credito-para-parceiros/
+- [2026-10-09] [05] **Centro Estatal de Salud Mental de Puebla estrena cámara neurosensorial con inversión de 1.6 mdp** — A tiempo noticias Puebla · cat≈deal · 10 pts
+  https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV2EwS000U05fc1hrRHIzZWtuall6VU5FdVJrUFRCTUpZYVdJMFoyRXFfYmxUZnIyT01lLWtUMl9aUTNCUjRjWktFZ1JnQ1ZJTWp0dEhaWDhBX0xHcWx0Q294ZFRkTEYzTFhzV2JDV01hM3BkaXRLV2hITzN4ZFdHRXBlVXFpS1ZJMXJ0MXlCeklwQ3h4THNaOGdfQ3JLNGZBZlplR1o5WDJEOThXVnVmUkp1MlFZTjluU2NrS005OHM2MkVEV0dQY05zdzBWSHlMV1lr?oc=5
 - [2026-10-07] [03] **Ministério da Saúde amplia núcleo dedicado à saúde mental dos trabalhadores** — Medicina S/A · cat≈sistema_publico · 8 pts
   o ministerio da saude iniciou uma nova etapa de estruturacao do nucleo de acolhimento a trabalhadora e ao trabalhador (natt), criado para oferecer escuta, orientacao e encaminhamento a profissionais diante de situacoes q
   https://medicinasa.com.br/saude-mental-trabalhadores/
@@ -15,9 +14,6 @@
   https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdlNfenVEMVhuWE9DVUp5VDJOX2FkZk9ycVZDUWRGa0NPX0V2WWxkYXJWTzMwaU9PMTRYQ29tRzFmY0JxUW1ZanY3VTI5UkQ1dzZfQmNWc1gxMGRvMjlrSjdRbEVTOHVleGx4a29TUElXYzFKSFU1bklrcU9OTHhSQ0toZnBnUUQ4YW1UbGJCOTdkLWltVmxIUDdESnJQWFI5NFg1Z2syZUNmT0w5dFVnd1g2OWtPakstYWlXY3k1NkE?oc=5
 - [2026-10-08] [05] **Com investimento de R$ 18 milhões, novo complexo de saúde mental com vista para os cânions começa operar 100% pelo SUS na próxima semana em SC** — ND Mais · cat≈deal · 8 pts
   https://news.google.com/rss/articles/CBMibkFVX3lxTE1qSXJBY2E4T3k3aWcyLUlTOVRaTmhfUXVBeGUtQWRneEhydTNWSG9BLUpHR2puaGg3WEZvakx2dzg3c2ZGZ0dMbzc1MGtfMmNoRWlJZDJuakhnMXIyb0JzOFJmZS1uUWY3ajhBdFZ3?oc=5
-- [2026-10-01] [03] **Planos de saúde e plataformas digitais: Conselho Federal de Psicologia promove diálogo com ANS sobre remuneração decente às profissionais psicólogas** — Conselho Federal de Psicologia · cat≈regulacion · 7 pts
-  a sugestao legislativa nº 12/2025 (sug nº 12/2025), em tramitacao na comissao de direitos humanos e legislacao participativa (cdh) do senado federal, sob a relatoria da senadora ivete da silveira (mdb/sc), propoe a insti
-  https://site.cfp.org.br/planos-de-saude-e-plataformas-digitais-conselho-federal-de-psicologia-promove-dialogo-com-ans-sobre-remuneracao-decente-as-profissionais-psicologas/
 - [2026-10-04] [05] **Psiquiatras y juristas reclaman una regulación de la IA en salud mental que llegue a los juzgados con garantías** — moncloa.com · cat≈producto · 7 pts
   https://news.google.com/rss/articles/CBMihgFBVV95cUxQeE0xUkk2dnNHNjRHZGlvMnRjajhWd2g1eUdBeWRmYWtKcGpnM3dCNVhXT0pQRWI4ekR3SVJrMGViR09WQ1lBTGJmQ1luTzVVYlY1N21xaFNfa2ZJMlNBNkhwVUd3Y2kxeVhjaFhuUTgwY0FkRllFOXNLaUhNc1UxVllydldkdw?oc=5
 - [2026-10-06] [05] **Comisión a punto de rendir informe nueva ley de salud mental** — elcaribe.com.do · cat≈regulacion · 7 pts
@@ -27,6 +23,8 @@
 - [2026-10-08] [01] **El Parlamento Europeo estrecha el cerco sobre el absentismo y exige controles psicosociales ante el repunte de bajas médicas** — Redacción médica - Home · cat≈regulacion · 7 pts
   la eurocamara ha aprobado una resolucion que insta a la comision a considerar los problemas de salud mental derivados del trabajo como enfermedades profesionales y ademas: una baja medica puede reducir hasta un 40% los i
   https://www.redaccionmedica.com/politica/20261008/el-parlamento-europeo-estrecha-el-cerco-sobre-absentismo-exige-controles-psicosociales-ante-repunte-de-bajas-medicas/355192_0.html
+- [2026-10-09] [05] **Chatbots de IA y salud mental: uso, riesgos y regulación** — Demócrata · cat≈producto · 7 pts
+  https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTEJfb24wVW9LWjdSOVZoWDNOb2s1aW8xOXRiVUZKa21fWXY0THB3R2RJUVViM0h1TEdTTHpxRzN4WDNQTDVzckFsdnNtYjlEeUdZdFgyRVREY2VxcXZuWDhkTlVRbzZlMm9mOWRjdko0LW5yekpIYVNyd3dHWGllNHVRX0NobnFJTWN4bnZtdzFnTGNxTzNjakdneHJla0FvSmpiYThXRFBNc3AtdXhMcVg1T3NmUURWTVJnYmhjdG0xenlUODhJekJ0ZkVpZkZiRDEzUkNzNkRkZw?oc=5
 - [2026-10-02] [05] **SANIDAD | Los pacientes del Área Externa de Salud Mental del Complejo Hospitalario Universitario de Canarias exponen su obra en el Parlamento** — elblogoferoz.com · cat≈sistema_publico · 6 pts
   https://news.google.com/rss/articles/CBMijAJBVV95cUxPaEdIVUZfTHFqQkx6a1ZCWWZ1Zk91czluTWRaaWVLM1M1WGx2NmN5WmF3VWpqQjVpRW5lVVBhcTZYSDdRNUQyaXJKNWFEWGtla1Z2N0J0NXhudWUxU0ltTkJYVnIzemFmQ3JYVUNROExFOG1pTURxbDN0cGhucURmWEFmMnBwcDNuUk13N1lBelFvMmdOOTFZcllzN1g1VW1YUzFnV2R4U1ZRMmJDNmRRZ3NrNTI1Nm9PSFR0Vk5sVkJUV0swLXFRelZWeXhncDNzZTFsRy0zcVJXVHRmTDllNzFWX0pSOGp1dlR5bE1Bc0lVWEppR29lNlYyU1NPRVJ0OVVwb3lIaHNkWTVJ?oc=5
 - [2026-10-03] [05] **Câmara de Barueri reúne 150 pessoas para discutir saúde mental** — correiodamanha.com.br · cat≈regulacion · 6 pts
@@ -60,11 +58,13 @@
   https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26
 - [2026-10-09] [05] **Ley 2460 de Salud Mental: educacion emocional en colegios de Colombia** — areacucuta.com · cat≈regulacion · 6 pts
   https://news.google.com/rss/articles/CBMizAFBVV95cUxPZmFFM2EyZEtfZEVYT2VINHRhc2pLQnpKVkNuSTBoOEFyejViQlJGOFRQWFJUYWdiUlZNR3pDbXl1V2xrVHBLTlQ3dzFHbng2TXZ4RFJRM3EyZEhjWlM3Ukc0WDNKVXNpand2VDRPZDg0VW53b0VYN2RrcE9hczFkanJlWFdma1Z4UlN6UlI1SEtROE5xWW5NU3lrZXVQUGtBN3F3cm9rTk9JYzc2NHNOcEhRQVRESm5MRUV2Z1kwaFQ1eGFZdFBhTF90OGs?oc=5
+- [2026-10-10] [01] **Los 'deepfakes' alimentan el ciberacoso entre adolescentes: "Aunque la imagen sea falsa, el daño psicológico es real"** — Redacción médica - Home · cat≈producto · 6 pts
+  medicos y psicologos alertan de los problemas de salud que pueden derivar de este tipo de acoso, como la ansiedad, la depresion o el trastorno por el cuerpo traumatico y ademas: el sobrecoste oculto de la ia medica: fact
+  https://www.redaccionmedica.com/innovacion/sanidad-digital/20261010/los-deepfakes-alimentan-el-ciberacoso-entre-adolescentes-aunque-la-imagen-sea-falsa-dano-psicologico-es-real/354873_0.html
+- [2026-10-10] [05] **En el Día Internacional de la salud mental, el PJ Entre Ríos exige más presupuesto y una ley de protección** — Análisis Digital · cat≈regulacion · 6 pts
+  https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUkU2OV92QnBWWU5xcDFwR2hPbGtjVUJCX2habEpJeFhJNjBTOG1xeGZmUy1QT19GeHhBN3BiMGFIUk9qMXNPU056SVlESHFuc19Sdk42Rm9tQVZmU19yUVZONzJYNThJcVJVUzB1SU1lYXdpS2pqcXhkS2dqTy0wcG0yMktKeTdvZXVBZENkc010NG9HM2FjaDIzYmJxVHVrendveFkwekZQQ0xtZ1ZtQ3prRjMzdjdZTUljbDFJV3JCSERiMVNOakNJOXV3LUdyd2ZzSmVTdTJURXNvdTlSNXUtdXN3dktzTFdDR2ZJUFFZVEl0TVBJ?oc=5
 
 ## PRIORIDAD B — contexto útil
-- [2026-10-01] [01] **No todas las depresiones son iguales: el diagnóstico debe personalizarse** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈research · 5 pts
-  psiquiatria carmenfernandez investigacion cientificos del instituto de investigacion sant pau ( ir sant pau , vinculado al hospital del mismo nombre) de barcelona proponen un cambio de paradigma en la forma de estudiar y
-  https://www.diariomedico.com/medicina/psiquiatria/depresiones-son-iguales-diagnostico-debe-personalizarse.html
 - [2026-10-03] [01] **La música puede cambiar el cerebro de las personas con adicción** — infosalus.com · cat≈research · 5 pts
   un estudio realizado investigadores del instituto de investigacion en musicoterapia de cambridge de la universidad anglia ruskin, en reino unido, ha encontrado evidencia de que la musica puede alterar la forma en que el 
   https://www.infosalus.com/salud-investigacion/noticia-musica-puede-cambiar-cerebro-personas-adiccion-20261003082952.html
@@ -137,9 +137,12 @@
   https://news.google.com/rss/articles/CBMijgFBVV95cUxNWU9aWDJzVVpkbm92VUFUSlZZNGd2ZGo1enVxMWdUcFUxSG5iNzhlNUVBc3RDUERySTJBd2NYZ3pPd2JRLXFOT3RqUHBUVDZFZEdxYjY0YlZDUWYzeHRkd0p2LVVVQWtoaS1KNE94b3pxTkhJcUNWUEZwYUZ3U0VRckc1NWw2cnBxRlZPZl9R?oc=5
 - [2026-10-08] [05] **Diretrizes para ampliar e fortalecer rede de saúde mental podem virar lei em BH** — Portal CMBH | · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLWlGdkhxaWt3NEg4aEJkRjVHU1pOaW1rVE5KaFNFSTdFRkZqODNRdWZnTG9UbWcyUjNGMkNTX0hXMVVfNFBzSGNQYmVKWjRPMFlqanVEbmVNcjF3a0kzMXoyY1hlaFBRMXhUa1lBVURSa3pVekpqU1NDZ09jcTZ5TFZaSnJyenowVWVsMkl0dHNFNzZuR1NPZFpnNXJFWmhKblZtMndSWXZpNnJaX2dZdUl1anhxNFNiYVIyV2tlTWNlc3EtOXpfQlRBTThKUjhKZnVoWnlEcmZTT096Wmc?oc=5
-- [2026-10-01] [01] **La infección activa de hepatitis C es cuatro veces más prevalente en trastorno mental grave, según SEPSM, SEPD y AEEH** — infosalus.com · cat≈research · 3 pts
-  la asociacion espanola para el estudio del higado (aeeh) y las sociedades espanolas de psiquiatria y salud mental (sepsm) y de patologia dual (sepd) han elaborado un documento a traves del que han expuesto que la infecci
-  https://www.infosalus.com/salud-investigacion/noticia-infeccion-activa-hepatitis-cuatro-veces-mas-prevalente-trastorno-mental-grave-sepsm-sepd-aeeh-20261001114249.html
+- [2026-10-09] [05] **Marina Charpentier encabezará una vigilia en Plaza de Mayo para exigir la modificación de la Ley de Salud Mental: "La que tenemos no sirve, fue hecha en la prehistoria"** — Telefe · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMiyAJBVV95cUxQT29XeXVrNEcxMHJhRU1rUzRqVElXamNKNm84QXZuVEVVYnpkeW5OOGdPR3BfbGE4Y0U2b3J1OTlNS3YxcVY4MXZINkFmQ0pVdFdTbzVrc3hZd2pEeWVaWXR5ekdrVFZ5dDZ6ZTdhMFBPS2M4cUxRY24zTUdaeTFpYnF3RUNCbXpiaWExZkhlNXVmam9BZlI5Vmh4SHd2SHdnQTFsMEhZSmhGNllGalAxOTZBbGU2T2NRYzVTTzJFSXpMaEpuREJqanJIQXJfaUkyU0RPbGpnS2tGd1lHVERvNGxGOGFhUzJKeGhoM0ZWVDJwZDNzTEhrY19BdTRQc2M5bjBNVV83VjZNYnAxbmdpbzBsVE9hQ2ItLWJKaFRESVIyMlhES2FfNi1lX2RKMkk1X2pvS01rZm9vMGZzUS1ndmxjWk1PdWNi?oc=5
+- [2026-10-09] [05] **La mamá de Chano encabezará una vigilia en Plaza de Mayo para exigir la modificación de la Ley de Salud Mental** — Telefe Rosario · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTHB3aVZPWUJWVVctQWx4NkJ0QXZmMWdPbTRaaW4tSDdNREMyRFJpLTl0a3dnbWhfR3ZkTnAxY0NiWXVNMXI2Nld6a2R5M2Z5akxOWko1S0JwcldVVFFrMEgwdFIwTnJGUzk0YzFiM2FSaFM5Y29FM0V1aUI0UTh1dWk2NUpKM0huTjVaeHlZMkNmRlV1SEE5Q3BlYkRSR1g0eFdQWV9wcXI3OUNmalNhNUROSVlaQTQ5aXVLdFR0a1pLN3RGLXZOZVBIeTJHNlZWeDMxMFVoWUctdmRlUExhQXo4WDdHM0c3WjN6Y0Q1RENhbDFBX1RVVWpfS05BRTQ?oc=5
+- [2026-10-10] [05] **Ley de Salud Mental debate por reformas del Gobierno** — Cuestión Entrerriana · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSW1waHoxOEdwTjlnSmxGODFFQ1FoYjlXVDFKMDM5TGp4YVNHdUJia2R0R2x6RkhSOTlvSzZ4c2dZNnF1QkZOOThwT0lGaURuWmpjVEhhVDBtRGNuWURTQ0JWN1JDZVBNVnhqV21DMVl1SDYyd1h1RVRpMmU3eGNyclNHZE1WLXJPLTVOSlVEZzdEaU16OFFIbXJSaUUtNndkTl96SEpYQ0I5WEN0NTctbk5DOWJGbl9RODlKaWNBempneDhaX2xCOWp3SlN2QWphUm1MMDh3dnQ2VFJPUGROOUNTZUZQeW9kVkpVM2tIaWRjMnFWQ0o0Mm1lSQ?oc=5
 - [2026-10-06] [01] **Sobrecarga laboral y problemas de salud mental: el círculo vicioso que agrava la crisis de plantillas médicas y enfermeras en Europa** — Redacción médica - Home · cat≈research · 3 pts
   un tercio de los profesionales europeos presenta sintomas de depresion y uno de cada cuatro, de ansiedad, siendo problemas "sistematicamente relacionados con las condiciones laborales", segun un estudio publicado en the 
   https://www.redaccionmedica.com/profesionales/20261006/sobrecarga-laboral-problemas-de-salud-mental-el-circulo-vicioso-que-agrava-la-crisis-plantillas-medicas-enfermeras-en-europa/354945_0.html
@@ -158,9 +161,18 @@
 - [2026-10-08] [01] **La FDA autoriza una 'terapia digital' para los síntomas negativos de la esquizofrenia** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈empleador_aseguradora · 3 pts
   empresas cristinareal de click therapeutics la estadounidense click therapeutics, empresa de salud digital que desarrolla terapias digitales de prescripcion basadas en software para tratar y mejorar determinadas enfermed
   https://www.diariomedico.com/medicina/empresas/fda-autoriza-terapia-digital-sintomas-negativos-esquizofrenia.html
+- [2026-10-09] [01] **La OMS urge a integrar la salud mental en Primaria para abandonar la institucionalización psiquiátrica** — Redacción médica - Home · cat≈mercado · 3 pts
+  la entidad apunta que solo uno de cada diez paises ha adaptado su modelo a esta propuesta y subraya el elevado numero de ingresos de larga duracion que se siguen produciendo en todo el mundo y ademas : garcia aboga por u
+  https://www.redaccionmedica.com/politica/internacional/20261009/la-oms-urge-integrar-la-salud-mental-en-primaria-para-abandonar-institucionalizacion-psiquiatrica/361263_0.html
+- [2026-10-09] [05] **Salud mental: el Día Mundial puso el foco en las voces de quienes viven la experiencia y en la aplicación de la Ley 2460 en Colombia** — IFM Noticias · cat≈regulacion · 3 pts
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkJQcWM5VlFJMFFpTU1sclVLZnNmbHZ5dFpJWXRRSXhfMDBkcFgtSUM3YVN6enctVVhsR0FvV3NtNktvMWRaU2JINy1CTHBadGVfcml2OEQwb0FYdnpLa2ZidWR2cnFMeWtQS0RVUUt2dEtqUE5hU25TLWs3UUo5UVVicXI5TFJSSHY3UHZrQk5SQ1RMTXV3UklXSWx0ZzBKSXJ3VXhpMkdjVUFGc05QTQ?oc=5
+- [2026-10-10] [01] **Ansiedad, presión y redes sociales: por qué aumentan las conductas suicidas entre niños y adolescentes y qué hacer** — infosalus.com · cat≈research · 3 pts
+  las consultas de ninos y de adolescentes por problemas de salud mental han aumentado de forma preocupante en los ultimos anos y, entre ellas, tambien las atenciones en urgencias pediatricas por intoxicaciones intencionad
+  https://www.infosalus.com/salud-investigacion/noticia-ansiedad-presion-redes-sociales-aumentan-conductas-suicidas-ninos-adolescentes-hacer-20261010075951.html
+- [2026-10-10] [05] **La inteligencia artificial agota la salud mental del emprendedor: la (sobre) exigencia de ser más eficiente pasa factura** — El Español · cat≈producto · 3 pts
+  https://news.google.com/rss/articles/CBMiogJBVV95cUxOUngxMkFEb2JIaWhvb0tYc21ZdHJBV3JlcW9FVDY0N2N2cU5uSjg2ZVhPSmU2UFpCemFjVlltaG9zam8xM1RLUDZydTJCbnRLY29FSnRabDE2VVByNXV3OENla0cyUmhCaTBNNnRsSzlreVdKczA3b3JVdi1oY2tDcVc2U0NtbGhIZ21kQXlRakdTdThIQkxsdlhXMTRFcGw1RmkyNFRNTzFlNGZfenJkcU9OLWJjMGpyejRCOWVORHY1LTUtVWFqWTd3SHc0bVAxaVQwcDdGNFRTWElUazA5eEFpRnFSemVtQVQxWXAzTV9FZGNnV2V3QmZkQTNtVlJTYlVSYlQ4bmpTazhnVExlbzZub09zRWRBaWt4aWRYRDlGUdIBogJBVV95cUxOUngxMkFEb2JIaWhvb0tYc21ZdHJBV3JlcW9FVDY0N2N2cU5uSjg2ZVhPSmU2UFpCemFjVlltaG9zam8xM1RLUDZydTJCbnRLY29FSnRabDE2VVByNXV3OENla0cyUmhCaTBNNnRsSzlreVdKczA3b3JVdi1oY2tDcVc2U0NtbGhIZ21kQXlRakdTdThIQkxsdlhXMTRFcGw1RmkyNFRNTzFlNGZfenJkcU9OLWJjMGpyejRCOWVORHY1LTUtVWFqWTd3SHc0bVAxaVQwcDdGNFRTWElUazA5eEFpRnFSemVtQVQxWXAzTV9FZGNnV2V3QmZkQTNtVlJTYlVSYlQ4bmpTazhnVExlbzZub09zRWRBaWt4aWRYRDlGUQ?oc=5
 
 ## PRIORIDAD C — probable ruido (solo títulos)
-- [2026-10-01] <a href="https://www.fiercehealthcare.com/regulatory/state-officials-weigh-behavioral-health-policy-issues-bht-2026" hreflang="en">Crisis responses, H.R. 1 fallout are challenging states' mental health delivery</a> — Fierce Healthcare
 - [2026-10-02] <a href="https://www.fiercehealthcare.com/regulatory/hhs-awards-nearly-250m-addiction-treatment-overdose-prevention-grants" hreflang="en">HHS awards nearly $250M in addiction treatment, overdose prevention grants</a> — Fierce Healthcare
 - [2026-10-02] Wellhub adds $18.8M to credit fund for Brazilian gyms — LatamList
 - [2026-10-04] avances | El insomnio podría aumentar en un 26 % el riesgo de accidentes cerebrovasculares — https://www.consalud.es/rss
@@ -180,9 +192,12 @@
 - [2026-10-08] 62% of Spaniards place mental health as their biggest health problem for the fifth consecutive year. — Demócrata
 - [2026-10-09] Comunidad Madrid | Los hospitales de Quirónsalud en el Sermas cuentan con un programa de detección precoz de problemas de salud mental en adolescentes — https://www.consalud.es/rss
 - [2026-10-09] Sanidad pide un abordaje multidisciplinar de la salud mental — La Tribuna de Ciudad Real
+- [2026-10-09] El impacto en la salud mental de vivir con un alquiler por las nubes: "Me quedaban 50 euros para el mes" — Diario Público
+- [2026-10-09] Sabará prevê R$ 10 milhões para saúde mental, mas planos de saúde limitam investimento — VEJA
+- [2026-10-10] Lucas reclama más psicólogos en la sanidad pública y pide reforzar la atención a la salud mental de los jóvenes — Cadena SER
+- [2026-10-10] 🧠 La salud mental necesita recursos, profesionales y una sanidad pública accesible. — FADSP
+- [2026-10-10] La Junta introduce un nuevo programa para abordar la salud mental en las aulas diseñado por profesionales de la educación y la sanidad — Hoyaldia.com
 - [2026-10-09] Sanidad celebra Día Mundial de la Salud Mental 2026 con el lema 'Todo puede cambiar' — tvlapalma.com
-- [2026-10-01] La salud mental y la trampa del espejo: cuando el relato reemplaza al Estado — Análisis Digital
-- [2026-10-01] Após norma federal que proibiu bets, Alerj discute criação de núcleos de saúde mental para pessoas com vício em jogos de azar no Rio — Tempo Real
 - [2026-10-02] La falta de acceso a una vivienda, un problema de salud pública que agudiza patologías físicas y mentales: "Es devastador" — Redacción médica - Home
 - [2026-10-02] O impacto do sofrimento ético na saúde mental do médico moderno — Medicina S/A
 - [2026-10-02] – Uma regra de Saúde Mental: — professorrafaelporcari.com
@@ -220,7 +235,7 @@
 - [2026-10-08] ASOFEM reclama más especialistas e inversión para atender la salud mental en los jóvenes — COPE (+1 medios más)
 - [2026-10-08] Uno de cada cinco pacientes de las unidades de salud mental en Alicante es menor de edad — Información
 - [2026-10-08] La psicóloga María Jesús Álava asegura que las bases de la salud mental se forman en los primeros seis años de vida — El Español
-- [2026-10-08] O rali das small caps — Brazil Journal
+- [2026-10-08] O rali das small caps — Brazil Journal (+1 medios más)
 - [2026-10-08] Raquel García Fuentes (COFZ): "La farmacia puede ser un punto de detección de problemas de salud mental" — El Español
 - [2026-10-08] Capacitarán sobre salud mental en contextos de encierro en el auditorio ‘Mauricio López’ — Agencia de Noticias San Luis
 - [2026-10-09] enfermería | Las enfermeras malagueñas exigen contar en los equipos de salud mental con profesionales especializados — https://www.consalud.es/rss
@@ -229,29 +244,46 @@
 - [2026-10-09] Expertos avisan en Huesca del empeoramiento de la salud mental en niños y adolescentes — heraldo.es
 - [2026-10-09] El SCS incorpora dos recursos de salud mental en La Palma en los últimos tres años — El Time
 - [2026-10-09] La reina Letizia pide que la atención en salud mental sea realmente universal — Demócrata
-- [2026-10-01] Zamora reunirá más de 500 personas para conmemorar el Día Mundial de la Salud Mental — La Razón
+- [2026-10-09] La reformulación de los estándares formativos en Medicina como solución a la crisis de la profesión — Redacción médica - Home
+- [2026-10-09] pacientes | La OMS insta a abandonar la atención institucionalizada de la salud mental y apostar por un modelo comunitario — https://www.consalud.es/rss
+- [2026-10-09] Una app para la salud mental, para demostrar tu sangre azul o para visitar castillos: así modernizan su inversión los aristócratas — ABC
+- [2026-10-09] Ángel Sanz reconoce la labor de las asociaciones implicadas en la salud mental — Aragón Hoy
+- [2026-10-09] Vox apuesta por incorporar psicólogos en el Sescam: «La salud mental no se atiende con cartelitos» — El Debate
+- [2026-10-09] Vox pide incorporar psicólogos generales sanitarios al Sescam para reforzar la atención a la salud mental — ABC
+- [2026-10-09] Los fisioterapeutas piden más peso en la atención a la salud mental — Demócrata
+- [2026-10-09] Salud Mental: qué cambios propone el Gobierno y por qué genera debate — Parlamentario
+- [2026-10-09] APROSS habilita Telemedicina en Salud Mental para las fuerzas de seguridad y el servicio penitenciario — La Radio 102.9
+- [2026-10-10] autonomías | Esta es la red autonómica para velar por la salud mental, con nuevas medidas y más recursos presupuestarios — https://www.consalud.es/rss
+- [2026-10-10] profesionales | La depresión durante el embarazo podría producir trastornos en el neurodesarrollo de niño — https://www.consalud.es/rss
+- [2026-10-10] La Fadsp reclama “menos discursos y más recursos” para la salud mental — Servimedia
+- [2026-10-10] Conferencia en Telde del psicólogo Ariel Déniz sobre salud mental — Telde Actualidad
 - [2026-10-03] La justicia absuelve a una psiquiatra de Córdoba de homicidio, pero advierte del retraso de Andalucía en Salud Mental — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-10-03] CMD y SNS realizan jornada científica sobre los desafíos de la salud mental en República Dominicana — Diario de Salud
 - [2026-10-05] El Nobel de Medicina de 2026 recae en Deisseroth, Hegemann y Nagel, los padres de la optogenética — Redacción médica - Home
 - [2026-10-08] La Junta celebra el Día de la Salud Mental con actividades de sensibilización y convivencia — Teleprensa
 - [2026-10-09] Cataluña avanza hacia una nueva cultura de salud mental para "comprender el malestar emocional" — Redacción médica - Home
+- [2026-10-09] Día Mundial de la Salud Mental 2026 — Gobierno de Canarias
+- [2026-10-10] Sanidad conmemora hoy el 'Día Mundial de la Salud Mental' con el lema ‘Todo puede cambiar’ — La Voz de Tenerife Norte
+- [2026-10-10] Columna Conciencia Global de Mtro. Jorge Alejandro Torres Dia Mundial de la Salud Mental de la Ley a la Accion — Hoy Tamaulipas
 - [2026-10-02] Psicologia e Direitos Humanos: Nova edição do Boletim da CDH propõe uma atuação anticolonial, interseccional e pautada no Bem Viver — Conselho Federal de Psicologia
 - [2026-10-02] El Colegio de Enfermería de Ciudad Real convoca la V Jornada Bioética para abordar los retos en salud mental — Surco CLM
 - [2026-10-06] "Escucha" y "prevención", claves para la salud mental de niños — Diario de Ávila
 - [2026-10-06] Alejandro Vázquez destaca la "escucha" y la "prevención" como claves para afrontar la salud mental de niños y jóvenes — La Razón (+1 medios más)
 - [2026-10-08] La II Jornada de Lactancia Materna se fija en la salud mental — Diario de Ávila
 - [2026-10-08] Jaén hace 'match' con la salud mental en una jornada de convivencia e inclusión — Andalucía Información
+- [2026-10-09] Entrevista con Maripina Menéndez Carbajal: ¿Qué tan grave es la crisis de salud mental en México? — Saludiario
+- [2026-10-10] Menos opciones para los pacientes: buena parte de los medicamentos psiquiátricos no llega a Europa — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-10-09] Hospital Clínico de Málaga celebra su segunda jornada del Día Mundial de la Salud Mental — Andalucía Información
 - [2026-10-08] Villena proclama el Día Mundial de la Salud Mental con una jornada multitudinaria — Cadena SER
 
 ## Estado de los feeds (hoy)
-- 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 1 · ok
+- 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 3 · ok
 - 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 3 · ok
 - 01 ESPAÑA · https://gacetamedica.com/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
 - 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 1 · ok
 - 01 ESPAÑA · El Referente · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 1 · ok
-- 01 ESPAÑA · Agencia Española de Medicamentos y Productos Sanitarios · leídos 30 · nuevos 1 · ok
+- 01 ESPAÑA · Agencia Española de Medicamentos y Productos Sanitarios · leídos 30 · nuevos 0 · ok
 - 02 LATAM · https://www.contxto.com/en/feed/ · leídos 100 · nuevos 0 · ok
 - 02 LATAM · LatamList · leídos 10 · nuevos 0 · ok
 - 02 LATAM · https://lavca.org/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
@@ -260,19 +292,19 @@
 - 03 BRASIL · Saúde Business · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Futuro da Saúde · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Medicina S/A · leídos 10 · nuevos 0 · ok
-- 03 BRASIL · Startups · leídos 10 · nuevos 1 · ok
+- 03 BRASIL · Startups · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startupi · leídos 10 · nuevos 0 · ok
-- 03 BRASIL · Brazil Journal · leídos 10 · nuevos 1 · ok
+- 03 BRASIL · Brazil Journal - Latest news · leídos 15 · nuevos 1 · ok
 - 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Portal Médico · leídos 1 · nuevos 0 · ok
-- 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 22 · ok
-- 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 0 · ok
+- 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 3 · ok
+- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 23 · ok
+- 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 2 · ok
 - 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 2 · ok
+- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 0 · ok
 - 05 GOOGLE  · Google News · PT Portugal · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 33 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 31 · nuevos 0 · ok
 - 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 50 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 78 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 78 · nuevos 1 · ok
