@@ -1,5 +1,158 @@
 [
  {
+  "id": "2d8cd3a78e7f",
+  "fecha": "2026-10-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "la diaria",
+  "titulo": "“15 primaveras marchando por la salud mental”: colectivos volvieron a reclamar el cierre de los centros asilares y una vida digna",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPOHVEZmtzV08yaHotTDdVWG90aTY3VkEzVjJYU0hFVU9BU1VwWGhURE1ybEkyNzhMZmpkODdiSWdzdUQyQ1J2eTQycjUwOXl6UXhWdFVtcjFlQU5fQ1pveFRUVmV1bEpYeVNpV1dKZ0x4VldFbk5HOHZfSkxzVEFzVTlTaDd1NTdXLXlWaHpyRkJmY2RYc1pjMXNlT3NWMEtDQ09xMHZtVHc3NUg5REFheTM0R2tVOVVpQmNVUEc1M0JLRDhvSmxNVV9Hck5qcGNSc3BHS2dwb3ZXVngwOHJLanF1RllwQ190WFdtdTdZV2twSENSZ1FKMnh6VDJSclVzT0FYYdIBlAJBVV95cUxPMnQ3ZV9SdHBkdFZNRHNoTzF1V1ozTU9IVTczRFZ5UmlRaEZMWlJQbklOWmlpVS1YRmRMMVpRYWppVWxZWW5OcjJDYzJiNVNXYmpIbWJQUkEycW5wUmpJdVlaaFQ0QVBQeXU3Wjlvc1ZVaXRCYVUzWmhJdmVRZnNXRF9RS2FSWkpIX3ZodzdsS0FuT0JnT0RWbHk2bkFHVy1wWk5KNjI1VWpyNGo5RFFzRTZVb1JyVlM3VjlPelEtSmlUQnl5LTJyOHV0YkJWUHpVVXF1YWlFaUVWM1JhZng2a1dqY2lZTkl2MHR3bE9qU0ZUSnVEUmNsVWdRQ21fTldDZWtMMEV6QWs0TmVod093el9wems?oc=5",
+  "clave": "asilares centros cierre colectivos digna marchando primaveras reclamar",
+  "capturado": "2026-10-11",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fd52f37ea92d",
+  "fecha": "2026-10-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Neuquino",
+  "titulo": "En plena puja con los aliados, el Gobierno busca acelerar un acuerdo en el Senado para cambiar la ley de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWk1QOWRDZDQ1dXlUNTZVY18xdlJqOF9KRzhCVTR6QWxHWjlUR3U3OHJDcC1IMy13b25jU0g0c2dxc1A0TW5vUElQY0prSjF1WEN5UFJIbEVTdS1WUUJLNTlEMkdsbGNMTU5LVmE3d2JLWmhOLUhGSU5HX240T2FFaUlfY05RblVlR28zMHRwUTBOeHRJNGZzeW9PaXVnWFBPT3ZGeEw0Z1Y4X0ZJd3VONUJ0S083aWFEaUVXU3JHQ1JTSDc1VjBuQ2NYT0VybUFRQ3ZkZzQ4SUpFOUlMOHNQdw?oc=5",
+  "clave": "acelerar acuerdo aliados busca cambiar gobierno plena puja",
+  "capturado": "2026-10-11",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fe41107278a5",
+  "fecha": "2026-10-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Nuevo Día",
+  "titulo": "El Senado busca reactivar su agenda con patentes y Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3hLT1RXWThVVkhiN01VWWhkOUwzSVZxcTlYSUVMbUJQN1FreEFvUUZpLUNxYVpMbkt4b1Rac0M5Y1BqdFhKQmpNZklEUi0tbjJjRVRUa1FyVkRtT1FpenI1Z1o3ZTR6TmJ5YmxSODJWVVBJbmdtTWQ1blNJMWlXZ2FoWUpjdFlDN01UWlZMSENhMDRnNHZrX3RYTVlCR0lxVUlLTFFsQjFLYnVUbFdXdA?oc=5",
+  "clave": "agenda busca patentes reactivar senado",
+  "capturado": "2026-10-11",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "122381d5f768",
+  "fecha": "2026-10-11",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Células madre de la pulpa dental, ¿futura terapia para recuperar un ictus?",
+  "resumen": "investigadores de la universidad nacional de chonnam (corea del sur) han descubierto el posible efecto terapeutico del secretoma de celulas madre de pulpa dental humana (hdpsc por sus sigla en ingles) en la recuperacion funcional tras un accidente cerebrovascular isquemico.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-celulas-madre-pulpa-dental-futura-terapia-recuperar-ictus-20261011082951.html",
+  "clave": "celulas dental futura ictus madre pulpa recuperar terapia",
+  "capturado": "2026-10-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "db2130691a15",
+  "fecha": "2026-10-11",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El peligroso 'autoboicot' psicológico que amenaza con hundir la nota del examen MIR: \"El único fracaso es dejar de intentarlo\"",
+  "resumen": "la anticipacion del fracaso y la ansiedad dinamitan el rendimiento de los facultativos que se preparan la prueba medica y ademas: la espana vaciada, tambien a la cola del mir: estas son las provincias con menos plazas en 2027",
+  "url": "https://www.redaccionmedica.com/formacion/mir/20261011/el-peligroso-autoboicot-psicologico-que-amenaza-con-hundir-la-nota-del-examen-mir-unico-fracaso-es-dejar-de-intentarlo/355170_0.html",
+  "clave": "amenaza autoboicot dejar examen fracaso hundir intentarlo nota",
+  "capturado": "2026-10-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog",
+   "ansiedad"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7062de41dbee",
+  "fecha": "2026-10-11",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Desabastecimiento de 'Lenzetto': qué hacer si no encuentras tu tratamiento hormonal para la menopausia",
+  "resumen": "llegar a la farmacia y descubrir que el tratamiento que mantenia a raya los sofocos o el insomnio no esta disponible se ha convertido en una preocupacion para muchas mujeres en menopausia que tenian un tratamiento hormonal. ante el desabastecimiento de 'lenzetto' y los problemas de suministro de otras terapias hormonales surgen preguntas sobre las consecuencias de interrumpirlas y las posibilidade",
+  "url": "https://www.infosalus.com/mujer/noticia-desabastecimiento-lenzetto-hacer-si-no-encuentras-tratamiento-hormonal-menopausia-20261011075957.html",
+  "clave": "desabastecimiento encuentras hacer hormonal lenzetto menopausia tratamiento",
+  "capturado": "2026-10-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "insomni"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7909566c3843",
+  "fecha": "2026-10-11",
+  "carpeta": "03 BRASIL",
+  "feed": "Brazil Journal - Latest news",
+  "medio": "Brazil Journal - Latest news",
+  "titulo": "Em ‘O Convite’, quem realmente somos quando amamos",
+  "resumen": "“precisamos reinventar nossa relacao.” a frase aparece quando aquilo que funcionava ja nao funciona. esther perel, uma psicoterapeuta conhecida por seu trabalho sobre desejo e relacoes duradouras, parte de uma tensao semelhante: queremos encontrar na mesma pessoa seguranca e novidade . mas o que precisa ser reinventado? a relacao, a pessoa ao nosso lado, ou quem nos tornamos dentro dela?",
+  "url": "https://braziljournal.com/em-o-convite-quem-realmente-somos-quando-amamos",
+  "clave": "amamos convite quando quem realmente somos",
+  "capturado": "2026-10-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicoterap"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "287b1a4163e1",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "O Livre",
+  "titulo": "Alerta aos empresários de Mato Grosso: novas exigências da NR-1 podem resultar em multas e autuações",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUF9xV1BSdzhPRjhKSm8tZU1yeVpqb01adGhlaVFBbnNxR2ZUc25jczVHd1JlQ2ljUkhsZjZNX2tfYkU5TjN6ZExNUXdjX2pxMXZManBrOTdrdHlEZHRyLXJJWDFoS3o5czhTd3hfS3Ztc3h3RGl5YjBTRTdvbEpEdVU4ZVNBcWdmMHNVdTJ1Y1A0cldVWU16NHdTdGM5anhXQUNUdW11SHlmZFE3anRoYUVlREFuMjJLVXFOWDU1QQ?oc=5",
+  "clave": "alerta autuacoes empresarios exigencias grosso mato multas novas",
+  "capturado": "2026-10-11",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
   "id": "81322fe02bdd",
   "fecha": "2026-10-10",
   "carpeta": "01 ESPAÑA",
@@ -59,6 +212,44 @@
   "ruido": []
  },
  {
+  "id": "d91336bdefac",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infobae",
+  "titulo": "Ni encierro ni abandono: la salud mental necesita una ley que llegue a tiempo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVhoSFVLbXVVY3U2VDE3VEN5cXZzVGJnVFRIT2Y3blZzYnFoT3g1cXJPZXhubElhc1h5M2dWZHBYeG0xaUVNTmh4Yy1HQUZsYm1sVFpGT1VjcE9TWEY5c1NJLUNpSEM0NkV1M29XVkdiUTNhbnM0N0hXREhzMWlVbll3X3ExWThycENGbUx6WmxqRHVwTHI1eTZHdnNQanJ1aFpZNEU1cG5WSi1xcm9wWm9fSGhmNzN4ZE5LUtIB1wFBVV95cUxOQUNvOGlhREZiT3dZd1NlWVlFQ0w1M3IwbUlzUlVwRjJWTU1HTUNCZUk2cEEzMnplNmF3SkR0dHltV0tYSGMwdmpWUWYzWW1RaUFHa1kyNEhaVmU5SU1ONmtUZ3Q4Q1kxX3k1QjNCNldqNDhOXy13UndSbUdFX1JFVlJKQm1ocGduMi1YWUNkMGc2RW1QR0JqWW15OXVJb0Z1d0s4ZjNmMC1DYU9RcUFiaWE2ZUhOTXE0OWZQM3A1ZTJiemdIbllrNWJQQjE5QWR0UzFMajVNcw?oc=5",
+  "clave": "abandono encierro llegue necesita tiempo",
+  "capturado": "2026-10-11",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b03a7dc2523f",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "617 News",
+  "titulo": "Salud mental en Argentina: el Gobierno busca reformar la ley y el Senado sigue sin consenso",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1cnU2ZzA3Sk03blM3Z1h2VXBtaUxFa1BYanZBeDIySGYzUDRsYWdjNU84NXJ1c0sxUC0tSmp2OHNLdVZSbG1CQWNOVlF5V2d1V2lxcmJhaGNWNHJTODJTNFk5Y3FHMlphVnVR?oc=5",
+  "clave": "argentina busca consenso gobierno reformar senado sigue",
+  "capturado": "2026-10-11",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "b1f934ac380d",
   "fecha": "2026-10-10",
   "carpeta": "01 ESPAÑA",
@@ -90,6 +281,63 @@
   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOUngxMkFEb2JIaWhvb0tYc21ZdHJBV3JlcW9FVDY0N2N2cU5uSjg2ZVhPSmU2UFpCemFjVlltaG9zam8xM1RLUDZydTJCbnRLY29FSnRabDE2VVByNXV3OENla0cyUmhCaTBNNnRsSzlreVdKczA3b3JVdi1oY2tDcVc2U0NtbGhIZ21kQXlRakdTdThIQkxsdlhXMTRFcGw1RmkyNFRNTzFlNGZfenJkcU9OLWJjMGpyejRCOWVORHY1LTUtVWFqWTd3SHc0bVAxaVQwcDdGNFRTWElUazA5eEFpRnFSemVtQVQxWXAzTV9FZGNnV2V3QmZkQTNtVlJTYlVSYlQ4bmpTazhnVExlbzZub09zRWRBaWt4aWRYRDlGUdIBogJBVV95cUxOUngxMkFEb2JIaWhvb0tYc21ZdHJBV3JlcW9FVDY0N2N2cU5uSjg2ZVhPSmU2UFpCemFjVlltaG9zam8xM1RLUDZydTJCbnRLY29FSnRabDE2VVByNXV3OENla0cyUmhCaTBNNnRsSzlreVdKczA3b3JVdi1oY2tDcVc2U0NtbGhIZ21kQXlRakdTdThIQkxsdlhXMTRFcGw1RmkyNFRNTzFlNGZfenJkcU9OLWJjMGpyejRCOWVORHY1LTUtVWFqWTd3SHc0bVAxaVQwcDdGNFRTWElUazA5eEFpRnFSemVtQVQxWXAzTV9FZGNnV2V3QmZkQTNtVlJTYlVSYlQ4bmpTazhnVExlbzZub09zRWRBaWt4aWRYRDlGUQ?oc=5",
   "clave": "agota artificial eficiente emprendedor exigencia factura inteligencia pasa",
   "capturado": "2026-10-10",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4ec9a7cec7d6",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "El Ecosistema Startup",
+  "titulo": "IA y salud mental: la autoexigencia que agota al emprendedor",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEszeG5Vd1dyRVdGb2pJUktsaHFReUhpOU1xdXJVUDU5Q1NGcWx3ZWhlRnFSbkJyV2x5UWFQdGRlRHZTdHRRMk1YcXkwNTRQZ3IybTBHTklwbjBOVUJuRHg5bVMwMXpvWW9zQjhDNl83cTZGQ2wzaG1nQ3ZZU2JwZjhVUmtpZGpobUllbWNzbVByS1k1?oc=5",
+  "clave": "agota autoexigencia emprendedor",
+  "capturado": "2026-10-11",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "42d8fbd5a95f",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "uy press",
+  "titulo": "Salud mental en militares y policías: los datos disponibles y las medidas para ampliar la atención",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS0FoRjJHbG1aQlFzTGZjMHI0Q1d4OHJLaWlITUk0QzRhd0NVYnJEMUdwOExWQnhRdmJxVVg4Y2Q3VGNlRGZ1MGU3aGh1cUJtX00xTVM2YTFBRXE2SFdGMm1kT1BFUC1Zb1pUbm1pWWxBOWNTMkVjS0E3X0FQUm9lOU9Xa0xKMFZHZVdsQkY0VURqRVBjdHA5Q2M3T25zWEF5eHhJbXdhTGl2elJwSDNkajBnNlVVaUVRbjRLbUdrcUN2eml0UlpPNG9qZU42WS02c2NtRi1RSQ?oc=5",
+  "clave": "ampliar atencion datos disponibles medidas militares policias",
+  "capturado": "2026-10-11",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b70d2240155b",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "El Español",
+  "titulo": "La inteligencia artificial agota la salud mental del emprendedor: la (sobre) exigencia de ser más eficiente pasa factura",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxORUpnb1lINXd1NkRQX0hScThmcUxVbDN0MGREZk95QXJ3YnlLQWtqZWJQdVVlSXJIZTJIU3RhZW53UUJJd1RXUVZwUjdNWlRoSjhJbXBHbFpQZFQzRGhMT21mMUxkUlJMUWdaSjdtdUJ3YTNNa3VOalo5LS1lTTlqZG1UT0R6S3VGOTJ4RVk5eWJ4OWZkeUZDMGJJS0NkTFQ4dDVUZEU4QzRIcEtTc3VkVmlDUzI0dHB3ZUNWUEMtVU1Nd1ZqOUNIRWUxemk3TnBla3NlNkl6WXhER0xheFdoVnNEV281NUVPOUM3OUQxUTlHR3NMalROYlZFTHdscGpLcG9OVDdwS3VybkZiQ0x1c1otV3ZVMVZ1QkpWTtIBogJBVV95cUxOUngxMkFEb2JIaWhvb0tYc21ZdHJBV3JlcW9FVDY0N2N2cU5uSjg2ZVhPSmU2UFpCemFjVlltaG9zam8xM1RLUDZydTJCbnRLY29FSnRabDE2VVByNXV3OENla0cyUmhCaTBNNnRsSzlreVdKczA3b3JVdi1oY2tDcVc2U0NtbGhIZ21kQXlRakdTdThIQkxsdlhXMTRFcGw1RmkyNFRNTzFlNGZfenJkcU9OLWJjMGpyejRCOWVORHY1LTUtVWFqWTd3SHc0bVAxaVQwcDdGNFRTWElUazA5eEFpRnFSemVtQVQxWXAzTV9FZGNnV2V3QmZkQTNtVlJTYlVSYlQ4bmpTazhnVExlbzZub09zRWRBaWt4aWRYRDlGUQ?oc=5",
+  "clave": "agota artificial eficiente emprendedor exigencia factura inteligencia pasa",
+  "capturado": "2026-10-11",
   "puntos": 3,
   "prioridad": "B",
   "categoria_auto": "producto",
@@ -155,6 +403,125 @@
    "salud mental"
   ],
   "ruido": []
+ },
+ {
+  "id": "d329b7e631cd",
+  "fecha": "2026-10-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Psicología desmiente el mito de la inmunidad: del trauma vicario a la fatiga por compasión",
+  "resumen": "jesus linares, secretario de la junta de gobierno del colegio oficial de la psicologia de madrid, asegura que los propios companeros de profesion tratan de ayudarse con terapias para proteger su propia salud mental y ademas: \"los psicologos necesitaran vacunas cognitivas para proteger a la sociedad\"",
+  "url": "https://www.redaccionmedica.com/profesionales/psicologia/20261010/psicologia-desmiente-el-mito-de-la-inmunidad-del-trauma-vicario-fatiga-por-compasion/360986_0.html",
+  "clave": "compasion desmiente fatiga inmunidad mito psicologia trauma vicario",
+  "capturado": "2026-10-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a09d1f7692cc",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Europa Press",
+  "titulo": "Psicólogo reclama aumentar las plazas en sanidad pública para mejorar el acceso a salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcFd2MlFkN3dwZHVueDM4dWhENTJrcnotQlRrT1c4NWE0MmxYX3FLalh1bEVtVHpETW92NURFdk44MzZKQzg3N3dtTGpJMk1sTHY3OVdhaGVGZFBqZDRibXp2WkJYUlZXUTNQa3NGT0tVWVFIYnZPM0tSSC1QSnhPc2ZGWnQ5WGgzc0RESjBsenBaUGdOcXpFdENBQ1dDUVJBWkJHY210WTNGZzMyVHFEdEpHY1FRd3ZaZWV6bVp6djVIYUN4bXRqaGR1LUV2anJ1cWY0?oc=5",
+  "clave": "acceso aumentar mejorar plazas psicologo publica reclama sanidad",
+  "capturado": "2026-10-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "60f7a0001017",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Faro de La Palma",
+  "titulo": "Una unidad de noche y un proyecto pionero contra la soledad: así ha reforzado La Palma su red de salud mental en el último año",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NLXVjTGZYWE5MSE9mcVY0NjloaWFhZ21rMVlKR1VWNGRSS0t4U2hDdXRfNnprenp2SHhudWtaSThBNkx5Z3ZVb3NnZ2twbnpEUldJZVppMFk5bFhpbk0za0ZFaktsQ25rNnVOTHY1Q1dyNFM1cnUyTVM3Z2lJRFU?oc=5",
+  "clave": "noche palma pionero proyecto reforzado soledad ultimo unidad",
+  "capturado": "2026-10-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d8f39d32a31b",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Leonoticias",
+  "titulo": "Psicólogo reclama aumentar las plazas en sanidad pública para mejorar el acceso a salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0lpVHVsY3k0cUxseTl5ZzhWZ0w5SUtBeGJ2UDhLMFZIaE9IS0pSdkNBNWxvcmFJZUlTM1FBRXRjRm82QkpJSWIwc29yYVR4bnFHdk9OcXF1Wk14cWpYQW4zRWZBZXduYkJZYW5CM1g3OXc2bjl3SkhwSFNjWjJyUTlWYTVrTWFBV0tOcDlDbUxhdjFidnctVjk4Y3owR2xIZDUzTC1vdEI2cHpyTkVwVUVTcUVPdw?oc=5",
+  "clave": "acceso aumentar mejorar plazas psicologo publica reclama sanidad",
+  "capturado": "2026-10-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7caa449dfcbc",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "MendoVoz",
+  "titulo": "Salud mental en Mendoza: fortalecen la atención en el territorio y la telemedicina en hospitales generales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX1ZHVUI3LWZVQjdwa3BtS1pLRnpYTDRKWTBYR3R4bFJfbkFwUEx4TTNsNUg4eVg3RHoyOHc5MERLeGdpM3VsYUhpaFJFWVVyTGFtN2lnMjNsSHUtbFhSRnd6MDR6YW1lRUR5MXZJVVpYSTBoUGNaRnJ2eTFGVkl2YkpiRlJ5eW9xcnFsV1Q1U0lnSTZYeUVNcUxuOFN3bmNfUVBxY1pJZmtRYVBVamplRFd3cHBvSFRKMm82U29zYlpINF9xSGZCVVp6dkNFRjl1clcxZTJxSU10cnlzMVctbV9EN0IyR1R3YnQ2b045NzZMSjdxTFE5Y2ZHdS05Qm9XUXc?oc=5",
+  "clave": "atencion fortalecen generales hospitales mendoza telemedicina territorio",
+  "capturado": "2026-10-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b08fc8358d78",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Onda Cero",
+  "titulo": "Sanidad celebra Día Mundial de la Salud Mental 2026 con el lema \"Todo puede cambiar\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZndmeFlyYUhacHZ1YU1jQklxeVVmYUhRdXpUdW1DRE9ERUNieWpPNl9Xc1QxZDFwblZqank3Vkw3T0plTHozNDBjQUpSLVhRUk5WM1U1bE5ncnZwNmxrcVNKOTlTcnpaaU8xZUpsV3J2N0w0NFhRN3J5azlHUldOdlRmS0xMakRYVUgzRi1YbnQ4T0cyck9PcVZiN3dTZmEzY1dhNm5xUzc3aDRhRFVVQ1NGWHNqY2k0WlRSd19BanoycHZsZ2FTeURveFBnRkREektYY0RRQnJXeHZkRG9YLVlvVlkwZDdES1NPS0xuQdIB7wFBVV95cUxOOFZEbkw2ODJCRkRTcHFZbERZVW9HSDl5MHNucUlfWjdNcFRwNEdiTmJIQjhDRm10Vi1pRjVycTQ3SmhoeFBDR29jMnBVb1JScEJ2S2JoSmRfY094V19IQXBfYTRmWkRNRjhnWFVXSW02Z2E0b2lhTm8zemItb094WW11cVg1WEZJSFY2TjJvemVUSEI3aGk3RWxXbXpzeTM5N0VBd1NidThqMDJzUURVM2dJdmI1c2VaakdrTzhPQTBybnk4Z1p4OGs2ZDI5ZURfM3ppZi1wSG94WmZMMUlIdXpKS05kZ3VHTkg4eDhwWQ?oc=5",
+  "clave": "2026 cambiar celebra lema mundial puede sanidad todo",
+  "capturado": "2026-10-11",
+  "puntos": 1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
  },
  {
   "id": "37db6f1d5675",
@@ -234,6 +601,26 @@
   "ruido": []
  },
  {
+  "id": "edac74d36cc4",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "CatalunyaPress",
+  "titulo": "La salud mental, una asignatura pendiente en Catalunya: casi uno de cada diez adultos sufre ansiedad moderada o grave",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVl1TG83cktLRkU4c3pXN3czWkFxWE9lbHRqQ2hGSy1ZMXZsc2FXUUtzeEZ6dmI3R0xsakVWWWFXT2VwOHplZmtjZlc2NWRjNE9YYXNfNUM0SVZ0Z3cxWWJSS2duQmZkdFdpSGt0a2U2ZGQ3S0VkN1lqNFYtbmRHSmlCSTlWS292VlZWYVhiS1ZqOFplWmlZWDl6WkNTTzhlV2ozc012NzgtYmpHQk84YURLRk54bzVRbEpTd0NxeEQ?oc=5",
+  "clave": "adultos ansiedad asignatura cada casi catalunya diez grave",
+  "capturado": "2026-10-11",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "ansiedad"
+  ],
+  "ruido": []
+ },
+ {
   "id": "7e0124a465a4",
   "fecha": "2026-10-10",
   "carpeta": "05 GOOGLE NEWS",
@@ -293,6 +680,48 @@
   "topic": [
    "salud mental",
    "psiquiatr"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
+ },
+ {
+  "id": "f0618ff4e788",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Uruguay",
+  "titulo": "Orsi destaca la salud mental como prioridad nacional en el Día Mundial: inversión, proyectos y enfoque comunitario - El Debate",
+  "resumen": "orsi destaca la salud mental como prioridad nacional en el dia mundial: inversion, proyectos y enfoque comunitario el debate - uruguay",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNT1RTR3NyQk52QXFpdGE5VF9DXzVzbzRKaDlZWEJzMEFfeHFHOUNpNXpudFFNbl9lcFllcy1JSlQyTnkwa3FvM0ZxSlFSc1Z1QkdmZVBhUGdsRmNfdllWVVRTWGdnRnpqdEduOGZjbFJPMUVtcjdteUpEU1JWb0Z3X1VZZFc0Y0xLYWxnWlI5TVNzLU5hRUw1R3VEZ2R2V3NQN19rSXNEc3BmaTIzZUFNR2lJMXh2dzF4Z3lNSDhCdGhXckF1MDZIN3hoamF1SlB5UjdPd2tXdi1hOUxDSjZXNjRjbjlhS01HOEVkR3ZtcGxFY3JEeEFxQTB6WDQ?oc=5",
+  "clave": "comunitario destaca enfoque inversion mundial nacional orsi prioridad",
+  "capturado": "2026-10-11",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
+ },
+ {
+  "id": "a996ede46daa",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación (edición US, hl=en)",
+  "medio": "Libertad Digital",
+  "titulo": "Día Mundial de la Salud Mental: listas de espera de hasta seis meses y un sistema público desbordado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS2lWa24yeU9FMnlKX1hCdmdRZ3VuXzhoSGZKM2ZSTnZaN0ZrVE9acmdiMkZCc1VmbUZZa0dwTS05OU1ab1dXcXVEZDZEcFAzZnNpenJEY2RUNHRTYmhsZ1VnNi1lOXFrOENUYnRrbFlsaVFka0JIdDRydmhFUEZUaVA3N0syR2FLMUlXVE0tbzdMYjVqZ09ISUExQmFCaXpuVGpMY09ZMUxrSEI0cVZ3d3RPcGNNbUhNZHZlY3FSSW0taGg0Vl95aXl0a1NDTXJzZnNQcHFKNnVNUkJqQ0pTTGVfQW1kejVv0gHzAUFVX3lxTE54eWdkU3hWbUIyZzhPTDR1YWFqS01BOHpMSGN2MzZCR0hsQmMzdXdGRlNwMF9MVnlvM05PT25QNGI3N1ZlT0VXZ0ljcm1jMTI5d2dSWk1GXzVPV2VoUUlvWlhHb2M3Tk1pS19yTGRaZVRGd1diM3FpbXdod3ZkTFIzZ25VVXZ3WnhxU3ZJQ1l1Wkp0RVpaQUhOWnZFZmlPanQ4Z0NuMkxtSFVRQTkwdFIwM1JvUXl4TTVabGk4SUZvVTRJb2JHaGtqSjh5WHdaYktZNWhob3owUkxDODBsWndzUXNKYUtuc25jODhMMU0yUFMxUQ?oc=5",
+  "clave": "desbordado espera hasta listas meses mundial publico seis",
+  "capturado": "2026-10-11",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": [
    "dia mundial"
@@ -564,6 +993,25 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bdf823ad993f",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Reuters Connect",
+  "titulo": "Licensable picture: Queen Letizia Attends World Mental Health Day 2026",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN1lSX3NoX0JjYUdCMVFEUEY4WGo5ZGtKZEs0QWkxUGItbW5nS2xxR1VyTGJtaHdZVVhzd1pEZnNfUEwwQzhpZ0FTaWh4S1VSeEFMYXd3RHNZUUFxSW9hOUtFWC1FN1QwNlNMbHR2QmZ5ajhvMm16N0xlTnQ0MWtjdVJaQXZiZXkyM2RaZnd0a3ktSXBiM0RWYkxzNkRpVGs3S0ttemNUQjUtaUJHU1Z2UTdEdmNzRmFvTTFFN3VOZGZrV0VzaHo4VUQ3OXR1NEg5UnRhNW9MU1JZMmdGWldN?oc=5",
+  "clave": "2026 attends letizia licensable picture queen world",
+  "capturado": "2026-10-11",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -2287,6 +2735,25 @@
   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0QzSmV5UVU5RWxnOXlzOURNQ29pWUYtZGhoaVVSaEtLcDBZYnV0TVU5OEkwUl8zZjl2WklQcG52dFdRVU9LRFlwZjNZd2dOVzA3MXpxbGJXZ3lwVWlkdkxyc3VTb3YwQ3BvOWQwQ3J5QzFYOWpsNnJXbTBTZFpXaWs4LUJKclg0dy1HckR5R0xuWEpybVEwazdyMEpqcHRpSjEyMms2QUTSAa4BQVVfeXFMUDdQTXJPYjBNZmF5Y1hMdzhhaXkwMGoxWmZIeVJtMW9JRFVCcXZhZ3dQbUpGUDB3cmZzYWFiZExvQ2pVUWZDa2VLZF9qVGVMb2RSOVBMMVZRU2NSVGpBY3pSME1XSkxlbFQyOWRWZGxid3dteVpCM0xrbVdZTjJJSllvZnpueUMzSlFqMFplMTBnTzJSUkg4WWM4SFhTbWhxY0hlSkt2X1JwX2U2X0pB?oc=5",
   "clave": "baleares concienciar estas garcia lema manuela quiere",
   "capturado": "2026-10-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e1a827056096",
+  "fecha": "2026-10-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Estrategias de Inversión",
+  "titulo": "Escuchar sin juzgar, clave para acompañar y cuidar a quien atraviesa un problema de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORFNLZ1BEOTdLXzBXY19Edjgyb1lsb3BYUExDeVM5N0pybU5kNkNwWGtlenVOTGhBM2NCWFpmNUE1aTFFQWFWcDZva3JqY0w0Ym51b3pfcjZIdW9UMU0xNUk1bTVENHlUU1NQbnRJRHRjTTk0NVNDcllncDFjT1JGUl9wRFBHYnJPSDJWYUh1d3FnY0gyYW9ZZklyaVFBWm5aTDZ1RkNCTzBmZ25CX0VFOFB2WkY2b2dveXFMRTFCQWtZVnVY0gGjAUFVX3lxTE1Xa1R3Wm5RQUVFOU5yX0xZUUJYOWdfTUpZbDAzSHJXZXUyWmJudWtZU0s0bzlTYW5uX0JBa2Q4RDdRMTNZTW84SjJ5ZVh2TGY5NDFxaEdfUFZaSC1Md0ZRclc0cnZvN0t1Zm81NDE2anlsdHVxNC1pS2VfZ216eDREOGlpWGx1bDVUcDBmLUIxb2Jpd25veGtYd2RtNHFFYzg4eDQ?oc=5",
+  "clave": "acompanar atraviesa clave cuidar escuchar juzgar problema quien",
+  "capturado": "2026-10-11",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -19217,25 +19684,6 @@
   "categoria_auto": "regulacion",
   "topic": [
    "psicolog"
-  ],
-  "ruido": []
- },
- {
-  "id": "ff9b80f7f61a",
-  "fecha": "2026-07-12",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · EN sobre nuestros mercados",
-  "medio": "Davis Vanguard",
-  "titulo": "Op-ed | California Is Rebuilding Its Mental Health Safety Net. Families Like Mine Are Holding It Together in the Meantime",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYX0NyUzFJZGlLZE1kTlRkT1R5TTM3eGVUQlpVMWtpOHZTdFpKc21IVVU5ZGRjYVpKdFdHd1FudVJTZTNFT2Z1eWNRNlU1dG9rZG5KX1lnTTZiclJJaDdmeENxTHlpMlYtd1dv?oc=5",
-  "clave": "california families holding like meantime mine rebuilding safety",
-  "capturado": "2026-09-17",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "mental health"
   ],
   "ruido": []
  }
