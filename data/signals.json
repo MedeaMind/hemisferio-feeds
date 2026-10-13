@@ -1,5 +1,121 @@
 [
  {
+  "id": "48f1b24db899",
+  "fecha": "2026-10-13",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Cochrane señala la falta de evidencias sobre el beneficio del cannabis en insomnio",
+  "resumen": "farmacologia naiarabrocal nueve ensayos una nueva revision cochrane vuelve a poner de manifiesto la falta de evidencias solidas que respalden el uso del cannabis medicinal, en este caso para el tratamiento del insomnio. de forma reciente, esta red de investigacion independiente ha publicado resultados que apuntan en la misma direccion sobre el uso del cannabis en dolor y, especificamente, en dolor",
+  "url": "https://www.diariomedico.com/medicina/farmacologia/cochrane-senala-falta-evidencias-beneficio-cannabis-insomnio.html",
+  "clave": "beneficio cannabis cochrane evidencias falta insomnio senala",
+  "capturado": "2026-10-13",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "insomni"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "25049b795c63",
+  "fecha": "2026-10-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Gaceta",
+  "titulo": "El mapa de una ley de salud mental inconclusa: entre el paradigma de derechos y la soledad de las guardias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDRvdk1CSU81LTh2ZVd2NXZqQXBMNTc4TzFxaWhmb09scjZKNmlzZVVJSkNYY25EUTdycG9YdXdzMW5tZzZHSHhNV2JNdFlzaUQwRi1zRWljOE9IckRZbDRWOGFCdG0wUWZUZmc3SGZnZUdhX1hOVDFUODdSNTZaOHRJZGlTNHR6a2VjcENxY1pkUXJPTm92NEliZW5lUjhfVm9rNmxTZ2U1Y2JRR3RpSzdaUWlCMGV5aEpJYjJnSExrNnZhRDBFWg?oc=5",
+  "clave": "derechos guardias inconclusa mapa paradigma soledad",
+  "capturado": "2026-10-13",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "02cb8c4867a0",
+  "fecha": "2026-10-13",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Cannabis medicinal para el insomnio: qué dice la ciencia sobre su eficacia",
+  "resumen": "el insomnio es un trastorno comun del sueno que dificulta conciliar el sueno, mantenerlo o despertarse sin sentirse descansado. puede afectar gravemente la calidad de vida de una persona y hacerla mucho mas vulnerable a desarrollar ansiedad o depresion con el tiempo. las opciones de tratamiento existentes incluyen la terapia cognitivo-conductual y medicamentos, como antidepresivos y antipsicoticos",
+  "url": "https://www.infosalus.com/farmacia/noticia-cannabis-medicinal-insomnio-dice-ciencia-eficacia-20261013080148.html",
+  "clave": "cannabis ciencia dice eficacia insomnio medicinal",
+  "capturado": "2026-10-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "ansiedad",
+   "depres",
+   "insomni"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "dac2d5d8d756",
+  "fecha": "2026-10-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "EL PAÍS",
+  "titulo": "La verdadera emergencia: salud mental y violencia en el trabajo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd3d6Wlg1NW41ZVpCRVBLeWpQVEpXQk1sUFhKWGxfWFEzSzk1dnZtVVdwb25FX1dwX2Izd1ZPMm1UUGU1SzUxNkJLYkJkN2NNczdLWHJORFIxUTI5aGZPcTZIdjV4eFlNR3NnSFBQa1l2dWZVeTVma1JtM29yckJLOFdRZGFCWDRpa09uaEt1TGFPMk9jaUNocWpTYTBCVkFDZXpVRDNn0gG6AUFVX3lxTE5NX3BLeERyTlZGc3VTd3dWSDV5V3Z0LUtOSTlmd01jd3NIV3JKRzJEbmhDQ3hlazBJVkhxc2RsSGJIcHZfVmZycEtvMU1qRU9uU2J4WFVGTlhobF9SS2hYYzVYY01XdnFzYnQ5dzdXb2UxNG1ZcFBCdGVzSDVvendtWG1GS2FBeWtWMEVYWVpRTVowV2ZoSWJDU0lnbEEwcmo5SVVZWGM1RVhycmlIWklYUnlRQ05idGFfUQ?oc=5",
+  "clave": "emergencia trabajo verdadera violencia",
+  "capturado": "2026-10-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "60f77b3bc5e5",
+  "fecha": "2026-10-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Canarias en Pleno",
+  "titulo": "Telde enciende la luz verde por la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkR1BEWnFzbzBiNFRqRE8zTWpJMTV1U1FIRFRIeGZXb1F3NjRLYnFEejl1d1NHTHc2LTdmcW1DQzBIdUlZelBYZFJSVFIxeDRULWo4d1BqZGwwR1diNVZXUA?oc=5",
+  "clave": "enciende telde verde",
+  "capturado": "2026-10-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a5a1ca3b3ba4",
+  "fecha": "2026-10-12",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "Ética e defesa da sociedade: CFP lança Planejamento Estratégico para o ciclo 2026-2028",
+  "resumen": "o conselho federal de psicologia (cfp) apresenta seu planejamento estrategico para o ciclo 2026–2028. o documento e o principal instrumento de direcionamento institucional da autarquia no trienio e reune a missao, a visao de futuro, os principios e as prioridades … o post etica e defesa da sociedade: cfp lanca planejamento estrategico para o ciclo 2026-2028 apareceu primeiro em conselho federal de",
+  "url": "https://site.cfp.org.br/etica-e-defesa-da-sociedade-cfp-lanca-planejamento-estrategico-para-o-ciclo-2026-2028/",
+  "clave": "2026 2028 ciclo defesa estrategico etica lanca planejamento",
+  "capturado": "2026-10-13",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "producto",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "fec45b316aa9",
   "fecha": "2026-10-12",
   "carpeta": "05 GOOGLE NEWS",
@@ -97,6 +213,25 @@
   "ruido": []
  },
  {
+  "id": "568f37edf978",
+  "fecha": "2026-10-12",
+  "carpeta": "02 LATAM",
+  "feed": "Saludiario",
+  "medio": "Saludiario",
+  "titulo": "Psicosis temprana: estudio encuentra asociación con bajos niveles de una proteína",
+  "resumen": "una investigacion publicada en jama psychiatry encontro bajos niveles de la enzima convertidora de angiotensina en pacientes con psicosis temprana.",
+  "url": "https://www.saludiario.com/psicosis-temprana-estudio-encuentra-asociacion-con-bajos-niveles-de-una-proteina/",
+  "clave": "asociacion bajos encuentra estudio niveles proteina psicosis temprana",
+  "capturado": "2026-10-13",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "psychiatr"
+  ],
+  "ruido": []
+ },
+ {
   "id": "21b126fb06b7",
   "fecha": "2026-10-12",
   "carpeta": "05 GOOGLE NEWS",
@@ -150,6 +285,26 @@
   "categoria_auto": "otro",
   "topic": [
    "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a51f48d71865",
+  "fecha": "2026-10-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Diario Salud",
+  "titulo": "Psicólogos piden priorizar la salud mental en las políticas públicas de RD",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbGt2dWpzb1dqNXpjakdwM3ZtM1FtT3dKU25jQTl5S1VZRzk3NHE3Zno5bE5Lc3l4ZHQ2eDkzREdhbHYxUVhMeV81ZFNrSGpaSTlqeTZ4WlFyMDh3UFVqRkM0eWRvSDUyUFpZVVBpUTJHbV9yYWRFUXRETnhwRG03Rnh0WlBiNGR2M1h2NE9vS3lNVlZU?oc=5",
+  "clave": "piden politicas priorizar psicologos publicas",
+  "capturado": "2026-10-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psicolog"
   ],
   "ruido": []
  },
@@ -468,6 +623,44 @@
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRzg0SVdzV1pJWlVxRTB1OERQaGhvbDRtTUw5akNfQUZuaG44UFc2N1g3VkkzM21MRG0wQ3I1UTBqRFUwbU5KWjliTWZqWmliWE1SLWJjeG1RdmF3X25pSkR0YUUwLTRQc0xId2EyTTJvekxKbFg5MFFRNWdJS0pROUxfSmpwOENITkJtTG5vazB0M19HdGJfV1JmZS0xREw0ejdtcTZ0eUE0bFBTeTZXTWJyUU1kc2U3MUplV2l6RHQ3VkRZOXJJ0gHAAUFVX3lxTFA5UkJnZmNEYWlYaWNHOHNJMjFDNzhkNVdXWjBmcGx4QVk3dFh6N2JUVVhTQTVrMTVacEtUaS1vZ3ZfSFlzMzVGSVhhaXRhN3k4UTdCZ2NqQXpvTWpzSWNwa1RoRy03d0k4NXFvVG1tWU1DVG5fRzlkb3p1N3RKU0tZdFNtOWZoc1RXemNrMWJBQjhNd3F2YnZwV0hmZU5qRW5uLWdDTGVtWnNnUFdYYzdLcmJjXzB4OVM4aVAxUXRvOA?oc=5",
   "clave": "cambiaria debate internaciones reforma retoma senado",
   "capturado": "2026-10-12",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "90deba97d9d9",
+  "fecha": "2026-10-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "SensaCine",
+  "titulo": "Hace un año mostró en una serie los problemas de salud mental de los pilotos: gracias a ello el Senado sacará adelante una ley para mejorarla",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4Z29BZlNuVzNKN01TQ2ZqZ2JtNDdfNHllSlROTU9VZDMxTHRGT2wwMS1PYXJoVk44YjJXclRzYnZRV3ZRZDNXanJNRGU5aC1LMUtwaTRuZmZhSzNqNzczaHZOYXVOLXkxMU9kMy130gFzQVVfeXFMTlA2SmQtY29ENDVDc0RFZlgzOTJWWUpfLU81WEpPdkpzMmxTdFh0YWpiczBTd2h4TnRsVEljZXJoX0QzSlBQQzJ2MWx0NWtiWkc2eFRMUW9lbUM3RGNsVFctUDQ0bTNuVDZVSWktTkFLTUh0VQ?oc=5",
+  "clave": "adelante ello gracias hace mejorarla mostro pilotos problemas",
+  "capturado": "2026-10-13",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3d036ebf2398",
+  "fecha": "2026-10-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Así es nuestra vida",
+  "titulo": "Con una agenda acotada, el Senado se reactiva para tratar Patentes y la ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGVOTzROTE12aW1iR21FbG9ReFhTT1A5LWhPZkc2UzVEQlFySGkxRmFxQVp3R3lVbXhJVTR5ZF96WHlncmY0Wk1mdjBTSGJreEFCcTN4XzZuMzdZY2drbE5wWGtyeGsyMlpWQlNIdUNMOHBMbkNOTmM2RUxtYlNCZ0NBc1l0anBUek5RTFdKdlhHYUxkamFVVmQxd2ZqWlZqNzJKODV0MEV2Q2dQMHIwbHZ1NU5mdXNfYndDRnlCMUI?oc=5",
+  "clave": "acotada agenda patentes reactiva senado tratar",
+  "capturado": "2026-10-13",
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
@@ -1135,6 +1328,25 @@
   "topic": [
    "salud mental",
    "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "965d808b8814",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Periódico",
+  "titulo": "Teresa Bobes, psicóloga clínica: \"No podemos pedir a alguien que esté tranquilo si no sabe dónde vivirá el mes siguiente\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWxtRE5jUDI1SG9rN1pNM3Rsdm9pMUFWUUNGN2pmRTRVd3FpUmpXVWYyOXZaNV80bDh3ZVNaZlQ1YXhrU25hSHgyYVBrWTlKN290cm9zNWhnOVV1RmdUXzBGTTJTSWVOU0dQRXdNWXZHanZkdFNhXzlNMmV0WktvZy02M1BjZ3VpVmEzbHc1bUVqT3Q1MnRVM0RNQXhEZFpEUWZwNExOSEVLV2VRbjQ40gGvAUFVX3lxTE5SdWg1Q3ZLQlJLSmFzcEtwWGMySjRoNzczN2YwcTg4dTJDZGxKNUFoRXhvWmtESnphazVTOFRPdVlKX2JsandBRjBSdkc4TGVYTXZVVFpuelFERG1tWjNSdzM4YkZGR2pKdnRyeWlmUGF0X1oxZXRJcEV4cXQtRHR2WWM2SkV0cGhaNjRuSG56Y3NhTnhWLU1ZMERBcEpjU294VTZrbFE1eVlJMmdXSXc?oc=5",
+  "clave": "alguien bobes clinica donde este pedir podemos psicologa",
+  "capturado": "2026-10-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
   ],
   "ruido": []
  },
@@ -2270,6 +2482,25 @@
   "ruido": []
  },
  {
+  "id": "f67ccab82fe0",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Comunica GVA",
+  "titulo": "Sanidad atiende a cerca de 232.000 personas a través de las Unidades de Salud Mental durante el año 2025",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ScmdRaWxNRHY4c2w4OEt5dlZCZllfcExmTk1oWi12TzNfLXg4akNOZkF4RkRoeGd2bTRmRDBZT2dQWVp0ZGIySE9SQWl5cjJxMERaT1lTcnFKOHdETnlkclhVY1dMVHJockpYQlRBUQ?oc=5",
+  "clave": "2025 atiende cerca durante personas sanidad traves unidades",
+  "capturado": "2026-10-13",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "91b22626ecf2",
   "fecha": "2026-10-08",
   "carpeta": "01 ESPAÑA",
@@ -3315,6 +3546,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "efcee1c0af0a",
+  "fecha": "2026-10-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "Revista Pesquisa FAPESP",
+  "titulo": "Cannabis e saúde mental: promessas e lacunas nas evidências",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXA3bXVCTUJsZnJnYnM3T01nU0Rmc1dZNHNubEM1aGtmSm15TWtUNnlKZXI2M2haQ3lNZWVodHp5ck1YUEl5cTNaRS16WEZzaHpBazZvUEl1WXgxa0U1eHZ1aDZIYmR1WE9jd2lHNGMwSHp5UHFUN0JaVGFXd0NlNmRTbkFibVc0RThnU3pQblZsZw?oc=5",
+  "clave": "cannabis evidencias lacunas promessas",
+  "capturado": "2026-10-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -17038,6 +17288,25 @@
   "ruido": []
  },
  {
+  "id": "e629e7c79ab7",
+  "fecha": "2026-08-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Agência Brasil",
+  "titulo": "Saiba como empresas devem prevenir riscos à saúde mental no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVkEzbXVaZGdaazV6TktfbkFIRjNTQmRNeTR0V2w0bU45T2hVV185TDB4NkR6blNKNXhXMmxFdVVNM08tRS01SnllUmFqSnBrR3VFcDh0VEVpUWgzTWZPWXlqVEIySk5raTVkXzB5Y3dybzZfaC1md2xic1RkQW9SelVRVE5tS25YTlFxTk53aG1KOUV3bFhpUGkwS1NNby1uSWJXdEZnaF9zN1hBeHhYUVVGaUszeEQzNzhMNlF3NzFsclJLOTVUSldyeUNldw?oc=5",
+  "clave": "devem empresas prevenir riscos saiba trabalho",
+  "capturado": "2026-10-13",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "8ac2ed73266d",
   "fecha": "2026-08-20",
   "carpeta": "05 GOOGLE NEWS",
@@ -19782,6 +20051,25 @@
   "ruido": []
  },
  {
+  "id": "7d5b9913f176",
+  "fecha": "2026-07-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Agência FAPESP",
+  "titulo": "Guide provides mental health practice guidelines for primary care professionals",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUNicVYteVJRZU9wVFFYdUxnNk5SemNSM2gxa19lWHp3RHdOVXVWM0Z0VHBlV1YtU2ljUGtPeV9YSUdiNHl5X0hwRTBEajM0TVVqMllfdU1YSmFtaUZVanJ6Q3ZZZk44OWZGYVpxT2d4SU1SS0cwVDF5LWNMMW9fYm5XbmZMLUdQREtwa3E3LTBaNXIxWVdyRGFRRkpxLTVDbGJEM0hXbGtiUlNsYWxBSQ?oc=5",
+  "clave": "care guide guidelines practice primary professionals provides",
+  "capturado": "2026-10-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
   "id": "99588a2189d2",
   "fecha": "2026-07-21",
   "carpeta": "05 GOOGLE NEWS",
@@ -20125,139 +20413,6 @@
   "categoria_auto": "otro",
   "topic": [
    "psychiatr"
-  ],
-  "ruido": []
- },
- {
-  "id": "a3cf13e078ec",
-  "fecha": "2026-07-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Diario de Ibiza",
-  "titulo": "La sanidad pública de Ibiza refuerza la atención en salud mental infantil, que acumula casi 6.000 consultas este año",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVlCM3RWMzlWSlVSNXNBY2tYcXFDNWV2SkpfQ3M3V3ZRNnVCZ1RqcHlfSkx2VWNKWFU2M2F3SzFGUmptWFFxZ0VKWkVxNzRGRmQ0eWtEZkd3V002VXRzNVo5dDBnTVNwXy1RNkZrWGtMQ3NiRGdmMkFrWlRmbk43RmZVT3YzY2Z6eTFJSXRyak9HM1otQXJtV1k0eXlJQdIBowFBVV95cUxONGJ3S1ZISWNsNEd3VERnUC1CRmMyY1EzUm41NVQtYUN5QlNOY0VCZC1pQnFZWUtZU1FuV0VEaFREbENtNllLLVlLMGNTMTV4MldORWRlLVpJUzN6czBUVElZWFFqNk9GQnoxMnR0WW5qVjVqdGV2SVV1ZUgxNmRHU0FRTXZoZTVCODI4RS02NGY4YlpKbWRNdGhZRWlhaHA0N2Q4?oc=5",
-  "clave": "acumula atencion casi consultas este ibiza infantil publica",
-  "capturado": "2026-09-07",
-  "puntos": 7,
-  "prioridad": "A",
-  "categoria_auto": "research",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "f02da7b822f9",
-  "fecha": "2026-07-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "ladiaria.com.uy",
-  "titulo": "El MSP anunció la financiación de 42 proyectos comunitarios de salud mental con una inversión de 34 millones de pesos",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVEN1UmR0MjdjTE5DYk1pLVR0eDFjUmhWRWlBYUEtNnZDT0VKTFRxTDh2MmpWbXFqMVkyTC04NjZ5RGVzaExvaTNWdjVyZm05dWZINGdwelV4T01VRlNwMS1WcVZzSW1FRkRmYWZ4Q1N2dWVONjFPY0s2VVM4ZlcxZGk2bnpJZkp0aGxlVGRYcFZYUmlIUjJiLWpiSndZWGFTU0ZZT3NXcERCVmM0OFhfUm9WMWhCNTZNU0k4aWh0OTVDU3lCMjZFRW9LQWd0Q2RuUUhKZ1VPcGE0dER3akZCSDBPWFo1ZEd1MmhzQ04xSS0zZk5SZHNV0gGHAkFVX3lxTE03b2N4N0hLTHJoeVZUVTBQeDhPZUs4b0Q3N1AycjR3bmtOWXZ6UUg4OS1tSHFQU2lrZnp5aE1FdnlJOEhWV0gyTmJGZmJpTUhSSUVfV2plUWN0UkI0YXdvelFqSktya0pGamlkYlFtN1VmQVVCd0pXU29TZEFzUldKTXNVajhhS2swRURPVl9MWVNqYlVKX0J0T2FIMFFjYXVjZ1FybUlzS2J6TG5mMFE0NXBHT1JFMzRRTEtaZGxHTUxTaUFYVGMyZnFXdVl1bFVjN2xIbXl6eGY1bmFDSDlwSFdmNHZCSnYtQ2JNNzM4OG9aaUxKUzdpd0hodXFXSUNPSHZmWWI0?oc=5",
-  "clave": "anuncio comunitarios financiacion inversion millones pesos proyectos",
-  "capturado": "2026-09-09",
-  "puntos": 6,
-  "prioridad": "A",
-  "categoria_auto": "deal",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "4c9bf154aa16",
-  "fecha": "2026-07-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Diário Gaúcho",
-  "titulo": "Lei que determina equipe especializada em saúde mental no Samu é descumprida em Porto Alegre",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHQ3SWJCWEtVYjJmaDRSNEFscVRxZm4zTXFBRW0ySFB6c0ljMGRHRHZqMzMxSW1JSEhuSWdEOWxSNHBONGVNLWx1UkVTVWhBMVBVdFAtQ2gzOVBZZFVVTjA5T2txNDhRZjRFSFNmY1dYc1R6dWJveFNJS2lRZkpvcFRXNy0yS25JTmk2LUhxZUNYWnFYc3ZaMmM0T2xzbkVpTTNSLWROc2ZyWTZPVVdUTFZ0OE1nS0F5eldFazNkVUQ1VHY1ZTA0d3NqQzk5OFRpeEVBZEF4Vk9YVUtrbndYNWxyZEQxcTdnSEt5cFVTVVNSTGhpdXZKZmFTSm5uSHFWQ19XRUhkN25ZV3VYUDNoSUUwTQ?oc=5",
-  "clave": "alegre descumprida determina equipe especializada porto samu",
-  "capturado": "2026-09-04",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "60fa29eede3c",
-  "fecha": "2026-07-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "tjsp.jus.br",
-  "titulo": "Lei que cria programa de saúde mental em escolas públicas de Ribeirão Preto é constitucional, decide OE",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0RkNWYXhSVUJSWC01TVlwM0hEeXNhMnJobGktb1YtaFRFY21GcjJOZ2pveWw1OEtJSk05VUxZRWpTbE43Yjk2N3k1YzkxWjRlM09tczJrVEtNUGw1NW5NdDExY2hNYXl0QmZST0tR?oc=5",
-  "clave": "constitucional cria decide escolas preto programa publicas ribeirao",
-  "capturado": "2026-09-06",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "242673735f12",
-  "fecha": "2026-07-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "elnacional.cat",
-  "titulo": "Radiografía del absentismo: envejecimiento, salud mental y sanidad saturada",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeElxWHhUZmluR0p3Nk1ORVo4OG1XTUpMWTRHMWxTZk5VUlB3ZFhCd2hwcExKMF8tWU5JcHZvaTQwM2NRSFlHRXRlRnNsWWl5NnIwdkVsQXIxT3FlUS1UYkU3NEp1UE5MZDZMZnBjX0YzdmVjT2hBTzdmUVV0SFRsQlNhdTkwS09CN25wMjI0Rk5mZVBndGk4VGxPc2VkLWFKSnNXaGh4V19CN29jMkpNYlRsbFVUaThGYk9HSDRNU1VIdHVUMjY5Y0xsLXdDRkk?oc=5",
-  "clave": "absentismo envejecimiento radiografia sanidad saturada",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "6fa8b39717a6",
-  "fecha": "2026-07-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "OkDiario",
-  "titulo": "El PP estalla contra Mónica García: «La oferta de sanidad especializada asfixia a Primaria y a salud mental...",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVHVzLWpUMlFQcHIxeTVaV1R1eUNUSXRwVHFFYk5TUl9MdDQxUW1sdUMybENjMFdrSTVyTWhCRXBxYTJDb1hjSnJCMW52T0l0b1RUazlhZHhXaE9UWVFHZDdkMlMyaVhOU2ZmLXBZZXItQXcydHNOWFpDX3V4X1FfNFd2enZ5YTd5eWdvMDgyanVLMXJ6WDZYTkVUWWlTMXdGQ1M4eHhEX3BZcFd1bEpXeHBPV2pmZXNVcmY0cGpUaUc4cThw0gHKAUFVX3lxTE5lQnd0R2U2cVFtYXBpQkY0NlBhTlpQSHFZZlJ6LWM5UHF5dG42S1J2WWlveTVFZi05eWZkOVREbUlnUkdhNnRlQjMxd0ZRXzFHTDhjWnVXcFFNSEJhSXhiMXlqMzVQaWR6aTBMY1U5dWk4THg2cER2Z3RpYV9mWFhFT01hRUVPb0cxajJBWGVtbXhFaW9TR20zOEN0eVdJd29paHpUdlBGRGREcTVyNkgxakNraEhZYzZuOGpJX2IwOG45Tm9zTDNpQmc?oc=5",
-  "clave": "asfixia especializada estalla garcia monica oferta primaria sanidad",
-  "capturado": "2026-09-05",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "1b580f9dfc43",
-  "fecha": "2026-07-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "GUB.UY",
-  "titulo": "MSP financia proyectos comunitarios para el abordaje de la salud mental en todo el territorio",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMFh6MTZlS0VPc2s2Q1A2UUtvRzRyd1VLcUV2aXlRUkt2M0NKQjRNbW5uT19feERWV01qekRHV2V2Y21faUpLMHlsMk9DZUtiWlEwdGVyTVF5NWRPODRpanVFSnRvLWdla3RZSU5PMEpva0I3S284SWxsYjZ5RHUzSVpDVzZVdjhiWTQ0NDA4ZkxLVFM2RlB1aml6VjFfajBFdWl5TmdQRDM0dXduWHdZTUN1YlAtd2JIek9WNg?oc=5",
-  "clave": "abordaje comunitarios financia proyectos territorio todo",
-  "capturado": "2026-09-08",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
   ],
   "ruido": []
  }
