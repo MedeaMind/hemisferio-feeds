@@ -1,5 +1,316 @@
 [
  {
+  "id": "a4104117b63c",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Clarin.com",
+  "titulo": "Avanza la reforma de la ley de salud mental: el requisito clave que se elimina para intervenir en casos graves",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS2ppbm4zd1FMcTRkRlNWeHBvTkNfcFN0OGZzRGlyd0M5c1hBTXVWMnNyaFYwLWt5bXV2QmtieE9zMmpQb0hGaVgxR0RETjVWbGdzdTRxeVJpWWFVODdQLVIzLVJYb3JVcXhQcVpVX0s3N3pKNnJMcGpQdFM5OXE1bEpDdm5rMjdfSG9EVlFNb0F6WTBJM0Ztci1aenpSRmtOTjZaRTFKTmUxa1MzY0VoQnRnRi0tTDdQLU5JREY2RDFNd05YTlZjVg?oc=5",
+  "clave": "avanza casos clave elimina graves intervenir reforma requisito",
+  "capturado": "2026-10-16",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2d1c5ec52b82",
+  "fecha": "2026-10-16",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Acuerdo multimillonario de AstraZeneca para la I+D con IA en cardiomiopatías y MASH",
+  "resumen": "industria farmaceutica naiarabrocal alianza astrazeneca ha firmado un acuerdo de colaboracion con la compania californiana insitro para identificar n uevas dianas terapeuticas y desarrollar potenciales tratamientos para la esteatohepatitis asociada a disfuncion metabolica (mash) y las cardiomiopatias. segun ha informado insitro, especializada en el uso de inteligencia artificial (ia) para el descu",
+  "url": "https://www.diariomedico.com/farmacia/industria/acuerdo-multimillonario-astrazeneca-id-ia-cardiomiopatias-mash.html",
+  "clave": "acuerdo astrazeneca cardiomiopatias mash multimillonario",
+  "capturado": "2026-10-16",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "producto",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "adeaf8840c60",
+  "fecha": "2026-10-16",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "La investigación traslacional y la promoción de la salud ganan peso en las ayudas de la Fundación La Caixa",
+  "resumen": "investigacion cristinareal dotadas con 32,4 millones de euros la fundacion la caixa destinara 32,4 millones de euros a 80 proyectos de investigacion e innovacion biomedica en 2026, una financiacion que abarca desde el estudio de los mecanismos de las enfermedades hasta el desarrollo de nuevas soluciones terapeuticas y la aplicacion de intervenciones sanitarias en entornos reales. las iniciativas s",
+  "url": "https://www.diariomedico.com/medicina/investigacion/investigacion-traslacional-promocion-salud-ganan-peso-ayudas-fundacion-caixa.html",
+  "clave": "ayudas caixa fundacion ganan investigacion peso promocion traslacional",
+  "capturado": "2026-10-16",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e98f5ceab654",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Late 93.1 FM",
+  "titulo": "Reforma de la Ley de Salud Mental: el Gobierno enfrenta resistencias en el Senado y peligra el tratamiento inmediato",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY29XbVF6U2NoMEt1V2k5Y3RuT2VtQm4zUXU4bHFoN0VQbFlSSk45MjQxMFgtbG9sdEJiY0F5LS1DTUpHdFQ5Z0Q0Q0gzYWU3YUZVa3UxZVB2NGlha0t3dFJKMThrdGhJYTNTZlRNd2wwSjdaVjM2R3U3RnAyR1E0VE1MdlZ0OER3TlZFbVJjWnFFQXp3T1o4V01pZDFMb1lFYmY3U1dLNm1CRXI0LXZOTWVaR00wUWl1dkE?oc=5",
+  "clave": "enfrenta gobierno inmediato peligra reforma resistencias senado tratamiento",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b7c56c263566",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Brújula 24",
+  "titulo": "Reforma de la Ley de Salud Mental: el Senado busca habilitar las internaciones involuntarias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQXzJWczc2WFA2Y2NWTEFSUXZIdnVSTUh0YlBqQ2dBeU00QnpmdFdlT3pidHJJWnoxbHRSZDlDcWlfbkNhYUEwaXFack8zMDNRek9FU0pKb0J1S0NXSXJhZmpLSDUzZ244Yk8ydS1YNnVJbGZrWWZNazJvaVJPdkFTOGNlYjF4Q3dRQl96UGpBMm4zWnoxQ1lBeUN1WnZHbXhIQ1BBeGx5Z0F1SEZnaEdzYm9YVE83a3JRak16S2hDLVpxd3pXaE5OUGJqdkZFdkkxUE5KU3VZY2gwN2phc1E?oc=5",
+  "clave": "busca habilitar internaciones involuntarias reforma senado",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "52f1198fae2f",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "MDZ Online",
+  "titulo": "El Senado firmó un dictamen y avanza con la reforma de la Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaUFEVXk5TDdaOVdiTU1wTDIzYURUVHpXVV9jT18zV3M4ajJtNElpT0dTdmp6RXZkbS1haTFXNmZmTWRmR3habk5sVUFzdnRUN1A5OVM0WE1kNG9hemVHMWUxWGd4ZWYxMjlrT0RjNDdxOUhVckRDT0U0cXJtblNySHM3QWlRU21RYzBkX2lrU3Q2MWs2Y2pKb3hWQXdQQzN1NVdlSGd4bldWMWFVUm9IclRBdFA3MFFOZjFtOTJFYjlkbUdhWUpIZnRYcjg?oc=5",
+  "clave": "avanza dictamen firmo reforma senado",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1aeffea6aec2",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La 100",
+  "titulo": "El Senado avanzó en la reforma de la Ley de Salud Mental: habilitan internación involuntaria y suman adicciones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMFV4X3VqODhHR2hlV2xqWEtYS2k4am9GRFg1SzJjRWJyUnpnUl9aZWcwVGdIcmwzQmp6R2NZWkh5TW15cWZhZVRrQUJ1aFlvMkVMNUVUaHpoVzNnUVI4cG83bVlQVW1wLXAydWF5NWhxblljcmZlVU0wOW9ldzlRSElVam95N2lOZkhPVy0tWWhfSE8xZWtwOVJCVzJEYm5XbVlCRHA2T1dzNmc4Mm5Qa1lFVUpFVEg5MExVc2ZrUEM0UE5kZW40ZE1icjdJNUM0WVZOTVpZVFI0dFpfUzBSMUZ3UQ?oc=5",
+  "clave": "adicciones avanzo habilitan internacion involuntaria reforma senado suman",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1f48fa866d80",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Nueva Provincia",
+  "titulo": "Ley de Salud Mental: se avanzó en el Senado con las internaciones involuntarias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeDA2YVYzaDNaNG5zNkcyNnNrV2l2cGdOZ04zbTJRVTVEYkpFWDVGYXdpZm8zLUZHT0dHVmFBaUppWkZTZUR2Z2xxeFlIWHJnZGxjR1FLV0pEWllTSnpkVTI3MlpIWTRqWGZQUkRhRF94bGpYWFc0YUF2TU9RMC1RME1WQmJYR2FtNmo4S291Ti1wZnVObjQwTDBxWTc5bHNrZkNreXdHeXdMeVVtVVVDamZPSS1GaUJOYlNMclc4NW96MWJz?oc=5",
+  "clave": "avanzo internaciones involuntarias senado",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c5bfa397619d",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La hora de salta",
+  "titulo": "En el Senado nacional avanza el proyecto de Reforma de la Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT290ZDdVVmlsZVh6Qm9adG9INUlBRVlOR1ptZjZad2dCb1g0T3NCVFhvck1EQXlBWEd0NmhyQndCMGZYaDRwMlNyN0p0RUctRE1VZUtUM2NUT3Itay1wX3MxTnRUQWtBMkFib3BIQkJDb00zWFNJU0h3REJZZ3FvNjhib05mYUMxUlNGMktMUG5neWNOTDRJTUpCcmdhaDFMNE9uUnVuTFE0MmozelNvUQ?oc=5",
+  "clave": "avanza nacional proyecto reforma senado",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d3434a61dfda",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Nota San Juan",
+  "titulo": "El Gobierno avanzó en el Senado con la reforma de la ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObV8tR0swbVBmU0ZYMVl1a3JUT1hwamp1Z3FyRGI1bXdacF9jVkNoLW1HcWxuWjkxV2lPV1JONENWODJ6VW9vZng3MktMck1lNDJCZGZqMkxDTHpMMl9CcDAzM0JEU2h5QXFuR25Oc3pOdXZ5SHpwV0ZUdkF0eEhsXzdjckotTElLc1NUTFhfSjZSM0pTZWMxTFE4NE5KUQ?oc=5",
+  "clave": "avanzo gobierno reforma senado",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b11762aa5cd4",
+  "fecha": "2026-10-16",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | Desarrollan un analgésico activado por luz para reducir el riesgo de adicción a los opioides",
+  "resumen": "pacientes: desarrollan un analgesico activado por luz para reducir el riesgo de adiccion a los opioides",
+  "url": "https://www.consalud.es/pacientes/desarrollan-un-analgesico-activado-por-luz-para-reducir-el-riesgo-de-adiccion-a-los-opioides.html",
+  "clave": "activado adiccion analgesico desarrollan opioides pacientes reducir riesgo",
+  "capturado": "2026-10-16",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "94f214957de0",
+  "fecha": "2026-10-16",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Aplicativo para tratar sintomas de depressão e ansiedade é implementado com sucesso em serviços de saúde",
+  "resumen": "de 10% a 12% da populacao adulta no brasil convive com sintomas de depressao e ansiedade, como mostram as pesquisas. e somente uma em cada quatro dessas pessoas tem acesso a cuidados adequados. aplicativos de celular desenhados para oferecer tratamento poderiam dar conta de parte desta demanda e ajudar pacientes? a resposta e sim: programas […] the post aplicativo para tratar sintomas de depressao",
+  "url": "https://medicinasa.com.br/app-saude-mental-sus/",
+  "clave": "ansiedade aplicativo depressao implementado servicos sintomas sucesso tratar",
+  "capturado": "2026-10-16",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "research",
+  "topic": [
+   "ansiedad",
+   "ansiedade",
+   "depres"
+  ],
+  "ruido": [
+   "mostra"
+  ]
+ },
+ {
+  "id": "f2d6c88a64d8",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Alimarket.es",
+  "titulo": "Healthcare Activos refuerza su presencia en Alemania con la compra de dos clínicas de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSWlhZms4b1gwTnJfWG1HZ2hodGlYZ3BwMjV6aGxCVVhoLXhreHFZNVNHWmhlVVZkcDMyYUZjTVJGLUxaUGR0ZHdUS3RaVXFMX0tYNW9VQ0JlaDdvN2NET2V4MGp5Z242QXlzT1FQc3NUN1ZXVWQ2UjVicWFSU3dZTUZjbEYzcFNUaXpzTEd5UEdOd0FCd3Q2VFIyT1pkVGRSWWFfLWE3QUVEbjNlWUtRcV9HaDRLRi1qR3UtSjBHMG5KN1JxV0R2Y2s1X0FBSWhVX3gzcHBTTXZQdjRqc3Z30gHkAUFVX3lxTE5tS3dZWEEwNDU5YndQQzRxYnRXSFJZalk4NkFIV2RPZncwYWtQQlpKU2owQWU3Q1U2bWx4YmROSzF0NDJ6bXBBTy1xN1lrVUpobzE1ZzRfUUNnVDczRjRFV3BsZW5ta0FzMF8tZWJhTlhkQlRQdlhMaXNvWjNkV3c2bmh5ME1HVGp5NXFTSmNmSThOYXNRXzFKTjMwblBCX2Q0RXQyOUpTcW94YjdNMUZneElfTlgyQnJXazU2aXlXUlAxUEp5UFpzMUJqZGx3WGFTcmpqSmg5MGdpWFJmQ2dpU044aQ?oc=5",
+  "clave": "activos alemania clinicas compra healthcare presencia refuerza",
+  "capturado": "2026-10-16",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "32e2be3eaa2a",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Andalucía Información",
+  "titulo": "El Convento de Santo Domingo vuelve a acoger el zoco cultural de la Unidad Cultural Terapéutica Changüí",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSlE1clcxR2VKVlhiN0Z3Rl9vamRXM05ubEdEV2RNcmpOVXd3a3ZDazlVRHpNemZGVFpQUFJwcHAyWjBVS0NDZi1vMFQzSzJ6ckNGVG5QeWVnN05sVW5YUXM1amJIc2xxU3VQTUlEdklhR0N3VjhKY21DWHdNaFU1c3hENWpLTlFjVVpoWDVySnFzQTZaN1pyamR4aGtzUVdzdTRLekg5LXFXNTNaV1VWWDNOQ3RZLWVBb19SVDl4MTNTcUo5MFhTLWZFUk14dUhaLUFuaU5uRzliR016ZXdkbXQtNFo0X1pvWk1IbnBMV0ZsRS1yc09OS1pwZXHSAfwBQVVfeXFMUEpRNXJXMUdlSlZYYjdGd0Zfb2pkVzNObmxHRFdkTXJqTlV3d2t2Q2s5VUR6TXpmRlRaUFBScHBwMlowVUtDQ2YtbzBUM0syenJDRlRuUHllZzdObFVuWFFzNWpiSHNscVN1UE1JRHZJYUdDd1Y4SmNtQ1h3TWhVNXN4RDVqS05RY1VaaFg1ckpxc0E2WjdacmpkeGhrc1FXc3U0S3pIOS1xVzUzWldVVlgzTkN0WS1lQW9fUlQ5eDEzU3FKOTBYUy1mRVJNeHVIWi1BbmlObkc5YkdNemV3ZG10LTRaNF9ab1pNSG5wTFdGbEUtcnNPTktacGVx?oc=5",
+  "clave": "acoger changui convento cultural domingo santo terapeutica unidad",
+  "capturado": "2026-10-16",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "083fad007ee7",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Medscape",
+  "titulo": "The PAIME Program: How Doctors Can Access Mental Health Care",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLV9qMHJSWWlyMzR4M1FvWERHQlVLUmZqSEFhN0dEaXVERWhVT1IyQnpONG1TcUo3ZVlxYnJfRkkta3pxRExnanRKZTdiUWx0QUczdUtWWGpEb3ZkSDJUYnVxMlhLeVU5OTRYdjgza3RHSUZjNVVJU3Jaem9yOW9kTHFUZXJid3huR0RGcnFfbjNOa1hnNzJ0eUh5Ny11clBWUlZybGcwUXE?oc=5",
+  "clave": "access care doctors paime program",
+  "capturado": "2026-10-16",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "83c6603b9514",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "TeleElx",
+  "titulo": "En el Día de la Salud Mental reclaman la educación emocional en las aulas para la prevención",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmY5MExSM2NxX3dtVUlycHJlVmNYanh6cU8wcGxXUUVXaTRRMHFKRkJTM1VUUGpWTDZSQndHdUxNV2I5NFlUYTB3UjZnS1ZhMC1yZ1hFRG5lSmRKZExlanMzclU5TkFMQ2tYanVrV0dnNS0ydDlralJpMWt6SHp1aUxVNkppaDUyZkxjSXFKNWRCeWVybXljUGtDdjdBdTByM2Q0V1VuUVRaYmlZYWdHYnRRa093OVdSa25XMTlLWTI?oc=5",
+  "clave": "aulas educacion emocional prevencion reclaman",
+  "capturado": "2026-10-16",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia de la"
+  ]
+ },
+ {
   "id": "e1fef2d78ddb",
   "fecha": "2026-10-15",
   "carpeta": "01 ESPAÑA",
@@ -30,6 +341,101 @@
   "clave": "debe hacerse necesaria pero reforma trabajadores",
   "capturado": "2026-10-15",
   "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bf4a8de227e9",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Capital-Riesgo.es",
+  "titulo": "Healthcare Activos adquiere dos clínicas de salud mental en Alemania por más de 50 millones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORXB3WG5uQTM4czJmOXMtVTQydHZNTWJucEpmSnNlV0ExY1VQNzBUcFFNY1RZb2NFdEZEYUhKSkFQbm5vM2dLU3RleTZycHZPTnFFWm03S1d2UGJHbkdfeFlhWDlZRmMwVXhSOXdHV2VySWZ3MkQ2MzdtbkxTQ1JxUWNILXlsWkU4Sm1vTkdlNkxwdzdfSnVIZlRjcm1URXpTRF8tNmNjUm00ZzhxQnR1OVpXT25TdGpuNlhJUjJYdnY1TW1MeS1QcDNB?oc=5",
+  "clave": "activos adquiere alemania clinicas healthcare millones",
+  "capturado": "2026-10-16",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "ma",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e618f7a413ec",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "EjePrime",
+  "titulo": "Healthcare adquiere dos clínicas de salud mental en Alemania valoradas en más de 50 millones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlZyX2s0cklFeTVfc1dGNmxsQzZtclBvWmFpWXpKbU84Q0hEUUFHTGJlX2NNSndhSWMyM19TUjh0UU1QZTlacHAzNURNRV83UVFGVVJpME41WDF4RERzVVF3VGIxOENOT1E4cXZzRnBOdkRrRkxJX1ExYjRSaXg3YzhfUGU2VF9JZDdfMGdRcVhpalBKUkdlWDk0M2xUMDZ1NTdqUGpvZzBnODZpMk9CS3YyQWkwdmZvY2FSazNKT0Rudmc?oc=5",
+  "clave": "adquiere alemania clinicas healthcare millones valoradas",
+  "capturado": "2026-10-16",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "ma",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b0bc9761bd58",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Canal Doce Misiones",
+  "titulo": "En el Senado, Arce pidió garantizar presupuesto y coordinación federal para aplicar la reforma de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWFrOEtmM0FwdjNhYWlVNHd5T2pHeE9rcTVMM3piTE1JWldtSjdJeUl5b3pEZFJhWmg4QWU4SHYxT25hdGhXZUFpVlJmbnlLZHJoZjV0YWV0VHBNcHpWbGk0QnpkNlVrUXhRNzlseFlzMld4cVJDaG1QWENlUEg3ZnhtNFY2dm5rRjc1XzIwU3JDbFU2QzhZMV9RQQ?oc=5",
+  "clave": "aplicar arce coordinacion federal garantizar pidio presupuesto reforma",
+  "capturado": "2026-10-16",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5f1a86bf2b63",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Tiempo Judicial",
+  "titulo": "Reforma de la Ley de Salud Mental: los 10 cambios que propuso el Gobierno",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWTJwRnFic2stYjRScE9SOHp2VFkyY3dLNDdvamFLVFFCRUlXdW15UnNOTFExeGJQc2hvZzdMejdDZTZXZjF2ZVZXZTFBaHZ3cXlzUWM2b0xJT3lsTEIyTzg1OXA5NElWcE1LSm1qcDIzakN2M1Y5MElpTGFYUnBVNENxR3lDUFVMV3k0SWtKbVBvQm1TNjZ3ZWlGUFBTX1RVUmtNdFVfSEpiODFNNmVv?oc=5",
+  "clave": "cambios gobierno propuso reforma",
+  "capturado": "2026-10-16",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ffd42f5feb45",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Letra P",
+  "titulo": "Ley de salud mental: los gobernadores aceptaron la internación involuntaria, pero exigen presupuesto",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONkxHa3FyaXpoVFFialNZTmFRaEstQy16Sy1jaV9zcE5la2FjOGdaYU1rWE5Sa0Z6dGtRcnhPYkU0aGxfdExEMW1ROEdjRnZQU3EtUmRLcUh0MTBDZDcwTjd5WnFoNXVKTlBaLXM5bWhqVGFhSlZ1QnR5a09pNEtGRGFlbTE4ai13c0Mza1N3NVRJX01jNXlnRUt4Z0VXOFBXNENZVVZPWW9VSFJmR1lsLVo5QUMwSlJVYjhWcGxCQzY1RmZqNTZyNGxya1l4Yl81ZjFMeXFn0gHbAUFVX3lxTFAyU3BmVjhPRjhCV202NF82bEhxWXg1bEhNVjVnMVVBQ045ZHN2UFVjWXJzZTBPVUJxWXhtNHctaFJ1V0VoTC0zR1BGaG5JMHI1WmNKc191bW5WMDllaUxkZDVwbm9zWDJQeHcwNkRSMmJkU1RXZlZ4Nmc2czZvb0tnZnhqWDVPZGxRN2M4RldfUDlXcmNyMGVjYzJGMVBxM1p5R2xTR0dBX01pOFg4TnMxWWxEWEx3S2c1MHcxM1RLMHlRS2hzMnVrVzMzZFBLVGZSNmhiZVFQdnBxSQ?oc=5",
+  "clave": "aceptaron exigen gobernadores internacion involuntaria pero presupuesto",
+  "capturado": "2026-10-16",
+  "puntos": 6,
   "prioridad": "A",
   "categoria_auto": "regulacion",
   "topic": [
@@ -209,6 +615,314 @@
   "ruido": []
  },
  {
+  "id": "735e9e62cc8c",
+  "fecha": "2026-10-15",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP prorroga submissões de artigos para edição especial da Psicologia: Ciência e Profissão",
+  "resumen": "o conselho federal de psicologia (cfp) prorrogou por mais 30 dias o envio de artigos para a futura edicao especial do periodico psicologia: ciencia e profissao que abordara o tema “crise climatica e racismo ambiental”. a prorrogacao foi publicada no … o post cfp prorroga submissoes de artigos para edicao especial da psicologia: ciencia e profissao apareceu primeiro em conselho federal de psicologi",
+  "url": "https://site.cfp.org.br/cfp-prorroga-submissoes-de-artigos-para-edicao-especial-da-psicologia-ciencia-e-profissao/",
+  "clave": "artigos ciencia edicao especial profissao prorroga psicologia submissoes",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0c6282e3a35e",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Córdoba",
+  "titulo": "Córdoba tendrá una unidad de hospitalización de salud mental infanto-juvenil en 2027",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREZGZGRqc3JYbDl6eU5FXzJLTFkwU2p3c0hjbklDYWJ1blc1VUdXOXBKaUpXQjVUUzJjSFh5Z3ZnTHcza1R0NXVSaEpqdzI0SFg1OHBrVDdwakJuNllfUWo0VmlQeURUaVM5WGxrUVdadER5aDQ5d2Nqc3lLZXBNeFN6MS1MbVh0TWN5S29BVHZjblE2NjQ4NVd0NTJDYWdnRjFaNkdFSURoX0ZodEpiOGRlTUTSAboBQVVfeXFMT2V3clFLQkJlQ0JtbE1PWkl3RzFGbFZvTVB6SVhjZExXSHhwOV9IMnFGMGdGcl94VkJwSW1SY0d3TFdrcnBIeDUzTG1nWTk3YWRRMUFHYUswYTh6WXZ0blpmUXZickRCbnA3dHAyLVVKVlZnc0xRWmRUSDUwM3pOU1RnQURHVk1ScG5VY1B2S213RV9xZzYwZThtNHN3Z2JPT0E3bEVqRm1relMyOWw1cWltU2dSdHo3d0V3?oc=5",
+  "clave": "2027 cordoba hospitalizacion infanto juvenil tendra unidad",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8af729bd4b29",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infobae",
+  "titulo": "Senado: se demoran las firmas para dictaminar la ley de salud mental y hay disidencias de los aliados",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOGlfWHk4T3lUbTREZVNSMVFWWnpSYWNtRjd6TVdCUVBCdGZnSGF3cld5cjVIYThHVnN1UkhQbS1uc2JIQjBoZWl2aE5jb2NQWnRpRkxSR05WN1FJOHNhVVF3YW1mWkxYY1dlQURleEVTb0NmOThNOTk3TUxDZEVyWHpMdHlRYVcycDdDb1BYNEh1Vnd1eXQ1R1F4dldPblkxMjVZWWVIWkw3emVvZ0JzMldvSldnOVRyWEFJYXhGaW00NmdLZHR0MWlSa3p0T1prV1l4U21RTHc4UDEyOGfSAfgBQVVfeXFMTjJyLTd6TFotWDJFYk9INnowa0F6NWpNekZJLXFac0ItMk9udlpnV0tHbkgtakpyRVdIcm82RlhJYmdYbU8wMFhNa1RvM05KWllDQndwRWk1UkpURW5wQlhZOFlBS2NORi1va0g0MmI3d3I2LWpwcjdQLXJqd1RHcnZ6bko3c2VZWU5aM0NFMl9XbDltejZvdl8wQzhDNm4xZEhFZnh3b25DSjhhZ0p0Y1N0REd4WEFtcmNwR1MyZHV2NnNyX2duMHdjdlA5SFhBNnVSeHZORmJxemUzMTY5SGZKekFXRWEzS2RHcEhEWTBNeXBkamlWdVQ?oc=5",
+  "clave": "aliados demoran dictaminar disidencias firmas senado",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a6239d9a6d6c",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Gente de Salta",
+  "titulo": "Ley de Salud Mental: Punto por punto, cómo es el proyecto que avanza en el Senado y que propone cambios esenciales en la actual legislación",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWXFmdTJ6aFdMUFBWS3BlZ05nWmUxNFRJSmJVcHN2VTIxOXdwMUNQODhabzZwSFptVGh6T0JhdjNlcXAxVnd2N0R2THEwQjJ1WWRMSzVqTWhYSUVHaHJUWmFmc0p5QWp6b3VSTHppSVZTZDN2aDNWRWhsZ1FxaDF2U3VzZV80T3ZyM1ZLcDJCdXF0STh3ajNPY214bmg0S0s0SWZCbU9kOGEtNmQyV240RlhkTDVIVWd6S3JHcEhfN0FjeHNMZ2lTNG92THhfM2hQcXc2blFjTnlsTFppWUV2Z9IB5gFBVV95cUxQWGxock1TOG1JUlZCellMSVZMNTU1QW5MdVQ5M3ZRdGFIMFBZY1FlaDBycDJYbVJPdW9jVEstWmJSRW1ZekhqdEQ1UWFGZnhIdnY4ZDVvZlJsS21OdHRUaDFtTmJiVi0xbTJEV0FqN0FVMEtJV0pLRmJOeUd4ZWdUWFJJNmFkSlFpQURZcU1kWDB6RDMzMTJhRHR2ZGNGZWtxaS1rZzd5dldXb28wWlBxNUJoVnQwSS1uMFltR2FGNVV1S2QwYmk4MDJJSDlIemZMQVYyYUZ0MmNVR1dLc1dCZXNTeGNrUQ?oc=5",
+  "clave": "actual avanza cambios esenciales legislacion propone proyecto punto",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b7979d098ff0",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "» Cholila Online",
+  "titulo": "Reforma de la Ley de Salud Mental: dictamen en el Senado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlgwQmN3MVZKLS1WV2hoSmxDS0JJTUJJMVBqQ0NRMlZRUll2dDV1NmJpcnliVElkMjNGckhMSmRaOUZ5TDgzTkhxOEtZWE5McHpOSWNwcUZJMFJSRFVsSnlwM0ZvdjQ2YzdZczNlbWRLYXR2WmptcW00WEU3VE5KdENIdF8?oc=5",
+  "clave": "dictamen reforma senado",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0e263f950438",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Izquierda Diario",
+  "titulo": "Marcha por la salud mental: \"La ley vigente no hay que reformarla, hay que cumplirla\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEpSemJxbUQ2Mm53bi14S2lpS1JpbllhYnhuY25DaVdiV0FOR0k1R3FCYURTVXBDRlZxX1BrbjFHT1lzdlc3bzRDSW9wTXZnMVhZYS1oOGFZbE1RLXNkRmlXNERvMGQtaGhsRVJEZUItUnBCb2VUb2ZYZ2cxQVNZQTcxUjNwS0I3YW56N2Z5MnR5MXJ5N19MajMxdlRQWHl1Y0V0dE5BV2tJMzUyNGZfblgyd3dTZ9IBvgFBVV95cUxPMFB3eS1LaUdJQzR6VUdlQzdPRjNaT19BR2R4NGtBeXZnLXZFWVFxQ2tfbWFyU2t4c3FXdlc5MVRaaFhoQTl5aThZVzlCc2FkQ1hnWXhCV0FBS1JEbldFNkc1Mk5RemFGSVI3WXRjcmZ5eXFiV3lVLURGdFp2ZUNIc3FGR1dXVWVpVnVFNUVoQzFWSkhHb0dqc0pyV2h4U0pRM3k5Ql83aWZ6SHZyNF9vUWo4VGtVVFJJSzNJRFhn?oc=5",
+  "clave": "cumplirla marcha reformarla vigente",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "898a6c5c2564",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Agencia Noticias Argentinas",
+  "titulo": "El Senado avanza con la reforma de la Ley de Salud Mental: habilitan internaciones involuntarias y suman adicciones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOT09nNlJyOVlLQlZYSks0SWFVdkhmREwzQTBiMzhuTDhXczQ0ZzF3V0k2WUd0VzJIY0N2UDN4RV9UVXNVaG4tV2lCMWw2MXhKMTlURlhxNV9sclJlWGJ6TEJWaUs2VzZVckN6dG9BdUVGOWN5Zk9XU2RZRkoteGRvVjhidFk4UVBSQ2tGSV83ZnFERXAyWE52Zk9lZU5fVkFYRU5mV2ZpM3lFU0V6cGhTU1BGZjlzM3NFelJuOE5vZGxJV3RibFRDYko5NWliVXNxdHZjeTFSbUQtbncxUmdQT3E3LVF5djNEVWROeXRtMDc0alBaeGdXeDFKMlJ0QXR3RHRudWNSQmRhdVl4dThn0gGeAkFVX3lxTE9LdlpYTWpYbHY5VTNMLXdjR19Kd3pnYkJ5ZWtxTWlieVpwUU5YWjBZZHBOZ0tYUW1FenJyOE5ZYUJqZFJWbzVVQ1BSbk1HMzZiV1Q2NmJES2RwN01DV1JTS3ZUZzVrZDV5bzUtclYzM3RwNzVjV3pnUF9EaWlMNlBrT1Y4T0VqMkpBT3hhMGxpYllKZ2lvMjBadnp4cVlzenhHQ0ZDSi11MzB3OThMYzNiZi02Wm4yTkVlTExZdjVVYjVRMFJQN0hwV20yMmRlQ0dmN2VDc3pNWUtqY2piSTRfOVFacnJXZWFHUVRGZ2dDTjBROVBlX2Jpdm9nSndyQnZYVno5Wms4ZnhCbVdUVTZabkljWlh4cjNzNjlNX2c?oc=5",
+  "clave": "adicciones avanza habilitan internaciones involuntarias reforma senado suman",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "902cb93c698e",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Universal",
+  "titulo": "Brugada impulsa creación de Ley de Bienestar Emocional; habrá un consejo para atender la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZGJSbGZ0dWZWa1N3dTZPY0NNR1puaGRScTdMZnhjZS03T2stbGlDUjdxVmNpdDJIZk9nZi0tekRhcXpia0F4UUVyWmVKeEJfSXdSY19hTjIwVEFidFk0RERJS0NOaFJDN0diZXhYZ1RmUkRCS1FqWVhwYWlJMU8tY1FOR0tNRVRVWDFsUF9CeFkzdHlWc0sxaUp4eGlTZFRmRjBDUEhQSU5zemFQeXFiTzRQa1ZKYnpJd2lpNlBpMmdBOFJpMUh0eUxMcnNpeHRQeFVIQm1UUUlXZkU?oc=5",
+  "clave": "atender bienestar brugada consejo creacion emocional habra impulsa",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "bienestar emocional"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3e5dd1765e3a",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Legislatura Querétaro",
+  "titulo": "Querétaro debe tener la mejor ley de salud mental del país: Enrique Correa",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRW1PaWd3eHNRZlhxT1J2TGtnbGlvS3RFWjIwak42bV8wSzM5WWQwUV9jVDZ4a2Exb3dEYThaQW9fb0MxajMwVEZoWUExRHBoR3dVU0w5d25kUUtpM3JjbDlRVm4tckRySlhKUkN5Tl92RlpZbGZsN1RoMkZ5NUNyU0tTeTRsTXJnMUR6amhrWmJ4UmpWR3R3ajFBLUFTZjRRZ1JPMTRjY3doS1ZiWUE?oc=5",
+  "clave": "correa debe enrique mejor pais queretaro tener",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6fbb54fcc30d",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Nuevo Diario",
+  "titulo": "Doctor Lennin Núñez sale en defensa de su colega Ilsa Quero y asegura actuó acorde a Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYnBqbUdfeTRWMTZlUU1LUTFueDc5ZEVEVzlRYzBlM2xIaDZWajhDcW5wMVdzb01GUzFjZC13WWNtXzRHN1lZVkM2ODJkajIzTHQ1UVQ4aEJPUmJoVUpzUGdlZUplT0hpOUd6bWk3YjFfQ3ZTZkl6dElNOXVXZ3pFX00wYTZ1dUcxc1E4M21SQS1PUHBYYzNlMUxlTFlUZnYzZnR3QmZLeEd1ZE9qV0pkZFgwZlNWb2tQQmlYY3hHNGtsZmlNVUlvdUtqbmpkQWc?oc=5",
+  "clave": "acorde actuo asegura colega defensa doctor ilsa lennin",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7efe8ae6006b",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Jornada",
+  "titulo": "Guanajuato supera índice nacional de suicidios; diputados alistan una Ley de Salud Metal",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZV95SS01ZTV0aDVGYkJ1UzRRU19La0xsczBKSE1fMjgyV3JhQVNQRXNkVmZsT0VvS3ZvT1JGcDRjQnROMnJJMl85QzRPa19PdXhiaTlxQ3FvdXZwNWMyQ09ORGpYRWtYV2ttb3VBZDVjYlp4eEgxMmNNRE5WZlBvbzdUblJvR3pLYWNTT2hHamotNGo3VWdWZzZYVUxMZzdVOEpaazZBd0VOb2hwamJORmZSOW9FVl9xNUdxbU5NVXRFSWtkUTJCN3V0bElGSmlUX2tsM3JibTc?oc=5",
+  "clave": "alistan diputados guanajuato indice metal nacional suicidios supera",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9a3646eafe55",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "San Nicolás",
+  "titulo": "El Senado avanza con la reforma de la Ley de Salud Mental - Diario El Norte",
+  "resumen": "el senado avanza con la reforma de la ley de salud mental diario el norte - san nicolas",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXRfVkFEX3J5dFFfV0k3VHo2TlNyaHg5V0dNRHZ5alY2cHFWZm5wWWM4M3NvN1JiR0FPZE1JY0xpWnF4dURBRFVrYVdlZGxpMkZzcXFGSFJnUGx4R0JISFk1Q2FiemJPSVltWXNpWVlkTmZqY2ZGdWNxNVlLSW5qejU5dVFpeU5QYkxtNFJSNVQ?oc=5",
+  "clave": "avanza reforma senado",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3aec3424fbc3",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Me Lo Dijo Pérez",
+  "titulo": "Avanza la reforma de la Ley de Salud Mental: habilitan internaciones involuntarias y suman adicciones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGlJUGp3NS11LTdvd1JwWUJVUzRfLUdNUms2Z0hnZGhDcmFBU2U5RnJrbHpNVlpsMWRLSnYwRnBVOTlmcUV2LWVyOHBFZjJJSXhoTkMzMGNNWWw2NmxkNXU2WkhoakpRV1VPNXNlWTNBTEtwRGw0QnotMW9KRnh3VlRBN21tc1ROTWtXeGpwSDV3Y3c4N09oQ1RoSnJzamFxejJkZ0JGaEs0Q2t4MHF1WnlfVGxrZHlxbk5tRU9zYXU4NGM?oc=5",
+  "clave": "adicciones avanza habilitan internaciones involuntarias reforma suman",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2ac634d00e05",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "https://estrelladigital.com.mx/",
+  "titulo": "CDMX: Brugada impulsa Ley de Salud Mental y Bienestar Emocional",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52YzExNnZsUWQ5aElQdmN1bUthY25NVGdqYU5vNEJtSlNSWlZMdnluMzBNdzdSdmo3bTRPa3dFZTlpQnBrSUFJVGlFa2FoakxvZ3RnU0hpOTQ0Q1E1N0pzcDllbkdJN1h5QlNDbEFHSE9fT01CMzlqNWtERENCSGs?oc=5",
+  "clave": "bienestar brugada cdmx emocional impulsa",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "bienestar emocional"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "42ac90cf69bd",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Noticias y Protagonistas",
+  "titulo": "Bullrich presentó diez cambios clave al proyecto para la nueva Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXhvUXBtdzF1TEJ6c3dZUzg1QWE3RDdoM3Uta2E2d2RKcVZIemtuUG5abVVMeEVXT2tiSFNSVU9hU0wzMDl6TFIyb3NlbnRmaGFvSXQxb0xfb2lfN21NZnEzS0tsc3pqbkh3Yi03YnpEWGJlZUV6RFJaQUt4dW1JYVZsWVFoWVJtQ3RwTmN1bDdqLUVXUEM3T1RQS0h1am1jTWtwcmtVbzVkUnBQZi1yZzVmQXlldzFKc1NwQURsc1RHZjdYX0ZWNQ?oc=5",
+  "clave": "bullrich cambios clave diez nueva presento proyecto",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e6cfb0d1c74c",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Eduardo German",
+  "titulo": "«Cuidar la salud mental también es esto»: Santangelo lidera el respaldo a la regulación de celulares en las aulas y suma la ratificación de Quintela",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOR1NDMjZ2X2FuekFaaEdYNGhqQjl0MXVrTWc0MGd3cjM1a29LMEtnX3FqUU8xMjNfNm1EZ0dpUnF3MW1qUFNpVDZobXRtOC1SYTRNdVJtWjh1ZVZrRWtiQVVwa0NzZEFRcjlBa1F6alRYZHptbWR3WEdMNEZNY2VlQU0zb1hCZndBTWEtbmxHVEJhdzBFMWFhNnBKaGlyaUpyZmNPbng1S2R0TjQza0w1NlBFbGhnckJrWFNHakRocWxXSUlOeXRHbm1LZWlkNVNJYmZkejJ3WmpfM0RTVGt3TTZZRXk3d3ByTzlRYS1SdTlqS2FVTHdWQkNhTDJvRDJmLUc1aFpqUmpNajF2T2RCWQ?oc=5",
+  "clave": "aulas celulares cuidar esto lidera quintela ratificacion regulacion",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "62ecce4a7038",
   "fecha": "2026-10-15",
   "carpeta": "01 ESPAÑA",
@@ -249,6 +963,63 @@
   "ruido": []
  },
  {
+  "id": "7b65345d3782",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "la marina plaza",
+  "titulo": "El Hospital de Dénia y las asociaciones comarcales unen fuerzas para visibilizar la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaS1EbFNSLWxjeThVZmhYRWdHWTdYa0YzNzZzYjE2NVlqdUVpYm8yMEJmRlFoZ1JPdHhpZkVnSlpoTkZwNm40T2V3X3p0bWlsc2JxTXVKNURWZ2w5M1c1aEdZeDZYOVZ3dVg0aUFKQ2JvMWhoWnY3UVBRN0hmMGpQejJkTnBFLVpaRmd5T05UajRpMno4WXBTUFNDSGt2T1VvUGJnWmdEeFRHakRGVUhqWGpKMHJCNWQxdkNxX3hES05pNmhzbmNUWlhlT21DOXhhdmU4?oc=5",
+  "clave": "asociaciones comarcales denia fuerzas hospital unen visibilizar",
+  "capturado": "2026-10-16",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1094cea25cdb",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Rádio Itatiaia",
+  "titulo": "Mendonça suspende por mais 60 dias decisão sobre ações que questionam regras de saúde mental no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV190cldLY2t4M09Ka3E3YjltdWlYUENydkt5X29yQUJTeEdQLUExMlllc0NWU0hpVllRLUR1dlZGOFdTVUJjamVmS3l5SlI2Zm01MU5tRFEwLUpNUWRBWVRURDhRTUQyZXJQTzdXeTB3eVRsQTNnWktBZ3p4Q3VNblJOdzdiRTdSdS1YSGpSZmlJUGhHZ0lObkVyM3FLOHVuMlZyOEFBcF9ucnZHTEVNMnZzbDlVaWppZm01QWNSOGRQUVA2SWJfUmUwMElraW52cDVZVkRGa0lyenVuODZjcnRTTndrZ2R1?oc=5",
+  "clave": "acoes decisao dias mais mendonca questionam regras suspende",
+  "capturado": "2026-10-16",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "024242c2f436",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Mexico Business News",
+  "titulo": "The Week in Health: IMSS Pay Dispute, Mental Health, and GLP-1",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRy14ZzIxRk0wbV9RcTBLLTFNUGxoZmU2clBsVUQ5dGZRbGJCR0dCVUlfZUh1U1pJSWJnQ1VsVzJTSzhxbWxBNjJJR3NGYjlLNGdPeEFlM2tuaXJtel9SU0oxRUFXdkI2THZzb2lhdWxncWVOVGVxRUE4dzFHNmNMYnZVU0pnUzdCTlF6c3d6cjdtZ3plNldN?oc=5",
+  "clave": "dispute imss week",
+  "capturado": "2026-10-16",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
   "id": "9f22b69ccd74",
   "fecha": "2026-10-15",
   "carpeta": "04 GLOBAL (solo con ángulo local)",
@@ -283,6 +1054,44 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "79bd69df82ba",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Diario Ronda",
+  "titulo": "El Ayuntamiento y Changüi celebran el primer aniversario del Zoco Cultural por la salud mental en el Convento de Santo Domingo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ0phb1gtM0tDVVhjbnhJeC1xZVhWZ3E4Q19JYlcwaWNGSlV4QWpoSmFjYld1ZE9ZN2xTb3dhWnRTNnJvNmloQTl5dUY1NUJMUkVuYUQwTlhpUy1iMzRLaktDWnljOFBDR0JPWlJrcmk3MGMxaTFsOXkxYjcyOHNyc1dMSVlrX0JlMzFoaVZqMW9PTkVycUVCc0haNnZtOG5ISnQteUE5aXVpSXU1NXdBelNnZmp5X085WnR6b1RBSmdrOElpT2NfYmZ6WkV2eEVHNUVuVEVXdVg3cWs0QVJsenBR?oc=5",
+  "clave": "aniversario ayuntamiento celebran changui convento cultural domingo primer",
+  "capturado": "2026-10-16",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7984e978981d",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Rotativo",
+  "titulo": "Más plazas para psicólogos y atención a niñas, niños y adolescentes: piden en foro",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54MUdBdm5TYzNCWHpsSW02UkdlRGRpWFJocGtVQWpvN2pWbFo4M3RPTWxuZ1dZd0FsV1JCdkV2Q0F6b2g3SFFkcXowUGI3NkJ5NEdIZ1R1dWQ2ZS11QjdZM3lrVkZSaDlI?oc=5",
+  "clave": "adolescentes atencion foro ninas ninos piden plazas psicologos",
+  "capturado": "2026-10-16",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
   ],
   "ruido": []
  },
@@ -765,6 +1574,25 @@
   "ruido": []
  },
  {
+  "id": "a10e3e55393c",
+  "fecha": "2026-10-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "» Cholila Online",
+  "titulo": "Reforma a la Ley de Salud Mental: Bullrich presentará en el Senado los acuerdos para cambiar la norma",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQXJDSnhOT3dVdVRpMWpBYkFUR2VCS0Jxc0tvRmF0bU12M2tXekg5NnptbnFiV1psVWViQXNveHg5S1JDem9RNF9jUDBwUVozX1RjWFVQTnNMWXBmSU5QR1FleXFXMFNYd1NwYkVSU2RSbURDdWQtcFM5ajJ0OHk4RjljdDBJYnZzNzBvZlgwLUI?oc=5",
+  "clave": "acuerdos bullrich cambiar norma presentara reforma senado",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "89a4f9a04d80",
   "fecha": "2026-10-14",
   "carpeta": "01 ESPAÑA",
@@ -835,6 +1663,25 @@
   "puntos": 2,
   "prioridad": "C",
   "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "788f04437947",
+  "fecha": "2026-10-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Congreso del Estado de Michoacán de Ocampo",
+  "titulo": "76 Legislatura impulsa trato digno en la atención de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXBoV0M2MVUtc2QyY2xUUS1NTHBqUzZRU1E1R1lza3BnZ1B1RkZmbGk0RDcyZmNGdVFDUlhSbDNVdFA2ZHVDNUstbXV1RDBHeF9jNW9JeXNYLXlUMk9NNmF1aW1acDJxUXJ4M0twV0Q5VHVDcW82V0NiRXhJX28yUmFzZlNLYlh2RzZ4VXVjU0dxVzB5aklB?oc=5",
+  "clave": "atencion digno impulsa legislatura trato",
+  "capturado": "2026-10-16",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
   "topic": [
    "salud mental"
   ],
@@ -1047,6 +1894,44 @@
   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRldPWUREN2RYczd6Zy11ME1Mb0FsYW9venpDd0V1NWN1Y04wTU9OQ2xGeTI0Q2JwU25kZnAtVnhNNzk3UWtydFlEbGFOcUdUVXBhaE03TWZvQW1VZm1sMGRPTE4zREhMRThmQ2taSjFZYWM4dzd6ZTc3dWZ3eGhIcWlKOGpOMnZ5OGswMlZZNlZaVFRXSHFkSnBMeW1tSFE2c2w5V1FVQU1OekZtVEpsUnkzb2hjczQ?oc=5",
   "clave": "anexos coahuila enfrenta especialistas falta regulacion retos",
   "capturado": "2026-10-14",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "15b9a8727c2a",
+  "fecha": "2026-10-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Asamblea Nacional",
+  "titulo": "Diputado Carlos Sierra propone ley para proteger salud mental del pueblo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjhTOC1nd2gxeEQwZ0VxczE0LTRDdWwzRTBqcGdXaWFPREZpbTJpRmV3c1RySGVkLXhuSDZVNWJuakF0Q3A4U0h5aVpXTW5HR3Mtc0RYYVRSWFU4SU9Kcy1rVVd4LVJaSWxVdmk0aDlXS19qcmE4WFZubks5MkhmXzlMOUdFVWFkM3o3cjNCLXFYeDgxT01tYlM1aG5vdlFKOEZjQU9aMWt0My1Ib0g4Q1VBSnZLWUtE?oc=5",
+  "clave": "carlos diputado propone proteger pueblo sierra",
+  "capturado": "2026-10-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8eec594f3e1b",
+  "fecha": "2026-10-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Gaceta",
+  "titulo": "El mapa de una ley de salud mental inconclusa: entre el paradigma de derechos y la soledad de las guardias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDRvdk1CSU81LTh2ZVd2NXZqQXBMNTc4TzFxaWhmb09scjZKNmlzZVVJSkNYY25EUTdycG9YdXdzMW5tZzZHSHhNV2JNdFlzaUQwRi1zRWljOE9IckRZbDRWOGFCdG0wUWZUZmc3SGZnZUdhX1hOVDFUODdSNTZaOHRJZGlTNHR6a2VjcENxY1pkUXJPTm92NEliZW5lUjhfVm9rNmxTZ2U1Y2JRR3RpSzdaUWlCMGV5aEpJYjJnSExrNnZhRDBFWtIBzgFBVV95cUxQeExVWnVWejlUZDdOWUhCRlkta0VkazJRaVBfS28teHBRZTlrOGo1cnh6d3FTVnZMQVk3dUFKM3RiS3dBS1hkbkhpTV80b01vaWZkd183OGFnQzFXY3dLbUIyYjZDWG4tY0d0VHRkdXUwWHEwMTdIdUxPLUwyX3FSUDA3NmZkdUNaWWlVMkloaE9USXhVVDZJMVVDZDFkYm9iTHFMREd1TTlGLTFIVTczWW5jYVF5ckxSdl9TZC0wTkF2SmJzUU84MjZUSnFwUQ?oc=5",
+  "clave": "derechos guardias inconclusa mapa paradigma soledad",
+  "capturado": "2026-10-16",
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
@@ -17462,6 +18347,27 @@
   "ruido": []
  },
  {
+  "id": "f6b03b26b044",
+  "fecha": "2026-08-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "Prefeitura de Blumenau",
+  "titulo": "ESF Thamara Katryne Rodrigues promove roda de conversa voltada à saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91SF9hSldEcDllYkx3d1pGem45QXEtWVVwTXEzWEZyYjJNVVhkcEVVeE1WM0tURjJZajc3aW9LRGlPLVU5aU55UnpqXzlydUVwQlZWdEl0dHpUMGJ5dFV3TmhR?oc=5",
+  "clave": "conversa katryne promove roda rodrigues thamara voltada",
+  "capturado": "2026-10-16",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "roda de conversa"
+  ]
+ },
+ {
   "id": "995b64c1d518",
   "fecha": "2026-08-28",
   "carpeta": "03 BRASIL",
@@ -21472,45 +22378,5 @@
    "depres"
   ],
   "ruido": []
- },
- {
-  "id": "a556df836a2a",
-  "fecha": "2026-07-17",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
-  "medio": "band.com.br",
-  "titulo": "Canal Livre debate saúde mental na era das redes e da IA",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnJpTzVVdkd3ZDBUZDV3dDBReXJPLUhNbTN0SkNodjBiZ202aHlOZVF5cXZHdmlNYm5fdldVazlucFhQLTdCTE1QNFVUN3FxVHZpOW5oQk5LclNfWm1lRWcxRkFVVG1fV1JfalNmeWU3TmFaeGZQemRRN0JaN0c5TDhOeUN5cGpVMm5QWHNMdw?oc=5",
-  "clave": "canal debate livre redes",
-  "capturado": "2026-09-07",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "6cbe7fe8420c",
-  "fecha": "2026-07-17",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · EN sobre nuestros mercados",
-  "medio": "Nature",
-  "titulo": "Nationwide impact of heat on suicide and homicide in Mexico and Brazil",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91OTRMVXZvRVdpX29Bdy1vTXhJVW40NGdPY2pqTFdEVDdnLUdfY19BZUo2TXJaVE96Xy1CRDdhV3c5QUdhamZVQlJxOUk2UXdiTmNvdDEyYWxLZ2x0MGw0?oc=5",
-  "clave": "brazil heat homicide impact mexico nationwide suicide",
-  "capturado": "2026-09-04",
-  "puntos": -3,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "suicid"
-  ],
-  "ruido": [
-   "homicid"
-  ]
  }
 ]
