@@ -1,5 +1,64 @@
 [
  {
+  "id": "fba7031a3027",
+  "fecha": "2026-10-17",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "CAR-T: más que un fármaco, un proceso de principio a fin",
+  "resumen": "hematologia y hemoterapia cristinareal innovacion las terapias car-t han dejado de entenderse solo como una innovacion terapeutica. la experiencia acumulada desde su comercializacion en espana en 2019 ha puesto de manifiesto que su impacto depende tambien de lo que sucede antes y despues de la administracion. identificacion del paciente, derivacion, aferesis, fabricacion, infusion y seguimiento fo",
+  "url": "https://www.diariomedico.com/medicina/hematologia/car-t-mas-farmaco-proceso-principio.html",
+  "clave": "farmaco principio proceso",
+  "capturado": "2026-10-17",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9a303f4bc4b5",
+  "fecha": "2026-10-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "NorteGranCanaria",
+  "titulo": "La consejera de Sanidad participa en el XIX Encuentro por el Día Mundial de la Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSVRxOGctNEl6eVVjVEs2aEl5YlVRVzJENmtOSEdiZHVkR3RRdG5JMWVnUWlYLVJrNlJaT2NiT3dCNW5BbnJkVnVlSUJ2NmFrRWw2dUNDazExX3JvdGM0aEJvUFlSam1BYm1Oa0dmTi1pLUdJY2VQRGlseFBKS3dnWUttVWpDS0ZGZHRtd2JVVDRsWmM2SzVwVkI2elpfZnlHZ0FXVGpZOHo1M1E4emVXM2xabDQ1YVZ4SE1JVG82VVczRWhYWDRwcVpxc2xJMUNuWjBBVFZ3?oc=5",
+  "clave": "consejera encuentro mundial participa sanidad",
+  "capturado": "2026-10-17",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
+ },
+ {
+  "id": "0de6ecea4e47",
+  "fecha": "2026-10-16",
+  "carpeta": "02 LATAM",
+  "feed": "Saludiario",
+  "medio": "Saludiario",
+  "titulo": "El uso de la IA puede ser perjudicial para la salud: aumenta los niveles de Síndrome de Burnout y aislamiento",
+  "resumen": "el estudio panorama del bienestar en las empresas 2027 afirma que el uso de ia puede aumentar los niveles de sindrome de burnout en algunas personas.",
+  "url": "https://www.saludiario.com/el-uso-de-la-ia-puede-ser-perjudicial-para-la-salud-aumenta-los-niveles-de-sindrome-de-burnout-y-aislamiento/",
+  "clave": "aislamiento aumenta burnout niveles perjudicial puede sindrome",
+  "capturado": "2026-10-17",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "producto",
+  "topic": [
+   "burnout"
+  ],
+  "ruido": []
+ },
+ {
   "id": "a4104117b63c",
   "fecha": "2026-10-16",
   "carpeta": "05 GOOGLE NEWS",
@@ -38,6 +97,25 @@
   "ruido": []
  },
  {
+  "id": "f51366b6874f",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Enfoque Misiones",
+  "titulo": "Ley de Salud Mental: senador por Misiones pidió fondos específicos y coordinación con las provincias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdWoxZ0pUZFJlSGJyS2FYWWZlZVZpLXFoNWJpdGpEcnZwYVZUUGJWMlVTN0pzbm5UWHY0MmZSNEZvaEdwbWFrcjRxNjdsYU02bmRCNkZ4UWItVTdxYVkyWFA2R0JyemJVSFQ0S3F1YUtTUmZvdHVpanpJeEY3bkFpcDBibzVGY1lhdGlFX0l4alFLakZSQkoySUZmR2R4bzF3MjhyRWlJNFViMm0tWWFVLW9sNjQtdF95SEIzeVFvLXVCVE5TUENr?oc=5",
+  "clave": "coordinacion especificos fondos misiones pidio provincias senador",
+  "capturado": "2026-10-17",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "adeaf8840c60",
   "fecha": "2026-10-16",
   "carpeta": "01 ESPAÑA",
@@ -53,6 +131,25 @@
   "categoria_auto": "research",
   "topic": [
    "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2803b35bbbf9",
+  "fecha": "2026-10-16",
+  "carpeta": "02 LATAM",
+  "feed": "Saludiario",
+  "medio": "Saludiario",
+  "titulo": "Los 10 mayores riesgos emergentes para México en 2026: desde la IA y la salud mental hasta el cambio climático",
+  "resumen": "dentro de los riesgos emergentes para mexico estan los relacionados con la ia, el cambio climatico, las enfermedades cronicas y las pandemias.",
+  "url": "https://www.saludiario.com/los-10-mayores-riesgos-emergentes-para-mexico-en-2026-desde-la-ia-y-la-salud-mental-hasta-el-cambio-climatico/",
+  "clave": "2026 cambio climatico emergentes hasta mayores mexico riesgos",
+  "capturado": "2026-10-17",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -191,6 +288,217 @@
   "ruido": []
  },
  {
+  "id": "d867b7c4a8b7",
+  "fecha": "2026-10-16",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Farmacia, Enfermería y Psicología: el peso sanitario de la nueva Diputación Permanente",
+  "resumen": "el organo sera el encargado de tramitar medidas clave como pueden ser los rd mir o los decretos de vivienda y ademas: cuenta atras para las urnas: el calendario electoral que decidira el futuro del sistema sanitario",
+  "url": "https://www.redaccionmedica.com/politica/20261016/farmacia-enfermeria-psicologia-el-peso-sanitario-de-la-nueva-diputacion-permanente/362456_0.html",
+  "clave": "diputacion enfermeria farmacia nueva permanente peso psicologia sanitario",
+  "capturado": "2026-10-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "dff52c19c5e8",
+  "fecha": "2026-10-16",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP orienta psicólogas sobre o uso de testes psicológicos nas modalidades informatizada e online",
+  "resumen": "o conselho federal de psicologia (cfp), por meio da comissao consultiva em avaliacao psicologica (ccap), publicou nota publica com orientacoes sobre o uso de testes psicologicos nas modalidades de aplicacao informatizada e online (remota). o documento apresenta a diferenca entre … o post cfp orienta psicologas sobre o uso de testes psicologicos nas modalidades informatizada e online apareceu prime",
+  "url": "https://site.cfp.org.br/cfp-orienta-psicologas-sobre-o-uso-de-testes-psicologicos-nas-modalidades-informatizada-e-online/",
+  "clave": "informatizada modalidades online orienta psicologas psicologicos testes",
+  "capturado": "2026-10-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2c0e5dc18c6b",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "24-horas",
+  "titulo": "Nueva ley de salud mental y adicciones: esto propone Brugada para la CDMX",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xaTBybzFUSGFRbWZVNVdVUmZFVkktR0JvaC1JMkhBUEVMcEZKU096WkZGSFR1VDRkME9ac0tid25sR1Z4Y09aM3NrXzlOOFU5amVKMEVqRWJaQXZVeHk2bnUtbmI2d21qdHg4Z0hMVWk0LXQ1VW5IT1JDdzgwZk0?oc=5",
+  "clave": "adicciones brugada cdmx esto nueva propone",
+  "capturado": "2026-10-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "10234f3194e2",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Contrapunto.com",
+  "titulo": "El diputado Carlos Sierra propuso la creación de una Ley sobre el tema de la Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTXRCRGRpVVliY3RodkYxcjJCVDJsclFkTkRoc3BFR2dsWGRraVVkemlyVW5CczNLT0s1MVR0ZHhSNVVJWTg3empjY1cxX3NjUnd6Tm4yU1piUC11ZE1kb1RyWUNjNlJ4RDBKYzdDamVQZ2FqNlh5X2hYRk5rc0pPT1J1X19NV0pFV0JkVjB0VV9sVnZGaUZSWGRBS0YzTEhRYVUzRFFyR3UxR1JxX0U1cnhTSEZqaUlJOXBZaEcwRlJCcnJHbkd4QUxxczY?oc=5",
+  "clave": "carlos creacion diputado propuso sierra tema",
+  "capturado": "2026-10-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "949328eba7cf",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "TV Pública",
+  "titulo": "Avanza la reforma de la Ley de Salud Mental que habilita internaciones involuntarias y suma adicciones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYlRicWpwbUdBdm12RkpkcjBuWmVMTnFNMTdzRVA4b0tlLWQ1enVLMFY0dFlnOUdFQkl4d0dZYUlIazNkSkVLTU00WnhQLUhZSmpsdm5GQ1ZTMFo4c2VKMFhkY05jcHhpRmdGa3BfNFhrV1lCYmluLWFsVjhDc3A3U053T1VUNmdaUWVydjZ3VE42Ujc4NmpOMXU4alNnZlphaFZaOTg1b2FfV3FKd1NFUnd4eTFTMVRta0tnNkZPVFJKOHNhcXNma2pDaDlmcld3N3c?oc=5",
+  "clave": "adicciones avanza habilita internaciones involuntarias reforma suma",
+  "capturado": "2026-10-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b49f927be018",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "MisionesOnline",
+  "titulo": "Ley de Salud Mental: Arce destacó los avances del proyecto",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUhTYUJQbmE0Nl9rWjJsYy0tN3YyOVRtN1RCM2M2MGhnNVRVX0NfNmZmMFhxVzhiQWZETVVVQWtHR2ZDNnNsbF8wTENhMTZZVU5lTzBkSG1Ob09CQm5uRFU4RWZWX0tpeEJ3WmJIWGFtdTk5MmtpMUV2bzF6anRERE1SNkdDaFFHamp3cEVMbGNYUDJ1UlBnbFVRaDY?oc=5",
+  "clave": "arce avances destaco proyecto",
+  "capturado": "2026-10-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "53f9ab46dcf7",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Política Argentina",
+  "titulo": "Senado: el oficialismo obtuvo dictamen para reformar la Ley de Salud Mental y busca debatirla la próxima semana",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNllucjlVX2NETmcycUdiZy1ibkFTTzdhcHh4UGRuTDUtYzFTYWQyWkFXQlJ2bUtVeWt5a2VvMjNhaFNWSmgzOXAzUjN4T0N4N3ZBS1FDbVJCRWFqRGVVLTdLanNiUjlBcTFxdEc2allXTy1yaVJFTEI0MkM0bHp3SlpZeThBVkw5RnNpNXNiR1I0Z3dPcnc0Q1F1dmFyRzgxQjB6WU1TeEloUlpnVXpINFBKcmo4blhJdmVGUS0zLXB2NmVZeGlzWTE1eDNQQ1lQTjhLTUZyTnJ2RXVkVVJwUUZtd1hRTlJrR0R1STR0ek42RzFXUEloSXkwZw?oc=5",
+  "clave": "busca debatirla dictamen obtuvo oficialismo proxima reformar semana",
+  "capturado": "2026-10-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7bb7381a75a3",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Cuestión Entrerriana",
+  "titulo": "Avanza en el Senado la reforma a la Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcXgwRl80M0trRTVWWG1pTjQ0YUJfbU15d21WZ0w3MHlXaWlDZVgwMDJqOHFxTFh1MjQzcUVNRlNJbUxDWjB4V1RhV0dEc3NFTHVzRHFGUExSd3d2eHlqbk5QQzZNRDFwWkxYUFBXWTdXdHZQQWpYcHJQMVhrdjdJRjNCdjlJdDZtcFNvTnZDMmJldmlnd1E?oc=5",
+  "clave": "avanza reforma senado",
+  "capturado": "2026-10-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "37a0a2b13758",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "Amazonas1",
+  "titulo": "Compra de R$ 535 mil em equipamentos para unidade de saúde mental do governo vira alvo do MPAM",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM1lyYXpVRFFkUWFVN0E1TkhSaF9DeGNSZXpCaTdaQm9QVDIzWUxxb2ZPS0dmNnZwSXVmZDVBVE84Z25xYTdwb2NkblVtNFRybkNIYWdsNThVUjZoenRnYnlXUzhhT3NkZDV6RTBodG44X1J0OTZoYnFfYXotN3FfU2N1Z21fYTkxcUdYbFhuSXlraXUyRU4yTmIycWpFbXZCak1z?oc=5",
+  "clave": "alvo compra equipamentos governo mpam unidade vira",
+  "capturado": "2026-10-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b5b97c3ebcd3",
+  "fecha": "2026-10-16",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El PSOE-A propone clasificar las listas de espera en Salud Mental y tener datos homogéneos en el SAS",
+  "resumen": "la agrupacion parlamentaria ha presentado una pnl para exigir la publicacion de un apartado con actualizacion trimestral y datos desagregados",
+  "url": "https://www.redaccionmedica.com/autonomias/andalucia/20261016/el-psoe-a-propone-clasificar-las-listas-de-espera-en-salud-mental-tener-datos-homogeneos-el-sas/362426_0.html",
+  "clave": "clasificar datos espera homogeneos listas propone psoe tener",
+  "capturado": "2026-10-17",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f62927baf900",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Demócrata",
+  "titulo": "Un estudio advierte de que la atención en salud mental no se ajusta siempre a las necesidades de las personas mayores",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaUQ5em0xNzRuSEFkYThVdHdkYU40MFJYSmZ3R01NZkdycnBxRGVaWGFOTlhveXJRaktrOUlReGNvRHpja0xjY0lXV1ZxYWhYVmpGNV9ielBjUlhka0twcXBVTFFLUFNTNnMzaFJfTnhxUjVnRkFETGhWZl80anM0UUJ6cGFOczNiNkhrcmVDb21vM3AyeXExQ2gtOGdPZWx4MmhSSzhndzNheDU1MWhHUlRQSVBPeWxlQmdqUFR4UkwtdVMweURuOUdSenpVUW5ySGlQc3pQLUhGRnc5d0p5Y2FhbDcxQdIB6wFBVV95cUxNRGVLVDFUZWVZdlp6TnB3ODRxRHVrTjAxT2NBbUxoSm5Deng5OUlBUjhDcVdwY2lCVktfaXVmenJ2Mk91TDY2cEZ5eWFJYXZ2LU4xcGtPVTZRVWVaTmloblo1OFhYeDY5OTJiYVpYaHVFZ2xQTG96NmNRNmd2THRLcl9wMWFrc3FONzNOTm4tb0FFaU44VEc1V0RyaVBuU09SeUkwWGJYYndzUE9razM0OUVudzZvRHlYNXR2MW1aTFpHQThFZXFqMktQd05rMlc0V21WeDlYY1JFSHFLTXdTQzFXQUZfbG5tVDZ3?oc=5",
+  "clave": "advierte ajusta atencion estudio mayores necesidades personas siempre",
+  "capturado": "2026-10-17",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "b11762aa5cd4",
   "fecha": "2026-10-16",
   "carpeta": "01 ESPAÑA",
@@ -286,6 +594,63 @@
   "categoria_auto": "otro",
   "topic": [
    "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a94c4044f09a",
+  "fecha": "2026-10-16",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "la rioja | La Rioja incorpora dos psicólogos sanitarios para atender niños de seis a diecisiete años",
+  "resumen": "la rioja: la rioja incorpora dos psicologos sanitarios para atender ninos de seis a diecisiete anos",
+  "url": "https://www.consalud.es/autonomias/la-rioja/la-rioja-incorpora-dos-psicologos-sanitarios-para-atender-ninos-de-seis-a-diecisiete-anos.html",
+  "clave": "anos atender diecisiete incorpora ninos psicologos rioja sanitarios",
+  "capturado": "2026-10-17",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0b42fddec9e4",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "EntreMayores",
+  "titulo": "Healthcare Activos compra dos clínicas de salud mental en Alemania",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdjhtbUlGSVBLLVFDNkN2MkFDWEw1ZmxxWVlQd05Bb3EyMWxrWlBManVTTTVWNWg1dUoybmdHRFdocXJDWk5kNTBkazdTbGt0ODJoYkhmMFlueXVnVlloYS1VU1JyUThyZVNucWh5Vk9lRW5qX1ZwNy04UnFWNndSN2Z1SlJQbkM2dDNIRXM3b0p0dTlHUXZGU01jYVptaWs0?oc=5",
+  "clave": "activos alemania clinicas compra healthcare",
+  "capturado": "2026-10-17",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4a6371fd6d40",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "GUB.UY",
+  "titulo": "Paseyro: Salud mental también es poder pensar y habitar los espacios públicos entre todos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWU1meWlnazJGT2p4TFM3Nmx5NWlfX1l2d05LYkJtWGxuVGgzS2F3ZGlBYl9pVXBzc1BXaFhtMTBlcTJIaUhySWR6YzNRYmpOejMzMGZvaENyb2wtNml4S2luSW44c3J6TzNVdDgzNGhnUkUwTjdIY3lCV3BsQ3VQbVlYeFo4MlBFMjNGM0M2bTdOd21DUUwtMHF1M0RzbzdoY1FsM01BMzVJTmREaFJsWVJfMWdwLWFkMjZtTmtWS2xrZkJKZFhkZA?oc=5",
+  "clave": "espacios habitar paseyro pensar poder publicos tambien todos",
+  "capturado": "2026-10-17",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -923,6 +1288,26 @@
   "ruido": []
  },
  {
+  "id": "a0e8a0c3f021",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": ":: Bahia Jornal ::",
+  "titulo": "Alagoinhas sanciona lei pioneira que institui a Política Municipal de Prevenção ao Suicídio e Promoção da Saúde Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMDNCbVFELXV5V1NDdDhhMnlOR1BTYTlCYmk5ZDVjTk9GRERSakpTOEM4S0REdHd4c3JyUENNQ3VCXzJlbGhfb0RRSGZiaC1feHVfOTZXcll2VWs3bFNOd2FNaTVrM1VQTGI2VEhtRHdHZnNLdW01cFNqZllHRXdUTndDX0U2a0N1OGxlSzVvZlNYZW9jVjM4MWhlaEdGc2hwVHlHNl9BQXl2bWxUOUtWNEp3Q25TYWtRT2Rwbl9HbzJvc3U1em9WWmdMWG1rZlp2UHNmakxtZHFxeS1lMVdQQ0doRTJnTjFQa0VxTlRFTERKWm0tLVJ3?oc=5",
+  "clave": "alagoinhas institui municipal pioneira politica prevencao promocao sanciona",
+  "capturado": "2026-10-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
   "id": "62ecce4a7038",
   "fecha": "2026-10-15",
   "carpeta": "01 ESPAÑA",
@@ -1020,6 +1405,25 @@
   "ruido": []
  },
  {
+  "id": "a8ae3886df97",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR deals",
+  "medio": "Jornal Económico",
+  "titulo": "Healthcare Activos acorda compra de duas unidades de saúde mental na Alemanha avaliadas em mais de 50 milhões",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZlNNV1JQRG1SOERWeWN6SGFybzFWeGVDMGNnZGNnWHZmVXhsTUVWbm9LR0NEbGZ1dk5odG1VOFJlOVhxX3RjV1Z5d2hvMWJacHRmMnI3QmJEX0duanFfczlQM1BNYWlRS0wxaVc2V1FLVmJ3R1IyVFNGVnlJWHN4N1YzblBISEg2UDdCNmx3Tk5PZFVhNFNETDFpSUFYVnZfdmJnZzViWTlLSzdsV0oxa3lIeldrenVWdjh4UVRzLTZRNjg0MUhqMGtsMXg0bW9nNGtSTEhRd0pHS2NGdjRJbDJzTnhndw?oc=5",
+  "clave": "acorda activos alemanha avaliadas compra duas healthcare mais",
+  "capturado": "2026-10-17",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "9f22b69ccd74",
   "fecha": "2026-10-15",
   "carpeta": "04 GLOBAL (solo con ángulo local)",
@@ -1092,6 +1496,25 @@
   "categoria_auto": "otro",
   "topic": [
    "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "363c56388470",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "n3news.com.br",
+  "titulo": "Mendonça suspende ações sobre saúde mental no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUElOU1FHakhZcDdrUEpZUkdCTUZKN0kxTTMxQVc4VVpvbWJMWFFEa0M0czlkNHNUT0tWd2t4WUY4RnVVMnpRNUZYTWpyWW9DcmdwV19hNnRuLVpOQklpVDgwckYxblNnb3E3YzJfZHA2Q0szN2tHQUtvVXRFVnBOaU1aQkZHVVNFZFowcWd6TWtzUQ?oc=5",
+  "clave": "acoes mendonca suspende trabalho",
+  "capturado": "2026-10-17",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -4158,6 +4581,25 @@
   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEtlSkFjd0NaaEhhdVJjX3hNM3E2TWtKZ0xNU1JRLUp1R1c4NkRQLVRMYm5SOEg2WU1jSGpDOFhFVlZWYmpBN1F1dEVsRXdlZ1NNemNsdUZfd0pZS0tBWlVSUFhucS1VTm1jNlFWQzJ5ZjZjaWZabVhvb2JtSnh0XzVzMWpaT0tsM1dUVkxFSWZic09MS3hvVDBsbXg?oc=5",
   "clave": "atencion enorme mexicano pendiente sistema",
   "capturado": "2026-10-14",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6a27b3d4b036",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Prensa Cba",
+  "titulo": "APROSS habilita Telemedicina en Salud Mental para las fuerzas de seguridad y el servicio penitenciario",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUJFLXN5VmZ6RXpWcjJzaExvZnJEeC1mcWFWd05pWHZKVnB0dkF4R2NIenBtTkIzQ1VlOXR1SEwzV2Y2WkNfS0hWYnM1aWhVMWFqMW9EdTBqQUhvZ2QybFQwMGYxanBOQ1c5T2VWUmplNkZWemRuWlVKNEE1MjVOaWZYX1ZXREpERXE3b0xfYk9Ya3VwYkZacG9Zcy10WUtiZnFhVVlDMldST21yYkUzLXZfeDRJX2ZlMEU1cEduR1VIUFFORHk4TA?oc=5",
+  "clave": "apross fuerzas habilita penitenciario seguridad servicio telemedicina",
+  "capturado": "2026-10-17",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
