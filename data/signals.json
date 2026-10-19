@@ -1,5 +1,120 @@
 [
  {
+  "id": "b7b890e5b1d0",
+  "fecha": "2026-10-19",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Los psiquiatras se rebelan ante un nuevo límite a los ingresos involuntarios: \"Dejan solos a pacientes y familias\"",
+  "resumen": "politica y normativa soledadvalle reforma legal hubo cerca de 75.000 internamientos psiquiatricos involuntarios en espana en 2025, segun los ultimos datos del consejo general del poder judicial (cgpj). este es un instrumento, de ultimo recurso, en manos de los psiquiatras, que requiere de autorizacion judicial y que siempre ha estado rodeado de polemica: mal regulado y tambien mal aplicado. el tri",
+  "url": "https://www.diariomedico.com/medicina/politica/psiquiatras-rebelan-nuevo-limite-ingresos-involuntarios-dejan-solos-pacientes-familias.html",
+  "clave": "ante dejan familias ingresos involuntarios limite nuevo pacientes",
+  "capturado": "2026-10-19",
+  "puntos": 10,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c2fd9624348e",
+  "fecha": "2026-10-19",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "La percepción de su salud mental sube en jóvenes de 6,3 a 6,8 sobre 10 desde 2024, según un estudio de Atalaya",
+  "resumen": "las tecnicas de investigacion y de asuntos publicos de la asociacion para la gestion de la integracion social (ginso), laura hernandez, y de su area de educacion y salud mental, cristina arana, han presentado los datos del ultimo estudio de la fundacion atalaya sobre la salud mental de los jovenes, que muestra que la percepcion de la propia salud mental en esta poblacion ha mejorado desde 2024 de ",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-percepcion-salud-mental-sube-jovenes-63-68-10-2024-estudio-atalaya-20261019113439.html",
+  "clave": "2024 atalaya estudio jovenes percepcion segun sube",
+  "capturado": "2026-10-19",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "93aae29a6874",
+  "fecha": "2026-10-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Razón",
+  "titulo": "Los psiquiatras alertan del riesgo de dejar sin atención a pacientes graves por la nueva ley de Mónica García",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUHpBWGtDdkxQSG5nREU3VVpZSDJLSFlvczB4NmoxLWpYaUIyVEpQQkJ0VVVrTUd6Q2Frb01VM0hLRDNuSmdTSTFtZm1ZWU4zdjBxQjdCeTBmdlZjc2gzVVBFdkVPLXZqdkJWS3QzSFd6SnJHUWhTdWZpLURpWjlqMEQxS3Z4c0dOd3VtVDkxdnJ5aDFvbG9zTnBXblByNzJUalQtZFRXRjdqWjBVSm5EVnFlZW84MXEzY1NUa1pEZmEyekJFOVJBREZUMWFUd0E0NFdtR0FJLXlFZ2lldGs4QUlkZDhvbk3SAfsBQVVfeXFMT2pGMmF0QTJFQ2hlWXY1VWstQnJzemxXN3o0dktIRENkRHJmazhaSGpCbGRfcG8tWG53dm9HTlU5MDJISDcxRC1STTdVd3h1M1c4aWRzYWFzX3JPbkVpZDd6c2xRdjRHZnZDUW16TDN3b2V0QWxVQlFmbWpTRDVxd0NjRUZTNWhycFZiTEJFd0ZocmVYeGVaMnB0M0pIbk8wT0dtUFgzMWtWOWg4VFVNd0hweDhGazMwUGlhcVhXd2Vtc25HTHc4YWM2dk1SMDFjSGdPQUJ3Mzc3STdhSWs4M0FCWG5YMUgtS1Z2aXFIMHJKeFMxZUVVMHpVQ1U?oc=5",
+  "clave": "alertan atencion dejar garcia graves monica nueva pacientes",
+  "capturado": "2026-10-19",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6d5f2936dc9f",
+  "fecha": "2026-10-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Interempresas Media",
+  "titulo": "La salud mental también se juega en cómo se trabaja: autonomía, horarios y tecnología entran en el mapa de los riesgos laborales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSTRtSUQ3dnZ3N0N3RjZDdnY1WEdyNW1ZaVpRTDJHa3ZsZjhTbW1ydWM2cWxXUVlPSmlrOVYxbGZHVGp3TTJELTVIVGpxTUhXOE9DRjdyeFV2aUdmd1NkQm00T2dpNUNaWU5sbTRQcXc5djV2RUtLd2s5OXZxTTNJZzNNVXo5T09EUEp5Qjdmb1c5dkRVbmJZeTRKOXoxYlgwbHBZVzFHYTE2RHB1WUdBTFhWUDl5ZEZyT2FtZXRvZTh2MHFKV2ZGWVN4eXZ0T09PWjJ5VzVHWjRBS01GN01xWFAtODE?oc=5",
+  "clave": "autonomia entran horarios juega laborales mapa riesgos tambien",
+  "capturado": "2026-10-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f3d671193143",
+  "fecha": "2026-10-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Demócrata",
+  "titulo": "Sociedades de Psiquiatría se rebelan contra el nuevo límite al ingreso involuntario por salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONXJhYXFCVk15Tnl3Ml9vY2duUS1qLWZzOTRZLXJGQVE3czVJZW5vZ3I0ZV9Ncjh2Njc5RmdWTkdMS1JhMkROVVpLY3VFZ2VOaE45aXNERVVvUC13X1JVTkpxN2hqOTN0ZFV4QVZUaGtBckN4eVNWMGIySC0xM1FDZ00ySWRqaUpFem0tZ1FpLWhVcWl4UzBTWUFDM0o3R2dHbFZ6eWdZeG9wZjI0TGlKaVk3aGc2TzA2Zk53SHFoX2ZlYUJFY0ZjX1pHbEZJcVXSAdQBQVVfeXFMUFlJQ2tjY1BUTzRld1N6eDBCT1BjNC1jT1JldGJGdGNNUjlJWFZETkRDMHBlYVU1ZTJCWkowcTVraDhyYVVjUFlPdVdicmlha09nRTUzbWpodU91akFjM3d5OUk1MWNnNmd2OEROQmlaY09hV3FaTjN5bHhuMGdGc3Bfc0lXaWVkRmhuQllFTkdBMXVMMnFNeGE4SnFvZmIzVnVoMzEtbmNsVVhyMVAxdFI3SnBOTnU2ak1FZUtwbHI2dHZtTU5ILUpyX21aY0ttY1ktNDM?oc=5",
+  "clave": "ingreso involuntario limite nuevo psiquiatria rebelan sociedades",
+  "capturado": "2026-10-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e649f8ed8a49",
+  "fecha": "2026-10-18",
+  "carpeta": "03 BRASIL",
+  "feed": "Futuro da Saúde",
+  "medio": "Futuro da Saúde",
+  "titulo": "ANS sugere traçar diretrizes para tratamento de pessoas com autismo por planos de saúde",
+  "resumen": "agencia defende maior coordenacao do cuidado e criterios de qualidade assistencial para reduzir conflitos entre beneficiarios e operadoras the post ans sugere tracar diretrizes para tratamento de pessoas com autismo por planos de saude appeared first on futuro da saude .",
+  "url": "https://futurodasaude.com.br/ans-diretrizes-tratamento-autismo-planos-de-saude/",
+  "clave": "autismo diretrizes pessoas planos sugere tracar tratamento",
+  "capturado": "2026-10-19",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "autis"
+  ],
+  "ruido": []
+ },
+ {
   "id": "0704bd03bac0",
   "fecha": "2026-10-18",
   "carpeta": "01 ESPAÑA",
@@ -2306,6 +2421,25 @@
   "ruido": []
  },
  {
+  "id": "aa7c145f0120",
+  "fecha": "2026-10-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Parlamentario",
+  "titulo": "Presentaron los cambios de la reforma a la Ley de Salud Mental y quieren llevarlo al recinto la próxima semana",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ0pzLURSdVhGSjI4WlAxb0MwaUpBQk1LTFNrUEFoX29kcnVDUlktZHhKN0w1UWg2WlBzZm90SVB5WDZHbEE3NVBUQ0dJcVVIZG0yV3BscjdNT21FNWRQSENrSV9XMzl2Q1pLVDNuemJ0WE5qVGpEcWV1ZENWVTN1WG8wa05YQklvclJTOXVkSVd1cWZadlJqQWl0RlFWV29GOXZfdkhLd2YtdEpCbjdjRWRwSFVHV3RBSXVaVjh5bzBhVE1iX2Y2d0lJRkJUUlF2SnhBb21HV1NVZVFYSHc0YTgxS3Z1SzA?oc=5",
+  "clave": "cambios llevarlo presentaron proxima quieren recinto reforma semana",
+  "capturado": "2026-10-19",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "89a4f9a04d80",
   "fecha": "2026-10-14",
   "carpeta": "01 ESPAÑA",
@@ -4197,6 +4331,27 @@
   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS2lWa24yeU9FMnlKX1hCdmdRZ3VuXzhoSGZKM2ZSTnZaN0ZrVE9acmdiMkZCc1VmbUZZa0dwTS05OU1ab1dXcXVEZDZEcFAzZnNpenJEY2RUNHRTYmhsZ1VnNi1lOXFrOENUYnRrbFlsaVFka0JIdDRydmhFUEZUaVA3N0syR2FLMUlXVE0tbzdMYjVqZ09ISUExQmFCaXpuVGpMY09ZMUxrSEI0cVZ3d3RPcGNNbUhNZHZlY3FSSW0taGg0Vl95aXl0a1NDTXJzZnNQcHFKNnVNUkJqQ0pTTGVfQW1kejVv0gHzAUFVX3lxTE54eWdkU3hWbUIyZzhPTDR1YWFqS01BOHpMSGN2MzZCR0hsQmMzdXdGRlNwMF9MVnlvM05PT25QNGI3N1ZlT0VXZ0ljcm1jMTI5d2dSWk1GXzVPV2VoUUlvWlhHb2M3Tk1pS19yTGRaZVRGd1diM3FpbXdod3ZkTFIzZ25VVXZ3WnhxU3ZJQ1l1Wkp0RVpaQUhOWnZFZmlPanQ4Z0NuMkxtSFVRQTkwdFIwM1JvUXl4TTVabGk4SUZvVTRJb2JHaGtqSjh5WHdaYktZNWhob3owUkxDODBsWndzUXNKYUtuc25jODhMMU0yUFMxUQ?oc=5",
   "clave": "desbordado espera hasta listas meses mundial publico seis",
   "capturado": "2026-10-11",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
+ },
+ {
+  "id": "1e192083aa76",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación (edición US, hl=en)",
+  "medio": "Libertad Digital",
+  "titulo": "Día Mundial de la Salud Mental: listas de espera de hasta seis meses y un sistema público desbordado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS2lWa24yeU9FMnlKX1hCdmdRZ3VuXzhoSGZKM2ZSTnZaN0ZrVE9acmdiMkZCc1VmbUZZa0dwTS05OU1ab1dXcXVEZDZEcFAzZnNpenJEY2RUNHRTYmhsZ1VnNi1lOXFrOENUYnRrbFlsaVFka0JIdDRydmhFUEZUaVA3N0syR2FLMUlXVE0tbzdMYjVqZ09ISUExQmFCaXpuVGpMY09ZMUxrSEI0cVZ3d3RPcGNNbUhNZHZlY3FSSW0taGg0Vl95aXl0a1NDTXJzZnNQcHFKNnVNUkJqQ0pTTGVfQW1kejVv?oc=5",
+  "clave": "desbordado espera hasta listas meses mundial publico seis",
+  "capturado": "2026-10-19",
   "puntos": -3,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -23127,84 +23282,6 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "9840b6d6a009",
-  "fecha": "2026-07-20",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Comunidad de Madrid |",
-  "titulo": "La Comunidad de Madrid invertirá más de 14 millones de euros en el nuevo Centro de Salud Mental de Majadahonda, que dará servicio a casi 424.000 habitantes",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM3RlendjdXJ2V2N1VzZjYjhHUnBpbzdZeXcyVkljQjB1TDdiMkN0ZnA1RXFOSGVZcmRnVGhDUFkwM1BEOVJBMkZka3hSTWwzYUt0X2w4TmZzOW1TT0N6b2ZoNDlKSUItbDB6YTZEaklVOFgwTWxaY0tLNE4zYVcxYm16Zy1rR3RBS2tUMl9qUU9ZSzMyT3lvbTJOWG1CZ3o5SldNZXpET3pGeC1BbHNxS3g1aGZDZVFWbzQ3WEkyRG53ZzMzbnRrM1EtQlRXdnBvb0R0Vlhqb3Rta1ZjYmE2cV9MU2ZLRGF6MUEwdVRWX0RZanZya3gwNEdIX3M?oc=5",
-  "clave": "casi centro comunidad dara euros habitantes invertira madrid",
-  "capturado": "2026-10-10",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "921b40048522",
-  "fecha": "2026-07-20",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "IM Médico",
-  "titulo": "El Pacto de salud mental no resuelve la escasez de psicólogos en la sanidad pública española",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEJQV240WHBlaW5LSElla2JQLTNoRjBBUmtGUGxXTWVpY2J3SF9rVlZtaDhZenhmRF9udGg0d0tsZjJ2Mkk2MUVPOVRZUzZFcndrb3R5c3FYV0JvcmtYckpNUnJOak5MYXdfeDhCbWsycjRMUW5kR0g4VnB6ekx3WUZudm9wVHVkdnVNbWlnMFFSd010M2dmZXV5Z3k3YTNLcTFCdXBUeXhxbmY4bExtaTQ5Ty1LYTVjMWFuNDMwTnZmd9IBvAFBVV95cUxNaU1yd2tGZDZEM0t4UmNUZjk3SV81VXZ1WnFOcGVkc1czVzBoTlZZT0ltVXZzVE5odEhZWkNSMnNRSHAyN0NfLWttVDBRWFBDNTRsRGtDUEZva2FSakl2TWE3ZEJLRUZyY2kwbWpKR2YxeEF1cnVZeHZtaU1hZVJWY2NpNkNSd3RCWGN6MHQ2UDlmZVNWZG03UWFIMVZKdmlib0hLWGd1S3hlcGpSYmQwZTgtYlVmdzBjWFJ1dA?oc=5",
-  "clave": "escasez espanola pacto psicologos publica resuelve sanidad",
-  "capturado": "2026-09-09",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental",
-   "psicolog"
-  ],
-  "ruido": []
- },
- {
-  "id": "1d2d571c3989",
-  "fecha": "2026-07-20",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · EN sobre nuestros mercados",
-  "medio": "The Star",
-  "titulo": "A wake-up call: the mental health of school children",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFY4RHhfRHN3dzBwUFctWE42dnFWUXhNbEtWNThHdXZZbnJEOWpwMGtBc0NlaUE0akgyV0Q3NE43WGRRcmZlN2pxb3NUOVZQNDNDdmtGenpaWG13THVfUnBpVVdjY1pmTlJQcE9lSy1vb1luMG1BX0hnd2tIUURGbnh5TFowOWVHeG1aTmphclR4RnlGWTBJUXRJX1BiTUdVeGc?oc=5",
-  "clave": "call children school wake",
-  "capturado": "2026-09-26",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "mental health"
-  ],
-  "ruido": []
- },
- {
-  "id": "ee4018067315",
-  "fecha": "2026-07-20",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "PMFarma",
-  "titulo": "Lilly adquirirá AtaiBeckley para impulsar terapias contra la depresión resistente al tratamiento y otras afecciones de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTF9UYUhfcjZUazRZQ3NVTXlFeE1vYnA2WTBpMkpVVF9OOGw2b2VkendTblBjcDcwbHNGZVJLdmdiZmJMV3oydzdUXzBER2lnU29uNi1paEF6MUVhNHhUVkd5ZFVpSjZ6UkdQTHl6NWRXOWNud09Sc0k2VEdnZmZ2TUE5Q09KTGFqNWNoQ3VSUktuMF9fY0J0VEVNNFowanQydnRISmxRdXF2ZlRBTWRzYmpEd3BSUGg5YVdxVExaUVh2czNRMWFDdlVpUFZPZnRQT0QwQkNpZkwzYkE2MW5fODhwRUxWbzVTRDhKVk56WE5DN0pIV1E4c3psYWxwUGpWVVNBeEE4Yw?oc=5",
-  "clave": "adquirira afecciones ataibeckley depresion impulsar lilly otras resistente",
-  "capturado": "2026-10-15",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental",
-   "depres"
   ],
   "ruido": []
  }
