@@ -1,5 +1,223 @@
 [
  {
+  "id": "6eb970fe9204",
+  "fecha": "2026-10-20",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Sanidad defiende que la reforma de los internamientos involuntarios \"dará mayor seguridad\" a los profesionales",
+  "resumen": "politica y normativa soledadvalle ministerio de sanidad el proximo 23 de octubre entrara en vigor el articulo 13 bis de la ley 4/2026, de 1 de octubre, que limita el uso de los internamientos forzosos por salud mental a casos de \"riesgo vital\". asi lo han interpretado juristas y psiquiatras, con la sociedad espanola de psiquiatria y salud mental (sepsm), a la cabeza de una oposicion frontal a este",
+  "url": "https://www.diariomedico.com/medicina/politica/sanidad-defiende-reforma-internamientos-involuntarios-dara-mayor-seguridad-profesionales.html",
+  "clave": "dara defiende internamientos involuntarios mayor profesionales reforma sanidad",
+  "capturado": "2026-10-20",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5b77eb1a6e6d",
+  "fecha": "2026-10-20",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Mais de 70% dos atendimentos de pacientes com câncer de mama se concentram em saúde mental e nutrição",
+  "resumen": "mais de 70% das consultas de pacientes com historico de cancer de mama sao realizadas nas especialidades de psicologia clinica, nutricao e psiquiatria. e o que mostra um levantamento da conexa, que tambem identificou um crescimento de 149% no numero de pacientes com historico da doenca ativa na plataforma em dois anos. os dados ajudam […] the post mais de 70% dos atendimentos de pacientes com canc",
+  "url": "https://medicinasa.com.br/cancer-saude-mental-nutricao/",
+  "clave": "atendimentos cancer concentram mais mama nutricao pacientes",
+  "capturado": "2026-10-20",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "saude mental",
+   "psicolog",
+   "psiquiatr"
+  ],
+  "ruido": [
+   "mostra"
+  ]
+ },
+ {
+  "id": "71dd866fd1ee",
+  "fecha": "2026-10-20",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "La ciencia señala que el TDAH se asocia con un 70% más de mortalidad",
+  "resumen": "en un metaanalisis de estudios observacionales, investigadores de la university college de londres (reino unido) han descubierto que el tdah esta relacionado con mayores tasas de suicidio y muertes por lesiones, asi como con un aumento moderado de la mortalidad por causas naturales.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-ciencia-senala-tdah-asocia-70-mas-mortalidad-20261020080148.html",
+  "clave": "asocia ciencia mortalidad senala tdah",
+  "capturado": "2026-10-20",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "suicid",
+   "tdah"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fa2ea883ff65",
+  "fecha": "2026-10-20",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "La depresión y la ansiedad son más frecuentes en adultos con diabetes tipo 1",
+  "resumen": "un estudio representativo a nivel nacional realizado en adultos estadounidenses por la escuela de salud publica bloomberg de la johns hopkins (estados unidos) revela que la prevalencia de sintomas depresivos o de trastorno de ansiedad generalizada (tag) era mucho mayor entre los adultos con diabetes tipo 1 en comparacion con aquellos con diabetes tipo 2 o sin diabetes.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-depresion-ansiedad-son-mas-frecuentes-adultos-diabetes-tipo-20261020074946.html",
+  "clave": "adultos ansiedad depresion diabetes frecuentes tipo",
+  "capturado": "2026-10-20",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "ansiedad",
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "dee340f90000",
+  "fecha": "2026-10-20",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | Fortalecer la atención en salud mental tras el alta hospitalaria por intento de suicidio: el 20% lo reintentan durante el primer año",
+  "resumen": "pacientes: fortalecer la atencion en salud mental tras el alta hospitalaria por intento de suicidio: el 20% lo reintentan durante el primer ano",
+  "url": "https://www.consalud.es/pacientes/una-de-cada-cinco-personas-que-intenta-suicidarse-trata-de-repetirlo-al-ano-siguiente.html",
+  "clave": "alta atencion durante fortalecer hospitalaria intento pacientes primer",
+  "capturado": "2026-10-20",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0d2d5075eece",
+  "fecha": "2026-10-20",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Gaceta Médica",
+  "medio": "Gaceta Médica",
+  "titulo": "Las claves del Plan de Salud Mental de Galicia: 177 millones, 357 profesionales y un modelo 100% comunitario",
+  "resumen": "la xunta moviliza un presupuesto que duplica el anterior para reforzar la plantilla un 50 %, integrar las unidades de adicciones e impulsar la atencion infanto-juvenil y psicogeriatrica the post las claves del plan de salud mental de galicia: 177 millones, 357 profesionales y un modelo 100% comunitario appeared first on gaceta medica .",
+  "url": "https://gacetamedica.com/politica/claves-plan-salud-mental-galicia-177-millones-357-profesionales-modelo-comunitario/",
+  "clave": "claves comunitario galicia millones modelo plan profesionales",
+  "capturado": "2026-10-20",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3a33399052e2",
+  "fecha": "2026-10-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Agenfor",
+  "titulo": "Formosa advirtió sobre los riesgos de la reforma de la Ley Nacional de Salud Mental impulsada por el Gobierno nacional",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZXkwM2w0NUFjTTQ3azV6NWxTa09lYTdGbGFveEZMVjE1WWJvV3FCRVNWWDVLWWxpTFhkM25aTUxpdDhudml6R0xTM01IOF9BOEpYZG1xdXJhbkFpZDc1SWh5bm5BU1RfM0dzaHNocUd1c29WeGV3emlHdW9zQzhBeGNaYVF3VEhRN1N5MUI2aHNUZ2l5Q2JuMEEzVEtrVWtSakJiclJ5T3cxbXJRZkpxQlJGQU83Rm84SHpUU0RaRWhraTdRQkxhNzZmNlM4MU9ZS29CaVNHdFhDSjdqR0p1bXA0Yng?oc=5",
+  "clave": "advirtio formosa gobierno impulsada nacional reforma riesgos",
+  "capturado": "2026-10-20",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e5fd1723e725",
+  "fecha": "2026-10-20",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper\" hreflang=\"en\">Commercial plans' mental health provider directories routinely inaccurate, secret shopper study finds</a>",
+  "resumen": "fewer than a quarter of secret shopper phone calls to a listed mental health provider ended in a scheduled appointment, often due to inaccurate contact information or other issues with a plan's directory.",
+  "url": "https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper",
+  "clave": "commercial directories finds inaccurate plans provider routinely secret",
+  "capturado": "2026-10-20",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f4ae0a47eab8",
+  "fecha": "2026-10-20",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | El TDAH se asocia a un aumento del 70% en la tasa de mortalidad general",
+  "resumen": "pacientes: el tdah se asocia a un aumento del 70% en la tasa de mortalidad general",
+  "url": "https://www.consalud.es/pacientes/un-metaanalisis-relaciona-el-tdah-con-un-aumento-del-70-en-la-tasa-de-mortalidad-general.html",
+  "clave": "asocia aumento general mortalidad pacientes tasa tdah",
+  "capturado": "2026-10-20",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "tdah"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "86f0068855d5",
+  "fecha": "2026-10-20",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "enfermería | El CGE crea un servicio de consulta psicológica online a precio reducido para las enfermeras colegiadas",
+  "resumen": "enfermeria: el cge crea un servicio de consulta psicologica online a precio reducido para las enfermeras colegiadas",
+  "url": "https://www.consalud.es/profesionales/enfermeria/el-cge-crea-un-servicio-de-consulta-psicologica-online-a-precio-reducido-para-las-enfermeras-colegiadas.html",
+  "clave": "colegiadas consulta crea enfermeras enfermeria online precio psicologica",
+  "capturado": "2026-10-20",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8bff7f1a7d27",
+  "fecha": "2026-10-20",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | Ser cuidador cuando también tienes problemas de salud: mayor sobrecarga  y malestar psicológico",
+  "resumen": "pacientes: ser cuidador cuando tambien tienes problemas de salud: mayor sobrecarga y malestar psicologico",
+  "url": "https://www.consalud.es/pacientes/la-falta-de-sueno-y-el-estres-agravan-la-carga-de-los-cuidadores-con-enfermedades-cardiovasculares.html",
+  "clave": "cuando cuidador malestar mayor pacientes problemas psicologico sobrecarga",
+  "capturado": "2026-10-20",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "b7b890e5b1d0",
   "fecha": "2026-10-19",
   "carpeta": "01 ESPAÑA",
@@ -11,6 +229,44 @@
   "clave": "ante dejan familias ingresos involuntarios limite nuevo pacientes",
   "capturado": "2026-10-19",
   "puntos": 10,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "898c6fda0557",
+  "fecha": "2026-10-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Mundo",
+  "titulo": "Rebelión de los psiquiatras contra Sanidad por la nueva ley de ingresos involuntarios: \"Deja en el limbo a los enfermos graves\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01NW95YXduQWRDTFZVSnJYYUtSd0RKb3JQc1puQkdSdWZtZWdwVjNjSU9CT3VFZGxONHdnZDZrT0lmWXdJYUl3Nm1KcGhBZ19VOC01Mk8xbzZGeGl2YjRFeDdpRDktM2dWb21FQTFsRFc5UkpVQ3VyatIBeEFVX3lxTFBmTjZTblFrYVNsVU40MHZub1dRMEZfakROT1UyYThtVWU4SjZMa2Ria0VDX2RYeGd3ZUg3MkFnbkZaYlV1OG02Skg3bmgzZmI0Q0ZvaTllckc4Ym5JR2JZWl90M19teW43RzN6Q3ZvWHZoTUFiSW5jRA?oc=5",
+  "clave": "deja enfermos graves ingresos involuntarios limbo nueva psiquiatras",
+  "capturado": "2026-10-20",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a1e8d9259ca1",
+  "fecha": "2026-10-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Periódico",
+  "titulo": "Los psiquiatras, contra la nueva ley que limita los ingresos involuntarios de los pacientes: \"Deja solas a sus familias\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnpERmM3d256WjZWQlplakdvSllRUndjT0ZqSU1zZi1ZSGluWG5kV2tISzZBMm9lS0xaN2xZZm9vVGthU241aGtldXFUYnhncHgtSFNCNHN3SEQ5U2tWZE9LdGFaT2xieGdkZWVYRk1qMnRwQ2laWkJiVGhvenAyRUg3TDVBcTdOWUttOEtfelRMOUItV2tPbUcyRGtIS0Rub3VPeWpjX2tORDd4dlcxekZFWTBIc29HbEh6MXZ2N3dFOHd3VXNVZW5sN0cyQ0p0YjhnUDFR0gHWAUFVX3lxTE9iMFRpSEluS0RybXhVcXRrZjFlRkhsVUZNZ3EyRnBRT0l2VnhVRy00VmNqWERad2F4YzZFS2VOMkxleHpXTG5aSE1mSWFBaG8tOFFGU0ZDci12Z3FGa1pycmdTQ1JZNlR0RXoyajdZdjBWRGpqQUwxblQtS1A1Z0pMbWtNNGw4bm9xQmNOUng3Sm1LMXdMdnVteTJZTXFNSnNGbzB3c2kwbkQ1SVJVODNfQ2s0eGVFNmp6OC04N0VLbzVESDVnbk9mZmVjYl9HMktEMzRFdGc?oc=5",
+  "clave": "deja familias ingresos involuntarios limita nueva pacientes psiquiatras",
+  "capturado": "2026-10-20",
+  "puntos": 9,
   "prioridad": "A",
   "categoria_auto": "regulacion",
   "topic": [
@@ -38,6 +294,26 @@
   "ruido": []
  },
  {
+  "id": "dadbecdcd99c",
+  "fecha": "2026-10-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "FecomercioSP",
+  "titulo": "NR-1 coloca saúde mental no centro da gestão de riscos das empresas do varejo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcTRRamt3YlM2cGZ6MXJodVhPeks1REZKZm0xN0N5LXJGMFFpV2J4RDBQQUYwbnVjbnZ4TlBZcnZWN1p2NnpOZm9nRjZqc3Zoai1KWm5UdzhIakdrU2tzNUl2ZThXQVJEQTM5MWM0ZlNjc2NSYlJxZnE0M2hNWXhrOTRqd1hfX092Sjk5ZENNNzZRdkhnSUlmZXpMakxsOXN3RExuRmRKbnFocktGWFAxag?oc=5",
+  "clave": "centro coloca empresas gestao riscos varejo",
+  "capturado": "2026-10-20",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
   "id": "93aae29a6874",
   "fecha": "2026-10-19",
   "carpeta": "05 GOOGLE NEWS",
@@ -53,6 +329,64 @@
   "categoria_auto": "regulacion",
   "topic": [
    "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "cb3846da8221",
+  "fecha": "2026-10-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "ConSalud",
+  "titulo": "Los psiquiatras alertan de que la nueva ley de salud mental puede dejar sin atención a pacientes graves",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTmpfYU1zNWd6WFhzQUpYNnQ2RjZScVVYOFkxNm80aTJvV2l2YzEyQzlTYXF3VlpZX0pVV1cwbEtEU29kSk9sU3FxZGVGSGJxTGl4VTM1YUhrbW5HU0lsa28xY2Y4akZOSXhTak1TTW14NjRyWWNtVGdBT0tpR1Y5QktGVk9JcnN0aWpVZ3F3SDBid01PS1AwVjd2YUdsb1gxSmVTNjgtVTZEYmw2ZENTNFR2eTFINjlpY3BUOVl0ekJXcUJ4bnc4eFI4R3NhRUl5TElNT3FLbW9VRHpJcU1n?oc=5",
+  "clave": "alertan atencion dejar graves nueva pacientes psiquiatras puede",
+  "capturado": "2026-10-20",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "97da3ea7b781",
+  "fecha": "2026-10-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Vidaeconómica",
+  "titulo": "Vivi, la IA malagueña que te ayuda a encontrar psicólogo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdklHeG1saFowYkZSVTk3azFLdGw1S2ZIS3BfSHh5T1ZQbnEySVdCS0IzZkNYbnh3eVJEOURENENMaV90dV81OC1JZHZ2WElzLUgzMW5SMFB4bG03QnJoUVlYRWU3bzAtRGRDc0tVZzNyQmlLTTNjaFhLTHpEQ1c2LTEyQjRsQ2gwZEE?oc=5",
+  "clave": "ayuda encontrar malaguena psicologo vivi",
+  "capturado": "2026-10-20",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "85d29475e312",
+  "fecha": "2026-10-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Perfil",
+  "titulo": "RDC: el 36% de los jóvenes británicos de entre 18 y 28 años tiene un diagnóstico de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOekxrcE9OcV8tc0otc0swcDRRcTFVVllNQjZtYWJURGlpR25hOHo2QXNnMlpWbXhBdXZTVkNvXzZUSThvZVFjVkxGRHpxakY4WEZwcWQ1VGN4bXNGTFdTaVQ3Q3JDNHVJc0NCcTJJSTNLd0tSbVhnZmhiSEdDbGdITmpIekh1NUZnbElwbjhqN0Nsdi1NUzNNcDh6MFcyVkw5d0xyaEh0d2xtNTY1NXp4M0x4cVVRTGRmTWw4bnhON2p6bWNjTWg1SnlZcW5EdEJCemN3Z3VkWkhDUdIB3wFBVV95cUxOam9ZU0preVFWRkM0Nk84b3hpeTV4cFRSQnZ5cFR1OW5wMmtfOFdXeEF2TkVyUFoyeDllc00ycVhVcDZBcHEweHFRaHNwZ0V3N3FTNldZS05na1prelREbGZaU2JySW83dE1qSW1VWGhGSGJqWUltNmhKeDhKa0JLX2F0Z1dYdnVaMWstNExKeDFDRHhKdVJRbEdGX2xvSEZJcXVMX2lBcHNyLUFVdy1fVllJajZCUWtUenNwQTZTQW0zWTF6RU9uSU5RcllScTVORFBGd3NFSFlJM1d5ZVZB?oc=5",
+  "clave": "anos britanicos diagnostico jovenes tiene",
+  "capturado": "2026-10-20",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -92,6 +426,46 @@
   "topic": [
    "salud mental",
    "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "dfe2ad9e0834",
+  "fecha": "2026-10-19",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "El tratamiento farmacológico podría reducir el exceso de mortalidad asociado al TDAH",
+  "resumen": "psiquiatria naiarabrocal en 'jama netowork open' las personas con trastorno por deficit de atencion e hiperactividad (tdah) presentan un incremento del riesgo de mortalidad, especialmente por suicidio y lesiones, aunque tambien por causas naturales. asi lo senala una revision sistematica y metaanalisis publicado en jama network open , que tambien encuentra indicios de una menor mortalidad entre qu",
+  "url": "https://www.diariomedico.com/medicina/psiquiatria/tratamiento-farmacologico-podria-reducir-exceso-mortalidad-asociado-tdah.html",
+  "clave": "asociado exceso farmacologico mortalidad podria reducir tdah tratamiento",
+  "capturado": "2026-10-20",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psiquiatr",
+   "suicid",
+   "tdah"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "55057c0d1a37",
+  "fecha": "2026-10-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Universidad Nacional de la Plata",
+  "titulo": "Salud mental, cuidados y apoyos: acompañar sin aislar",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHA3ZWJlMVNPVVMxWU91WEFFcFZRd1hoZlhaUTVnOF9JU1dVSGdZZGp0WExuVWJTRTBDQ0dJVld2M21aRzh5cDlqXzJIS3BfNWJUUC16aThkbW1iVlRBOTNPcVg5VFg3RGxBRFF3Y1otZ01qYUw5TVdJZjhDWjJ4eF9NU2ZVYlBHVlhGa3hSLU96cUZCWHRDWFNYaWhPRUJ2Tm9teXlLTk8?oc=5",
+  "clave": "acompanar aislar apoyos cuidados",
+  "capturado": "2026-10-20",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -5073,6 +5447,25 @@
   "ruido": []
  },
  {
+  "id": "d07ef1655df5",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Prensa Cba",
+  "titulo": "APROSS habilita Telemedicina en Salud Mental para las fuerzas de seguridad y el servicio penitenciario",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN2xCUmJpQXQ3OXZPZnRUWE8wTm4wczNDR0RXTXNmNTFxczNNWmZsWmdERWZCNkxGQi1xQlZ6Y3h3UFJfcGc5VHphTGtFak9OdmZZZXpPaUF1ZXVlSTktc193SnBYU3BWc0xUbkVpQU9kZHZRQmdwQXU2VE9jclM1SkpOOU9MNExpR29UYWxrdzhiWldiQmptUjRpSVJoNjlfSUc3akVHQmIwbFdSelhmWU9xOTVTLU5SeXVPSkhpYXl4ZnZqRGtIRzdBZFNuLWFsWHh1NTBjdDI3Z2VqeXNtZ0RlZw?oc=5",
+  "clave": "apross fuerzas habilita penitenciario seguridad servicio telemedicina",
+  "capturado": "2026-10-20",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "02bda498e396",
   "fecha": "2026-10-09",
   "carpeta": "01 ESPAÑA",
@@ -6024,6 +6417,28 @@
   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUzFabngzSDYzQzZNTDltVGkwZlhTRWxLLXFUYkk3bm9xbWtTUkk3LThLZmg5YzdUeVBnWjEwcHV1S3NZQVJWVDVlQ0hZTllsSmFXeGhWeGdzNkw1dDRTWDk3Q25fRVd5cHhXYlpHT3puWHY4ajQzMHdBeGpwalRPbk5UTXZBSDBVRGNEWW9FbVl3QnpsV2wyanBLc2xaWVR5dHZPVE1yRFdOMUZiMkRnMmdhd0hhTlFpRll5cGlIS1Z6WlZ5eEVCREtCeFFEdGRFWHJCRG1sZ3ZZaFFyRVRUN0lKcFTSAfgBQVVfeXFMUEp5WXdfbnM3Nnd6UDVxSFBZSHlCMU1pMUkyMFZDaUplZzdEcVdPNHI2TXJ3RDJURkdlUUhRY01UYW9maTRRUHZOZGNOYkpkVlgzSHBLbk1SR1RpamRFV3NQYzVyUkI5T2N1VjJRNWNld045aWs1aWIyRElqaFphdXNYbzlSb29oWEQyd1owYWJxdmhCR0xFdmtyejZ6TC1uazhxbkxSeFd3U2ZrbkxPNGppVUJRUHBKdWFRSWpFWFYxcVpDT3B5R3lIcXU0dDk1Y1BMbjlOd09NUnJ2TDNsT2UyVG42Z1AwY0tReUYwYnFJUndvZ0lwR3k?oc=5",
   "clave": "jornada multitudinaria mundial proclama villena",
   "capturado": "2026-10-08",
+  "puntos": -6,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "jornada",
+   "dia mundial"
+  ]
+ },
+ {
+  "id": "03bf1da03dfc",
+  "fecha": "2026-10-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Ayuntamiento de Villena",
+  "titulo": "Villena proclama el Día Mundial de la Salud Mental con una jornada multitudinaria",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWU2VlJXVkJNUndpZVQ0LWE0R25TX1VfNTdGc2w0WU00SUNJcWtEQnphNzg0TlJNX2hPc1otRDRGUl9vWE81a1hyWkt2STdqa054S0ZPRjc1cktFVEFWdVN1RzFfWnRiUXF3RFZoeEtzTHVKME5Yc3RJZU1namU5ZkNIQlYyTnFHQk1fV1liUnRhWWV2bDRNMXNCTnJhajVZLW5ES2RYazVxQUZuU09BTmZkYw?oc=5",
+  "clave": "jornada multitudinaria mundial proclama villena",
+  "capturado": "2026-10-20",
   "puntos": -6,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -23225,63 +23640,6 @@
   "categoria_auto": "otro",
   "topic": [
    "mental health"
-  ],
-  "ruido": []
- },
- {
-  "id": "99588a2189d2",
-  "fecha": "2026-07-21",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "El Horizonte",
-  "titulo": "Salud mental lidera consultas de Telemedicina en Coahuila",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHNYcFhvbDRzdkc4WWpvZlBraGRNRm00NU5EVDRvY3hBNUFhUDEwSjJhV1FBeWloNUJ0LUhLdFZRZlNTSWpENDVxNHFtWFc0ZldrczZvc1o0d1I3YkpPMmtPLTRWQl93c3YxUE1DM2I4OTlPZFBoZFk0Zll3VUtuaW9OZnhTWnNXVW1DUnA0VVBZT3E5WHJQb0xkMEhueHhkVE9IR3kzNA?oc=5",
-  "clave": "coahuila consultas lidera telemedicina",
-  "capturado": "2026-09-04",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "research",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "ba4f8d6549a2",
-  "fecha": "2026-07-21",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Telemadrid",
-  "titulo": "Más de 14 millones de inversión para construir un centro de salud mental en Majadahonda",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcDY3MnhkYUtjVkRBX3JMUnVEX3FqT1RBaVQxR1ltU091SVBnVS1QWWZNQ0FvMTJMZlFEc09NLTJzekF0dTFzN3lnV3VUN045N0VKdlhtM25TMFY2aGh4ajZqMVh1aG0tYnM2eXlFcjdmOTViVnVZMHdtZExuMlk1clNwVVk5allFdHlaTnppbV83NFhNRVdpLXNyTU9ST181a2piSURSOHJmcWdYNFVmNlc2aWFXVmNVTTB0Z1pPelBpU3dOeFZFU2RDOWNLTnlCYXN5dWlGb3NlOXdsQm51b1A1ZE9qSTZ2M29LcFJlOXFzRzdNRmfSAfsBQVVfeXFMTkloMzdsN29uRTEyMnRSRTJObUFFMUZwZzA5Vi1LMkpoVGQ0dERaOS11dlRnY2l2Q1dEWUdrVHl2TVM1SUtTNjl3R3pObnpUZ2VoSlA2VzdhZy1UeHhLbTlfN0JMSjladl9HcjM1d21kTjJFU3ozOElWMkhjbUZCZ2Fvc0psNUlDYm1WVWEyLVNnNWx1ejVUMjRHRzQtSFE5dzZaak1rSGhtYUltMFM2MXZDOVFFS3diaTI0S2R0aXBlQzZkQVlYQU1Nak9jQk1rRWZubGVURU5rVXp3MklOckF3dGd1UktHRXFfTm9lcmV4Y2NzeXgtRWc2TkU?oc=5",
-  "clave": "centro construir inversion majadahonda millones",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "fef584afc47d",
-  "fecha": "2026-07-21",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Tiempo Argentino",
-  "titulo": "En el mundial de la salud mental juvenil, nos vamos en primera ronda",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHcHVmcUdMWUx4bDY2Xzh2UXVVcHo5U2o4a0xwbDhlQVlwTWlhN2JpNmlyMzRzdS1VOGN2LWQtbzRGczZ1azZjZ3NSN1NhMkhLUWx5Njhackt0QnRuYlprNFh4b2tYT0FZa0hlTdIBckFVX3lxTFB2RDhTQ25tYjBDWXdMdlFlamFsUTZ0Sk9VVDg4M3pUNzZlal9mOVJFZ1JRcFBnckJPZmhrWWZzY1Y4QUxnTVdDSWtKaXJZMzFGVWpZd05HTVdpbE9xdlpTS3M1SllnZ2tqZzk2WTFqNDJaUQ?oc=5",
-  "clave": "juvenil mundial primera ronda vamos",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
   ],
   "ruido": []
  }
