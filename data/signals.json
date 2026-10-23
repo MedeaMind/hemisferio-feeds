@@ -1,5 +1,252 @@
 [
  {
+  "id": "c03e32af5046",
+  "fecha": "2026-10-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Psiquiatría alerta de la nueva norma que limita los ingresos involuntarios: \"Dejará solos a muchos pacientes y a sus familias\"",
+  "resumen": "la ley preocupa a la sepsm, que alerta del riesgo de dejar sin tratamiento a pacientes con trastornos mentales graves y su impacto en los profesionales",
+  "url": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261023/psiquiatria-alerta-de-la-nueva-norma-que-limita-los-ingresos-involuntarios-dejara-solos-muchos-pacientes-sus-familias/363183_0.html",
+  "clave": "alerta dejara familias ingresos involuntarios limita muchos norma",
+  "capturado": "2026-10-23",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0b6b523929de",
+  "fecha": "2026-10-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "La genética tiene un peso importante en el 70-80% de los casos de TDAH, según la SENEP",
+  "resumen": "la sociedad espanola de neurologia pediatrica (senep) ha destacado que los factores geneticos tienen un peso importante en el trastorno por deficit de atencion e hiperactividad (tdah), en el que pueden influir hasta en un 70-80 por ciento de los casos, y que afecta al 3-7 por ciento de los ninos en edad escolar, con motivo del dia nacional del tdah, que se celebra el proximo 27 de octubre.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-genetica-tiene-peso-importante-70-80-casos-tdah-senep-20261023114858.html",
+  "clave": "casos genetica importante peso segun senep tdah tiene",
+  "capturado": "2026-10-23",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "tdah"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4b77f1408e58",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Río Negro",
+  "titulo": "Reforma de la Ley de Salud Mental: el Senado podría debatir el proyecto el próximo jueves",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkc0STJkUzRSRzV5cHpiRTlvcHlJMXJJbGJaeDhaZkNFZVF2Y2VIc1JiR1FNTlFmbUlFSGsySVZiTjJBZGZ1ajRnaXMxWVhEczZTQzJGdjhhRWNESHczSDVvQmxfNWV0d1VvSUc5eVlPR2czdHFTckI0UXYzNG1sZnpzWDhPYi1TeWN2RDJXTDF1em5CWXc3eEhDM3Jobmt0ZkpfTDBiT1FobGZEWi1ncGxRQnJIN1dCUjBzQ2VhVnZ4ZVFUWFJ5Rk9BT2k0N01lSElLRGhETURGc1Y3NDBYam03bjbSAewBQVVfeXFMUHJXRV96bkh6ZjFneVJvQlJTZWl5cERMeVRWV2tUNjZ6THIxVGtkcS1IMkVIdEZGRTBSeHd0c0ZCVXpHVlBCRmhDWkRCMVo0Y0tScVhVeHZkX2lTQkFDS2NxTjhlX3M1OUVNRmVmWnZGbkVfMWsxbnhQdFN4ZXlLS3dlV1NGZ1NMMVNZZXZjcFllQjl5enppOVVBeGRMNHE3RVItNUdERElFeDFDbHJ6czlzdXFMcHdHYXF6Q2NQQXZacXJQWERma2ZtaV9WVUpxVEh5RlJjV3Q5Zkg0eTJjUjFRT244cWxZdkpKYWY?oc=5",
+  "clave": "debatir jueves podria proximo proyecto reforma senado",
+  "capturado": "2026-10-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bff9a3ae2968",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Tendencia de Noticias",
+  "titulo": "El Senado debatirá la reforma de la Ley de Salud Mental y el Tratado de Patentes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGc5YlpCZXJQRXFFOVhTZ0VhNDN5WkFyN3JzM3JidklVZXJIUFpTVkhCeHhCT2E5Rk1uZXI2T1E0Y0o5ZVBycnR3b2lEb3V4Z3B1amZ6R1hZTlhJRzZjMXdKeUtvR2MxcllfUjAxZDd1d2pjVUJ4V0RFUWNqZVRJQmtvVUpuNVM0M3pZWWREbXdORGdGaW4tMDFDTjAxRUFBTEEtLUViTk1ieEJXOXg3a1A0NjBOaUZlNGZ4XzBkdWJWUQ?oc=5",
+  "clave": "debatira patentes reforma senado tratado",
+  "capturado": "2026-10-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "cdf85eab5e25",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Canal Sonora",
+  "titulo": "Diputada Tapia Fonllem reforma Ley de Salud Mental con perspectiva de género en Sonora",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3cybVY4NnBiWExoSUI4NDRtSkFVRjJIZVdoRFBxNUdxOVFMM2MzdVpGd2E5a1FYbEJ5U3FxVUxyWHA0Si1aVHRkRDFPcnlDRDVSaW84czRObWF4SElPRDROYjFwSlUwSzUwazgtdzRvSWg1RDNrR2ItNklNT09JZEx1WUFMTlFtOVBGSzJoVndJanB5S0hhdXZwenJHXzlsQ19vdFF0dkVra0lWb3VxTjdZeTd2SjMzNDRz?oc=5",
+  "clave": "diputada fonllem genero perspectiva reforma sonora tapia",
+  "capturado": "2026-10-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2ba9b4d88f70",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "» Cholila Online",
+  "titulo": "Reforma de la Ley de Salud Mental: el Senado reunió los dictámenes y debate el proyecto el próximo jueves",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbk9lc3dnOUtJS2tsMjZlZ3VaSW5hN2U3dVN5aVJSUmR1YW9neV9Ca1JHamp2UTAzZ0JfQXhHRzR1R01hTmZsb0s0TUllUXViSFlSNVkwamtNUGF6a1ZSVjExaWU0LUgxVlZCT3lWMndwSlNFNDI2eUI4RWFQWEkyak1rd01MV0U?oc=5",
+  "clave": "debate dictamenes jueves proximo proyecto reforma reunio senado",
+  "capturado": "2026-10-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2877e956d2f7",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Tribuna de Periodistas",
+  "titulo": "La reforma en Salud Mental completó el dictamen e irá al recinto la semana próxima",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzVSWHFnSU9DR1lNYS1ETWZucG9wbVNFdlh6MTJ5bUhyZkJyR1MxSEJtQThnVnVsYlEydXpaTEdteWt3TnhfMS1fQ0hGMXZoaExNUWNkMjJOQTRVM1NmekN2ZTRpZkhoZ0FmRWZ5OXkwUVJwdWNid2oyQ1JlM05rWGoydEp6NUFtNkJQNWUwVGpyZ1RpZ29LNzBZRDVwRWhVbUJGN3hJVW9vSVk2MllWaFlHX1N4QQ?oc=5",
+  "clave": "completo dictamen proxima recinto reforma semana",
+  "capturado": "2026-10-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "878009c7c9d9",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Plaza Nueva",
+  "titulo": "Salud destinará 9,3 millones a un centro para la salud mental infantojuvenil",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUjl5OEpDbEVMQ2lwd3B5eHlWZXphNV9yOW4tQml3UkFLU3JETXdyVEJUZ3NHSkE4N2U2b3lXSWhoZHRpZnoxV0tYMlhLanF1b0ZBX1FNUWZQcUx1anlnc2Nqc09KLTd1SlUyVkZPcHlJQ21EQlJ5dFdrSDhkYXpTa3B5dFRTUEh6V0lmcVZuYVJTRk1qUzRUYzgzWUpaSmxxWDBTV0dMVXpITFNKZFJ1aTNYLWx3WDhDVkQtX3ZzNnpmM2RMWjZIVjZBT2J5b241SWcxYTFtV0pKLUI4a19vQmpQdkUtQVZoY2NVMVQwcVluZ3hWc1VDM0pIUkFXUFXSAYQCQVVfeXFMTnRGUDdUZ2t0VEtzNUVJc0RqUF9YbEhDSWtiSlh5WXZ5OWxHdDAzRnp6NVpQcnQ3QTF0NWJFaHprcGRYbVlPY1JHQVlpUlV1VzFjeThQQmMxRXJURkVIdGJQb1hPTnBmRUJBRUlaUVNocXhRLWdVcEV4dUZkVmRnT0o2T0ExclBEdENYbjRGVmtLTlpyS0V4cGhCdllMSV9ULTNIaW9ZcHVpV0dnZHlDRXptWElBbzc4V3A5NHhOZ2liME5rWmhIZEczN1lrQ2Fxb1ZTcDNBRUFPRERfclowSVd4Q2tFTlY1N0F4S1BYdEpTaHpweTRuTHBYaXRzM2hZZDVYRUE?oc=5",
+  "clave": "centro destinara infantojuvenil millones",
+  "capturado": "2026-10-23",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "02bb1864b5dc",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Comunica GVA",
+  "titulo": "Sanidad pone en marcha el centro de salud mental infantojuvenil de Mutxamel con tres equipos especializados",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NTmpWNGwyczRDaXRoNkozb0ZhckJkdkhkcHJENzR6N3NZMHZfdmtKb1J6YkpSU0JOaHp0dVVNVFJrTjBzVW84R2NnZnloaW9NZzFIS2IxalVWY3dEdXJjS2c5akhNVlU0ckVUTWN5VQ?oc=5",
+  "clave": "centro equipos especializados infantojuvenil marcha mutxamel pone sanidad",
+  "capturado": "2026-10-23",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e7175b75dbdd",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "EL PAÍS",
+  "titulo": "Sanidad modifica la norma para ingresar a pacientes psiquiátricos contra su voluntad (y los expertos están preocupados)",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOHhTQzlWYTFEQlh4ejdvaDhGQkJRS0lFUEJVcEJVSEZLMkg1N0cyRVFzb0JLbDhYeG93RG40QkZURnl5QXdRWXFoNUFWTi1qTzhBcEtJOHAwaDFBRlhqQ2YwUE5VYldFZmFVVE9RaDdjUDNmYWVwR1dkc3ZPWlk1ZHljSTVUd3p1UzR2YjdEYlF4emlrVzJKRllyNGMzaVd2Q19yYkJRenVXU1czUXk2QUhMVHJaZkFWWkpEU3h0SWdiUTlfa3JKblVvUHBpVVc0QUt3YU1uRjk5RVhMTC1VaGZiREo2ZU0zdTNaZUZVT3M?oc=5",
+  "clave": "estan expertos ingresar modifica norma pacientes preocupados psiquiatricos",
+  "capturado": "2026-10-23",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6bc873a70483",
+  "fecha": "2026-10-23",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/payers/maryland-sues-optum-over-defective-computer-system\" hreflang=\"en\">Optum seeks to have Maryland lawsuit over 'defective' computer system dismissed</a>",
+  "resumen": "the state's attorney general anthony brown sued optum in august, alleging that the company defrauded its medicaid program in providing a faulty computer system for its behavioral health program.",
+  "url": "https://www.fiercehealthcare.com/payers/maryland-sues-optum-over-defective-computer-system",
+  "clave": "computer defective dismissed have lawsuit maryland optum over",
+  "capturado": "2026-10-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "behavioral health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "969fdd55bc5e",
+  "fecha": "2026-10-23",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/health-tech/talkiatry-takes-therapy-nationwide-it-builds-out-behavioral-health-platform\" hreflang=\"en\">Talkiatry takes therapy nationwide as it builds out behavioral health platform</a>",
+  "resumen": "talkiatry is expanding virtual therapy services nationwide as part of a broader push to provide comprehensive behavioral health services across the acuity spectrum, from low to high.",
+  "url": "https://www.fiercehealthcare.com/health-tech/talkiatry-takes-therapy-nationwide-it-builds-out-behavioral-health-platform",
+  "clave": "behavioral builds nationwide platform takes talkiatry therapy",
+  "capturado": "2026-10-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "behavioral health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "593d40a14eff",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Titularísimos",
+  "titulo": "Salud mental y discapacidad: nuevas prohibiciones de la ley",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb05tMDg4WjBseFBYalJTd2N0QkVIOUpuSTZCUkZrektJazA1XzZQN3doRUJRYlpjcUZuWW1TdzdUZklSMk1SX3p1OXg4cHpHMkttUUJNYnVxanFrbVVna014MGxYUFZlY0FhOWVJY1R5X1VwZnQ2c29EQ3FGU0dvNGY0b2UzWjg?oc=5",
+  "clave": "discapacidad nuevas prohibiciones",
+  "capturado": "2026-10-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "7faf86707917",
   "fecha": "2026-10-22",
   "carpeta": "03 BRASIL",
@@ -212,6 +459,123 @@
   "ruido": []
  },
  {
+  "id": "d14b843eacc5",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Ministerio de Sanidad",
+  "titulo": "Entra en vigor la reforma que garantiza los derechos de los pacientes ante las intervenciones involuntarias en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10MnJyVU41eDQ2WGw5ZTBXVXlqMFU4bkp3N1ktNnFKREx0RUNIaEdQRUFQVmtKbGk5MG90TkhNbzFoRHVtaDQwUXNDdlpxbVA2RFZES0o0ZUJFOTVkbnRtM1NMNzlQWGlVcXc?oc=5",
+  "clave": "ante derechos entra garantiza intervenciones involuntarias pacientes reforma",
+  "capturado": "2026-10-23",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f6844ca252e8",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "EL PAÍS",
+  "titulo": "Sanidad despeja ‘in extremis’ el temor de los psiquiatras ante la nueva ley de internamientos forzosos para enfermos de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVlR5TzE0bTBmQnZIQlpxOUV3Um1Vb3pQb1JtMnA1SFl2VWdZSmFKTzAyRzVaRmRXc1R3alB2WjlqZW13c01WUDhwSnlLR1FyMWI0VFpJZjNEbmxhUWxHMEhETXlRckdjcTVER3NzVThROHNjMzNneEplcFlQcTVPMVVzZk1seFIwX2VuUmlNM2ZqaDdvdl9mVnE5VWgxaktTQ3c5S2RKdlFOa1NRbG14S3pONWhrMUtDbTNJVmRrcW92ZW8yQUU3cE8xRG12WDZlRC1GaHpDWVI5ZmF1anZWT3RfdXR3MzBCTlVUbmJsSXV6aFc4cXVPMUZOdFk0VE05OXkyMdIBmAJBVV95cUxPVHJvbU5qaWpJeDJISklNMWRuWW9TcVpTVlNHTXp1QVhSdUZmbjlGNHVhVU5JekV4OGhldmxycUtoZjVTaTZhOG1RaTNlWVBPVnJwcnFuMUV6Z1VmYUhTSjN1Z1l1ak5lZlo3M043bzdQRElMejlHZjBNcmJ6QlFTRzFlS1ZGeTNEMmFteElucUV2WTJFbGJEdkRscFFpNC1tVTdDRUE5amotUTRPV3ByclNLdkxWTlljSDVNYnlBQWxYWTdsa01zSHl5S183ZUNYTUlRbXNDNU9RamZnY3ZKVG9ERV9LNmUzeWd0YmZTcWg5Uzk5WE1LOFBFNGlnY0d6LWFwTXFENW5wbHAzVEZGdDVpaXIxSEUz?oc=5",
+  "clave": "ante despeja enfermos extremis forzosos internamientos nueva psiquiatras",
+  "capturado": "2026-10-23",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c6ed747ab246",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infobae",
+  "titulo": "Internaciones involuntarias, hospitales psiquiátricos y prevención del suicidio: los cambios que impulsa la reforma de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSGpmUmFyZTRpVjlIU3Fqa0l5SWRzcVE3a0NENmxBUzJ3aFlyQmEtODZZcTJiQU1RdjZ0QXh2SG5JbEEtT1ZKNWowOExwaU5IUUxmSGw2VWVRVENBWnIwN0VjVmpOSlZBeVExMTlTSHNrUHg1MGg1bjZMOTFjbGhEakVkV2REalJtWmNKOThlUHZCUW1yXzhYY3F2dkpqWVJVQ3RYYV9QWjE0UHJwLU5HRVNobWJleHRZdk9YVDZCUVFvNHJDdlRkc0Rad2V5ams2eWFJb1lNTDVzRDM1R0NoR1d2X3R5Z3dzNWNGQU1VVHJZb0dUQjBXMmtUMjNxLWFzMV9HUdIBnwJBVV95cUxNTkZGUm9HdzJGbk10RnN3Wk8zVE9OWUFaRmtaVjgwcUFfZ21xUklWWlJsb0dZaExBclRHSGdSdTRROEtnaVFVUDhMQlJ0SkV4OTNxMm9ObHowT1BGZE10VlNJQVpGanRHY1RaN3JScVl5eXRnaHJiTDh0Y3hJMkM5OU5aWTZwQkV6bnF5ZUVtaU1uRnpXTFdfbWlBLU9WNHBzeEhzZXBXX0dKVDhZNy1uT212c2dGdXJ4WEJNNllTd2tzSXZXSHlTWF9SQlFJcTVMYUN3TzhUTXJGbFpjZXJoeFJmcVVzVS1GNEFVUG0ycXRlcUozVWNMaUE4MlpCMW5nUC1ndEFXV19OOElzU0lVVTlBV3hhOWtOV3AwNDAwaw?oc=5",
+  "clave": "cambios hospitales impulsa internaciones involuntarias prevencion psiquiatricos reforma",
+  "capturado": "2026-10-23",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psiquiatr",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6e0c30488ac8",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Agencia Noticias Argentinas",
+  "titulo": "Senado retoma actividad: tratarán Ley de Salud Mental y Tratado de Cooperación en Materia de Patentes el 29",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWDNyeXY3TmFHdFlJcF9td1F4OFItbzRsUVBoVE5pZkJmclk4TXpESDVrd3ZBRU1jYlEyaVJJb2F5R0lhUTh4WXNSQUlvVmgtZkJIbENrZGNXSHVOeGc5WEhaUlUxaWVmYnhYeFF5NW11WnlKZktqdWt3YnVpc0o2TklkZllVRFFScV94V3pFWFVZNlJfWGdkTUV0S21QM0tOS2QwUFhvOW9udUtnN04yV2ZURzFNaElNMWhrbUQwdzByUlIzRjA4TURTUGZKazZfWE42SWctLVJLeXB3Qm1jSTIwQ1NDX0g3TWhTUXRrblhvOEllOUhJUTcxREp6RW1BMTM00gGSAkFVX3lxTFBLNTVwRjhiM0pTSmlOaHI0NFpMaE9KSFlPdExjSE1zNUU4eV85cHVmdk5MWkJ4TUN6eHNtVkJpdDNkbk5odUp2aTFVV3ZEY1VaejNwUEpqbGMzNlpJRldvcUQ4aWNLcVAyNVVUT2RtbkxJd0pFLUJYbG9telJLY2k2YWN2M3VPOVRSRmdOenpSNEpwbjlxTXhHX2wwN29aWGZoS0FnY2ZkTE5uYzJXQTJvelEzNDBzcmkxcF8wMnR3UGk2eUpFcF9TMjFwSXRfclRNeUktaXVIaXByVk5ETGRZM3UyRFVaQXRwMHAyYm1uVWhmRkZCSElKMXRfaURGZWIwTlBPaTdHV05XeldzRVF6Y1E?oc=5",
+  "clave": "actividad cooperacion materia patentes retoma senado tratado trataran",
+  "capturado": "2026-10-23",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a5c4aeb1d2b0",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Periódico",
+  "titulo": "El ministerio de Sanidad asegura a los psiquiatras que no se eliminarán los ingresos forzosos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRk1hQzZNYlVYZXBEYThtdVJsak1XVkhodEdUNlh6UEtENXhwY0NYbjBxdW9HVG5VLWhWUkFLbWNrN3J1aHlxSlV2TGt6di1hTHFDOUI1S3BBX0NwYlpkcFNEbWlQLVRQS2VpMjlodnR5bEI3OVZ2cy1JenRPak55cGtxeVJrNzNhekI0a1RUTV9veVBDd1UxQjFvZzFpMU1hOG4wanBRNWRoQmRZeEHSAa4BQVVfeXFMTmhrMnQ2VFl1MmpjMk1uY0RSQWVrQ1RzN0hDeVoxalZrQzdsaEFheWN4UF9UMkoxVFVPSzNySzlSLS1RVXpjT0l0R25vXy1ubFY1UkR6R2RmRzBHZ19Kc1V6QWdiS1RSWjMwZnhrZmV3aFBMc1FNUWZ5TGV4RElkdEFZOXE2MldxYjBMQlVib3BlTWZNQnRfc0tvS3U3Nkx5NElGRmUyNk9QVFgzSW9B?oc=5",
+  "clave": "asegura eliminaran forzosos ingresos ministerio psiquiatras sanidad",
+  "capturado": "2026-10-23",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "23027a3fd14b",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diari ARA",
+  "titulo": "Polémica por los ingresos psiquiátricos forzosos: Sanidad aclara que se seguirán haciendo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS0pLcFVjREpFczVTQ1d6YVA5VEZGSDlFQURMRHZsVmtMTi01TUJBN2lILWlxcnF6VVlFQUQ2eXhPT0FWRTBESDl3dF9TYjFfRFpqLTRCUDhpVEtRNHJiVkhIaTdsOW9tdzRhYVo1UXNTZ3Q1UWtOdGkwQzhzajZDTFJyQS1RWGZnZmxKR0JoakhsalV0ekVUY3RJWmtldkZfblhSSHMyVzRKSHBnSGZVbkJMRDRsRnk5NVJMZGtCVQ?oc=5",
+  "clave": "aclara forzosos haciendo ingresos polemica psiquiatricos sanidad seguiran",
+  "capturado": "2026-10-23",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
   "id": "0da2f602c21a",
   "fecha": "2026-10-22",
   "carpeta": "01 ESPAÑA",
@@ -309,6 +673,141 @@
   "ruido": []
  },
  {
+  "id": "66d1773b0d74",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infosalus",
+  "titulo": "SEPC señala que la Ley de intervenciones involuntarias en salud mental puede dejar sin ingreso al trastorno mental grave",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMDJXVjIxWDVXcnBrN3kzUHJYTFFwU1ZmNmc0OFNkNjhObEQ2c1RkMDQwUlpqbjlSdnpFeWk2WXk5R2J3V2E1dVk5SWNHMHhFZW1tOVVsSTRGeGpYeWlFRFZpdDVLVXhuaVIxTHVqeC1JZThnYjloZTZ0NXc2b2RtZGdsUG1nUFBlZm1tWXhZQ0lvNmUzZEVtaTRaNjN3Skg2S2xlRGRBVl9NWHNCdkp6TjdteE1BZE5pWS1MbFREOGJ5Sm5SaWx5amxxOG5taW9EU1E5eXJSQUk0YldNUVVkTjFBZkplcDNkdVRadWdNcVZBUDM2cjJ5aw?oc=5",
+  "clave": "dejar grave ingreso intervenciones involuntarias puede senala sepc",
+  "capturado": "2026-10-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "781a84e143be",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Cronista",
+  "titulo": "Ley de Salud Mental: qué dice sobre la atención psicológica gratuita y qué derechos garantiza",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVVY3WjMtY0IzTDBnay1jTkdvdW16cVk5Q3pOblUzaFlpamJFZVRWQUx6WW5XY0d2cGJKbTZJQVB5VGNMcWlWdzAzc1h2b0FudHNwTDgxOS11dndTMVVmTDRRUlVONzlheHNHOWVzb2hHOHUwNzlOVkFDRDFrVGUwUVc0Wm5lOFZDbDJWa25aNU41WEwwME9KVFAta0VjQ05RcWhGV1ZuakQ2RzhLVDRoUkdaeEpmUVlJSDVpUEw4RjdrYnA0V0FBWTU3Mkd5eUda0gHrAUFVX3lxTFBjT05ib0tHUXFmSHZIOHFhaFM2dDJqbGJzNkR4VDBxMHhmYjExaHlNYmpaX3hEU3Nmekx3bnN6M2R4REg3QzVVQkRXXzlNRFRieDM3MVVBRkNiUzFSUHNVRzJTbjdVODYzZlJITkZOWHJBZV84dDdwX29JSl93Mm9aMGNyMEJ0VkY3aWd5TmZ2VjlCX3hrNEtTQlpsSk1XUG9QVkJWRzJVNnM3RFRLVTBBQVo4ekREWGNKenljQVBkcnF2VHZlMlFlbTVjR2UxTExTMVpxdXp3YWphUTNRR2VrSmE5QWtTM0FRdEk?oc=5",
+  "clave": "atencion derechos dice garantiza gratuita psicologica",
+  "capturado": "2026-10-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f5d98d5f3ddb",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "DameNoticias",
+  "titulo": "La reforma de la Ley de Salud Mental dio un nuevo paso y espera el debate en el Senado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUG9md1lFeWRabXlXSDdZMC1wQkkzbGJXVTU4MTZJQTZ3dHZ3dUxmWVU3MUlJZUVOUlFRdVZQVHQzQVVkOVlwMTdUbjJDM3FZblg3QURFMGNhcTQxR1FTMURoUXMwN0VBd0I4OXlYc2JoUXF3VWNRd2ZPVEtoNDE3MHplczlBd0xvNnc0a3lzLWsxVGRZaEFjYnNWbm9OTFBrdGdkSjQ3b3FQamtOVXVzelN2UGRhaXBLZ013WkVsOEYyV012T1E?oc=5",
+  "clave": "debate espera nuevo paso reforma senado",
+  "capturado": "2026-10-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b83dfa62808f",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Eco",
+  "titulo": "El Senado buscará sesionar el próximo jueves para debatir la reforma de la Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUjB4a2V5c2xlekJaWVBMNjktOF9uMHQ5QU96RW5Nci1fMFdyRFROdlZNYVlWNXZQTlpPWDFRZ0VVcVVtSFVlX25CbWMwTjd6V25yN29DQy00Q2IzSENXYUVmcDZIaUI1Ym5xdWtPNnlwNW1HVnFfenZ1ZktMTVVEMnBkUjR4SGRLSjREUHlWZHlPS18tNjV4N05lV0RaVHNqVjhNRzFPWkw3UjF2NFdWbVIzUzN3N2NZdi01ZlF6bGtiU1BNVlhN?oc=5",
+  "clave": "buscara debatir jueves proximo reforma senado sesionar",
+  "capturado": "2026-10-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "dcc06587be91",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Letra P",
+  "titulo": "Ley de salud mental: Patricia Bullrich busca aprobar la reforma sin las partidas que pide Passalacqua",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWpOZWtBTTBEUmU3UHUtbDc1ZklpLXpyRXFrQzBHUkMyTlZ4ZHpXZDhxSmxZUzA3VUFMcTIzRkNIbFlOc28xbkRWTjVrT0NGUmc5VWxDQTRkZ0NlLUNwcFVOMi0wUERTUjZjR3pHTTVXd3dBUUpwMUNJR1FwaFdnUmsza0ppMERIUEJwa29EUUJpcmZ5aHV4dGtMTVJuZXJYTklORzdTOUhhWXdXX2h1bVI2NERmM2ZzeUdLWG5tMTBwS0JzRmxGUmw3WHc2V0pOM2FsS2I4bWjSAdgBQVVfeXFMT2FqTmVrQU0wRFJlN1B1LWw3NWZJaS16ckVxa0MwR1JDMk5WeGR6V2Q4cUpsWVMwN1VBTHEyM0ZDSGxZTnNvMW5EVk41a09DRlJnOVVsQ0E0ZGdDZS1DcHBVTjItMFBEU1I2Y0d6R001V3d3QVFKcDFDSUdRcGhXZ1JrM2tKaTBESFBCcGtvRFFCaXJmeWh1eHRrTE1SbmVyWE5JTkc3UzlIYVl3V19odW1SNjREZjNmc3lHS1hubTEwcEtCc0ZsRlJsN1h3NldKTjNhbEtiOG1o?oc=5",
+  "clave": "aprobar bullrich busca partidas passalacqua patricia pide reforma",
+  "capturado": "2026-10-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ae561ecab39c",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "DOL",
+  "titulo": "Projeto de lei prevê apoio à saúde mental de autistas na vida adulta",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlNqUkV4TjJibUxuV3RzVTJLdjl4S1M1TmVRVmtFRmNXRkdQajFxN3Bwakt0OG13TnVtOENQT1Vja21LeFlpM1dkUzlwOEg3MDB0aWV4VEdzRzEwRUtrS1p5Y0hYVklSZ3JnV2EtU3EyaEhGcXB2cmxuVUF0NzdKTkY3bXpkQXdkV0gwYjVBRF84UlcybEkzajgwbi1LLTFBM1dPM25YRmE2aDlaYV800gG3AUFVX3lxTE1ZaEJMaXU1ZmRuV3ctUDB4bDR4R3B0LVhYb3A0Zmw5X1hjY2NkcXBIVnp2YTFoQTM0TkUybFRUbElMSFJJZTAxSGpNMy1JRWRnM3R3R2hYSXF0OTZxOThEbmx2NHhWNy1QYjE1bWNDU3NKM29PZ09RNkltQmVrelk5WlRFUF90NERIRXdKbnlOSU9HZzZxSVJiaGhVcW5YS0liNU1zQmJZVGxsNTd5LWwydENQUkdldw?oc=5",
+  "clave": "adulta apoio autistas preve projeto vida",
+  "capturado": "2026-10-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "542cf19887a0",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Demócrata",
+  "titulo": "A SEPC alerta que a nova lei de intervenções involuntárias em saúde mental pode deixar sem ingresso pacientes com transtorno mental grave",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPY1JTMERUaWRtVXN0aUt3dTZkUmFpSzBFZHQzZ1hPRFVtTGlYNTF3M3Rhb0JDeXFXcndxWlFhckdnZVNwU1ZPYUttcmU1V1VISnNFQndBX180RVdycHl3TEhKSWZFWVdFUnMxNXM2V3AwS2VVYWlwb190anZsZ0NBcTRYczJsankxd1RhR3RrWUF5NTF6M2thdFUxX0o0bkphWVB5dDRaS256MVNua2kzLVgyZXpJSWxtRVh5akF3VE10S0dES005OF8zZk9tUVllNFBnZ2JLS00zajlEZXBaYkhXaFZ1WU5CS2I2QXdFcjBrNjVtTzVlREM2QnFEb3hod0HSAYcCQVVfeXFMTmtldUZuY09iWTQxTnQwWlZqcjhDVldXekdxVkViSGNCaTRMQlliajFxZG9iZWNjRnVvMDM4M1RHWF9ZREFsLWNEakM0eWluTTNDemtrb0h4TDh3d0NUUmdvb3ItdEVrQ2Zaa1dmZENVR2lGbEpyNGt5OGJidzB2VXJBTjZrUmUyM0RTdEFJNHR2Ykp2cW9LdkppNDctSnM1TzVERTA2M1pEMENRNnA5UFY0WkY3dEhJVEplR0hoSktiMG9iVXkyM2ttRlZ2NFVOVmtRR3Q5cm9Hb1NOY0tkbVdnX1dORnRYZmt4SWs5ekdUZW5EZVBQaExhV0pmTzk3RXVSUWlDUE0?oc=5",
+  "clave": "alerta deixar grave ingresso intervencoes involuntarias nova pacientes",
+  "capturado": "2026-10-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "e7f2ee1b2d97",
   "fecha": "2026-10-22",
   "carpeta": "01 ESPAÑA",
@@ -343,6 +842,25 @@
   "categoria_auto": "research",
   "topic": [
    "ansiedad"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a66a952120b7",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Diário do Litoral",
+  "titulo": "Nova regra trabalhista obriga empresas a avaliar riscos à saúde mental dos funcionários e amplia proteção prevista na CLT; entenda",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd043eTFGb05LYU9qejlPR1RwR1hlZlNCRy1NSHJyOGpyM1RWTkNGOUdET1c2VXJILW5vRUZiS196Rk5QVTU1cHlhNXVZYUd2TkhYcmtJbkxfeW9ISzl0SVpyQWRXdk5sbkZiOUF0RjUxZEJOaUQxbWxlQnBuNzVZdDhHSEdtb0FRd3NzZkZyNUlOOFJZUEk1bVA1LUk0aDZTRmpiY2RFVGpjbTQ0ckFDbGZSY2E4azdXUDhRTEFvak50STZybEJvZGxoZml3OHE5TVpENkpqVzJKZnVCejY5b0FyZWhaSzhyaHlnVm8yZGdrRl9VNWx3eXY0NnN6ZG1hLXlqc05n?oc=5",
+  "clave": "amplia avaliar empresas entenda funcionarios nova obriga prevista",
+  "capturado": "2026-10-23",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -405,6 +923,82 @@
   "ruido": []
  },
  {
+  "id": "a87a160fba1d",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Economista",
+  "titulo": "Sanidad cambia las normas de atención a los pacientes de salud mental: solo se les ingresará obligatoriamente por urgencia vital si se han agotado todas las alternativas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOWlhvZXNOZEt0N2ZqWVV2Z2xhTXBsbktNOGpvZ29pRXNmYWllbGtvV3EzTm1tREszTFh6T016cU93U3BkR0VDUXJ5MHVOMnUwMUlhbTc5eFNPT3VGSnFiUk50T2lieXpINU83MUJtUTY2Y0MxbmpQUnAtWFQwdDVsajVlM2c3QzlwaFRyY0NCaFdiN05PS2dFV25PY0R1ZXdiRkxpVHVrYlFKaklYcjFMZFpDTFhjaTlQTjlyaE5Kd3k4b0stTVFrb0R5OEdnZlhDdE9lSHdTTDlGRmlfS1VOSTMwWDJoMUVQeElIc2FZdUdpYlhjT3c5Mkd5TDFZNUJEY3pfM2lzVXJ3VzVIOWQtbVY4ZE1TdktZUjB4dXluS2FQNmo3eHlpdFRQX2hTZEw4M2ZGMGhfZXA5TEpmcWVpLUFLRHZoZV9idnFYSkhVWVhSQzV4OVZEZjFEYm85cktwRFpyMk5GLVVkQUMzQWlZRXhDQmzSAd8CQVVfeXFMT2o2SG1ObkdnSW5IWVQyeUlpXzFHY1VWUE85VDNZMndNTmx6d0xVckgwc2NnS0R3WkR6VmlFWS1Xa195NllISllLV05meDh5VmJUeDktU00weGFUbU9rRk9PeGUyS2xSTmo4VWFWWWZyeHlxRTJYSHh5VEpUa0lnM3JlMFByLTgwU3NON2xEMEg3U2VXbXI5MXI0RVVYczdPSmFFamM3Z05GUXM0eHQwalpKWWt1YVlJSFpOMEJ3WnBHRF96N3E1LU1wZ0FwdWZQai01S2lHQ09LRGZIT2RQVzN6MHRyTk5uTzNmUnlIaGRuaU5LREJQdW16dFQ4azE3RkludC1ja2tmaVFjMTJidXZZY3RZdWthY1FFZEloZjBsTmFfT0s1d1hBN3U2SW1VM2hEd1kxNWVKbTRaR2dnd3dOaVRXUll3YVBPNEpISm8ybzFIS1JZOGYzbnUxNW1B?oc=5",
+  "clave": "agotado alternativas atencion cambia ingresara normas obligatoriamente pacientes",
+  "capturado": "2026-10-23",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f1eddf40f3ae",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Telde Actualidad",
+  "titulo": "Más de 300 personas aprenden en Telde a cuidar su salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2g5VVlONl83NnV6NFVMYVNPSGFTTVkxN2xMTV83TEhJaHk5Nm5tZDNXd19kekR0WjhFYVBycFowNEpSQzMtQU9jUWJBRUdHTDFBaWFGX0M2RnpVLVNJUkFCd3AxN0MtYmRxMVlQcnEwbnlmRVhMYnVBXzFvQ1Vha25FNFRjNTB3NTZvUTVoS25Mcm5RTFY4QmRELWs?oc=5",
+  "clave": "aprenden cuidar personas telde",
+  "capturado": "2026-10-23",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2d51910fcf24",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "UNC",
+  "titulo": "La Facultad de Artes adhiere a la 13.ª Marcha por el Derecho a la Salud Mental - Facultad de Artes",
+  "resumen": "la facultad de artes adhiere a la 13.ª marcha por el derecho a la salud mental facultad de artes - unc",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmNOMG1paEpFYXpNZ19DOEdUWmJzYlJ4OFI0NFNzenMwZmRjU0dGdWNXa2VERFcwWlNYRUkzaGtJaWdNSVJFNTVPUThPOFkyOFg5SnVpaXNLWm5xVGZZYWR4ZGdNLU8wNXZnNTdWc2lyaHR3OUdHSU1VSlJEeUllOVFSRFpHWXVUNUVXbnc5NG1ZTFNINng0M1FTeHZuc0RwUWNXYnZXZTZhR0VTYzV2dERR?oc=5",
+  "clave": "adhiere artes derecho facultad marcha",
+  "capturado": "2026-10-23",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0e401bcb05fe",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "bra1.com.br",
+  "titulo": "Brasil bate recorde de 806 mil acidentes de trabalho em 2025; novas regras exigem foco em saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZURYS2o0b1ZvcjJkS1d2TlhwdXRqeVlvM1pwOWt4RWpDQUVfaHF2UzUzOWtSTDUzWGtZTEkxbGZoUXppZEN2ZkRQUVlCWmZSd3FXMTctV05LbXJlSDJLaFhiZ1ZrZl9sWGp3S3FoeXBHT2tpRERaWks0NnhmcWNNekZ4TVl0TXZiR0M4VlQwUjdKNG9URTdsMGxDbmQ2RTR4aGZ2V3NObkFnWDhCRUdQbHpmYkpOU3llZ2lHNFpBNjJxekVxal9JMGdCX2FudWJsUzhOWV9Nay1RZFlJ?oc=5",
+  "clave": "2025 acidentes bate brasil exigem foco novas recorde",
+  "capturado": "2026-10-23",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "ce7fd00e7f3d",
   "fecha": "2026-10-22",
   "carpeta": "01 ESPAÑA",
@@ -461,6 +1055,63 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "152de116187b",
+  "fecha": "2026-10-22",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Los profesionales de Primaria deben aprender a \"coordinar y ser coordinados\" para aportar su máximo valor",
+  "resumen": "eduardo satue, presidente saliente de sespas, analiza nuevos modelos de colaboracion en este nivel asistencial que, advierte, necesitaran tener partidas especificas y ademas: la frustracion con el liderazgo y el burnout empujan al 40% de cirujanos a meditar su renuncia a la profesion",
+  "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261022/los-profesionales-de-primaria-deben-aprender-coordinar-ser-coordinados-para-aportar-su-maximo-valor/353699_0.html",
+  "clave": "aportar aprender coordinados coordinar deben maximo primaria profesionales",
+  "capturado": "2026-10-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "burnout"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "543d79bd2ce5",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Murcia Actualidad",
+  "titulo": "La Asamblea insta a Sánchez a flexibilizar los criterios de acreditación de unidades docentes para aumentar el número de plazas de formación de profesionales de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQb3JWUnlCZXJkWEF2aFBDT3B0NFlCd0hUc0ZCM1IwSnZiU2hieFlKbE5JWUxNWVNQSkJ4UDVhQWdpcDFHNTk2YVJmWTMwRGdMOV9IQ2hQNGtaTWVHa2NET05DYjNXWTQxaEFVRHdEN0pIb25wQjlZanlFdlFiTjVNc2tUVWVaRzdIUlFGeDFZWi1fc3dKaTNUalVvazdNeklLQjdBQ21XeDVHaDlvN0xLMmVNbTdudnFncGlxNUpwSGt0NkZDb0IyU211U3VVY3kzTXA4b2h1Qm1XUDNJUEh1TU4wUXpKZ3U0aW5VLTVlX29yNnBQcFA3NmNadDhsQmcxTXpvYjM0TjhfMDA2eFFYeEJJdnZ2NGxrN3h3SkwtZ1U4NEFMWU9UWHZB?oc=5",
+  "clave": "acreditacion asamblea aumentar criterios docentes flexibilizar formacion insta",
+  "capturado": "2026-10-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9c06dec83e1a",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Solicitors Journal",
+  "titulo": "Re AL: High Court orders child’s return to Spain despite mother’s mental health concerns",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWptS1VpcS1sVEptbDQwQkhiVjFoSUQ1UXJ0ZTVjR0hGU0ZiQjdSdWo1OVJsS05DV0F0ZkhyVXFwRy15VnBoS1BKSE9rTzNTSl9XaG1EZzVnNDlPWEZqSE1jV1NpLXIzTGZzblJLNnhlaFBleUwyWVNWZ0llVUUxSzJ1ZHFJa0pIelR5MGt4VlVVMGtTeFdmT0JIR0Vud2xZWmtNU1d6X0Q5ckZQZG5Oa1BVTkd4YXREb1l6dTNBNnFEMm1RZVJoVQ?oc=5",
+  "clave": "child concerns court despite high mother orders return",
+  "capturado": "2026-10-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -870,6 +1521,25 @@
   "ruido": []
  },
  {
+  "id": "c607eb7fd7e4",
+  "fecha": "2026-10-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "El Heraldo de Saltillo",
+  "titulo": "Realiza Gobierno del Estado inversión sin precedentes en materia de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ2g0THNqWWxSczUxWFlwN0Z1STRkeTlpQ21tT1BCM3o0azlkLUdYYUlFbGZtRUVNLXRFaU9aRHhBajFxUGIxRUloT3BYY3ZueUJIN0VDS1Jwb1lxRkVyVHpSV3ptUld1TTczNnhCUm1KTXRKZTg0NFVmRzgyRjZfdEhPbHJoSG8za3ZYdGdYX2VMbDQyY2hCUTk2V3BQOVc1MWUzbG1SWXpIaVE3YWdDbW9POUpKMlhYX3A5TXZ1Vjg?oc=5",
+  "clave": "estado gobierno inversion materia precedentes realiza",
+  "capturado": "2026-10-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "6eb970fe9204",
   "fecha": "2026-10-20",
   "carpeta": "01 ESPAÑA",
@@ -942,6 +1612,25 @@
   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxON2tEZmFDS0E1a0hkRzdUeHZRS3NQdFRXbXFJdFJneUkzd0ZoOUxtRzU5ak1lcmxyVGlNakVvbEdNejZqWlB1ZG9CNWg2Rk5BVEhBOGt5M1pDYWdRZVBqOXlYNUw2RF9KZEdlY1JOMWwzckNpdjgtRHo3RzFqbWVvWDlVN2RkWC14UDMxdkNYRXZwQV9RU0s1YUNqbUNhc0p5NEF3SlVaR2dLeVBKMzd0OXJfR2RfZlBDdmF5Rk0yYUdIdnljUWg1aWsyWEhsTllNVkZWSTJ2bXd0Qnl6SExQNlEzWlhYV1A2VzBBVUMzMGdxVkh1S3RZNTZpVGRUdHNET0daTlQ0QkNod2JDa2xBZDBqdE5iVHFGZ3VrTjV4OWxycDJ1QzNhWk8xa2FKLVExNVQ4UUptMTlvLVBtYUE?oc=5",
   "clave": "1669 beneficia california estudiantes firmo licencias medicas newsom",
   "capturado": "2026-10-21",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f33e9f045c5a",
+  "fecha": "2026-10-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Congreso del Estado de Michoacán",
+  "titulo": "Prioriza 76 Legislatura la salud mental de niñas, niños y adolescentes, en la ley estatal",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWTFrZ3d0amxvQ3lNcUdHZmZUVUtsVndYczRDeWtHb2hEckdGU0tHLUhfWWFNS1owNHR0UGFFa3hhaTE5VmFVbjI0MnNrcmxJVXc0WDJDeHNUV0l5Y3JqZjdLbnhGNlFHbFc3bF9sVEpOUjVxT1FxSXVnSFJES0ZnRlliMnRGZ2lrMFlvLXU3SGZjcXpPekVmczBxeU9aaUwyS3R6RVV3RFNINUQyMHRwSFhGREg?oc=5",
+  "clave": "adolescentes estatal legislatura ninas ninos prioriza",
+  "capturado": "2026-10-23",
   "puntos": 6,
   "prioridad": "A",
   "categoria_auto": "regulacion",
@@ -13942,6 +14631,25 @@
   "ruido": []
  },
  {
+  "id": "16c176a45a76",
+  "fecha": "2026-09-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Verywell Mind",
+  "titulo": "‘Marianismo’ Culture in the Latino Community and How It Impacts Mental Health",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03V21lLWx1X0ZTX3V0aXRkeFFOYzVRUUYyaDB4Q0tvMWR4VnZfMkJvZW1VVXN1R2t6Q09oN1V2RkRTUVNiSFdIb3BRVUJFbnJmSVpuNGstR1l1alhkWm52QjU3OGpvdw?oc=5",
+  "clave": "community culture impacts latino marianismo",
+  "capturado": "2026-10-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
   "id": "a77ef9ad4d92",
   "fecha": "2026-09-20",
   "carpeta": "01 ESPAÑA",
@@ -15136,6 +15844,26 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "04f1b9542d24",
+  "fecha": "2026-09-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Ministerio de Sanidad",
+  "titulo": "Sanidad prepara un nuevo sistema de vigilancia de salud mental que contará con un Registro Estatal del Suicidio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKLTNmaHJXQW9kWFRPWnVDVFhwLXM3VDZQVzVTZDVIM2lVTDJqenNOX2l4RFMxcGxqSzFxRlpEVTVNSGhSNGZlMGJWMld3Q2o2d2tfek9FcFJ3TUlDYUY1cWlLWEt1ZUkyUnJKNTZ5dmE5Z0lsTGJtYjdIVU1lZw?oc=5",
+  "clave": "contara estatal nuevo prepara registro sanidad sistema suicidio",
+  "capturado": "2026-10-23",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "suicid"
   ],
   "ruido": []
  },
@@ -23748,6 +24476,25 @@
   ]
  },
  {
+  "id": "f5aa748f4c09",
+  "fecha": "2026-08-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Junta de Extremadura",
+  "titulo": "20280812 El DOE publica la resolución del servicio de rehabilitación psicosocial en salud mental por más de 9,8 millones de euros",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QRjEwT3dzQTBnZHg1M0FxSnlPajRQSmxXeUNYSEViSDFUMUZLUC1hNFA5SDd1aklRenltVE1WcW1fbUFFaVBlR3FjZGJsWkFpdE1XTHpjaEFOd0ZNVjZxcW44RG1yeHp2TkNra0RLUk0wRjN1UFNJ?oc=5",
+  "clave": "20280812 euros millones psicosocial publica rehabilitacion resolucion servicio",
+  "capturado": "2026-10-23",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "7549a0422613",
   "fecha": "2026-08-12",
   "carpeta": "05 GOOGLE NEWS",
@@ -24835,25 +25582,6 @@
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQW1IeGtELXZucDNOV3B2UzBTVlo3N1lVVXdOcFFhMVpvVE9nOFBQNHFnV2ZrV3RYcjdfc2xnUkRyUk5vVW11ZVZjUEg2Z2ZlLW1fa0VVZDRVRjhYTXhVREd0UDNZeDZQMVI4N3BIYzBSY2ZXV0VoaXJSODlmMFlNZm80clpqdE5OZ3FlTmdMNm1JRjNHeTlGMUFSR2lCa1pfZlpYNmRoYk9xVm9xeEFN?oc=5",
   "clave": "ampliar artificial cuidados inteligencia maranhense startup",
   "capturado": "2026-10-21",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "d2b20ab39b4a",
-  "fecha": "2026-07-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "ASN Maranhão",
-  "titulo": "Conheça a startup maranhense que usa inteligência artificial para ampliar o cuidado com a saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSURMbUhJUG1KVG1YX3VsYlNwS1ZULTR4WURTZWlOa2lTUlo5Vk9CbUNNamRDZVk2VHFNa0ZSNk40ZE9ScFczdlFOQjRrd00xZnZwTHp6bXJHVkMxdjFoYWk5a3N0TVpvaDY2bktJLVcwU3dOOUJYeDAzc3dpS191SldQeFlFeWthRTJNenNYeUJwRmctaG1JdWttcnpPeUphQnJrV3YyZWgwUlZ6aUZSRUdZcVcyWWpodXFzSzJhRWZpMFB2ZHhBWnpHdGdTWklLcGJvRFpscURJT2pVaV9pUkRyeTlYQWVYUGZuVk53?oc=5",
-  "clave": "ampliar artificial conheca cuidado inteligencia maranhense startup",
-  "capturado": "2026-09-04",
   "puntos": 3,
   "prioridad": "B",
   "categoria_auto": "producto",
