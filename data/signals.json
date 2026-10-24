@@ -1,5 +1,26 @@
 [
  {
+  "id": "73bcc63852ab",
+  "fecha": "2026-10-24",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "heraldo.es",
+  "titulo": "Sanidad da las claves para un ingreso psiquiátrico involuntario tras la preocupación de profesionales y familias por la nueva ley",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVGNVOC1BTHN3NHhCaEp0U2NMX0JIdUxadjRQYklRSnpHRkw5Q1pmZktUMTZrVnU3MWNrMGhIY215VFQ5ZUduOXZWMUNZNnE4MHMwVE9NVzBqTkY4MmQzQm5PUUkxUUdNMzhOc3kxMWNOY3dlWGZyWENlRm54eUJFUDdTMUdGT3p2Z25vUEl3enFrMjg5dmVkWU5jMUlHVkdrZFRmdUtvSTVKczRJSXV0bm50UGc3WUFWN1pwV1ZoeHZqVFAwTWFIeGgzV09XeDUyeExoRFpETVZYaHR0SFczZ0lQeWpPMmRNZVB5eGM2bkpsSVFEN3JxTDBEV3ZGY0hGcEF2MQ?oc=5",
+  "clave": "claves familias ingreso involuntario nueva preocupacion profesionales psiquiatrico",
+  "capturado": "2026-10-24",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": [
+   "claves para"
+  ]
+ },
+ {
   "id": "c03e32af5046",
   "fecha": "2026-10-23",
   "carpeta": "01 ESPAÑA",
@@ -15,6 +36,82 @@
   "categoria_auto": "regulacion",
   "topic": [
    "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "15f3d3142ae0",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Periódico",
+  "titulo": "Apoyo total de las entidades de familiares a la ley que limitará los ingresos psiquiátricos involuntarios",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUx3U093OExiTXlsVmZ5VzJTamxfTUhZQlIycW45Znd4OE41SnhmX1diS3NwUjg1VEs3eVlZMXVBaUpmUjRRTmFrZlA4V2lTTFduOHNLTTNCZUtWY0hyNDV6MTZxc3RDUTlLNVpVb21IaE1meGdJc04ydVlDaHFaMGR3dGc3Q0J5clFVUE5RMGVCeFA5ZTNBUVEyaWbSAZwBQVVfeXFMTlQ5bHhxRWU1V2d5LWxjRE44MXlMeTZoa3JIWXFrdC1ReklyQmJEVnQycVdva0l1TkY1a2o3R1M5dGR2ZFFILWxRVzlwUXliUkFVTi1rdURWcUxoSEJRbjU1VHFRV2NWVHd5aEI5MWFtRE15R05Zcmp0Wkp2NXppLTdzdUV2cDk2TlNiRFBnT2RDcHY2ZVZrNFVxYVRx?oc=5",
+  "clave": "apoyo entidades familiares ingresos involuntarios limitara psiquiatricos total",
+  "capturado": "2026-10-24",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5fc11680a556",
+  "fecha": "2026-10-23",
+  "carpeta": "03 BRASIL",
+  "feed": "Futuro da Saúde",
+  "medio": "Futuro da Saúde",
+  "titulo": "Solidão é o fator mais associado à pior saúde mental dos brasileiros, aponta pesquisa",
+  "resumen": "estudo tambem identificou uso de inteligencia artificial como apoio emocional entre pessoas que relatam solidao frequente the post solidao e o fator mais associado a pior saude mental dos brasileiros, aponta pesquisa appeared first on futuro da saude .",
+  "url": "https://futurodasaude.com.br/solidao-piora-saude-mental-dos-brasileiros-pesquisa/",
+  "clave": "aponta associado brasileiros fator mais pesquisa pior solidao",
+  "capturado": "2026-10-24",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ee8edd6ea269",
+  "fecha": "2026-10-23",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP participa de minicurso sobre Psicologia e cuidados paliativos no SUS",
+  "resumen": "o conselho federal de psicologia (cfp) participara do minicurso “psicologia e cuidados paliativos no sus: dialogos entre diretrizes profissionais e praticas nos territorios”, que sera realizado no dia 4 de novembro, das 14h as 18h, na uniesp, em cabedelo (pb). … o post cfp participa de minicurso sobre psicologia e cuidados paliativos no sus apareceu primeiro em conselho federal de psicologia .",
+  "url": "https://site.cfp.org.br/cfp-participa-de-minicurso-sobre-psicologia-e-cuidados-paliativos-no-sus/",
+  "clave": "cuidados minicurso paliativos participa psicologia",
+  "capturado": "2026-10-24",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7ad8ea7dfc5b",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Agência ECCLESIA",
+  "titulo": "Semana do Papa, 20 anos da lei do aborto e guia de saúde mental, coordenado pela UCP",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnJuajkyUk55ZVRqTW9OOUVYMkhJM19LRHNOcVBPYXhuejVSWUg4OXJjd05sa1ZlT1EtQVJuMXl4VnpxaXVma2pQU29QaWVRQnptTFFzXzRCYzJtQkdmTmt1dVNlTFVfVXpwckprM0JGdTkySEFaRUhZVmNYeWJJNTZjdGZkSjZGdkZ6WkZXVG5VME5BRl85YzlZRWxhVUV2SmhBTUo4czhyTmtTTVZDQXhNRVhodw?oc=5",
+  "clave": "aborto anos coordenado guia papa pela semana",
+  "capturado": "2026-10-24",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -133,6 +230,198 @@
   "ruido": []
  },
  {
+  "id": "4c2099c59b07",
+  "fecha": "2026-10-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Vacunas de ARNm, ADC y biespecíficos, protagonistas de la innovación en cáncer",
+  "resumen": "oncologia naiarabrocal esmo 2026 ¿que novedades deparara la investigacion oncologica en los proximos dias? las vacunas terapeuticas de arn mensajero (arnm), los anticuerpos conjugados con farmacos (adc) y los anticuerpos biespecificos protagonizaran algunos de los principales avances farmacologicos del congreso de la sociedad europea de oncologia medica (esmo), que se celebra en madrid del 23 al 2",
+  "url": "https://www.diariomedico.com/medicina/oncologia/vacunas-arnm-adc-biespecificos-protagonistas-innovacion-cancer.html",
+  "clave": "arnm biespecificos cancer innovacion protagonistas vacunas",
+  "capturado": "2026-10-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": [
+   "congreso de"
+  ]
+ },
+ {
+  "id": "25ca4d547f79",
+  "fecha": "2026-10-23",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP realiza prática de evacuação de emergência",
+  "resumen": "o conselho federal de psicologia (cfp) realizou, no ultimo sabado (17), em sua sede, em brasilia, um exercicio pratico de evacuacao de emergencia para o grupo de aproximadamente 40 pessoas presentes durante a reuniao da plenaria de outubro. as pessoas … o post cfp realiza pratica de evacuacao de emergencia apareceu primeiro em conselho federal de psicologia .",
+  "url": "https://site.cfp.org.br/cfp-realiza-pratica-de-evacuacao-de-emergencia/",
+  "clave": "emergencia evacuacao pratica realiza",
+  "capturado": "2026-10-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c52fdf8a47d4",
+  "fecha": "2026-10-23",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP articula cooperação internacional e debate desafios da Psicologia em congresso em Portugal",
+  "resumen": "a cooperacao internacional entre profissionais da psicologia, o respeito a diversidade cultural e o compromisso com os direitos humanos foram alguns dos pontos defendidos pelo conselho federal de psicologia (cfp) durante o 7.º congresso da ordem dos psicologos portugueses (opp). … o post cfp articula cooperacao internacional e debate desafios da psicologia em congresso em portugal apareceu primeir",
+  "url": "https://site.cfp.org.br/cfp-articula-cooperacao-internacional-e-debate-desafios-da-psicologia-em-congresso-em-portugal/",
+  "clave": "articula congresso cooperacao debate desafios internacional portugal psicologia",
+  "capturado": "2026-10-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ce5222548f60",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "RTVE.es",
+  "titulo": "La UE prioriza la salud mental en la Ley de Empleos de Calidad",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWhKR2tyYnctTXU4c0Jra1Z4bnNTbVpka2FPX0FtQlpvd0t4NDdWeEVoT1hfTUxWdjA5MmdOekNIWUphWWd4SFBVaUJoOUVkME9kVEZobTR0cWhpRF9ONHlabmt4S3YyM2k1c0RlclBPNmNDekNpYXRLR2YtMTlMWXdSQzMxZ0M5b3hNSXFWN0tXekFza3lB?oc=5",
+  "clave": "calidad empleos prioriza",
+  "capturado": "2026-10-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bebedde6f0c4",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Tododisca",
+  "titulo": "Prohibido el ingreso involuntario por tener una discapacidad: la ley fija nuevas garantías en la atención a la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTEpoUUVpUHZFNEljeURkLWN0Mkx3cktEVWJSQ3pSWmJqSVJuRkc5Z3VjQ3dIdk9ZZ0xhWUg5bHhkQnRORzM3clRCY3VHaXhtOXEyRl9tMEdIXzBpMkpVQl9PRXZGOXkxejcyWGhPQ29seGMwY0FlSXdRUGhTMjJscHBiT1ZESTdMemNERFE4MDFCY1N3eW1aUUNMNUJrcmt1V3lVcjh2NjVBWjJS?oc=5",
+  "clave": "atencion discapacidad fija garantias ingreso involuntario nuevas prohibido",
+  "capturado": "2026-10-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "754b452cd9b4",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Noticias Ciudadanas",
+  "titulo": "España ley derechos pacientes con problemas salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KUVBvZ0RIU2cyTEJtOFVJUmpBMHd0MHNWLWlhVF9NaWNLNzJwNnlESFZWUVE0S1RJbHNDRUdYTjg2c2pIWmlTeDEwOHNZMVZTT3g0V3p1eV9Iak92TTJFcVQzYThJRjFzaTFkSlR2Q29DSVZ2cmtublNpM2V5QQ?oc=5",
+  "clave": "derechos espana pacientes problemas",
+  "capturado": "2026-10-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3e2bc1222ac2",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Pagina1mt",
+  "titulo": "Projeto de lei institui política de saúde mental nas escolas públicas e privadas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVRZaXRyazhTVWFfaUpNdlIwR2NwS21GeThhWmhfOTB5NmJqOHNQcGZURFVnNGw2aGh2aE1uNE5KM2tEdmVEbk1JaXhsSG0weTV4Mk5mSDM0dVVPSzhMVlhYa1l5THUwYTJxS3VGbmVDOEt3NkhlVkV4U3g0ckExY1dRYkV3Tk56eV9ZVEJlWE8zT0NnX3lRSVVpbWxLaDFCbkhlSGxNbTAtN2k2eVdkeHVJWlQ0Zw?oc=5",
+  "clave": "escolas institui politica privadas projeto publicas",
+  "capturado": "2026-10-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "428735b473e1",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Confederación Salud Mental España",
+  "titulo": "SALUD MENTAL ESPAÑA defiende las nuevas garantías ante los ingresos involuntarios en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd3V0TXpiTVVWNHA3QWVyeG5Tc2tkb195YXY5MXV4ZGdTR09xVjlpWTd3cGtHbXZNMVVQU2x1T19PTlhMLWNST3RZUlUwb29sZXNzR0hIa0NBSDUxTGh3THZ0SkZDSlE3Zmx3WjV6TzFXRnlfbWJLSGVlVFZZWUUxQVEwVUc0a1BxNXhZMmhfLVpzb0cxUkVvTVZQRFhPRTZzVGk5Mm05aUtpRzBpYV8tNFpJTG1PZDZzSmdxRjJn?oc=5",
+  "clave": "ante defiende espana garantias ingresos involuntarios nuevas",
+  "capturado": "2026-10-24",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "95bf93267934",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infosalus",
+  "titulo": "La Confederación Salud Mental España celebra las nuevas garantías ante los ingresos involuntarios",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYkZQS3dIOVM5dFhPY18zZ2Itc2ZWbTlfTHdWYTBlbDdCdk1oeG93T0Q1UmlzQkJGWHBCV3J5VndWVlFnUW5Fc2o0bV9CeExHejFKN1ZaSy03am5zM0FHRUdtWjhOaFZwWEJpT3RaUG9kOVpiS2VPeXRFXzVPa09NS01EaGxELUt5Ny1udXBVcVhZLTlZeFFHdmNucEd3VTFyUTNrMGc5MzhmSGdDWmZhdDk3SElFQUZHNWQwNTR0Z0VBNGl5RzR6c0tveWhZdWFPalFQY3FLcGU4SFBZV0xR?oc=5",
+  "clave": "ante celebra confederacion espana garantias ingresos involuntarios nuevas",
+  "capturado": "2026-10-24",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9860536c53c9",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Servimedia",
+  "titulo": "Salud Mental España celebra las nuevas garantías ante los ingresos involuntarios",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3RRZzF2QkZ3ZlZIWmE0eGZReXhJck5hLXlKWVBaZVk4RjNlQ1hYV2UycVY4MGE0elYzUVFEVmF5ZHNoRng2VVFlTXpuR0dTQnVqb3pZWHVYcmZDVm81Y2VFV3NtTXUxRXFaWFVfdEhsWWZrbVc2SkNXNjIycS1pX1hBV29MVlp5TnR2TTBCVkVfUjVqT1owMU9NeUNQZ0tIYmo4RF9sWXBfLV9EX0kyZlREUQ?oc=5",
+  "clave": "ante celebra espana garantias ingresos involuntarios nuevas",
+  "capturado": "2026-10-24",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "878009c7c9d9",
   "fecha": "2026-10-23",
   "carpeta": "05 GOOGLE NEWS",
@@ -186,6 +475,44 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b29ab94e4474",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Información",
+  "titulo": "Sanidad concentra en Mutxamel la atención en salud mental infantil y juvenil que daba entre Alicante y Sant Joan",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNnFaRTZsMUQtMkJEM3MwTks3R2xCaFNEb2hMeGRORWVFZGE2bDl1Z2VsYWlXcU5ldlFYdjZWR1VOZXktaE15N0doT0x2dVBKQWpfSDNPRklBZm1ZNzVMTVV2T0U4dkprWXp2WFdlZ3N2SVk1M2xUUDlZOVpHdGp0dUhrOHlPOFB1RmNXdHNpUHNXX0otckNUS1hkSTExMFJHR1FwVzRQX0FJakVWaUdFZ2JHUHJOYXpwQTFzZTBnSDhyd9IBxwFBVV95cUxNZHlKNHR3djU2RG5vME5QTmdjOEloX1hGMm1taHBGUjJESk5DeWxYVFFhTjZTa3VvcWlsQ24tdzRjelNqcEtHZ3hrRzFScEhiczZPTGNoZTVjWXYzVUpOaGowZUp0aEc5azg5M21DdmRYYmZKRi05aEF2Zk5QcVF4enpBajhYb2xuZ2tWSnduWDhhSkJxU3RDVXhrSG4zdEkycEVuQS1PZ25XOE5aT2VXakYtR25aSFNiY1dTSVpuc2hkVlVwdW9F?oc=5",
+  "clave": "alicante atencion concentra daba infantil joan juvenil mutxamel",
+  "capturado": "2026-10-24",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "46b976029d56",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Alacant Extra",
+  "titulo": "Sanidad ha puesto en marcha el centro de salud mental infantojuvenil de Casa Sant Pere en Mutxamel",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWkVqVW9uM2N3Q2p6UnNqTU5EZ3RqTHc0aXVYUkQ5N05VWk9aZHJFaENJdi10cTVHQ3pNd1pXNTNhWV92VkVIdzFhMk1tQjFYVnRyR1liZTRhMkJLaFVISE45dmh2NXRzNGU0UFQ0NXNrY2dGMGluWXlhZnlmXy1WT01qWlBfdXR6UHgtc0o2UEhieG9RT1lFSi1NZlIzT09PWUhCSVRuRDd5Zk5ibG1wclZCbHpvWGFnTnZuaHpsc2FWbUNvbkxlTlBqdDdtNVQ3dWU1OTZHLW5kMnFuQlRPLWZFNVM0QQ?oc=5",
+  "clave": "casa centro infantojuvenil marcha mutxamel pere puesto sanidad",
+  "capturado": "2026-10-24",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -245,6 +572,164 @@
    "salud mental"
   ],
   "ruido": []
+ },
+ {
+  "id": "dc2b41e7ce71",
+  "fecha": "2026-10-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | Los neuromodeladores, la nueva opción terapéutica para mujeres con dolor íntimo crónico",
+  "resumen": "pacientes: los neuromodeladores, la nueva opcion terapeutica para mujeres con dolor intimo cronico",
+  "url": "https://www.consalud.es/pacientes/los-neuromodeladores-la-nueva-opcion-terapeutica-para-mujeres-con-dolor-intimo-cronico.html",
+  "clave": "cronico dolor intimo mujeres neuromodeladores nueva opcion pacientes",
+  "capturado": "2026-10-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "baac560f9eb9",
+  "fecha": "2026-10-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Tres de cada diez pacientes con depresión no responden adecuadamente a los tratamientos habituales",
+  "resumen": "tres de cada diez pacientes con depresion tratados con antidepresivos convencionales presentan resistencia al tratamiento, lo que significa que no consiguen una mejoria clinica y funcional suficiente pese a haber recibido diferentes opciones terapeuticas.",
+  "url": "https://www.infosalus.com/asistencia/noticia-tres-cada-diez-pacientes-depresion-no-responden-adecuadamente-tratamientos-habituales-20261023142417.html",
+  "clave": "adecuadamente cada depresion diez habituales pacientes responden tratamientos",
+  "capturado": "2026-10-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut",
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a3264332f851",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "El Ecosistema Startup",
+  "titulo": "TeBo duplica usuarios: la app de salud mental de Cali",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVnlVS29aVU92S29HcmFqS05HSURqX1BLdXB0LU1BUFVpSnF3bVJGWDJVTV85M2Z2X3dTRGNhNHBxRUljNkYwUDBmcE5FVEltaW1xbEdoOVBlM0RsdVNKWHNaX2tUOVh1Y2dGSkszV0NwMzUyYkMycHBtYnVXQmN6YktGVUp6elNXU1Nj?oc=5",
+  "clave": "cali duplica tebo usuarios",
+  "capturado": "2026-10-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4f817321e7be",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Perfil",
+  "titulo": "RDC: la polarización política en Brasil y la incertidumbre electoral pueden afectar la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR3laWjUxbUpyRjRDdTE5Q3dtYVJuM002OEl1RElqNzlhM2s5SXRSWHJnenpGVk5GMVdkU2JYY1NZZWNWcnFDZHFlQnFRaHNrOUtUT21jSzMzWFY1eEVqMW1vNDhNWkFibTVsc0dhNHBWam5yaHlLcDR4al9taGdYOXJ4cG1UMzlHRzFwRzUxaC1XUFBEd3JqNkw2Ym1Lb3B4aDJ3ZHk4bkZ0R3NVMkhMQVlIZUJQUEZ1LTg1MUV6MXJHSnB1NnRQTUxwZF82ZUxoZ3RV0gHYAUFVX3lxTFB6M1VLX3BHeDBBTEtwaEVERXJvb2FqLTFCYm1KczQ0SWZyb2NhTU16WThjd3Z3cHBOZmZfTVlHR19oa29pUUFlcmdKSkJnRWVSUXdTVTNqUUxDZmlyQVl0TE56WFdCVUYzbEFqVFBva1EyWWxlTmdBTXhiVUdjQ0g2NzNvTVpYSS1tUnlTWmRsWG51M3B6Vk15MFF3MHQ5RTFBS09Va1RWd05SLUlLZU9wZDhqbnZGNDVGZHRXT2d2NTltZkxrM0FzQ3JucXpZTGRpS1dYWDVYMQ?oc=5",
+  "clave": "afectar brasil electoral incertidumbre polarizacion politica pueden",
+  "capturado": "2026-10-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f393889592f6",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "RCWTV",
+  "titulo": "Projeto cria política de saúde mental na educação básica",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVkpuWmVjMk5yc1lwU0d5dUpRdU9uYUxiQjc5aHk3RlBILXJ4V01rd1BuUnZmU08xSXM1ajU5WlhVbV9LWUpnMHAyZUpxei0yTEVzem9URE5lazRVeWtWRUU0d0xoVXhlLV9uX1I2TXZJMTNmTmlNYjBWUUc2eHVfRWVMcUVwQzFlZ1NhTEN5bVJpZTQ?oc=5",
+  "clave": "basica cria educacao politica projeto",
+  "capturado": "2026-10-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "044151fcff43",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Demócrata",
+  "titulo": "Mental Health Spain applauds the new guarantees in involuntary admissions",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkhweFdIOExVbGpCR3lpSGVTNW4wak5iX3NzeHdQOWFRVXVONGlWX2tEWWJ6eGhuZU11WExCSlR3elRsTWxmTkF1OTY1dnhRbHhfZkthMzhrU1E2ME1MRDE2NDFCOUFRLVlwX1pYU0Q0VVFQc1lTWkM5c1l0TDNZYnRvN0k5bUViODdDMk42T3lKUndBNWUwTFJIdFBhWXdiM1dMd21hcVc0VTZ4NzlSNDNaONIBswFBVV95cUxNYkhweFdIOExVbGpCR3lpSGVTNW4wak5iX3NzeHdQOWFRVXVONGlWX2tEWWJ6eGhuZU11WExCSlR3elRsTWxmTkF1OTY1dnhRbHhfZkthMzhrU1E2ME1MRDE2NDFCOUFRLVlwX1pYU0Q0VVFQc1lTWkM5c1l0TDNZYnRvN0k5bUViODdDMk42T3lKUndBNWUwTFJIdFBhWXdiM1dMd21hcVc0VTZ4NzlSNDNaOA?oc=5",
+  "clave": "admissions applauds guarantees involuntary spain",
+  "capturado": "2026-10-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a9c107846f69",
+  "fecha": "2026-10-23",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "Comunidad Madrid | El Hospital Rey Juan Carlos acerca la salud mental y desigualdad de género en una jornada abierta y participativa",
+  "resumen": "comunidad madrid: el hospital rey juan carlos acerca la salud mental y desigualdad de genero en una jornada abierta y participativa",
+  "url": "https://www.consalud.es/autonomias/c-madrid/el-hospital-universitario-rey-juan-carlos-acerca-la-salud-mental-a-pacientes-familias-y-comunidad-en-una-jornada-abierta-y-participativa.html",
+  "clave": "abierta acerca carlos comunidad desigualdad genero hospital jornada",
+  "capturado": "2026-10-24",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "jornada"
+  ]
+ },
+ {
+  "id": "f50b8c513be1",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "Secretaria de Estado de Saúde de Minas Gerais",
+  "titulo": "Webinário da ESP-MG reúne especialistas para refletir sobre os caminhos da saúde mental no SUS",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVHhjdWtRbFZqbFpBN1BSMEw3SkNUT1haNGtNcGc2ZEpMRnVDU004bXdNQkdZWTF6ZHJHZDlmZGgyaUwxdklEWVJ0WU5KcDQ0UnRNYjVmN3pnV2d4YzhMd3FqamJQZGpNU3V3Z2VqLXhQOThqN3E1NGt4UjhwM296dThxelZ0UTViUEQ3RGMtSGlRR2VrcXZBZ1JwSk1aNFVLZ3Zsc0t6N3ZNVzloZE1EQk8ycVNiTjhVdzlsZklzS0RVc21OVWlFcG5IZHA?oc=5",
+  "clave": "caminhos especialistas refletir reune webinario",
+  "capturado": "2026-10-24",
+  "puntos": -6,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "webinar",
+   "webinario"
+  ]
  },
  {
   "id": "7faf86707917",
@@ -576,6 +1061,26 @@
   "ruido": []
  },
  {
+  "id": "0d38b416b197",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Folha PE",
+  "titulo": "Saúde mental no trabalho: NR-1 e a importância nos hospitais",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDlhRHNpbzNHYW5MMTdBM18yRXRrN3Rucm1ubE8yQzJ4aXZYQlAwZDdYcmJZeFhkSjAyekVEeVJDRGNhREt4WUFzUTM4RlZuYnFHMjM4MkNkcVBMU2h0bjBQcjNsV2tGa1NDcnVKNmtqVXNsUUFndU9mSVVESzZkM0lzdEN4cWRDZzVMRF94SzhhQWtObFFmZTlKT040RHFQNnBXWHpPSlRiZ9IBqgFBVV95cUxQWDlhRHNpbzNHYW5MMTdBM18yRXRrN3Rucm1ubE8yQzJ4aXZYQlAwZDdYcmJZeFhkSjAyekVEeVJDRGNhREt4WUFzUTM4RlZuYnFHMjM4MkNkcVBMU2h0bjBQcjNsV2tGa1NDcnVKNmtqVXNsUUFndU9mSVVESzZkM0lzdEN4cWRDZzVMRF94SzhhQWtObFFmZTlKT040RHFQNnBXWHpPSlRiZw?oc=5",
+  "clave": "hospitais importancia trabalho",
+  "capturado": "2026-10-24",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
   "id": "0da2f602c21a",
   "fecha": "2026-10-22",
   "carpeta": "01 ESPAÑA",
@@ -804,6 +1309,26 @@
   "categoria_auto": "regulacion",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1bcf12e3801b",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "UOL Notícias",
+  "titulo": "Projeto de lei prevê apoio à saúde mental de autistas na vida adulta",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWVDTDhCVDlRejQ3X0VxZWJDOUJEb25jNjVKR1dscjZ0aFphcE55MjhxLWR6RnZVbm03c0JpOE4wd0oxZDQ3WS1COEg5YVdEaHB5OWNaT01XZ015LXpibjVfbnlMZTNISW1wSXdocDFqakdSeHpvSmp2UEdtaVVoejNkUlR0b3VqT3FxUjAxTTVGUXF4QWVYQmRkeGotQmt6RWp1UmVubXZZWWJOWHh0ajNGS004eWZUSUR5STdfQmpLd0xlVVhESkwzMGxpNFB3dnc?oc=5",
+  "clave": "adulta apoio autistas preve projeto vida",
+  "capturado": "2026-10-24",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "autis"
   ],
   "ruido": []
  },
@@ -1107,6 +1632,25 @@
   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWptS1VpcS1sVEptbDQwQkhiVjFoSUQ1UXJ0ZTVjR0hGU0ZiQjdSdWo1OVJsS05DV0F0ZkhyVXFwRy15VnBoS1BKSE9rTzNTSl9XaG1EZzVnNDlPWEZqSE1jV1NpLXIzTGZzblJLNnhlaFBleUwyWVNWZ0llVUUxSzJ1ZHFJa0pIelR5MGt4VlVVMGtTeFdmT0JIR0Vud2xZWmtNU1d6X0Q5ckZQZG5Oa1BVTkd4YXREb1l6dTNBNnFEMm1RZVJoVQ?oc=5",
   "clave": "child concerns court despite high mother orders return",
   "capturado": "2026-10-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5e5e7f32a40f",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Solicitors Journal",
+  "titulo": "Re AL: High Court orders child’s return to Spain despite mother’s mental health concerns",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSnQ2UEItUFlTeFZ5dHk3MlBYQ2lZazQxdzZ1aVlKYmRnZHlDQmJXU1hRTmVXVkVIbzhRNFRSMVRrYkhQa1ZYUXV5QmE3SklsOE5fbWNmb295VF9FWFJBdFBOOExOZXlKOTRqMjBxSXZpRGl6ZTJadVpPeDBVaFl5UjdYNm9VdHhSOHhVcXJXVTUtZk5pYVp3ejdwY0NrYTltOUdWZ2lIODBTOUpxUEJLX0IxaUt5Y3JZN3Y1bWVKZW96d0ZyMzFOMWd0bjJQS3ZuRzZOZFJGeEYxWDBWLWQwSTE3UnR5YjJB?oc=5",
+  "clave": "child concerns court despite high mother orders return",
+  "capturado": "2026-10-24",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -5206,6 +5750,27 @@
   "ruido": []
  },
  {
+  "id": "d4d8e8730911",
+  "fecha": "2026-10-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Gobierno de Canarias",
+  "titulo": "Día Mundial de la Salud Mental 2026",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVHpDTml6Sm5YTjlBeWlrVS1FUmJRckhrUUdVYUo5dWgzdTk4SjNSNk9EZGI3U3FpY3JpRW84WGNuYl9NSXptMWxlTDhIV2hKaGw5VW5yZHVxVmtpSVFQRWxZRGpVMVpwZXhKN2MzbFZGYW5HWXZUT3I4LTQ4bDE5UDJmblRJUUYtUF9rRTBCX3RmNTlnN29rNW94R3Exc21QYXJEN2R2eTBjakxhMUpNd1k1YTdTNGJwdkZEZmlJcW9raEVaNUxjeUkwRmFFbVJkYndjaWFieDZpZVpwS0hOY1BvVUo1YXZmb19rM0c2Z2N1bThJR21r?oc=5",
+  "clave": "2026 mundial",
+  "capturado": "2026-10-24",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
+ },
+ {
   "id": "a5a1ca3b3ba4",
   "fecha": "2026-10-12",
   "carpeta": "03 BRASIL",
@@ -5414,6 +5979,25 @@
   "topic": [
    "salud mental",
    "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c0a0cd8f6f65",
+  "fecha": "2026-10-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Quero Bolsa",
+  "titulo": "Desafios para a valorização da saúde mental de estudantes da educação básica no Brasil — Tema de Redação ENEM",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazlUa3AzdHkzd2cwV2tLUDZtRHVVdmhmOGtOcVVLNVBUZElWcW1vdFNHNjl3NEc3UzgxQXZjTVAxeW53cGYweWlZMUplQnNNVjVhaVNaUHpua2Z2eWdsc19XTzJENjVMZGtqcWlzWjBRYlU4bGI0bU5rTFhlbnJPRHZicnVINjV5MXBZ?oc=5",
+  "clave": "basica brasil desafios educacao enem estudantes redacao tema",
+  "capturado": "2026-10-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -7456,6 +8040,27 @@
   ],
   "ruido": [
    "entrevista"
+  ]
+ },
+ {
+  "id": "04cbc8acbed0",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Cadena SER",
+  "titulo": "Día Mundial de la Salud Mental: \"Por primera vez los hombres están pidiendo más apoyo emocional que las mujeres\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeGRZY2NTNmVqUU91emgteXplcFU1ak1Qel85V3lIRV91MmlxOGJrNTdYczQ1U1JlckM4UTRMWWRGb2RTaC1uTEpFdERzd0ZkQU5aMER6OXo1YmVIYUdmMzJlcnFPcmtDT1gyRmExQk9aRmwzRHV1ODRydkVPTU9UTUtoVXRkUnRXRExMTmRmNFZpVDM2LWs1R2FyNzB3UU1qUFRiZlkwNmVoY252UWVuM29RdXpxZXkwZEJNeGNFSXZLMlhQajNKRy1MM1pmbEZpS1hvei1EYU9nR2dnazNUZC14WmFzRFZBNWNkOFNZVUVNYnVEQ3pB0gGLAkFVX3lxTFBNamZ6VmVDNnpMTGRBVEdwWGRIemtISm1SaDNLSUxOZ08xalBHNmFocjAtd2hkU1dTM0JNQVVwRjlKSDJTdEV4Vmw0TTRvN19hUzh0NDFyU043Z1JsSS10RUhDektNUjJJZk04bWpLb2h1My1IV2xGaFZRQklXSFJSbkNOSkxOTzRMbk0zMFk1MXduQ1dGQjdZdnhZc2ZtVzkyeG1OU05vaWVPX05nVUxXaUx1OUFydEtKdFVTRmhzcXB2VHFSejE2V1B3S3hnRDFwbzZHejlGV2g0TnZNaDhybWplanNxdGhzTVVxWTJ6UTBOajh0c3dkdlo0Sl9QSEljS0t2UFM0MWFoZw?oc=5",
+  "clave": "apoyo emocional estan hombres mujeres mundial pidiendo primera",
+  "capturado": "2026-10-24",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia mundial"
   ]
  },
  {
@@ -9841,6 +10446,26 @@
   "ruido": []
  },
  {
+  "id": "0c9fc185dda5",
+  "fecha": "2026-10-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Migalhas",
+  "titulo": "NR-1: STF discute critérios para sanções por riscos psicossociais",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3lNdTNzUFVZT2pvc3oySGhZVldqRk00bzdoeUluUUVqaW5XMXJYaTFDNFRBbmpORlFaVWl1S1o1Uzg4ZUR1N1pRQU91S0hocnZxX003cHZqbkl1YVNzdE43Y3hBVVZYRXNweVNJdFFTN010T3lGZ0d1Mi10TVdncG1Fd3pkekRJbG52VWZwVFdrVTBQTEJmNTR4eWs0VF9EcVFsd29GX0dGMm8?oc=5",
+  "clave": "criterios discute psicossociais riscos sancoes",
+  "capturado": "2026-10-24",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "nr-1",
+   "riscos psicossociais"
+  ],
+  "ruido": []
+ },
+ {
   "id": "59cc8ad443f0",
   "fecha": "2026-10-02",
   "carpeta": "04 GLOBAL (solo con ángulo local)",
@@ -11992,6 +12617,26 @@
   "puntos": 9,
   "prioridad": "A",
   "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c2b9f4d69cec",
+  "fecha": "2026-09-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Contadores.cnt.br",
+  "titulo": "NR-1: Mendonça prorroga por 90 dias suspensão de multas por descumprir regras de saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWUJrTFZPRklFNklSOTJrMFh6RnFrWEQ5UWdFTWlpOVhod05JZlRuVFphak1fc2gtSDZmdHRmalBROHphbEZ2Zlhaa3ZIQjRhSTBFRDdyZUgzVXpIME52NEJyMWFEYU5uaG8wNmROTVdaM005d0NpQ05KVGY1NEtPU1ZQUUFwUWtvLUp0dzJNR2JiNnlTQlIwVjQ0NHpmcHNKWTl5YkQ4X3dHQmsxR3lQVlBVLTY0TmJQelAzUkVDTE5TVnZXODFkWS1fdWlnVTFqNWVRXzFMMWFVenJNSmNYaldNTmtCamxGdmFtZQ?oc=5",
+  "clave": "descumprir dias mendonca multas prorroga regras suspensao",
+  "capturado": "2026-10-24",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
   "topic": [
    "saude mental",
    "nr-1"
@@ -19496,6 +20141,25 @@
   "ruido": []
  },
  {
+  "id": "06a0c6a44d01",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Portal da Câmara dos Deputados",
+  "titulo": "Projeto limita a rolagem contínua de vídeos em redes sociais para proteger saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeVRGajNNczVLUHJiSy1nNFhWNjRoSF9QR250WnZCdmRxS2VOZHhkd2l2THVSbDhiSFN6QThiQWtSWGQ2SXI2TmptYzl3T2pOcHFBUGdkaHZmWTBWTDhEU0VjaW5qbUpZMTFiQ0VOZDFYUklJTVFQYXpMUmkwTG5TRUlwa1ZFbHU1T3AzYV9XdERQeVhRSl96dTg1MkxldnNGMzY5Y1YwTEJ6V2EzR2kxR0d5S0VqbjYyTU9DLW0wZUxnd04yWlluanZ3?oc=5",
+  "clave": "continua limita projeto proteger redes rolagem sociais videos",
+  "capturado": "2026-10-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "ea7a3cc76ade",
   "fecha": "2026-09-08",
   "carpeta": "01 ESPAÑA",
@@ -21294,6 +21958,25 @@
   "ruido": []
  },
  {
+  "id": "8286265f5ec9",
+  "fecha": "2026-09-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Câmara Municipal de Manaus",
+  "titulo": "Joelson Silva amplia defesa da saúde mental e propõe programa para guardas municipais de Manaus",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc05vTDFFRXhqek0tMTIwT3RxYWJ0a2k4VWhpb1QwZmdXWlJvNE5mT0F1UTA2Qlh1QmhGMzdlaXVDUWF6Vi1YS0VQYXpCVzk2bmtjdUEycmJJZUtlZWExdlZtX0tvTE5xQWJlbEl6aXJkWVBVYUVCdk4yRjE5TFBWN1o4WHV2WXJrSjVhRTMtT0h1NE9wUUxrSERvMEJEVXRnaHpxdG1JSXFLLXdKVHBsck93WXM3RUxGd1QwYTEwbw?oc=5",
+  "clave": "amplia defesa guardas joelson manaus municipais programa propoe",
+  "capturado": "2026-10-24",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "cd4b12b62f7a",
   "fecha": "2026-09-03",
   "carpeta": "01 ESPAÑA",
@@ -22396,6 +23079,26 @@
   "categoria_auto": "regulacion",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c612c5c29afb",
+  "fecha": "2026-08-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "Cofen",
+  "titulo": "NR-1: STF suspende sanções, mas mantém exigência de identificar riscos psicossociais",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOVNzTHhmWmVXYUY5RU1vclh3LUd2MVlkM3ZwYjJwY0pXekUxS2ZOR2R3T0hXVzMwcnVwZHBSZmRBMlFweW1zZm1jeHRuUDNYN2tmQTZJLUU1Yl95YVpOSF9MRkFvYXRSMmNJR0hIUlJZbExVVVNiR3d6cGIzUDNORWFBRHVyTEoyN3RKTVRyeGZIemoyRUlzM1RPa05pU2hQaDBsQ0xKN3BqR2Ji?oc=5",
+  "clave": "exigencia identificar mantem psicossociais riscos sancoes suspende",
+  "capturado": "2026-10-24",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "nr-1",
+   "riscos psicossociais"
   ],
   "ruido": []
  },
