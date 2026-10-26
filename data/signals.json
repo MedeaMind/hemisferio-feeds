@@ -1,5 +1,167 @@
 [
  {
+  "id": "382a855b31d6",
+  "fecha": "2026-10-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Un estudio mundial arroja que las personas Lgbtqia+ tienen el doble de riesgo de sufrir problemas de salud mental",
+  "resumen": "los investigadores del clinic-idibaps han realizado un metanalisis que agrupa 398 trabajos sobre el tema y ademas: espana aprueba en politicas de salud mental, pero lejos del sobresaliente",
+  "url": "https://www.redaccionmedica.com/autonomias/catalunya/20261026/un-estudio-mundial-arroja-que-las-personas-lgbtqia-tienen-el-doble-de-riesgo-sufrir-problemas-salud-mental/363348_0.html",
+  "clave": "arroja doble estudio lgbtqia mundial personas problemas riesgo",
+  "capturado": "2026-10-26",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "16b5d63e31e4",
+  "fecha": "2026-10-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Gaceta Médica",
+  "medio": "Gaceta Médica",
+  "titulo": "Lo mejor de la investigación académica en las tres primeras jornadas del Congreso ESMO 2026",
+  "resumen": "la investigacion academica presenta nuevos datos sobre tratamientos oncologicos, combinaciones terapeuticas y supervivencia a largo plazo the post lo mejor de la investigacion academica en las tres primeras jornadas del congreso esmo 2026 appeared first on gaceta medica .",
+  "url": "https://gacetamedica.com/investigacion/mejor-investigacion-academica-tres-primeras-jornadas-esmo-2026/",
+  "clave": "2026 academica congreso esmo investigacion jornadas mejor primeras",
+  "capturado": "2026-10-26",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": [
+   "jornada"
+  ]
+ },
+ {
+  "id": "0d6b25f09ff3",
+  "fecha": "2026-10-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Agencia Española de Medicamentos y Productos Sanitarios",
+  "medio": "Agencia Española de Medicamentos y Productos Sanitarios",
+  "titulo": "La AEMPS inicia los IPT de los medicamentos que han obtenido una opinión positiva en la reunión del CHMP celebrada en septiembre",
+  "resumen": "generar pdf fecha de publicacion: 26 de octubre de 2026 categoria: medicamentos de uso humano referencia: ipt, 09/2026 los informes de posicionamiento terapeutico elaborados corresponderan tanto a los nuevos medicamentos como a las nuevas indicaciones o modificaciones de estas que hayan obtenido el visto bueno del comite en el caso de los nuevos medicamentos, la […]",
+  "url": "https://www.aemps.gob.es/informa/la-aemps-inicia-los-ipt-de-los-medicamentos-que-han-obtenido-una-opinion-positiva-en-la-reunion-del-chmp-celebrada-en-septiembre-2026/",
+  "clave": "aemps celebrada chmp inicia medicamentos obtenido opinion positiva",
+  "capturado": "2026-10-26",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": [
+   "opinion"
+  ]
+ },
+ {
+  "id": "e87ba882844f",
+  "fecha": "2026-10-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Gaceta Médica",
+  "medio": "Gaceta Médica",
+  "titulo": "Cuidar afecta a la salud mental y física de seis de cada diez personas cuidadoras",
+  "resumen": "segun el ii estudio del observatorio cinfa de los cuidados, avalado por la segg, el 62,8% de personas cuidadoras considera que esta labor ha afectado a su salud the post cuidar afecta a la salud mental y fisica de seis de cada diez personas cuidadoras appeared first on gaceta medica .",
+  "url": "https://gacetamedica.com/investigacion/cinfa-salud-mental-fisica-personas-cuidadoras/",
+  "clave": "afecta cada cuidadoras cuidar diez fisica personas seis",
+  "capturado": "2026-10-26",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a312a01ef7c5",
+  "fecha": "2026-10-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "La evidencia científica relaciona ser LGBTQIA+ con tener peor salud mental",
+  "resumen": "psiquiatria carmenfernandez desiegualdades en salud mental cientificos del hospital clinic y el idibaps de barcelona han publicado en la revista de mayor impacto mundial en psiquiatria, world psychiatry , un metaanalisis de la evidencia disponible que confirma que las personas del colectivo lgbtqia+ presentan diferencias respecto a poblacion general en especial en lo que respecta a la depresion, l",
+  "url": "https://www.diariomedico.com/medicina/psiquiatria/evidencia-cientifica-relaciona-lgbtqia-peor-salud-mental.html",
+  "clave": "cientifica evidencia lgbtqia peor relaciona tener",
+  "capturado": "2026-10-26",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "psiquiatr",
+   "psychiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "588ba79f0b5e",
+  "fecha": "2026-10-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Trastorno mental grave: de la tutela a la autonomía con apoyo",
+  "resumen": "psiquiatria mariasanchezmonge 40 anos de la reforma psiquiatrica “escuchemos a las personas con experiencia vivida: voces reales, cambio real”. es el lema elegido por la organizacion mundial de la salud (oms) para la conmemoracion del dia mundial de la salud mental. este ano se cumplen 40 anos de la reforma psiquiatrica , que se inicio a principios de los 70 y se consolido con la ley general de sa",
+  "url": "https://www.diariomedico.com/medicina/psiquiatria/trastorno-mental-grave-tutela-autonomia-apoyo.html",
+  "clave": "apoyo autonomia grave trastorno tutela",
+  "capturado": "2026-10-26",
+  "puntos": 1,
+  "prioridad": "C",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
+ },
+ {
+  "id": "de8fe10438a0",
+  "fecha": "2026-10-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "https://www.infocop.es/",
+  "titulo": "Las universidades deberán garantizar atención psicológica y de salud mental gratuita y accesible al estudiantado, según el nuevo Estatuto",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQTJfVUtYYWFWMlFVc3NwSTlFcU84S19qSHU2NWFlLTN1NzdNYjhyU0t1SURHTjNlSzFBR2U5SUQyRmcxWUduV20yWF9QRUxaOEwzM29YLTlwSFYxSVQ1eUtzMzFGckRDT1JxSTNnQmdvZWtvVzFiNGU4SWxuZ1pWWDFGQWYwTEJUdHFITi10UkZsYkNKYXlkLXZKTkJNWnI3SW80d052d1FlX0FWbFhfS0lYSWoxQWd5Yl8wbHZRdGNvamwwUEk0RXd6SDAxaEN3a3U0eWdOVFlGbDVzSkxBVHJUOVNlNy10bVNEMmR5M0NMQQ?oc=5",
+  "clave": "accesible atencion deberan estatuto estudiantado garantizar gratuita nuevo",
+  "capturado": "2026-10-26",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ca30c5e966f1",
+  "fecha": "2026-10-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Canal Autismo",
+  "titulo": "Projeto de lei pretende incluir trabalho e saúde mental na Lei Berenice Piana",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWnRhWGRQRDBJalYxNHRaMVNoZEZFMVBjZGxnUW9UQVBXZS1hUmdmaUZWT3ptc3EwNERPSHVtOXhEbVBVMW5xYURLUTBvZEtrak5SS2tGVXk4dzhLdHdEaXJ3X3pBTXVvSzdENHJkWWJuMGplSk9NWHlSOEdZYWdtRFVuZ2VpVmp3MjkxdksyZUVmdVNoc3A5R0lNdmVHMEdzLWtTQWJTRDNQSHdDT05kcGVoOTlSTS1RMUE?oc=5",
+  "clave": "berenice incluir piana pretende projeto trabalho",
+  "capturado": "2026-10-26",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "cf1de1283886",
   "fecha": "2026-10-25",
   "carpeta": "01 ESPAÑA",
@@ -15,6 +177,84 @@
   "categoria_auto": "research",
   "topic": [
    "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f4ba36eda290",
+  "fecha": "2026-10-25",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "La protección de la salud mental de los MIR, a expensas del futuro del RD: \"La prevención comienza por mejorar las condiciones laborales\"",
+  "resumen": "sanidad sigue confiando en sacar adelante la norma antes de las elecciones, que contempla medidas especificas para vigilar el bienestar psicologico de los residentes y ademas: sanidad valora crear auditorias psicosociales para frenar suicidios mir",
+  "url": "https://www.redaccionmedica.com/formacion/mir/20261025/la-proteccion-de-la-salud-mental-los-mir-expensas-del-futuro-rd-prevencion-comienza-por-mejorar-las-condiciones-laborales/363019_0.html",
+  "clave": "comienza condiciones expensas futuro laborales mejorar prevencion proteccion",
+  "capturado": "2026-10-26",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "psicolog",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "34bc300acb68",
+  "fecha": "2026-10-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Canariasdiario.com",
+  "titulo": "Artículo 13 bis: guía sobre salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUzFQRUpBZkZ2TndVeHBFeWJTZ1RkMGFhMXZHOVdXS2lUZnRaUnpRSU1GcVMzSFZVNTgxaDZkTzhpU0xOc21SNGdnY2ZreVR2ZU1WaWpfMlV1REExLUtTQ0djV250c1ZXMnc2bmlKX1Y3VDB4amhTQ2Q2eFVwSlkwVlc3NGJmYS15dHh0VVlpV3ZISzk4ZlpicElQZ0ZDTUVhR1FScjlZR196bzhNRkh2RWNiWHFweFRjZUNONGZ4NFlfQzJsYXpuRllEdmxqWDRmQ3c?oc=5",
+  "clave": "articulo guia",
+  "capturado": "2026-10-26",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0ee9aed5cfbd",
+  "fecha": "2026-10-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Redacción médica",
+  "titulo": "La protección de la salud mental de los MIR, a expensas del futuro del RD: \"La prevención comienza por mejorar las condiciones laborales\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMmtBY2syTmRvYTRfYWN5c2xNTURWeDE4UUZocWpHVlR3eFZLWVVjajV6Szl1bFdpeHBfRXZFX1ZPcXBoeWJaMWNDd05McUtRbUZpQmtBLThVQ3JoOEUyYTNIRUxjeUJqYUQ2Y2tBRkJIZVFURi1qb2NhTFBxNmpjSE5QVnVPLUVscjdmZE9ONHIwb1lQRnFydGFMb0VyR0ZUT3dJOURkT29EeWRZcVIwU1UwMTRWRmpxN3lDMHZFcE94dkkzdG9vYnplNjEtNU5BUi05S1Z6U1Ntb2lOZmptUi05eG1qZFVvSVpQcG5WUklOOEdSSVFzcFdEYUdOQlNjZXRkd0xURGxiUzdFSklTcnpxNVBkcVItOXfSAZ8CQVVfeXFMUF9kNFRnZmxEejFJcUVJeTBONHYwalhzUFJWSEYyX2Z0eXd2VTFSaVk4M2FWck91ZlZuYmxDN2RtakJaZkpxRGJBUWQxOE9lZzAwQVJwZEpJS1FGQTNuLTRPLVVQYWhtbWtzNXlXbXJIRmRyck5lbjg5NjNXY1BwczlaMXQ0b0tKWGZzYkhGdVF1Z2JUMDBIMjZtNUxVbDV5TmRxRk4zNS1uQkRuSWxDcDZlc1pNWVRMa3lGbXpMTWNhblhqRXk5VUt2bkNXZk9TQ29rdmNUT3h3UlltZGtEQUNZMGM3UG9KZU9EV0hKbDQwV1VWYUYyRVBSMUJLZnhLNncwQXpKemM1UThlTUhTMXlxeXNRZmREQVl5Y2oyQjg?oc=5",
+  "clave": "comienza condiciones expensas futuro laborales mejorar prevencion proteccion",
+  "capturado": "2026-10-26",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "132056ee8daa",
+  "fecha": "2026-10-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Lmneuquen.com",
+  "titulo": "Zapala comienza un proyecto habitacional para acompañar tratamientos de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSTRGazJud2k0OGFqUjFYQW1TWXF3WEVtaklLRE5qaHJ0LWhDVEY0SmNOSEJBemx1N1dTaG1aZjIxRjhmMDU5aXM4S3V6ZEo5dzJDWWFaQ2xfMFQ1Q3pmUW9KVnhQemt6YTh2MzVZUUZ0RnAtLTdNSENlb0M0LS0ycFRnb3Fvb09nRkVKTkIzSWJoLVNrZVNBX1ROaU90UXF6YXVrU1Z4UFFIVTNlN2NqWGZNVnp2d0s0ckdB0gHAAUFVX3lxTE5aOE5fcDN0Y0VTX3JYZUtmdlR2eFJWTmlsZVpTeTBra3dyUzFZdS1BWUVjMmJwWWJRMVJnM2tNa3VRZXh0b0dXVktSY1pOVDRjYXdDUFV3Uk42QnhKemhTXy11VktHTGppQmx3QVhFVnctM1p5enJwTkVDS1lWSTBPWnI4YnBEcXJUbUxXOGJXdm5TN1gzWkpVT216OVIxV0pneUVOSVlSNU1wWXRfdkkyNFdJa2tmc3ZLc3lQSllUeA?oc=5",
+  "clave": "acompanar comienza habitacional proyecto tratamientos zapala",
+  "capturado": "2026-10-26",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -108,6 +348,25 @@
   "url": "https://www.redaccionmedica.com/profesionales/20261024/miguel-munoz-cruzado-entra-como-academico-correspondiente-de-la-real-academia-medicina-cadiz/363317_0.html",
   "clave": "academia academico cadiz correspondiente cruzado entra medicina miguel",
   "capturado": "2026-10-25",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2066088649aa",
+  "fecha": "2026-10-24",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación (edición US, hl=en)",
+  "medio": "Libertad Digital",
+  "titulo": "¿Cómo afecta el cambio de hora a nuestra salud mental y al sueño?",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTFdfc00tVy1iQTJ0OC0xWUpVaEdwRDcyRmNTVEJhaGdkVzYwTVFfWXJ2LUVETk9ydWhFZWJzR1dnVFJpS3VmNXVuOGdhWl8zSktRaGhmaDUwdTJGY1lWN19pakhyQ0RhQmgxOE40MmxLYUVrSkd1UlV1NHBMWTF3OGx0UzF2R1V4bDJwakVjUjd6UjB0cGVzNnFWd2x5Q2c0XzZuczR3WVFYMmp2M0FVd2dkdWRpeVNRNS1fNm01SHhBTnlmeThndjk4RXVrbG1sdjI4N2FJc9IB4gFBVV95cUxQOVpBblN3enFQUDF3aVBfVDVMMnVEUWtlTXZ4NDhUN0ZjeVJKb1NkYmEtSnBYOXN1c0xVUjg2SFduclppSDU0eVFHWC13MUxfWENCUm5DUHozRnlVdTA1NllnUXZjeDdBQmhJS2N5R0xTRnEwcXdXaTBTS0Zidm9wc0ZzNmJSRW41bWpPSVUxeUJ4WDNiTXB3Y2pkc1JlWFVEYWJkb0NRS0M5UkdaQmpYX3pRUDNtR3RKQUhfaUNPcHAtcUJMQUU5cmxudVJYUG52WndSZzZPdzBzNHRMam51TGNR?oc=5",
+  "clave": "afecta cambio hora nuestra sueno",
+  "capturado": "2026-10-26",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -628,6 +887,25 @@
   "puntos": 2,
   "prioridad": "C",
   "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "497c62a5ca14",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "todoalicante.es",
+  "titulo": "Mutxamel estrena centro de salud mental infantojuvenil con 22 profesionales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDFtRzNQVzZmMy1Rck9oaWVyWTRlVC1fbURBN3ZIOS1Zd04zeGVnRkRValR2Q3R0NWs5NEp3MHc4Z19kdlltVmtlVERIaW94UlhBYkZaOEJoTzVPNmRBVWkxTndKbk0yVy1IUXVWV0dtMVJkN2hTcXhUMl9MWHRTT3QxalJLV1VpQ2xicWJHZDJfLTNpSlBVZFNKSk4yMEJtZ1pDV3ByOU9NN1diZmlhLWdvbjBXOVdoLUZHTlNBY1d5Z9IBxwFBVV95cUxQejZRakZyQmRwLWl5OUgyaEJQc21Ibi1WNHA0aGxoSlNsNjV6ZTN4Y0pnUUtLTHZQaHM5V1VzYk9FYXpxNnNKeWxZNHlvdjlRb1dLZTZxMVBSc3MwSTFsS24zVkdrdEFjVzdpcUNKejV4cnEzVWRPZS14Q2FFVkZiWWp4aWZ6T0xPZEh5T1JKSG5NWWxkdVU0SmhJSDV6VGpZR2R2V1o4ZmtuQlRHMHhrQV9qQ1dtRXh4Y0VkYlBhMFlwYV8wV3ZV?oc=5",
+  "clave": "centro estrena infantojuvenil mutxamel profesionales",
+  "capturado": "2026-10-26",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
   "topic": [
    "salud mental"
   ],
@@ -1855,6 +2133,25 @@
   "ruido": []
  },
  {
+  "id": "7b5dd7242b6d",
+  "fecha": "2026-10-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Redacción médica",
+  "titulo": "Sanidad busca \"garantizar\" la atención a la salud mental en la ley de discapacidad",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUN6eEhYWkNlcWZ2cW5VcV9HZHZFWDZQR3JHMzNMdW9iMUMyZGlHLTdpSU1vQXQyUm9VbG40RVJIbENTdW9vZGwyeTZvbnhqWTY4aTVQQmlfNkI1c1BPc2FBdXJJVS1PUkszY0VoNjlZMElCbWhoX0lOZkNtSkIzY3NwWlkzcFdkTWxmR3lZQVVLSUl1SWJWTkVYbHl1d2lZMUZtOVdKSDQ5UnNCT1duUUdLUlZfX2NZSjBCMkJUaVVJb01WeEg0RThfOC0zWTdFZWcwNzFDVzBoVWxJcXhyYnM5QUt1V3FkR2VV?oc=5",
+  "clave": "atencion busca discapacidad garantizar sanidad",
+  "capturado": "2026-10-26",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "9eb65bf54538",
   "fecha": "2026-10-21",
   "carpeta": "01 ESPAÑA",
@@ -2997,6 +3294,25 @@
   "categoria_auto": "regulacion",
   "topic": [
    "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3cc2d194775a",
+  "fecha": "2026-10-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "El Observador Argentina",
+  "titulo": "Salud mental adolescente en Argentina: solo el 0,4% del presupuesto de salud se destina a este sector",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMTlzX0VmOVFUQ0ZmVXNlYmYzSTNWeG1QM1BJNDJOZmdLVV9VdlAxellzd0Y5WVhMZ3hwOHEzejZxTG1peW15Z3lxc081dXlVNlF5OFQ3RlpvUWZtUDh3czhrMGRjVUhGa09uM2xmeDFmdXhKZHlseXBNVzJCSkxtTVljei1zejJxQk1SYXBFem1wcjduR0lBVUV4WndySHh3dktiQzRKTGRnNmVUZjZiNG1iNWNlVHpSaGxhbF9ZenA3SE1MWXNDa3Rjdk5BeFpQZEZDUGlnTEZDRTFmOFRHbtIB5gFBVV95cUxQR2x4TUNVU1lNVHVZRkFFcmFlcmp0ODFKUmN5ZTdnOGdVZ05ISmVJTk5oZ1lWaWJhZGFPYW1idTNYak5EbGRDU2R0YWV4MktuWEZIZ0IyR0RuMldHTWtuaHZ4MEpDUEFfTFBzUlR2TkNBdld3N2lvOVFoOFpUeUlMTEZGUHdOSGdfcTNLRzNWSWFDRkdDa3l5emtkelViSGF1T0t5djRnVEUyTV9NX2VvbVprTzllNkxoMnVWNFpsLU40aHRkaC1BSDJiZG0wZEhyUEdFOXpKY1BHQVFRUHZrTUYtLTkxdw?oc=5",
+  "clave": "adolescente argentina destina este presupuesto sector solo",
+  "capturado": "2026-10-26",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -10315,6 +10631,25 @@
   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0M4UXBvLTVhWWt4SVBMQ0VzcWU0SnJOWUpCNlB5ZUthZWllY2xUaVlyaFpOMkdZR0pUNjhsTnBPdERYUEo0cWdGZzluS1ZQQWJsQVNabkxPa3ZBWjdWeGlOclZNRzFJd1VzY3BoYTl6R1JyRnRZSU9KcXVtcHVwcXRvTnpKUHB1WUtab0tDUlRoajh3ZHBHZV9nLXFSWjM0Q1ozZTJ3OENxTkdj0gGyAUFVX3lxTE5hWGg5dE00cGxGdjVqU2VHaUdXcUNSaDJ4WEJiTHVzc3EzNHBrbHZFSUEtT3VUaG9YYzhsT3dBaXFfSnlUMjJRa0JoQ3NDeXU2M3ZPZlBaVnJOOTNDUDFjWFNjdEFnSjZHNFplYmFDNjdLd2RLc002U3RiMWZoYVFZTHhJM2FnM1hlTlE3UWNwempRZDdsLUtEbjhuaDBCQ25mNmQ3d0l4RDdwWXBzUTM2dlE?oc=5",
   "clave": "aseguran creando estan marginalidad pobreza problemas",
   "capturado": "2026-10-06",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "91afcd9e4fec",
+  "fecha": "2026-10-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Cadena SER",
+  "titulo": "Salud mental: hablar de ella, pedir ayuda y no sentirse solo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0ZUX3FfWUJjOUtPVkZzR0lqUVZoNnFPOEJhS0t2YjJybWtUank3TDZpQVpZc0JIUnd2Sjhqd0lpWFVtMTJlQXdBbVpLSnBfUG1JYTNZWXM1RFdULXRSUHVBa1RPajczZWdZekROUGdnckRhbzRMMjJhTGxNOUFKNlNDRHFza1l2emgxb0dwZ3l2dGxOWHdRdDNrZnZIYV9MaHY0bDdCQkdpMF9GR25yeE81LWRMZElV0gHMAUFVX3lxTFA3dnpmdVJKcWZsWWVSd0dWSHpqS3IwTGY0SFVGZ0FkYXl0Z3MzYmFnQlY5R21pRHZOWHUyeDVxVENCMUJFaGRGT2t4cWJva3hoWVFJSG1tTU01THJoU09uYUp2M0swSDBaN1VzMGNYU2tHNi1fbkx1V2NNSk15d3ZTNG01UDVPTndwR0hubkRJaUNWcDQzWl9FSTNLZHFjZGo1YVdJclFhZmZ1ZHVQc3hNcmZsSWgtdFVwNER5SWZGanJCcnFaX1kzblBVMg?oc=5",
+  "clave": "ayuda ella hablar pedir sentirse solo",
+  "capturado": "2026-10-26",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -18101,6 +18436,25 @@
   "categoria_auto": "producto",
   "topic": [
    "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "00499a90a5b8",
+  "fecha": "2026-09-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Cadena SER",
+  "titulo": "Galicia avanza en el cuidado de la salud mental: \"Es una prioridad, todos estamos concienciados\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeFgyeGc2Uk1FOF9hUUJSNEZDckx1LTVoS18tVTJ0Z0ZTRDZnRW9kd2E2Qk1BdHk4YjBwa2xSVWx2WEQzSWVmWWJ6YURIa2FlajZqQWNYZ1R4WlpFd3dWWU1YWV9iSnRZbDdBZTUxSk5XN0V0Y0hLUmpIVlBLNDhyTHRjSHdfY204Qk1zMDRNbzFPMUFsU1ZZN3AwM3VTbVlyZUZtMWJ6Zm9zTGxjc3BnM1FZY09xZEo3bjFOaVZEWlZZbW5qWWowZzVWOTRpUDBjcjVrLW1BSWNZUkNVOENmaGxR0gH2AUFVX3lxTE5tQ0RmbjdQQkxwcmpfblZEVG5WTzFkVF9JWkd6VlpvYWNXWWNNNWF3cGd0YlYyYTZsYWIxNXFMbVpkYTNiQzlfNVBSUlE4aUFWQ0VueHFvQUxTWThsV1ljb3BCSzBDaWZRcV9JN21jdlJjckROT2kzU0kzSlotNFQzaGRoRV9fUUlUNUNibDdPLVNGWVlydi1pcTdCWEh0Snk1b1RrVHotd1hEM0dHc1RBc3BfOEF2MVZNUDBBb0FWRFh5MXp1NlNkZUt4WmxBR1N5a2hURmFqNi14NnA2bDNlZTlYYUdxR0JOd3BENTRrWWh1ai1vdw?oc=5",
+  "clave": "avanza concienciados cuidado estamos galicia prioridad todos",
+  "capturado": "2026-10-26",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -26368,45 +26722,6 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "05c84615b5cb",
-  "fecha": "2026-07-27",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "CUT-MG",
-  "titulo": "Novas regras da NR-1 ampliam obrigações em relação à saúde mental dos trabalhadores",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVJaQTk3QlNWWXpsOVJMRWFLcGlfRWJ0SE12ZmQxYXMwTHo2eDhINFh3SHZPbnE4YTVLRDB1anItYkQ0UWVTVWtfQTVtbUJ2bWJWOXJ6VWE5VnZuRnZQMzhlZEtiRW91LWRPX0JCQjNqQ1duQmdndjVZc3Fody1aVFFxX1hPZ2wyWkozNE9BaklCVG1SbVE1ZVZyR0VBQm9tYnQ1WUliUlk3cHBUSlpWQ2NjU1dRNDg?oc=5",
-  "clave": "ampliam novas obrigacoes regras relacao trabalhadores",
-  "capturado": "2026-09-05",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "0a6cbfbcce2f",
-  "fecha": "2026-07-27",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · PT Portugal",
-  "medio": "Maranhão Hoje",
-  "titulo": "Startup maranhense usa Inteligência Artificial para ampliar cuidados com a saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQW1IeGtELXZucDNOV3B2UzBTVlo3N1lVVXdOcFFhMVpvVE9nOFBQNHFnV2ZrV3RYcjdfc2xnUkRyUk5vVW11ZVZjUEg2Z2ZlLW1fa0VVZDRVRjhYTXhVREd0UDNZeDZQMVI4N3BIYzBSY2ZXV0VoaXJSODlmMFlNZm80clpqdE5OZ3FlTmdMNm1JRjNHeTlGMUFSR2lCa1pfZlpYNmRoYk9xVm9xeEFN?oc=5",
-  "clave": "ampliar artificial cuidados inteligencia maranhense startup",
-  "capturado": "2026-10-21",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
   ],
   "ruido": []
  }
