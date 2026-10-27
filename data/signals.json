@@ -1,5 +1,102 @@
 [
  {
+  "id": "3f1964d123d0",
+  "fecha": "2026-10-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "PR Noticias",
+  "titulo": "La nueva ley refuerza los derechos de los pacientes ante los ingresos involuntarios en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzFvZFR3a1lRNl93RXppdEZoNURJVDBJc0pCc1lLX2NvbUhFZkVxbHA3UHdIOF9sSlRycEJ1bks4R1ZxNGd2V1hyNHhuV2pOa2lhdE13dnJVd2ozR0JTRWtIZmxHNEtQY2EyXzE2TFVWUmRrUURXME1fS3I0VDV3aTNzMzRRbDJfMG0tU3RYcWhKeU1kcGJlY0JXNndWX0N0S2VlNVl3bmkyS3hBQ0xuVy1hVjczMld3d1FSekRkMk1PeDZGM0xDXzl4LWU4aFHSAc8BQVVfeXFMTVcxb2RUd2tZUTZfd0V6aXRGaDVESVQwSXNKQnNZS19jb21IRWZFcWxwN1B3SDhfbEpUcnBCdW5LOEdWcTRndldYcjR4bldqTmtpYXRNd3ZyVXdqM0dCU0VrSGZsRzRLUGNhMl8xNkxVVlJka1FEVzBNX0tyNFQ1d2kzczM0UWwyXzBtLVN0WHFoSnlNZHBiZWNCVzZ3Vl9DdEtlZTVZd25pMkt4QUNMblctYVY3MzJXd3dRUnpEZDJNT3g2RjNMQ185eC1lOGhR?oc=5",
+  "clave": "ante derechos ingresos involuntarios nueva pacientes refuerza",
+  "capturado": "2026-10-27",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a3c0f69cfa7c",
+  "fecha": "2026-10-27",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | Reclaman una Ley de autismo que garantice los derechos y apoyos de las personas autistas",
+  "resumen": "pacientes: reclaman una ley de autismo que garantice los derechos y apoyos de las personas autistas",
+  "url": "https://www.consalud.es/pacientes/reclaman-una-ley-de-autismo-que-garantice-los-derechos-y-apoyos-de-las-personas-autistas.html",
+  "clave": "apoyos autismo autistas derechos garantice pacientes personas reclaman",
+  "capturado": "2026-10-27",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "de4a15ba4879",
+  "fecha": "2026-10-27",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Identifican un mecanismo cerebral que podría explicar por qué la obesidad favorece el deterioro cognitivo",
+  "resumen": "investigadores de los grupos de neurofarmacologia de las adicciones y los trastornos degenerativos (neurofan) y de regulacion del metabolismo (gestobes) han identificado un nuevo mecanismo clave implicado en el desarrollo de alteraciones neurodegenerativas y deterioro cognitivo provocados por un consumo continuado de una dieta rica en grasa.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-identifican-mecanismo-cerebral-podria-explicar-obesidad-favorece-deterioro-cognitivo-20261027112801.html",
+  "clave": "cerebral cognitivo deterioro explicar favorece identifican mecanismo obesidad",
+  "capturado": "2026-10-27",
+  "puntos": 1,
+  "prioridad": "C",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "adicci"
+  ],
+  "ruido": [
+   "dieta"
+  ]
+ },
+ {
+  "id": "ccb67faef6b9",
+  "fecha": "2026-10-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Tribuna de Albacete",
+  "titulo": "Apuestan por trabajar de forma coordinada en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcVVsUWtfU2hQakxjdlNBSVZMZjNKSEJkaEEwOXVsbE9LSUhYaktaaGVQbVJFQzBkU2xNNk5TV1B1cG50Q2Q4a1BGXzNjc2ppOTNnM20ydW04aG42T2ZaOEk1Y054MEJyRk0wTnFJRU1FanBsQWR0UDJpc0cyUmQ2REVHNFpiaVFBbFQ2RFVyYXhiMVhER3hHVldrMzBjRGZwWGpsd1cxcXRIYTUwLUIxcy1RZDNILTRFak02aTF6VTlhb2xPVi04R1F5VmRWYzN4SThfS3p0eXJHN0E1?oc=5",
+  "clave": "apuestan coordinada forma trabajar",
+  "capturado": "2026-10-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4c8e249c27b3",
+  "fecha": "2026-10-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Hoy Aragón",
+  "titulo": "Entra en vigor el artículo 13 bis de la Ley 4/2026 y restringe los ingresos psiquiátricos sin consentimiento a casos de urgencia vital: qué cambia en Aragón",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZnNVS09ld2ktRUJfVDhsY2didjJGdm5MUjBqOEItMHRodEpTTUN1TEFIX0w1NWhOTGpBeWZkd1JoQWpPbHFITUF5TGtqR1hpbE1aMnE5dEYtTXBGaEFDMVNSZjVoWU9fUFJSWjkybi1Gb3lQczJsb3pQSjFPN3Jwa2hyUTh0NndfN01jOWFqaUlPVWdlekxvYThhUHJXaThaVVh5OVBPVnBQYWFubkU1Snp3R3RLekVueE5BWEVxN0lUdmg4TERPS3lrek5iX01vemlwMw?oc=5",
+  "clave": "2026 aragon articulo cambia casos consentimiento entra ingresos",
+  "capturado": "2026-10-27",
+  "puntos": 12,
+  "prioridad": "A",
+  "categoria_auto": "mercado",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
   "id": "382a855b31d6",
   "fecha": "2026-10-26",
   "carpeta": "01 ESPAÑA",
@@ -61,6 +158,25 @@
   ]
  },
  {
+  "id": "55af805061e4",
+  "fecha": "2026-10-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "COPE",
+  "titulo": "Claves de la futura Ley de Salud Mental de Asturias: prevención comunitaria y menos intervenciones involuntarias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPajRNUUZUdXhVQkttN1oyTDJ2MGpKS2ZxSndTaW5WZUtDV2N4dTh6T2tjVW1HdHFtSVZOTTJvNG1IUjBsR1h5SkthSk5RWHlkbzZDUWduQjhtOEVta0VvUm0zYWxxSldpdDY0WG56eE0wTWNyTEdRRGFGTEpUbnBLX2s1QzdnU0JVcTV4dnl2Ry1nb2YzNEFtdkNCdWw0ejYxdWQ1cEN6enRHbFl5TmZDOEZSbDlzRjF5amw1MzNHa0g5clBLLWpEX1UzdTZMbndKaG5iVEVzNFZFRlFwX01HQlNDQUVSbGUtWG1NVEVLN0ptelZUYmgxMDc1WlA0VzFqNUhuVFBzTjdkbDFEUmFSVko2MHbSAZoCQVVfeXFMTXdsTkE0aW5lOVlfaVpraG1WRzZkXzFCUm10aVRkZWpzZHdhbmlUWUpkVkNLU0NFYW1fTTY2a0RBQmI3eEFLYUxZYTE5b24taTNDZ1IwYmNwWkNzOVhnLU94V0lIaXFCYmp3Yjlucm1HMXZhUkVUcUxJcUhweEtCVmV5WXBMemU0SG84UnlFNlJJc01MdTJ6SzROX1dlR0tVZDJERVotZVRFV0YxRFJYUVJZUDB3TmdjRUJCMWwwZlJkNDJraElDNy1mX0tpNWtSR19ibDZldk5EX0hhTGVLV0Jjazl4SXprVE00bWpFQ1Bmd1lhRlV5UnBaaG83TTlaS2tOdkhCZC1HbFUya2dyQzgzdHAyQkpURnB3?oc=5",
+  "clave": "asturias claves comunitaria futura intervenciones involuntarias menos prevencion",
+  "capturado": "2026-10-27",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "e87ba882844f",
   "fecha": "2026-10-26",
   "carpeta": "01 ESPAÑA",
@@ -80,6 +196,46 @@
   "ruido": []
  },
  {
+  "id": "af5c198614d4",
+  "fecha": "2026-10-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Pueblo de Ceuta",
+  "titulo": "El Defensor del Pueblo cierra el expediente sobre la atención a la salud mental en Ceuta",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmIwUm51YVhuMGd3OWVMSzFHUU9jOXFfaU5iUDdGNTBwZm9NUU1XX19EekZEUk9Vc2J3UVQwdE1YRkxVVGZRc2xlaTh6dXVkSlpyUHo4aGV5Q1BpMzBqV0xMSHc5SE9YaEJfV1JZV2J3eG15bGNwQ3ZtR0dueU1DaDFaU0doUFNMVENWVE50OUxyeGljcElWQm0xNWc3dWNMWHc?oc=5",
+  "clave": "atencion ceuta cierra defensor expediente pueblo",
+  "capturado": "2026-10-27",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8e5044e85902",
+  "fecha": "2026-10-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "Revista Sociedade Militar",
+  "titulo": "Governo Trump quer abrir o tratamento com cogumelo alucinógeno, ecstasy e ibogaína a até 2,1 milhões de veteranos com estresse pós-traumático ou depressão, sem que nenhum regulador tenha aprovado essas drogas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSXBWeXV2V3J3QWVCQ2pxaV93NHJZNENjVTMtSUctZ25LQWtkaS1HZnVkOWpGOGM0WUc1VDhzbWFKTGpuU1UwQXZKNGIweGRzakMxRGFiN0JXNkdKaTZPRVZrS1FHYVEzVmxlNkxCRWpuLUc2M2drRV9NTmI0c0YxUjhJMWo5S2NBazczRVdMX2pNd1JOVnlqdDNacUlUaDluTklLZ0Y2MG1tdUZRVWJKWUlMeU9hdzVtR25xTDJvYVNscWhyd3VuVXlqMW5pdG4ySWNV?oc=5",
+  "clave": "abrir alucinogeno aprovado cogumelo depressao drogas ecstasy essas",
+  "capturado": "2026-10-27",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "depres"
+  ],
+  "ruido": [
+   "trump"
+  ]
+ },
+ {
   "id": "a312a01ef7c5",
   "fecha": "2026-10-26",
   "carpeta": "01 ESPAÑA",
@@ -97,6 +253,25 @@
    "salud mental",
    "psiquiatr",
    "psychiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "cc3d5525d3f1",
+  "fecha": "2026-10-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Rio Branco",
+  "titulo": "Prefeitura de Rio Branco abre 2ª Semana do Servidor com foco na saúde mental e no bem-estar",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTmw0Vm5TcTBQNF9VNVUxMFl3NDBhNEVBNlBtWk1nOVZlYm1SNEtlSW1mbEtMS3RnNWhfWF9hd3RFSnhNN0lXTHUzaHFNdEJMUENZNW1QVVhrRmhIeUxQMHZsYmo3U1NXR3BzRklmVkdrVHVDSFZpcURISUFkeXdlNFQ3XzlrcktXbkR1amdHdVNwVlBBd0JrY25vN3J0VGZiZ2tIdGpTYnRWSlhZVXBaeld6N056b0k2ZjAxV0NTa21NQVlIc3M0RVdjNA?oc=5",
+  "clave": "abre branco estar foco prefeitura semana servidor",
+  "capturado": "2026-10-27",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -139,6 +314,140 @@
   "topic": [
    "salud mental",
    "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4104a8e4799b",
+  "fecha": "2026-10-26",
+  "carpeta": "02 LATAM",
+  "feed": "Saludiario",
+  "medio": "Saludiario",
+  "titulo": "Depresión circadiana: identifican un posible nuevo subtipo relacionado con el reloj biológico y el sueño",
+  "resumen": "la depresion circadiana es un perfil en donde las alteraciones del reloj biologico de 24 horas podrian influir en la persistencia de los sintomas.",
+  "url": "https://www.saludiario.com/depresion-circadiana-identifican-un-posible-nuevo-subtipo-relacionado-con-el-reloj-biologico-y-el-sueno/",
+  "clave": "biologico circadiana depresion identifican nuevo posible relacionado reloj",
+  "capturado": "2026-10-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0527ca824ef7",
+  "fecha": "2026-10-26",
+  "carpeta": "02 LATAM",
+  "feed": "Saludiario",
+  "medio": "Saludiario",
+  "titulo": "Novo amplía las opciones terapéuticas para el abordaje de la hemofilia con inhibidores en México",
+  "resumen": "novo desarrollo un nuevo tratamiento farmacologico para la hemofilia a o b con inhibidores y funciona mediante la molecula concizumab.",
+  "url": "https://www.saludiario.com/novo-amplia-las-opciones-terapeuticas-para-el-abordaje-de-la-hemofilia-con-inhibidores-en-mexico/",
+  "clave": "abordaje amplia hemofilia inhibidores mexico novo opciones terapeuticas",
+  "capturado": "2026-10-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b0b93d21df25",
+  "fecha": "2026-10-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Pueblo de Ceuta",
+  "titulo": "ACEFEP celebra que la salud mental gane garantías legales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSHM4Y0JLOUhBUWFnY29Eb2JRM3hEVlNpX0JyejZEWjg2UEpCR2R0clVKRXRRanFCMkJMVlJsdTlCU2c5QWpuS25zUWxjb2RZSjdKZkNCMlV4eTY5UlRLUllkVXJqMHcyOVRXTWdHQUlQaTlOaU5BQ2tiVWZGRElUVHpmVS05dHZXNWJxcEJiQV9kT3dD?oc=5",
+  "clave": "acefep celebra gane garantias legales",
+  "capturado": "2026-10-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b24fc7764bea",
+  "fecha": "2026-10-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Congreso de la Ciudad de México",
+  "titulo": "Buscan ampliar acceso a los servicios de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2ZFY3ZQdXR3NFpfUHBiaDJXcFRRVVktYkppRlFDRk4wTkVndXpZRHJMc1F0dXQ0N0FzYUppaDFEMS0wbFVrbld3MnI1ekdMVFpJVmtjVFRaMW83emlESFVqNzR6RktOc2xuWm5kekhVaC1QeXVPWW5fVHM1Z2F6QXFBY1MxOEViMnBfRGtjRWFGYlRuVW44SXRRTlJKd0hI?oc=5",
+  "clave": "acceso ampliar buscan servicios",
+  "capturado": "2026-10-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5dbf0b3e0fa9",
+  "fecha": "2026-10-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La tinta",
+  "titulo": "El mes de la salud mental: entre festejos, vulneraciones de derechos y ajustes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGVHZFlvLXZpUzViaGJpUFZfaXNaSW9IWnNmUExYQkpVdE5DQkRBQy11OURQeTF0Tl9seGV0cjByNzczWElTR2JvQUpIMllVdmhKLTFBN3FwazBHS0F1cTFDYWM0eVdTWHEtMk1vMXdFQ0NoOF9lZTBCWHFEbDh3RXBEZUhqWG1lTmZIY2RuUTY5MGdWdXh4b0pHSGtxUQ?oc=5",
+  "clave": "ajustes derechos festejos vulneraciones",
+  "capturado": "2026-10-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a410e8e782af",
+  "fecha": "2026-10-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Paranaguá",
+  "titulo": "CAPS Solar dos Girassóis zera fila de atendimento em Saúde Mental em Paranaguá",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tTlJCYjlvaWFQRmI4QzdFWVpVLW5yVG1VTTI3YklMSmNiQ0NsYlJPdDlHdmZYX0l6Q3VXUmRiWm1xTUgybUI2bWhvQ0g0XzZHOEQxcTdsZlR4SnpTQm50bDBsMXNrbFZp?oc=5",
+  "clave": "atendimento caps fila girassois paranagua solar zera",
+  "capturado": "2026-10-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental",
+   "caps "
+  ],
+  "ruido": []
+ },
+ {
+  "id": "64c5f102ad15",
+  "fecha": "2026-10-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "RCWTV",
+  "titulo": "MPMG apresenta ações de integridade em fórum nacional sobre saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQXRsM3ZFV0ZTTEVfa3p3WDRPeDI5V2RocWU1X1o1TWEwMTh3MU1mZHFJanp5Z1lSanZ4UjlxekktTm9QU19Bc1FkZEgtV2VySW5MdWs3emZLMTV1Y21lOEpybzdiU2hwYUJPaHVHSlRVTENOMVI0OWx3bmZaR0NZbTJETi1wODBqZGdnaFJoZUo2ZjJCNjVBRmRmaFp1MlFUUlNfZF9hc0I?oc=5",
+  "clave": "acoes apresenta forum integridade mpmg nacional",
+  "capturado": "2026-10-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -741,6 +1050,25 @@
   "ruido": []
  },
  {
+  "id": "a1ea9c307421",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Qué.es",
+  "titulo": "El derechos en la salud mental: la nueva ley ya está en vigor y así te protege ante un ingreso involuntario",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BYlJHNVRPNWJSOHVIVEFUU19JYzk5eHFsOGJ5bndUU3F0UGUtc3hvM0J3LV83WE4tUkNYZTVxZF93QnZBcElEQ2dJN2NEU25WSWFhTmRyWlFPOC14d2hFVkh2QllNRXBMX3FPU3V3?oc=5",
+  "clave": "ante derechos esta ingreso involuntario nueva protege vigor",
+  "capturado": "2026-10-27",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "428735b473e1",
   "fecha": "2026-10-23",
   "carpeta": "05 GOOGLE NEWS",
@@ -1084,6 +1412,25 @@
   "ruido": []
  },
  {
+  "id": "2dcaab2e4e51",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals (edición US, hl=en)",
+  "medio": "EL PAÍS Uruguay",
+  "titulo": "John Cryan, neurobiólogo: cómo el café con cafeína y el descafeinado pueden influir en la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWmpwV2ZlYVRnT2hUcVRkODBsemMtVGw0WWZqVi1OOXMzY3JseENUTDRsNDJLSzhvOExGT3NacERQSzdDRWFPTGxTWlAwVTFHNkpjOHpDY3ozU1k4dFJKblpYVXplRXFNMlRyQXQzYnRobnE4ejY0aGRvR3I4TktoVmpGempMT2s1U2JFbzU2Tmt1eVZ6RnZUSVZTRkdWSF8xSGI5MUVVbDRWUm5KbGx0ZkIyZ1pRbnVSQk9FeVYtZWVOc3VWQk5hem84NnRQVm1vVmlDbDBHTTgwVl9EN1NJ?oc=5",
+  "clave": "cafe cafeina cryan descafeinado influir john neurobiologo pueden",
+  "capturado": "2026-10-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "a9c107846f69",
   "fecha": "2026-10-23",
   "carpeta": "01 ESPAÑA",
@@ -1349,6 +1696,25 @@
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10MnJyVU41eDQ2WGw5ZTBXVXlqMFU4bkp3N1ktNnFKREx0RUNIaEdQRUFQVmtKbGk5MG90TkhNbzFoRHVtaDQwUXNDdlpxbVA2RFZES0o0ZUJFOTVkbnRtM1NMNzlQWGlVcXc?oc=5",
   "clave": "ante derechos entra garantiza intervenciones involuntarias pacientes reforma",
   "capturado": "2026-10-23",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "55623f952a1d",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Ministerio de Sanidad",
+  "titulo": "Entra en vigor la reforma que garantiza los derechos de los pacientes ante las intervenciones involuntarias en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wejQ3a285ZnUzMlB5czFUZ3BoSm1xbGR3UFJiTVlHN1hmVWY3TDF2YVRUTE5nZmhRZ1BoWm9SbkRMdklvTk5YZzJRNHVabF9WLUpJTXZkT0tHdUt4QlNpMXFBRm0yeTYySk52cEVR?oc=5",
+  "clave": "ante derechos entra garantiza intervenciones involuntarias pacientes reforma",
+  "capturado": "2026-10-27",
   "puntos": 7,
   "prioridad": "A",
   "categoria_auto": "regulacion",
@@ -6193,6 +6559,27 @@
   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVHpDTml6Sm5YTjlBeWlrVS1FUmJRckhrUUdVYUo5dWgzdTk4SjNSNk9EZGI3U3FpY3JpRW84WGNuYl9NSXptMWxlTDhIV2hKaGw5VW5yZHVxVmtpSVFQRWxZRGpVMVpwZXhKN2MzbFZGYW5HWXZUT3I4LTQ4bDE5UDJmblRJUUYtUF9rRTBCX3RmNTlnN29rNW94R3Exc21QYXJEN2R2eTBjakxhMUpNd1k1YTdTNGJwdkZEZmlJcW9raEVaNUxjeUkwRmFFbVJkYndjaWFieDZpZVpwS0hOY1BvVUo1YXZmb19rM0c2Z2N1bThJR21r?oc=5",
   "clave": "2026 mundial",
   "capturado": "2026-10-24",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
+ },
+ {
+  "id": "f10176963581",
+  "fecha": "2026-10-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Gobierno de Canarias",
+  "titulo": "Día Mundial de la Salud Mental 2026",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd3ZnczdaQThNdDNIaGZscXZzVG9Lc2NmZ2hEYl9RYlRKT3lNQXdoZlJNYk1IelhHTnIzNkl3c0k2MGx6NjM2bW9xcXVUSTRHRGZaazhqNDdZdjJRWnk3WVdEb1lnN2lua2EwUkZ5bTZOSXg4NDF0cmFrVWJUdFRRYnNqUFNTRTIwRHV2dXI2LTdGYXJoMjZGYnQ0NllsS0RoOC1WRDRENnB6aXRSZ3dfMVBzcWpKeUpfYnhZem5LdHRyeVZucHFMNGxkZ0pwMVBlTU55eVluM2t3VXNwZTlJSk5HZU5hV2ZIaGZXejdSRUpsRkFWOE9J?oc=5",
+  "clave": "2026 mundial",
+  "capturado": "2026-10-27",
   "puntos": -1,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -11122,6 +11509,25 @@
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRWdPUzRNQVdPRWtMNU5va1ZjODJqaUtOckJmb2dDeTdwNVlrNWdlSW11TEtoTWtlUDRpM2JZbkxqR2F2TERfMVFfNGdEQ1gzSUljWHRiQTgtQ203ZTFwV3FiajhwSHViWDVqdjlUT3NnYWlXMk5kZUVCcTk4NFJFWG8zaFpjWmNCbzVzRGY4VHdDTVhoblJsUVVxZVl2cm9fNmZEcnMxQVc0QWhZdjd3V3AzMGNVV3NpV0g3ZGNHUmU?oc=5",
   "clave": "cubarsi fear judgement players seek support urges without",
   "capturado": "2026-10-12",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "722030285c37",
+  "fecha": "2026-10-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Expatica",
+  "titulo": "Accessing mental health services in Spain",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTzhva1RIZ1lGcG5tWENxUG1zd1dnT2dsNGhKTTN4NDdtRUgzWFIwN040WjFWZnloMEVfTTRaLVJ2YlJaUzZpWmJZUGtDenh2Qi1JS1lwbFkyNWx6ME90WVFWM0FJQjR4bHp4aXlvYmUtUV92QzU4NmItUlkwNWNBMjdLaVpHNUZzZGlGd1U4c2lnb1U?oc=5",
+  "clave": "accessing services spain",
+  "capturado": "2026-10-27",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -26037,6 +26443,25 @@
   "ruido": []
  },
  {
+  "id": "67de7dc3c1ac",
+  "fecha": "2026-08-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "CNN",
+  "titulo": "New Mexico judge orders Meta to pay $567 million into a child mental health fund",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVQndfMnRpYWhXMHpQLUZ6R1p3VWk4Skw4RmtwV3dPdWpNd3AtNGJkQzJKb2p6cEVTVnM4enJWSUxNSWdzOHhrd2pGcTNsb0J0a1pMckZoRUZRODZFX0NRVU5PRnlYUmJlZFY4eGN4RHVHYmdaZm00?oc=5",
+  "clave": "child fund into judge meta mexico million orders",
+  "capturado": "2026-10-27",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
   "id": "4eb729194dc3",
   "fecha": "2026-08-06",
   "carpeta": "05 GOOGLE NEWS",
@@ -26645,83 +27070,6 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "bf757b7909f9",
-  "fecha": "2026-07-28",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "valor.globo.com",
-  "titulo": "NR-1 avança em saúde mental, mas gera incertezas",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1JKOW5kTEVUVjN2SWtvNGhycTVDSGtsQ29MNHBjWHZrTWE5cnJIb1llcjdEdWdrUjBXTENRMWNlMHZZTU55NVNmWFU1Y2ZFVFpfU1ZwTE9wTllvRTdVdmE0WVMzMFdjUGJiVFdXdkhMelZLdElteHpRWjY5cTdnQnFsTUNlNGdvRFJUYkFSTjBGXzQ4b2MyNWlpTdIBqgFBVV95cUxNOWllX1BjOTRkNHI1TFNnMk9ZMUhxMWlJTTcwUXBOSTFjZXN6X3BHaUV6eDdJaU16U3hHU1BHdjhkYjRDZTdSMjQyc0NoME5SWEwyQm9LUkN5a1JsXzFLbm1TeVNjWThJb3BWZDlrcWtOQ1RWYjRrWmVnaDB4ZVNwSlZoeG11TlFZV3FZQmctdjRnM2JTMTBjN1VTRnh3Z0JFRGthbEdtakhOQQ?oc=5",
-  "clave": "avanca gera incertezas",
-  "capturado": "2026-09-05",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "b963d5507795",
-  "fecha": "2026-07-28",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "heraldo.es",
-  "titulo": "Lanzan una app de móvil de salud mental con contenidos de expertos para competir con la IA",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZHpLajZKWm9lYWpHc3RLMV9LMDFSbVB1UjAwV0FiYlFKdUVsREMxZVNVUGdEeldlM2llMXNhQmtZUENld2I4bDBCLVQzWlJ3djhqVnk3UkZWRlpaY055dmI5OE9adUxlWUV1ZU5fVE85dEprZ1RrSmtOYXlDSWdDd0k5TUxWbDdraTZjVmFscEhsYlR0WjhsYXVOamt3QVNuY2xnRmx4T0ViRzhHRjVYQXJRaDlHTy1YaUNITU9WR0TSAcYBQVVfeXFMT0thYkdaUmZKMnY5SnJrOU1WVnowaTNfX0gyX0tPdVBFQzN2TWRuOGRXNl9BRHh2aURERExNS09ka1UyUTdjNTFVN3otMmJqTGNMSzhkaEk0a2JkWlNqdFNjcVhYVmtoQVM4ZHRWUndQTEViYlg5TWJtMlpBOWRQeXpxYjhFVUs1Zkw5bHo5NzVIdFkyZFFnU3FvUG9wRVFnYlJaYzJLamJnTUxsZHBid1JUc2ltNEJGbC1zaXR2dVk3b3VsZjFR?oc=5",
-  "clave": "competir contenidos expertos lanzan movil",
-  "capturado": "2026-09-04",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "faac37cb963b",
-  "fecha": "2026-07-28",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "El Economista",
-  "titulo": "Oryzon duplica su inversión en I+D y refuerza caja mientras acelera sus terapias en oncología y salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdkYwZHlqdXVvLUpVSHpRQTZVek1yaHZMd0Q4UzRzLVVIaDJabEgtdFl1ekxHN00xa1FxQjg5UDgxaWVzSVNuRnllck9Oa2VDVzNTdklVS3FKem9UMTk3VlRlUTlGd1N4UzFyU3FlWktnc2UxcGh1aS0xenlrdk9nQ1hnbkpweWYxZDV3eFpXb3hKbXMwdmdpTEp0YlBWZERhWVJ1bUMwdHFPNkw4X0Q2cWpNaFB4d2Z4WlUxNjNGZ0hDcVI5YldwNjh1VVlJRDdGb2txcUVKeHVjeTlTNkppWjZlUzJCbTVJYVpXZTQyNnJBQW5saGhDTHVLSHlDbFNROGkzVVFWV29oQVM10gH3AUFVX3lxTE95SmFzdWhjaUZkM2NmaVdCVUNGNGlpMWJEbjl3cW5EdVNoQ2duVEh5Y0hQSC11TWYzZHdOOGhPeE0ycmhKWGpjZFNWaldpakJwVWxGMGdKdDNUWTY1V1pFODNQOEhDNGFEdVJwMjZYUU1mNGhZaEJ1NGFOZ2NZUkhzSjRaalY1cmp3MG5FLWJpM1dHODNnQ1AtbGNZdXhiOFpubzhpanpzbkhfb2pDYk1EYkctbWZwUDBzbkd5X3NILW1qYW9SM0NvSjBtZ05DXzVPQjNRbUJnYmlOTXFWQTFValNKSTFRdDIxNFEtQ080Y0R3cDdtYTg?oc=5",
-  "clave": "acelera caja duplica inversion mientras oncologia oryzon refuerza",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "42033c23628f",
-  "fecha": "2026-07-28",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "El Economista",
-  "titulo": "Oryzon duplica su inversión en I+D y refuerza caja mientras acelera sus terapias en oncología y salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdkYwZHlqdXVvLUpVSHpRQTZVek1yaHZMd0Q4UzRzLVVIaDJabEgtdFl1ekxHN00xa1FxQjg5UDgxaWVzSVNuRnllck9Oa2VDVzNTdklVS3FKem9UMTk3VlRlUTlGd1N4UzFyU3FlWktnc2UxcGh1aS0xenlrdk9nQ1hnbkpweWYxZDV3eFpXb3hKbXMwdmdpTEp0YlBWZERhWVJ1bUMwdHFPNkw4X0Q2cWpNaFB4d2Z4WlUxNjNGZ0hDcVI5YldwNjh1VVlJRDdGb2txcUVKeHVjeTlTNkppWjZlUzJCbTVJYVpXZTQyNnJBQW5saGhDTHVLSHlDbFNROGkzVVFWV29oQVM1?oc=5",
-  "clave": "acelera caja duplica inversion mientras oncologia oryzon refuerza",
-  "capturado": "2026-09-11",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
   ],
   "ruido": []
  }
