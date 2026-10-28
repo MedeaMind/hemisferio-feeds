@@ -1,5 +1,176 @@
 [
  {
+  "id": "b0224ec4b6e8",
+  "fecha": "2026-10-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "https://www.infocop.es/",
+  "titulo": "Sanidad abre una consulta pública para desarrollar las garantías y derechos en salud mental previstos en la Ley de Discapacidad",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcWpkcUpvRGs3STdieUJJMlo5SmFNV1ZVUXlTVkF3em5mbUdsU3pUWExPT040M2NNVWZsZy1rblRMRzVRRkMtMW1wOHlxVTFWNjdWbkl6MGwwREdzbWdiTTNBUTFxb3JQdXpOcUE1Qk9nTEljTVhuNGw5MlFyUUdmdGtjVmxkU3hyWWtjNmlNS3U2OWRnUXpDd216RklET3RFdHJta083T1dKRFdIYjdvSGFOeC05ekhhdjJMMEJYOGxxQURZSHdFZzVUeEhIWDByc3hzajFVOVpEN3VrenJJd1BwMURuQQ?oc=5",
+  "clave": "abre consulta derechos desarrollar discapacidad garantias previstos publica",
+  "capturado": "2026-10-28",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a9128a3ecbbc",
+  "fecha": "2026-10-28",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/providers/universal-health-services-grows-revenues-trims-earnings-q3\" hreflang=\"en\">Universal Health Services grows revenues, trims earnings in Q3</a>",
+  "resumen": "the acute and behavioral health chain's operating numbers further disappointed investors after fellow for-profit hca healthcare outlined a tepid 2027 outlook.",
+  "url": "https://www.fiercehealthcare.com/providers/universal-health-services-grows-revenues-trims-earnings-q3",
+  "clave": "earnings grows revenues services trims universal",
+  "capturado": "2026-10-28",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "behavioral health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "641807d7a5f1",
+  "fecha": "2026-10-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Enterate Noticias",
+  "titulo": "El Senado sesiona este jueves: la reforma de la Ley de Salud Mental entre los temas principales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbkp1ODV1LVhQcnpuaC14Umh6X3ktZ0RnWGVTRTNfemJJWEtKaFRLWkJ2NWdmV29VUDJGYm9nS1c1TnJXVjlVOHlkZVBzVGhNOWFMNjMyQktNUW5sZGFhUlZjSDA0LURZRHY3OGZKNHUwYU5wTlhraFkxbkVwbzlaTVVISVQyYXZHdkR4QURBNk16S0NveXl4enJ0Zi1tTG0tVG1MdFAyaUwwcXNQRmdCVnlIVlQwZW8?oc=5",
+  "clave": "este jueves principales reforma senado sesiona temas",
+  "capturado": "2026-10-28",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "23c241072d07",
+  "fecha": "2026-10-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Hoja de Ruta Digital",
+  "titulo": "Senadores y especialistas impulsan una ley general en materia de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDdLYk9iY3ZZczlTLU5xT3Zxd3UwMXRBLTZ0QTRoVEhHRzA5aXd2bVVTOHFsMGI0dkZfQ1RVZmlpNi00eWxsdWZFLWpPYkJoMk9CdzdZMzZ6N1JjWF9WbkVGb3MyOTQ3Tm9rMUN0MWJuMnJfZlRKckx2NHpSUjVnZTktN0FPSURwSFZNODJkMUlvVm9hWFI0TXAzTF85amtVV1VUNEdtWDN5cm8?oc=5",
+  "clave": "especialistas general impulsan materia senadores",
+  "capturado": "2026-10-28",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9f34fb95f194",
+  "fecha": "2026-10-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "MDZ Online",
+  "titulo": "Salud mental e inversiones: el Senado define el temario de la próxima sesión",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjFvX1JZN25pYzB2bGRDQ1RmY2xaOG1WSzdLN0p1OTdfQjZYcWl0dTlJaWFwVExiQzRyelZqdUFaeDRoNGZ4NFVDdFV5ME9kZ21JR09aRngySU1yT213dDBEUThkVWRaRFB3WlNlNURJR2lRYkdMVDF1bFVRSXF4VDB6dkdWVkt5LU8tUnc4REd1alZYRldOY0c0WENTZnpkaWFtZmRzaHFGeVNhOEhtUDQzT3prRVR1REwyam5DeWpaNUlmYmRVdlNB?oc=5",
+  "clave": "define inversiones proxima senado sesion temario",
+  "capturado": "2026-10-28",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5228364e2c7b",
+  "fecha": "2026-10-28",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "Comunidad Madrid | Atocha habilita un puesto de atención psicológica para los familiares de los viajeros del accidente ferroviario",
+  "resumen": "comunidad madrid: atocha habilita un puesto de atencion psicologica para los familiares de los viajeros del accidente ferroviario",
+  "url": "https://www.consalud.es/autonomias/c-madrid/atocha-habilita-un-puesto-de-atencion-psicologica-para-los-familiares-de-los-viajeros-del-accidente-ferroviario.html",
+  "clave": "accidente atencion atocha comunidad familiares ferroviario habilita madrid",
+  "capturado": "2026-10-28",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e2a00052bac8",
+  "fecha": "2026-10-28",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Gaceta Médica",
+  "medio": "Gaceta Médica",
+  "titulo": "El proyecto MARINTE investigará nuevas moléculas de origen marino para combatir la progresión tumoral y la metástasis",
+  "resumen": "liderado por pharmamar, estudiara moleculas de origen marino para evaluar su capacidad de modular las integrinas αv y validar su interes como posibles dianas terapeuticas the post el proyecto marinte investigara nuevas moleculas de origen marino para combatir la progresion tumoral y la metastasis appeared first on gaceta medica .",
+  "url": "https://gacetamedica.com/investigacion/marinte-investigara-moleculas-origen-marino-combatir-progresion-tumoral-metastasis/",
+  "clave": "combatir investigara marino marinte metastasis moleculas nuevas origen",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6f9a4a27818f",
+  "fecha": "2026-10-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Hoja de Ruta Digital",
+  "titulo": "Buscan ampliar acceso a los servicios de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQl82SUd0WEN5WVFucWk4bWNVSDAzVGdzd2trclBhY1d3dDJ2ZjVCekJNcjZXeXV3NGdwNWFDMmZEZTMxeTJ3T3JXakg4cDB4UXFWRjUxaC0xbzlyN0V4Q2dvek1FeXlhRkNNRFhsMUx2Szhkb05rM3p4dVVtdWg5N05pRjcxSHNXaHZr?oc=5",
+  "clave": "acceso ampliar buscan servicios",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ca3dad4e016e",
+  "fecha": "2026-10-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Imperial Valley Press Online",
+  "titulo": "ICBHS leaders participate in International Mental Health Conference",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRk1icVpTQnJLY3F4b3I2WmdYc3NkZFlxUkdWbzRMbHJ1ZUxfRTlxZFFKRldPMXIxUF9vV2ZueFI5dzFna051RDhYend0eG84U3FCWUp5NzJTdVdIN3oxd0d6SENmM3d1ci1PQld4NUVfS3U0MGVsYUJWWExzem9jaVhaYWluTnROamFRX0tCOUg0dHBUdmZqTUd0N2RrZnNsQkR6Rlo3cXBuZmJpUTVEaVFTTGFWSGsxX3c4WnRjWE9iYzRUbENiZmdoTkRXWHdnVlFKRk1nQWJiVFR3ZmhpNDhqNGpETVk?oc=5",
+  "clave": "conference icbhs international leaders participate",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
   "id": "3f1964d123d0",
   "fecha": "2026-10-27",
   "carpeta": "05 GOOGLE NEWS",
@@ -19,6 +190,44 @@
   "ruido": []
  },
  {
+  "id": "5317553b6feb",
+  "fecha": "2026-10-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infobae",
+  "titulo": "El Senado busca sesionar el jueves con salud mental y guiños fiscales para inversiones desde USD 12 millones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNkxjdWpLTWdoa0JRU1lOeEFlTG5XTVJLUlVMR001bS1qSWdRS0NxSVBtNXZ2SHZlY2ZkV1JnSUtqVUpNWHhxQlpZUUhkZ09fdDVvNmZhcWdFclJtaHQwX1VYWkp4a2xHSmo5RHlwajNGczRTQTN5OGNXakhJR1I3Nk10Y2NFWlN5QVZfWHowaTBEMXJmNXFEY0Y5b2w3S0pGcHB0UWhuVHZrMmdtUzYwYUE2NnNESUxwNk9UTmJmTzZTZ05mTzAycVpFSkJ2ZDRuclJURnZsUmdlQmlNVTlHSEZHMXg5dXp60gGDAkFVX3lxTE8wTzJhNU00Z1dsS0EyZ0x4Q3F2YmpweVZ2WTI0QTFGTGNzSHZNOEx1NVhMVkdCTm5IbldBd0ZYWnh1RGhBbExlN29ZTjBuaHNvYzlNZHA4Z1VWaFZaUC1nRjcwZnh0TWxja0pYVTFKaXFRYmR5SnBZanJyUjdjOUJkV1R5MVlXLWJzcW93NXhrUHNoLWREUXNQTmJpcmE1X2c2d2R1VmdLZFRUZWlLd3llZDBNZWFHYXpfXy0ydGJhQTVZQUdXbVJNY3dXb3h3Y1lZZko2NDNuMUVrSVFNWXJxY0lwemJ1X1VONEFWRHV5QUJwdjMybW50bnZ2dHNBYVpuYUU?oc=5",
+  "clave": "busca fiscales guinos inversiones jueves millones senado sesionar",
+  "capturado": "2026-10-28",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "83a61d473ddc",
+  "fecha": "2026-10-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Portal do Município de Piracicaba",
+  "titulo": "Samu de Piracicaba realiza 943 atendimentos relacionados à saúde mental em pouco mais de 3 meses",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUWVvZjJoQzZqUEhlaUptbFc5NXEzaXIzVlhoVzVsSDV3WS0xX0ZzcVVib1ZaZmwxMlA0TDV3VENrbUFFakFia1g4TjdRWVRjR0o0SUt2V1I2ZWJDb0ozQmdzcWlYWDBkSVY4UlJuSUs1TnpUNFUybFdhdTBSTmJvc0c0ek1ic3J1OHRqTndkV3gzNlJuZ251SkpmVHNvUkdGa1B3MEdjUWVkLUxvM3lWM3AtX05xR1lXdWpkdzE1SWdlc1ZwRVlUT0d4cmtxQmhv?oc=5",
+  "clave": "atendimentos mais meses piracicaba pouco realiza relacionados samu",
+  "capturado": "2026-10-28",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "a3c0f69cfa7c",
   "fecha": "2026-10-27",
   "carpeta": "01 ESPAÑA",
@@ -34,6 +243,83 @@
   "categoria_auto": "regulacion",
   "topic": [
    "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "97529a5b9499",
+  "fecha": "2026-10-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Tiempo Argentino",
+  "titulo": "Reforma de la Ley de Salud Mental: además de inconstitucional, podría agravar los problemas que enfrenta el",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWW96cVhvenZOMGltdENILWZNMFc1T0NUbEFiV2ZtVVZ0QlFpOUY5SVZ5V2QxVHhIbVQxdEd6NUFJOXg3RmtiSU1aZHRJZ0ZBM2kzY29GQzV4ZlQ4c1o5VDUyY1YxSGxxNkN1dTlERGZpeGJBeVBnc0VKM1ZJbmkwVW5JTmtaRG51aWVBNUE0YUJjNUtSSDU1dnZFam1NYXFqeE1zLThyd0hCZU9KZXV1X24xZHotQmNPYkd3U0UxTlZ4RXpMS2JoMlFBTE9vVDVTQTJRWS1RMmxGdUhNS2NjRmlzblNMTHlodmtSRjZLdWgyUXFQ0gH6AUFVX3lxTE5NcDRvZFhWbUhYY0FEdXhBU2tPV0RsNnh5dHdEOFVaR0F0ckdWWGZseUxQb3lqU3BFRlZtdzRqYlAyY2VmVFNKYnVvdEVPbjh1UTBYZ085ZndWZTVNS3ZUcFA4NC1rOVE4YXhqTzhUWjh0VmMtN2RqdzYwQzRMWUh3OXg0eENxWkZYR1NyNXlqd2dPQ2tSQlVYLXpILW1HZmE0TTN6ZjRTeVRSRmoteXFtVlRkVU5JWXVBVXJBZDV4Mm1TXzVwcEQ2YWJybU8wMWRfZHVkNWZndVRaS25kMWp3TTNIZGVyZmFfWXlQSVhtOFFPSHNMSzVXQWc?oc=5",
+  "clave": "ademas agravar enfrenta inconstitucional podria problemas reforma",
+  "capturado": "2026-10-28",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5cc8b7b4cd89",
+  "fecha": "2026-10-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Realidad Sanmartinense",
+  "titulo": "Reforma de salud mental: advierten sobre el dictamen del Senado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14WVB6bW1YUE9KWGM0dDV1aWtaellIR0t2SDh4Skl5Sm5EaWFneFBBRUNpSEs5OUtLVUVVTlNuaEtfY0w4SmROWUJZelpDZEZOTEpMQ3JnR0c4QzZsNkZ0WV9wVHJKNjFoQjdKd3dqX2wwQlNpbUNPX2FEY9IBgAFBVV95cUxQWGtWNEV0LXZYR0hCWlFhZldvUHVrRENHYWFEeGtKSFpSUWFCbjYxMEdxdUR6UUhOVFpyTURnTGlkbFFTa2Q4QXFVMlFIcWRLYXpwTE1BQWYxRkpTeVZkQVpxd0hCdms5WEhDOWNtcW5zZUFpbnp3ZmhWWjBRamJmbw?oc=5",
+  "clave": "advierten dictamen reforma senado",
+  "capturado": "2026-10-28",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d1232ebdc17f",
+  "fecha": "2026-10-27",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "¿Por qué las mujeres con autismo presentan síntomas menopáusicos más graves?",
+  "resumen": "psiquiatria raquelserrano necesidad de apoyo mas personalizado \"pensaba que me estaba volviendo loca\" o \"pensaba que tenia una enfermedad\" son algunas de las apreciaciones que suelen manifestar las mujeres que presentan autismo y que han entrado en la menopausia . la razon estriba en que sus experiencias con la menopausia no se parecen a lo que han leido o escuchado sobre otras personas, un hecho ",
+  "url": "https://www.diariomedico.com/medicina/psiquiatria/mujeres-autismo-presentan-sintomas-menopausicos-mas-graves.html",
+  "clave": "autismo graves menopausicos mujeres presentan sintomas",
+  "capturado": "2026-10-28",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psiquiatr",
+   "autis"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ed221a9fc658",
+  "fecha": "2026-10-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura Municipal de Itapira-SP",
+  "titulo": "CREM busca ampliação de atendimento em Saúde Mental de assistidas junto ao Ministério da Saúde",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWJCRnAtMlZGRXp6bXQ4d1labVM5d1BWcUxqNG5yQnh3SUh4azRrYTA4STlzLXVoME9TNFJuNTRkUmRNQW9hZnpJdjU4WnhQeEVYSW0xZXZMWGphcEVpLWJwRERCd1dGSklNUG91WFNQX3diSDVDdlZuMnpMYVlFV2tZYzdvQjQ3Ri01eXR2STIyaDJQYURhbnJpXzlYMG1KcVZpWXRTd2xtaThrYXhIUDRRYTE3c0ZSV0lpNmJTX2hjUDA0ZENFbGhwbTIzMWc?oc=5",
+  "clave": "ampliacao assistidas atendimento busca crem junto ministerio",
+  "capturado": "2026-10-28",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -74,6 +360,82 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f559faf5f89e",
+  "fecha": "2026-10-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "NoticiasNQN",
+  "titulo": "Zapala sumará un espacio pionero para el acompañamiento en salud mental e inclusión social",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQi1uNnZJdlZlaDdmODRwOGJ3MTBBZDRmQXlRMW0welozeWMwc2xhd25KRVhObmNfamJ6N1kxdVEtQTJ4a2RKbXJiS2pYNWpUeHpiTXdFVGZ5dXRTQjBEM25lcDVRWlNKd2NHbW03Yk9nLWp6eWR1NjU4OWY0ZnNmMHJ4YVdRUm82LUFRTjVUdlFrY19tV2pVd1FlTWpzSk5SVWNXMVlhT1lDeXJ3dDFPdnJ4ekNjY0R4OVN3cjZFTm95djVheXBpV3FvbWt2YmtTcGktUWU0am0zekNsaFF5a0pn0gHnAUFVX3lxTE1jWjJBSUprMm1VU3FpaFZmbzdXeDhhaDZMZTJqZmd1cDV4bjVDUXFDbVdaeG5xN2thMGpaM0hpTkdPZk5kcHBsc0ZoemdlOXJIVFp3NFhOdGpmY3pJb1UxRnpRUDJVbVhZVUl6RDBzRWcySnN3UXhuX3hvdktCZm5NanhOMlhjcUpzR1ZvSDVIMWt6UXVOTjhtWFpBYjZhQ3NvTDZTV0ZCRDVHUnkyc0h3X1hfQTM0OTIyaVkwNWlPQ3ZCNmd5SHpHUXpUTzdVSHp1QTVacDIzWmVmNHRDNFBlM0k5RVcyaw?oc=5",
+  "clave": "acompanamiento espacio inclusion pionero social sumara zapala",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "22e51351cc75",
+  "fecha": "2026-10-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Rio das Ostras",
+  "titulo": "Estado conhece trabalho da Saúde Mental do Município",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUQ3QUdVNFBaZ0JIc3RRZUNoUmcyQ3lDM2F0U2Ewc25KNldHQ2lxS1ByTmp0V0d3LTUwSXVLRFNyVXBSMjBUVnZqV3NZcS1YLVRVYzZtNUJheEREVW96UXVrNTlOVTIzUnc4UktoYjNIYy14SWsxS2JxVzRlcU5ZWWxzUXFTZ2UxaV9xZG9IM1AtR1A2a2VpVm81eUhsbEdCWXBBcXgtRWQ?oc=5",
+  "clave": "conhece estado municipio trabalho",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "616b3d7db966",
+  "fecha": "2026-10-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Campo Grande",
+  "titulo": "Semed debate saúde mental e vínculos no trabalho escolar – CGNotícias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmJOb3ZIdXdPWmhCMmhubTE2UktORkFFemhMa1dqb2lYcjlOdU81RFN0T2pmSzF1eU1udWpuaFhjbFdBOXlVdEdjWndFN1pRb2haclJLUE4zOERYVkN3V0dMbExLYWs3YjZTMUs1d2pLczdtLVNMTWY0OHBYRmZ3cnlVQzJBaXlWOUNjUk9MMkdkVDd0QWJOcFk3ZmhzSS1QNjQ0RTJHNktHUzdnLTNz?oc=5",
+  "clave": "debate escolar semed trabalho vinculos",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b329df257b6f",
+  "fecha": "2026-10-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "PREFEITURA MUNICIPAL DE Sorriso MT",
+  "titulo": "Segurança do trabalho e atenção à saúde mental pautam o prime...",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdzU5eXo4YU1wYkl6V19oM1dwVWFZZUNGRWtfNVowR2VSNTgzbk8wR1NleUVpQjF3cUhtTUJRYUFQa0dFZTVaX3RkM1pBZFZTR1ZHZmVMcXFnN1NlTVd3U0FKM1g5SzNNZUtNcE80M2lmQnFQX0VlSmZka3Njd0R6c1lDcW5IaGdtSUxzX2x2NlUtRlE4d2YyY0V3MlhMSVRQWTFRWUtOSUF3VUNMb1JPR0U3Mkt2NG1KUnNaaUVzWkkwclhSQVdpd3dhTUZZdTVfX0ZuRk96cjNaSktRWUh6MA?oc=5",
+  "clave": "atencao pautam prime seguranca trabalho",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -448,6 +810,25 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4c32b9a550a1",
+  "fecha": "2026-10-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Diario de Madrid",
+  "titulo": "Madrid participa en un proyecto europeo para prevenir el cáncer en personas con problemas de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaTZJWnAtckRlZ2ZMdjlYVFNoSndkR1FnckRLQTkxOE1EV3BSc3RuSGtDbEpEaFdVcUdPdXdkT0ZjbTFOWnlDaTViZXl5ZFVFWjRHYW1JWHAyU3psU09BbWhEQnQ0WG1JTVlaX1ZRdkRvaEZwa2tFUGV0Z3A1SHVTSndBQ2FCSGRrMVQ0RGZHZE5aUS1DUW1CZkVLTXRzSkw1X3A0aGtvM0hlUm91QnBRZGFTWWtKRnRUZU9oRjQtN1EyOXA4TTgtZ0ZULXJJRGN0cUxYM0N0b9IB3AFBVV95cUxOOE9ZN2ZzQUhnTkU2ZXhMOUhvWkFuaUxDTF82U0VtS2tGNzlSVGVBRmFzbXl0TWZNamtHRlRfZ2hoSXJlMi1jT0Jwd3Jtb0cxdlJsaHROTmNFelFJaVJ5WFU1LXJkTjV0XzRBdE9WcHh3b001LXg0am5IODdwSkRWWHY4UkYtOXhuLWpsOFRFZU56Q1Nib2NYVVJrZjE4V0xncmo5dGwxRXhfMS1XNmJtanRWVkxaLTRVdDBHblpsTDkyTC1mRXhreDJxeE05RFdoTHJZVTBWVnR3SkNn?oc=5",
+  "clave": "cancer europeo madrid participa personas prevenir problemas proyecto",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -1431,6 +1812,25 @@
   "ruido": []
  },
  {
+  "id": "0164e271fcd8",
+  "fecha": "2026-10-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Goias.gov.br",
+  "titulo": "CGE-GO promove encontros com lideranças para discutir saúde mental e relações de trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmtlb2NhZThBM1U5UVZjNk44bmhrQ3NzVmxNeWRGX3Y2QVZWVHh2Vi1pRlk2Z1hVRDBHc0lRakJEeTlOZGdxNC1xU3JMVElqclQ1MFpjODhkVXBkRVFKR016Umprb3NST0o1c1dDSlpBSnpKTmoyb1A3QlpMYUpfdHdzZTlxdm5mZjZnUDF3WjQ2ZzEtRXpjeVhJYlZURm5rMjFPUHVHSFZER1l5U0F2TnIwY3dlcWczNlF6cU9Ld0NfcXc?oc=5",
+  "clave": "discutir encontros liderancas promove relacoes trabalho",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "a9c107846f69",
   "fecha": "2026-10-23",
   "carpeta": "01 ESPAÑA",
@@ -1715,6 +2115,25 @@
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wejQ3a285ZnUzMlB5czFUZ3BoSm1xbGR3UFJiTVlHN1hmVWY3TDF2YVRUTE5nZmhRZ1BoWm9SbkRMdklvTk5YZzJRNHVabF9WLUpJTXZkT0tHdUt4QlNpMXFBRm0yeTYySk52cEVR?oc=5",
   "clave": "ante derechos entra garantiza intervenciones involuntarias pacientes reforma",
   "capturado": "2026-10-27",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4f32709c3404",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infobae",
+  "titulo": "Entra en vigor este viernes la Ley que refuerza la regulación de las intervenciones involuntarias en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd05vd2hucnQtZHBKSUY1eHhVbU5LRVpUUmxIdTN2QWsyLTdQRW45NHZDOE5yZld6UkRkZklKcDkwLWF3VkNjSzg1Vkt4MWNuYUZSVUJjUm9SMmN1MExJZ1U4WHZsN3o3XzVJUVB5YVZzRVM1eDMyZmV4RTJUUDlDSlM5QzdEcGxmZjQ1cnVKaTdqOXVqNlJ6X0xCVFlUWXhONjZjTDkwYjlYcFl4aDEtekpWZ0t4SWtrblpneVJWTUlROG96bjQxcWxKemNXamZBaXBvZFBwclZGbEpJUmhON01TbmtUVWROZVBQeU1teDNPc3RGTklWSVNB0gGUAkFVX3lxTE9RbWVpVGVTYUE4TENpMFBXTmlZemtCeUE0OHIySUVXTlphNkxnV25TbDVCcUE1Zjh3U0dhY2JWblZjaGZBd3J5SUNpWnBXb0NDek5BYXFZZDRXUXZhcm9hZHY3a0pxWHZxY2ZuWFdoOWphTXROb1VtTnkwLUpReVdBLVBRNG4zZ3JHUGZrR0NySTFwZE9ScGZybHJ5SGFQUUpNXy1CZE9lNVRIVURxRDJ0Szg3bFlsYmhTQWZmZGExcnRhTm8ySy13a0daNGNfXy1IVHMxSWVuaUxIYjRrY0tZakpoZmN6eVJWSm1KQk13djJlbGtZdjlWLWk4UmU5NTBSS2pIcDFRYVM2UnNSRHljWFcwWA?oc=5",
+  "clave": "entra este intervenciones involuntarias refuerza regulacion viernes vigor",
+  "capturado": "2026-10-28",
   "puntos": 7,
   "prioridad": "A",
   "categoria_auto": "regulacion",
@@ -2281,6 +2700,25 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4a8300965581",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Redacción médica",
+  "titulo": "Sanidad aplica desde este viernes las nuevas garantías en las intervenciones involuntarias por salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZXdBcnE0Q012SU9JZ0hsYU9pRkk1a25IWHAwOTlJaXBOTFdRSkVDYnBIaFRkbXpFOUNYRVIwbXEtcGhoOEROMDdFay1hYm1OdlpDTWdxdEJGQVEtN2pranU3UDFFYjRYTERvRTdzYXlja0VFXzY0dW1QdHpPNjBRcWRjc2huOERfUWltTnJfdWZGMEJOUWhxZ3lGdkVoUnE0Y0tUX0pnQUZfU0k2VXRPOFRrZTRNWm5CM1VKUzlOcmJ2NTEwMGNjMU1KVF9vdU1XSDFHNG5kRDkxeEM2cGZSTUF0LVFYMnNZWE5pTVF3ZFgzVVhvYnlBTTJMeWZLcWVDZ3gwZTZmN1dBTjhWRjhKODIzc0bSAZoCQVVfeXFMTkh0LS1XOTBPLWl6QXh3cXppcVpZUjZtX1I1QlhoUmVRWEE3M2lIQzJEWTBnMEE4WW1jaThCYWJXcWNMWnVjcjZMYjlXd1dwSW1BVkhRQ3dqRjd2N3V5eXd1UzFmdW9VbTNNcWdYZEhlZUQ3OEluRzI2M2xReHJxTTdpanVuaDdmNGxCbHJFQ3gxTERJRHVWUHE4Rk5ONWlCMVhTakRIQkxPM1pkTHZ1YWMxbmU0SmVmOHB4czFPdGVPRE5MQ3lEbmhzWEdGOWZOaVpoUFVjMFg5QUlWTXVjX3JTOWl4TDdSWllMTFVZU1Vka2NHYjhKZDBKYW5sZUVuV0RycHpCWUFqRHN2cmEyNHVNbDZBdXZzbk1n?oc=5",
+  "clave": "aplica este garantias intervenciones involuntarias nuevas sanidad viernes",
+  "capturado": "2026-10-28",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -3154,6 +3592,25 @@
   "categoria_auto": "partnership",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "721f2f7dfd62",
+  "fecha": "2026-10-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Coren-SP",
+  "titulo": "OPAS realiza pesquisa sobre saúde mental de profissionais de Enfermagem e Medicina",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSDdQUHprN0pXY25XemRNelZPbHFYZlN6ZWJ6Um5WbC1wcXpKVkYtc0hLcDMzYmJndnBGNEVkQU5iOVdBQjZSY25td2F0M1A2OUhndmx4U2JTQ2dDLXp2ZE1aaXpRdHhmTFFUSkViVTFtaTV1WjBqanRuTHZkN3BjRFhvRHBIQjlOQ2xzWHVTa0paWGRDbExtc3Fub2NDUVBzWk90aExqUGE4U3RJVnJ6RVBobl9qMkxtVTJOQVYtLTM?oc=5",
+  "clave": "enfermagem medicina opas pesquisa profissionais realiza",
+  "capturado": "2026-10-28",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -4532,6 +4989,44 @@
   "ruido": []
  },
  {
+  "id": "c4bc0232ccbb",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Perfil",
+  "titulo": "Polémica por una aplicación de salud mental creada por Connie Ansaldi: terapia vía Chat GPT",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb3ZJSWwzWngwQmVDd0JGdDFzMGE1eXRyX2VWSEFqRUN6OXdQYzRQNHR3ZEdwUlhBaHdWZVd3aXRENlZwVmVEcnJ1bHFTSTVpZjJzcjhWaV9NVTJuU3BGRmpwR05tR1JvQU1pOTZCejRTUW9MS0tydXlfWXpNanZKSDhKcWRiNWd1ZmxnTUhsZUtmbi1sT1R1ZjUwcENxREdjV0s5TXdyeXkyVjRlV09taHhGVlU5LW10UmZjekxCOHRNLVctNXVWb2xqcFlIMkdPUmJhVmRn?oc=5",
+  "clave": "ansaldi aplicacion chat connie creada polemica terapia",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "be6200c8d514",
+  "fecha": "2026-10-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "PB",
+  "titulo": "Servidores da Segurança Pública de Cabedelo participam de palestra sobre inteligência emocional e saúde mental - Prefeitura de Cabedelo",
+  "resumen": "servidores da seguranca publica de cabedelo participam de palestra sobre inteligencia emocional e saude mental prefeitura de cabedelo - pb",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVBWVEZ6MkdkazhzSURoT0hiZkZ6dldiU29CWF9BaDNneHNNbmVjZUhsbnpUcU9NekMyNkh3MlZnV1F4SUF2aGxZSXJvclZ3UmpUN05weW5tTWp2ZEZNekViNjdhb3M4Nm4wWUZzZmtlU1pMUGF3ejNXUzg1MXh0NERfT1NRQlhNMTFUZVNPWnA5SDZvaFFGNmstQXhoTGhzSkpmVU05Umg3bHM2aEh5X1Bpc3N1blhMVHFlQlhkYWx0aTV1VWZuWnZvUEtvejAwY0hiaA?oc=5",
+  "clave": "cabedelo emocional inteligencia palestra participam publica seguranca servidores",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "83c6603b9514",
   "fecha": "2026-10-16",
   "carpeta": "05 GOOGLE NEWS",
@@ -5483,6 +5978,25 @@
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUElOU1FHakhZcDdrUEpZUkdCTUZKN0kxTTMxQVc4VVpvbWJMWFFEa0M0czlkNHNUT0tWd2t4WUY4RnVVMnpRNUZYTWpyWW9DcmdwV19hNnRuLVpOQklpVDgwckYxblNnb3E3YzJfZHA2Q0szN2tHQUtvVXRFVnBOaU1aQkZHVVNFZFowcWd6TWtzUQ?oc=5",
   "clave": "acoes mendonca suspende trabalho",
   "capturado": "2026-10-17",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "10d5d1157d50",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de São Pedro da Aldeia",
+  "titulo": "Ambulatório de Saúde Mental promove integração e inclusão social em sessão de cinema",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTFVjWDd6MDJfVGhYcGhHWmNsU0tTQ1ducmdRY2dsTGszdDlYeUhoRXRrTXRfUWp2eHU5eE1LdmVxc0ZJcVBTeE5FZEZLcDIzMkpnREVsV0ROX2RYYnlraThPY3JwbmNOdEY2Z3FzcUhSU044ZEVYbnNHaTZsRl9YTlNyUXB5Tm9jUFpoMWRfWnRkUEk2RndfY1dRUzNpRlVCWjFPRHVmVHJfTkZ1U2c?oc=5",
+  "clave": "ambulatorio cinema inclusao integracao promove sessao social",
+  "capturado": "2026-10-28",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -6545,6 +7059,26 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4c8129aefcfb",
+  "fecha": "2026-10-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "PE",
+  "titulo": "No mês da saúde mental, Prefeitura de Petrolina destaca atendimento oferecido pelos CAPS - Prefeitura de Petrolina",
+  "resumen": "no mes da saude mental, prefeitura de petrolina destaca atendimento oferecido pelos caps prefeitura de petrolina - pe",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGFBZ2NaeFNKYkRaeGdySWdoYzhZVVZ4bDRCWGdVZVJqQWphTHliRFAtVGxFQ1lrYVl5SXdMQ2I1aDdpa1FXT2RxLXRzMm5GSHdVeFRybm12NTN6di1kUFpPdGpubzNLSUd1SjBnOG9LYjljOENkM1JIWE1TTWg5WUw4bFB2LVBnUlVhVEZ5ak8yUmpveERuUWdoT3RyOVBaS2xGNkE2SDB3S3BEZ2VFRWZYY1Y2RzA?oc=5",
+  "clave": "atendimento caps destaca oferecido pelos petrolina prefeitura",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental",
+   "caps "
   ],
   "ruido": []
  },
@@ -7880,6 +8414,25 @@
   "categoria_auto": "otro",
   "topic": [
    "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4983d45abfdf",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "PB",
+  "titulo": "SAÚDE MENTAL Prefeitura de Cabedelo oferece serviço humanizado e oficinas que ampliam vínculos sociais - Prefeitura de Cabedelo",
+  "resumen": "saude mental prefeitura de cabedelo oferece servico humanizado e oficinas que ampliam vinculos sociais prefeitura de cabedelo - pb",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbno0R2ZQaGUwY0s2NWsxd1hSNVM4TTJia0hsUXAxQWhtZm1oT2NvWTQwZ1ZqLWpkRG4yV0pIRldwaGlLS25aMTJhMHZJRkExRi1JU202b3FIeXZ1bXZNTlhHdG1uQ2RmX2VNNFktZEJXQm1pbE5PQVA0T1dZUFMzR0ltVl96ZV91QzBGamhySmdEZw?oc=5",
+  "clave": "ampliam cabedelo humanizado oferece oficinas prefeitura servico sociais",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -10339,6 +10892,44 @@
   "ruido": []
  },
  {
+  "id": "1fb9fadf811b",
+  "fecha": "2026-10-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Barreiras – BA",
+  "titulo": "Saúde Mental de Barreiras recebe equipe da Sesab para fortalecer implementação da política antimanicomial",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWUlYZWdGQXQ4M2dEY1g2anJQd245M21rQkxYZDlsTm5rN1pWTGpaSFhramxOQ3Roa3NQTkhobnA0cjMtdllWZG1FUzctUWlIS2xNWFpHNk53V052WjFoT2F2TFV4cWFrazBxaUJfb0c2Zl9rV3lDdGMxM2FGVG5wYnM2RGM3Z2lLd1VRcTNNdHY3cmZLa2wyOWFtLU5hVVZPT2VvSmFySGdlVC13QmxoNkp3dDczT0RjcTlYamZaY3UwcjRvbDBvMFoyR21BZUk?oc=5",
+  "clave": "antimanicomial barreiras equipe fortalecer implementacao politica recebe sesab",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a207262ecbcd",
+  "fecha": "2026-10-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Maricá",
+  "titulo": "Maricá oferece acolhimento e orientação sobre neurodiversidade e saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWM1ZzNUWXpOYUhfVzcxODhIbVRQYUJYMmNpLUhmYlRYeDdEMmQzOFlXbjNQeUNRWTVZUHF3aW9GSGxWUnEzVFhlZGNKeHI1TmkxQ0QzSWpqSS1WZDN2Q2k2OG5fZHlWN2ZHQ1BkUkJobnd1NDA2LTU1eU9pay1lWUd4QVJHdHpfc0UxWGxpYmhZS1lGR2djeFF3bGFjTmZRZVNaMTFCWU9ZQ1dzX2ltRGRPQlBBQQ?oc=5",
+  "clave": "acolhimento marica neurodiversidade oferece orientacao",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "1c66e7192c1b",
   "fecha": "2026-10-06",
   "carpeta": "03 BRASIL",
@@ -10551,6 +11142,25 @@
   "topic": [
    "salud mental",
    "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e0c1dc36c02b",
+  "fecha": "2026-10-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Rio das Ostras",
+  "titulo": "Parceria com Estado aprimora serviços de Saúde Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOUQ2MUtwakdoU19wb2xUMmZLakYwOTBiU0tKRlZsd2tJT2VqMktHdmdzQ2NXczY4bXIwOERoVjBTZGZfbUJLMkFzbzRNc09FVV8zS3QxYlVETFJCMzR5OHMxaDRMbHhjMHlQQTVJc29yV2lsRHNsYTRUSW0wVXJuVmJoOTFsYWtNQjVRV3RBTm9iSUg1LW9xSjhuV3N1MVE?oc=5",
+  "clave": "aprimora estado parceria servicos",
+  "capturado": "2026-10-28",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "partnership",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -11037,6 +11647,25 @@
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0ZUX3FfWUJjOUtPVkZzR0lqUVZoNnFPOEJhS0t2YjJybWtUank3TDZpQVpZc0JIUnd2Sjhqd0lpWFVtMTJlQXdBbVpLSnBfUG1JYTNZWXM1RFdULXRSUHVBa1RPajczZWdZekROUGdnckRhbzRMMjJhTGxNOUFKNlNDRHFza1l2emgxb0dwZ3l2dGxOWHdRdDNrZnZIYV9MaHY0bDdCQkdpMF9GR25yeE81LWRMZElV0gHMAUFVX3lxTFA3dnpmdVJKcWZsWWVSd0dWSHpqS3IwTGY0SFVGZ0FkYXl0Z3MzYmFnQlY5R21pRHZOWHUyeDVxVENCMUJFaGRGT2t4cWJva3hoWVFJSG1tTU01THJoU09uYUp2M0swSDBaN1VzMGNYU2tHNi1fbkx1V2NNSk15d3ZTNG01UDVPTndwR0hubkRJaUNWcDQzWl9FSTNLZHFjZGo1YVdJclFhZmZ1ZHVQc3hNcmZsSWgtdFVwNER5SWZGanJCcnFaX1kzblBVMg?oc=5",
   "clave": "ayuda ella hablar pedir sentirse solo",
   "capturado": "2026-10-26",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0846f3d4a3bd",
+  "fecha": "2026-10-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Diario Sustentable",
+  "titulo": "La salud mental de los chilenos cae a su peor nivel desde la pandemia (y el estrés por el cambio climático es el que más sube)",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNC1oV1A5QURFdnJQaFV2SlBLak5PRHduWXJKSXhteDlqQnlZaTNCRWp0NlQ3YWZMTUFsakpuVFAxM3p4NTJxdUFOdEhFNTY0V25uWUpldEJqeEJOOEVibWNuSmJHWnpkMTB3T2p5UnkwYUMzcnpVWUlkS1BuMm9zNmhWSk9IYnRKZ29iellpcXlNVDhaMklqaFU4U2xBbW15RW9HRDZyeHZwOE9NcXhaMjJtb25ZRjJrU1lCNU4yVUQ1dERaV3BWZ3Y2MlY4a0pfTGNPNFh0S2lpcUZYelZndUJ0dnliM1QwWG54MXZUNUE1bGdlbE1PNkEzVQ?oc=5",
+  "clave": "cambio chilenos climatico estres nivel pandemia peor sube",
+  "capturado": "2026-10-28",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -11537,6 +12166,26 @@
   "ruido": []
  },
  {
+  "id": "a3f92f378e18",
+  "fecha": "2026-10-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Gravatá",
+  "titulo": "CAPS II promove ação sobre saúde mental com alunos da Escola Elma Camilo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHloYTJ3RjZZNVFQSGtwS2VvX2xmTUd1WEJFcDRxMTUtNWRUUnBuWHM5dWl0enNSY3doUERSVkMyYTQ3Nlg1dVN3T3g3YUMwb3V3eVBDRXV6TVNpelZEcnJ6bjFqbnc2RHdES3lEcXhmdEFYVEhmOEpaNkZIeFdBV095bnN2SXN5OUxTdnAzYS1WU0JiVnRyZDFwV0tKY25kMVQtVmJtY1ZlVEE?oc=5",
+  "clave": "acao alunos camilo caps elma escola promove",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental",
+   "caps "
+  ],
+  "ruido": []
+ },
+ {
   "id": "3dbcfcdf693c",
   "fecha": "2026-10-02",
   "carpeta": "03 BRASIL",
@@ -11752,6 +12401,29 @@
   ],
   "ruido": [
    "dia mundial"
+  ]
+ },
+ {
+  "id": "67f481b420da",
+  "fecha": "2026-10-01",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Maricá",
+  "titulo": "Maricá realiza roda de conversa sobre saúde mental e ansiedade para jovens de Itaipuaçu",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNXzBOVE96U3p0WkJkMW02NllYUzBORE9HM2EzeElhLUxWblN1ZmlTTWxQMU9MYlFlc2pyVWNVVm80dnRBWVdST0ZoRGNWbmEwUjJvbFI4Yy1Bc1E5RUJuWGdSS0dmbDVsYnVQRnJiNi1VdkZGOWVHVUxDZVlaOXMtaXBsQkI2TUlqR1FkSDFUNDBnaXdCVjNvVlZReXk4VUVXSVN5UXl2LXAzekFiMVdrOXE5WGpkUEdoc0ViS2lVU2dlY0k?oc=5",
+  "clave": "ansiedade conversa itaipuacu jovens marica realiza roda",
+  "capturado": "2026-10-28",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental",
+   "ansiedad",
+   "ansiedade"
+  ],
+  "ruido": [
+   "roda de conversa"
   ]
  },
  {
@@ -12099,6 +12771,25 @@
   "topic": [
    "salud mental",
    "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "cb3a79175afa",
+  "fecha": "2026-09-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Maricá",
+  "titulo": "Maricá promove reflexão sobre saúde mental durante Setembro Amarelo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORm4wUFRqRjJuWnRxcHRZNldVa2xzTFlIR2dpUlVIUks0RklYM2xOTVBuY2R2M05lWThsWko4WXdGVllyNThxdFY0c1hNLXNsWTBvVGNxT0pqWXJkOGpNLVNIbUluZjZISDR5Tkd2Q1k3S29LaG1rRks4NHd3WjM2cDB2eEprVGNGVk8yN1p0akt2eEZReFRkekdBTktQRVVoS0lzOWtfNnU?oc=5",
+  "clave": "amarelo durante marica promove reflexao setembro",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -12527,6 +13218,44 @@
   "ruido": []
  },
  {
+  "id": "d5e840dd91fc",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Lorena",
+  "titulo": "Prefeitura promove palestra sobre Saúde Mental voltada para as mulheres",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1dFRF9ham5sNlY1Z0dROUhwbmFvb1pXblN4RzZZTVJIemliaUdzM0FfdnVIaTdqZEdZeFdHaU02S1YtS1R0NWhDTXJlYjdHR0s0VlRwMXhQYjNNYmdfWHFweUJTaHpiUnRDaENubFkxMDZOMTVQMFNIVWxDNm9fRTJYWXdlbzdqNlpEVXIxSHpzUkYzMWtOOURpb2dWbE9aWWctSGxqLVRCbG0yRXZnT2ozcXRTN0hadHdLSTNmREtUNTZtdlp6MngwOFg?oc=5",
+  "clave": "mulheres palestra prefeitura promove voltada",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "028bf4a2378b",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Maricá",
+  "titulo": "Maricá amplia ações de conscientização sobre saúde mental no Setembro Amarelo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3dyZ3NFNmR6dUZkTEdoVWRwSUlPaEptY0wwYmQ3bExxSDZTeFJ2UE9tU2p6YmxtNWNMUEVMTklaRnRfblZHdkNTYnQ4Q1kxa1NkVkpTaWxmeHNQYW5XOWNfVjhSYmdnNWdHMEpiTVl2emhwWU1nV2M2SE9lbU9OTnZ5dXFLMjhSVGE1Rnl1R3NiTzNMYXNsQVBjdXN4LWVRX1h5M2Z6S3pKSkpTS2J5dWs0d1lMQQ?oc=5",
+  "clave": "acoes amarelo amplia conscientizacao marica setembro",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "8dd1b49bd000",
   "fecha": "2026-09-29",
   "carpeta": "05 GOOGLE NEWS",
@@ -12886,6 +13615,44 @@
   "categoria_auto": "otro",
   "topic": [
    "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1aa587b93e01",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de São Pedro da Aldeia",
+  "titulo": "Secretaria de Saúde amplia diálogo sobre saúde mental com população LGBTQIA+ no Setembro Amarelo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWloxY1dJa2g0d05IT056QldnS2tISlVHakgxUmg5eXZHLWltYWZXeVB4TVFJcnpOVE5PbWNfN1lQRWZraG1xNmtGc3JBYkVOQTNpOEhkZnB4b3ZQVW1ZWVltOVNFMEEtQ0JzdHpvY1dSS2dObnUyTGdsd2ltQ1h2cWVnbHphSDUzZWNPUnJfTVpsbnlQdTYtaXpGRGZjWkFySG9KaURkRWVjZzNhXzl5S09DVWhqV2dEdzJjXw?oc=5",
+  "clave": "amarelo amplia dialogo lgbtqia populacao secretaria setembro",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0d6a08e19508",
+  "fecha": "2026-09-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Cofen",
+  "titulo": "Setembro Amarelo: Condições de trabalho afetam a saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzdSb21mbm1TRDBjNXFJa3dvWFB4aTN2Z1k5RnR6VUxrVkh0Q2xHSXdVRVI2QXltNmtKVUFTRTFLLTlOTWFRTnY2cE9aMmJLV1F2OFdLNjU0UDJORjVxNGR4RmdDYXBBTTRhT2RNSzlNVHplTnpQcmN0Sm9sZlk4LVJQYVc3UWNsWlpUZlo3TQ?oc=5",
+  "clave": "afetam amarelo condicoes setembro trabalho",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -14725,6 +15492,27 @@
   "ruido": []
  },
  {
+  "id": "18205547cedc",
+  "fecha": "2026-09-24",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de São Pedro da Aldeia",
+  "titulo": "CRAS Alecrim promove roda de conversas sobre saúde mental no Setembro Amarelo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0R0NlYzWHBMVnNTWTV4cVA2RFp3Q1R6Y21UbU0zM3BpSGp1YkZoZS01ZGI1REJFTUtJaUhWek9PVk9TT2dPalBoaF93aWxfeUl0XzVIOXJpZFZTWXBYNThKS1FZYjV1eUU1S2VjQVM5MDl1bWpBTzA0czI0aEhFT19IclRCb2wyOUg2MjVWRU5yLWpqb25odTFqaXFKYWxFMmdVYQ?oc=5",
+  "clave": "alecrim amarelo conversas cras promove roda setembro",
+  "capturado": "2026-10-28",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "roda de conversa"
+  ]
+ },
+ {
   "id": "6cdf881c90f2",
   "fecha": "2026-09-23",
   "carpeta": "05 GOOGLE NEWS",
@@ -16153,6 +16941,25 @@
   "ruido": []
  },
  {
+  "id": "5dc50affca35",
+  "fecha": "2026-09-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Camboriú",
+  "titulo": "Camboriú amplia atendimento em saúde mental durante o Setembro Amarelo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTdhNkE1SXRrTFl2dDAtQi0tYlU0N3lsTHZUSW9EQ3pzNmlJbFpsUmpkWUppaGVhVVhpQ1o0c29YOENSNjYzdC1acXU2andIbGdyTExia1N6ZllPUGpOcmZDck9WSktIaElUNHo4ZUpOeW1JSDY2d1d0Q2N6d0ttWGt6Q1JWOUZkd282YWpWNWFORi1vY3JjdWN4YVlHVEk?oc=5",
+  "clave": "amarelo amplia atendimento camboriu durante setembro",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "a77ef9ad4d92",
   "fecha": "2026-09-20",
   "carpeta": "01 ESPAÑA",
@@ -17021,6 +17828,44 @@
   "ruido": []
  },
  {
+  "id": "4076ffa32cdc",
+  "fecha": "2026-09-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "www.gov.br",
+  "titulo": "Setembro Amarelo: cuidado e atenção à saúde mental dos adolescentes — HU Brasil",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYkJqejk2emxObXVza1dmT0NnLUtodE1rbFJaTW9rQlVldnRhazJ1M09kcEtvaHhSY3VvalhjUEFpVGh0YUxaWThhWEF6Ym9lY2xFeHNGUHFOZjdJdi1QN29DTnZHanRkRGRQY2V4N2MzdVd6WHR0V3hTZlRjSmtjUkdoXzR1TFVSc1Jyck5LeUpwQ1JFc0dqYU4ycE1KTm5NanVRWXVTSnZnUHhQa244Mlp5MXVUMlN4Z081WEk4OXFkNFE0ZnhLbmw5aG5Pa3I5SW1ENndIYTNWRU8wemZ4MFR4ZUp4d2pzaUZXemRTU1ZSNkFzU2RXWkd3?oc=5",
+  "clave": "adolescentes amarelo atencao brasil cuidado setembro",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b26b643dc7ea",
+  "fecha": "2026-09-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Campina Grande",
+  "titulo": "Setembro Amarelo: Secretaria Municipal de Proteção e Defesa do Consumidor orienta sobre atendimento em saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3NBQS1MYkdCQ1hWdHdxeDJZdTUyNVM5aHcySFpBTk5ReWNwUHJ0WHIyRG1Uak8tTm1OZHptWWlTOUJrZVQxbm9pRGlPY2JEZXQ0YS1VQ2g3WEk3RkhaLUFwQnMteW45SDZwa3FobV9WUzZSVFNFbFhTNW9nTGlBZW5uMGdtQ2Q0ZEM3SnllcXBQNnZNa2dQbEc0aVd4Q2pwbDJkZEF6bjVSUkYtZ0pwYWxNdTZMQ3A0dFlua3NPWXFDRFd6RlVGODZuWXN0Q3JGVmRiUU1QT29Fb1dKLV9VUg?oc=5",
+  "clave": "amarelo atendimento consumidor defesa municipal orienta protecao secretaria",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "8ea6dbe62719",
   "fecha": "2026-09-17",
   "carpeta": "05 GOOGLE NEWS",
@@ -17060,6 +17905,27 @@
   ],
   "ruido": [
    "trump"
+  ]
+ },
+ {
+  "id": "91e1fcd7042e",
+  "fecha": "2026-09-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "PB",
+  "titulo": "Setembro Amarelo: Prefeitura de Cabedelo apoia evento que vai unir atividade física e saúde mental em Intermares - Prefeitura de Cabedelo",
+  "resumen": "setembro amarelo: prefeitura de cabedelo apoia evento que vai unir atividade fisica e saude mental em intermares prefeitura de cabedelo - pb",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOVZiOEY2X3Z5bk1BQTR4MXlsRTgxLTJ6Vmp2QnBsdUZBdEtYM0JOZUFlMmxkdmhBWFBkZzNYYXFGZmlFVTJNbDh6UmlaTTRXdEJNdnExVHVjZ1BNVG5JQ1Fac3RYOVlKeXVNYVVpT29Vd1BqdGhvc1haNGlYS1BlbV9EdmlwLU9ZUlJNanJXRDYtLW1WVWxqcTU0MGR4QzhzdlpueElYbzEycGZtTk1ZSEZoYVh4R3VDeTk5TGZkR254V21Zb29xT1A5WG90U2NPVWI5N1ln?oc=5",
+  "clave": "amarelo apoia atividade cabedelo evento fisica intermares prefeitura",
+  "capturado": "2026-10-28",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "evento"
   ]
  },
  {
@@ -17371,6 +18237,44 @@
   "ruido": []
  },
  {
+  "id": "d9c72a6384c2",
+  "fecha": "2026-09-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de São Pedro da Aldeia",
+  "titulo": "Assistência Social promove encontro sobre saúde mental e valorização da vida LGBTQIAPN+ na segunda (21)",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR3gtbHl6OUFFQjRoQmpFNmhSYkZEWU8ya1B3V0RrZ1lNTTR3amEwYjJ3djR1aVZmRmZZamR2cG9IV1l3OUVMejZBMVZnWkxMM0R0c01pRjlhOUJrU19RMmc3TXNlM0lnM1BIMk9qcmJEX0dwWTZOa0JVVThHTTdtbWUwaEhWOEtUc2dCck40UzhsN0NfckNLWWZLNVBPZEtVWnlMZ3BMSy1MbDRJWi1RdkVuWUtlM0o0RkJoYTcwUzc0Qkk?oc=5",
+  "clave": "assistencia encontro lgbtqiapn promove segunda social valorizacao vida",
+  "capturado": "2026-10-28",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2ef87e0214e3",
+  "fecha": "2026-09-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Vitória",
+  "titulo": "Espaço Girassol completa 3 anos cuidando da saúde mental dos servidores de Vitória",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUG5uT2RISHV0ZjU4TGFXTnE0Yk91QUpSVF9hR3hXa2ZvSGJjODN2STFNVTl6Sy1NWlJSb2pwcHd6Y2Z0MGlwWUFzMzVUeVF4SFhxQ2o4b1ZMLUhNU2l0VFJOWWZiRG9pSkJ5d2VrbkFKNkxqa045eEQzaF9yWEJINERlU2g4TDJHLW1XbmJNT0pxX3psZWkwZllCdjIzTWxUSjVoLXNiMnkxOHRNSzdZZDlIVXVHaGVRX0xpNU50Qy1iZFpF?oc=5",
+  "clave": "anos completa cuidando espaco girassol servidores vitoria",
+  "capturado": "2026-10-28",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "e9f296e309cc",
   "fecha": "2026-09-16",
   "carpeta": "05 GOOGLE NEWS",
@@ -17444,6 +18348,25 @@
   "topic": [
    "saude mental",
    "telepsicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8c7f79913993",
+  "fecha": "2026-09-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Campina Grande",
+  "titulo": "Setembro Amarelo: Prefeitura de Campina Grande promove formação em Libras para profissionais da rede de Saúde Mental do município",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVUJyNFkxRHAtMHd2RUItTU84STdIUEJualZibnRsalpOckxDeGV6VHJhaHBPQzVVWF9uanhNWDJmb2J5NTNmT3QxZkh1c01GTXN2ZmNxUGNuUGQ0YmFuVjNySkxlYWZ1bnBmR200SUFJZE04S2xKUHlkaldHNWlUYTltX3NUNDFTT2tvRjNUM213Sklzd2g3UzZXU3ZNeDBvclViY0szYVpLU2MxVWtFTWE4bEUwaTJaaWFNSTRCOE05cmtOM2h1U19xenlyVXJKUWtwRGczdFViT1JDZUVoXzdUcjhxU2g2OUJhSk1oeVpNVmM?oc=5",
+  "clave": "amarelo campina formacao grande libras municipio prefeitura profissionais",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -18530,6 +19453,25 @@
   "ruido": []
  },
  {
+  "id": "7d1e99694cde",
+  "fecha": "2026-09-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Rondonópolis",
+  "titulo": "Município alerta para o cuidado com a saúde mental na Carreata pela Vida",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYmlOSXo2dmxRZW9xc2Y0VmgzV3R4enF5ZUQ0TndLMTdyQmp5U0htcHZNcENGci02UUdKclQ4WVQ1ck9tZGNnN09OeGVjREJNRlVDUHNrdTZWS1ZIT0JIUUh5V0t1Z2Q1Ulc3WWJjYjhHUUZSSlBrbklMSUtEd01LazdBTl9nQUxteVNpMTR2NWttTndUTVpoSzJjT2RSUlpMNnNWQXpaNXhfanE3cWJ4YmVnNndtYUdL?oc=5",
+  "clave": "alerta carreata cuidado municipio pela vida",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "08f0223c6298",
   "fecha": "2026-09-13",
   "carpeta": "01 ESPAÑA",
@@ -19230,6 +20172,25 @@
   "ruido": []
  },
  {
+  "id": "ab0ff04d49bf",
+  "fecha": "2026-09-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de São Pedro da Aldeia",
+  "titulo": "Assistência Social aldeense leva ação de saúde mental à Comunidade Quilombola do bairro Botafogo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWnoxSTZqV19Tal9JY212VGFmZS15TTdyWlk2YjJ0cjdUNkU5RUNFN0k1WDlPeFF1bWlkTXJFcmxPZWJQMmRVSFEzb0lfUXdOanp4UUlna1dJM3g0SzFrdEN4LWw0bEYxS2w2MVByTkFDMldxLVBpZmxEN21wRHUyZlZialpCVDlTMGdSZVk3OUdLaXV6SVc4UHI2cENtNXotZG93cV9vVWZrbHRXanJpa01rcllLYWFOY2phcm9B?oc=5",
+  "clave": "acao aldeense assistencia bairro botafogo comunidade leva quilombola",
+  "capturado": "2026-10-28",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "de6fe0dff1bf",
   "fecha": "2026-09-11",
   "carpeta": "01 ESPAÑA",
@@ -19393,6 +20354,25 @@
   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa1JnM2VXeURkSU1CZXF6UThMejdDQkhwSVpPdElCeVphR0pUcE1iNFY4ZTkwOGNVd3hudTdna1ZxUXl5eWRucXRMb2cyZWJwaWEwbDUzMW9FbG1YdEpwakJhVVBjbUR2bjZjcEFldHU3eWVPUkZxUUVnZ01STmlCSEVTa0hGYTg3NUhiYVQwcWhSNDBQNTFjTTRJZW1mZ0IzcjJZVGhUOTRUQ0h3bWozSXZvU09HOFJwbkhEUHo5Q2hvdl9MTkFtWWpxU0J2Z0dzNmp5dDVXdzRaR28?oc=5",
   "clave": "aquisicao ataibeckley company conclui lilly tratamentos",
   "capturado": "2026-09-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ff85841e7b5e",
+  "fecha": "2026-09-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Maricá",
+  "titulo": "Maricá promove rodas de conversa sobre saúde mental durante o Setembro Amarelo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUEd2QjZQVVVkMURVUm5zckUzem1FYjd0QkRBUk8wZ0VLUU1VWnNNbVlfNElfVy1CS012TGdzR2FGV3NBTDFEbTJkd2UzMmV5UUFIRkJjb1JZVVhKeE1OcGpjc283RzFFb3E2dnF0WW1XbWZUSnM1b2dSM0xZUkY2STU4R3ZNb3lWay1rSVA3NmhBR0J2bkk1cHlUeTNYRzVJellYTTlVcnNicjVEelBQQl9vYWk3blk?oc=5",
+  "clave": "amarelo conversa durante marica promove rodas setembro",
+  "capturado": "2026-10-28",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -19823,6 +20803,25 @@
   "puntos": 3,
   "prioridad": "B",
   "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ec6711cf1e4c",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "GOV.BR",
+  "titulo": "Valorização da Vida: INSS oferece benefício em casos de incapacidade relacionada à saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNWtBbnRVVU51WXJkbkhrLV9icVIwUmRuS0J5XzlGQ2M4bEtzNXRSWW95QUMtblBBeFJ1TWE5b3lHbkUzYUJ3alZiaTRXa3F5ZFlwSmZLUmF5SW5iUzdRTGpfMFR4YmNrVGhQQkZuSUR0WXQzd2FzbzFXVFJEZGxzMWpBMDBQUzMyMnpFaW05QWFYbzh3UzdWMkNONlFwQ1R3bUFURHJEREE4ZVBkZzJZM2NMV0xfZmN2ZG1JOGdrUkZiY3dMZTg2ZlRFbFFOYWo3OWNoMFZNSEJTUQ?oc=5",
+  "clave": "beneficio casos incapacidade inss oferece relacionada valorizacao vida",
+  "capturado": "2026-10-28",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
   "topic": [
    "saude mental"
   ],
@@ -20632,6 +21631,49 @@
   ]
  },
  {
+  "id": "11363aed492e",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Campina Grande",
+  "titulo": "Setembro Amarelo: Prefeitura de Campina Grande promove seminário sobre impactos das apostas na saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUV9TOFY5UTRDaGJoV0RhbmFpczExUEFLWlpuS3RpZnhsNHVnbnpVVEFuUEJBbjFxWWwxSElFSHBNSzB6ZE9NWEk5ZHZKdEFDcjJWRW42Z1RPeUplQnEyT09CWTZnSmJxSzNaWU10Rk5nb0YwWXU5YlhqVkpEQ29xYjc4RGg4a28zQXBXYjR3LV93TDA0R3dPcGYwczdwMm1zMmpCa3d0TXA0a2xJanZqeTFBSE1wQ2k3c2NScXRPcDFCVjZiSFRuUERlVm5ObURCRnBpblZn?oc=5",
+  "clave": "amarelo apostas campina grande impactos prefeitura promove seminario",
+  "capturado": "2026-10-28",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "seminario"
+  ]
+ },
+ {
+  "id": "99cacc06bdba",
+  "fecha": "2026-09-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Campina Grande",
+  "titulo": "abre oficialmente campanha Setembro Amarelo com seminário sobre apostas e saúde mental | Prefeitura de Campina Grande - PB",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNjRaVEVBcEpJTUgycHNPY2ZqTVRzSDFNeGFPQ2l5V1ZpSm5EX1REaWQ1V1FQakx6dGNqOGs4dnNFYWJvVGJIV2hLTUY0eVNPS0FGU0xVUHFVVGVtZC0yOXpCcEtzbkFNV3I5dmxRcmhnRXJGS0I0VXozLUg3c1piNTBBNUxySEJqTV83RExxaUpTOWR4UkstejBNaGxrWERWa2tVaU5USVNNTTdNSGVlc2tPQUYwak1Yc1p0OV9EQzRFVUYwNFJXN3pRLWtvamw4cTRRYTRtWDFUSWRHOHBFUHBR?oc=5",
+  "clave": "abre amarelo apostas campanha campina grande oficialmente prefeitura",
+  "capturado": "2026-10-28",
+  "puntos": -6,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "seminario",
+   "campanha"
+  ]
+ },
+ {
   "id": "c9574eba6d88",
   "fecha": "2026-09-09",
   "carpeta": "03 BRASIL",
@@ -21037,6 +22079,25 @@
   "ruido": []
  },
  {
+  "id": "ef8b610e689f",
+  "fecha": "2026-09-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Portal da Assembleia Legislativa de Minas Gerais",
+  "titulo": "Comissão debate saúde mental de veteranos da segurança pública",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0lnbHFKTUh6Y0s1a2RyUzBTdnRIQVFSY0ZfbVlTRzRMcW9aY1pjV3EwRk9MQmJMVzBzMG9NbjFEY0RhbmtzdzdpODViTW53MDJFTDBUUlhwaGxDRnN5MTFmaFZyUnRjZDdFbXJlQ3BQbE9Ia092b2V6X2hNeDRFN1R1dUhBV0xpV3diTV9teDVyUFlkb0NrdG5mV0JIRHVKWFEzWmRRY2c2bzlXS0dRTDF6QzZ4ZEVq?oc=5",
+  "clave": "comissao debate publica seguranca veteranos",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "ea7a3cc76ade",
   "fecha": "2026-09-08",
   "carpeta": "01 ESPAÑA",
@@ -21090,6 +22151,25 @@
   "categoria_auto": "regulacion",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5047a4569701",
+  "fecha": "2026-09-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Maricá",
+  "titulo": "Maricá fortalece rede de saúde mental com mais de 63 mil atendimentos em 2026",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzNHSXdtcDN3UXI5M1ZhWlc4eDE2TkpiUE51S0VFZHVkOUhfd3R6Mjg1UFVFdHJLNUJSd0hJaHRQQ0VRbkVMUlQyNEt1WFliQThfcDBrSzJZNnVIUVBSZHdJYmVra0xwVUV3aXhhcEgyWGF5bEJEdmF0WXM3dU44NTk5cTRqVDlLT1lfakdsRFY1ZzM3TTJsQ24zNW9KNTZJUDA1Tm5veGZuR2VrU0VicF92bjhoZw?oc=5",
+  "clave": "2026 atendimentos fortalece mais marica rede",
+  "capturado": "2026-10-28",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -22854,6 +23934,25 @@
   "ruido": []
  },
  {
+  "id": "cca1a4ff9a50",
+  "fecha": "2026-09-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Vitória",
+  "titulo": "Setembro Amarelo: Vitória oferece serviços de prevenção e cuidado em saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckZZcGNQZlE3Z1hERzlwZ1Q0RlVIazhtQ3NZYjZOYkN1bDVFS2lDQlVjLUUwaWVRaXZBdVVPeVlfTTdYMTF3Qnh3MXJUMW1LcjBWVEdaWDRRWnFnQ05rdVg4RHFLbzlyMWxEbTBTQWdhYnF4NnhmNHFtbk9vZnpiQWE4dmc4SHVUQU0xMVdQU0tyWGdTazZxNHdsSkhWVWEtalFlQmI4V3BhVWNpZm1LdHdrNFBoR3NDOGtlQ19FX1BIdw?oc=5",
+  "clave": "amarelo cuidado oferece prevencao servicos setembro vitoria",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "cd4b12b62f7a",
   "fecha": "2026-09-03",
   "carpeta": "01 ESPAÑA",
@@ -23082,6 +24181,65 @@
    "saude mental"
   ],
   "ruido": []
+ },
+ {
+  "id": "138725874d92",
+  "fecha": "2026-09-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Arapiraca",
+  "titulo": "Arapiraca fortalece saúde mental com chegada novos profissionais na Rede de Atenção Psicossocial - Home",
+  "resumen": "arapiraca fortalece saude mental com chegada novos profissionais na rede de atencao psicossocial home - prefeitura de arapiraca",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQmJkemUzMU5EVU1jZkhSV0E3UE5scWR0eHhoR095d3NicVo1eThvclJYcVNJdkktSUtaVEIzcjlZWWtiZDd4UUE1cHZNU1VsbmxSLUZ2eDJScXNqWVBSaFc4S3poRjFBMExEczJLdy10Z3BqQTJGOWxORFZpVk5lQWIwdTI2UHl1ZW9CUUpiekxXMXF0U2FkVnBPNkh1Um5ORC1hWjdXQV9aVG1sNVdrdVFUY0pJOURJRXpJSGdaei12N1dmZHR1Ym41UlFCWWUxdzBj?oc=5",
+  "clave": "arapiraca atencao chegada fortalece novos profissionais psicossocial rede",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2eb496f0eb33",
+  "fecha": "2026-09-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "CMBH",
+  "titulo": "Iluminação na CMBH conscientiza sobre promoção da saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWHU0U2w3eFdnMloxWnBxUmV5NHZaSXY4LXM0Yk5TbGxGSzR2WmxwekI4WGxuM2JjbUJvZkthTEF1QVVjYzI0Z1Job2xsN1VkcEZyRlVqWnJxd2JDaXRxdzdqTEZ2SDhXeGlaUWoyMmdXQ1hvUWRjYTNRdTloLTdkMVZvbVhYZG9GOUcxODVMMkU4Rk03QXQ4RWxhc3Zub3M3X3JEOVhXQ1R2X0MzSHBvR0ZtZWJXdFFTVFZrem1lSlNnVDhTVWs0ODF4WkFhZ2dyX014aHJWVEdkZHZTeUsydEpJbjZzUUdUYmZXY2J6a1RSN1N0?oc=5",
+  "clave": "cmbh conscientiza iluminacao promocao",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ae5a3973c91d",
+  "fecha": "2026-09-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de São Pedro da Aldeia",
+  "titulo": "Ambulatório de Saúde Mental de São Pedro da Aldeia compartilha experiência de estágio em evento da UFF",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSURPQWMwS1BnSkNVbnhWVlpyVmJwSko1am9QQzRoLVdPLUNKSV9sWld6ZS1TNUd0MXJZdjFld2VYLUxuR1hYYzg5VXQ1UUxVNDFkaFUySFhkTlVfV3YzV3c2SUZrZ2dNV3BWVzc3dkdnZjhiUkRYd09VZmxqcklleV8yYVdvZjAtRHZOMFBTTjdjb2xvN25NRWU2UzMwcGdJend1SXpQRWR2VVlIRmRnMGlSbXl6QUV2QlJ4RnNlVG5qajZrcHc?oc=5",
+  "clave": "aldeia ambulatorio compartilha estagio evento experiencia pedro",
+  "capturado": "2026-10-28",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "evento"
+  ]
  },
  {
   "id": "6512cc21c7df",
@@ -23509,6 +24667,25 @@
   "ruido": [
    "selena gomez"
   ]
+ },
+ {
+  "id": "df1d956b373d",
+  "fecha": "2026-08-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Maricá",
+  "titulo": "Maricá promove fórum de saúde mental com foco no cuidado humanizado e na inclusão",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3ZJUWdtUkFhdi1BLXNpakg5WDdTVExpVHJSd3B1MmxOQndsdGg2T0VqRW5NZGNORW12N1BuVFlRMGRDTlhaVjZXRHpqMDhwMmpoMDRkUG9PUnZXejN4alNZVzBxZDJXRWFRNldvNy15N2EtZVJLMV9ueXd6N0FFRUNHaUp5QmtpaFVPWEIyX280bUxTOUZ4Z3VDYXd4a05HRzZia3VVTG5WUjIwSExRZDNiaGJ0OTZORDlZ?oc=5",
+  "clave": "cuidado foco forum humanizado inclusao marica promove",
+  "capturado": "2026-10-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
  },
  {
   "id": "b70f1854ffb1",
@@ -23960,6 +25137,25 @@
   "ruido": []
  },
  {
+  "id": "1058ffcb20ab",
+  "fecha": "2026-08-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Ambito",
+  "titulo": "Reforma de Salud Mental: el Gobierno abre una ronda de consultas con las provincias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS0U2WjhPS01oMUtSN1A1M0dwVWNvYXBBZm5Bd1d0cm9vOXBaYnNQNFVMSllfZ0JNdWhZSHhZMXk2a19oQ2tHVERQOWdxRGNwWWR5TFBtVXhmMVhOLWxUbUNBMFZKUTc2bFRIMDdXTnQxZVpqRFlXUDdWajg0MU5VRzc1LUZNcmNZSXhhcGNIQl9sZ193bmFaN0NKR3hyQWhxSGV0MEtzZ0NjRTBMR2w3MVBsTQ?oc=5",
+  "clave": "abre consultas gobierno provincias reforma ronda",
+  "capturado": "2026-10-28",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "c612c5c29afb",
   "fecha": "2026-08-25",
   "carpeta": "05 GOOGLE NEWS",
@@ -24152,6 +25348,25 @@
   "categoria_auto": "regulacion",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4b611e9ec96d",
+  "fecha": "2026-08-24",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "GOV.BR",
+  "titulo": "SUS oferece 100 mil teleatendimentos mensais de saúde mental para mulheres em situação de violência e mães atípicas — Ministério da Saúde",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZFBQRjlmT3dmZnJJaURfYm43bTdyQmJNV2tkTWxOeE4zLTA0My1IYjVkNGRSejdqcGQ2bTBiUEZpandLWGJTTTQ3MUFING9pOXpHMmFxRDVzTElpdjFQZ3NnS2VQT04yMmZ2dDV3U3I3ZDR2ZTc0SW1jOU5ZM2V1UkZ1ZS01RlNHbi0td2lFY0tmVmlZemx1ZVRvOFNzcmotcWhUMHlsV2tMS2JnY0NOemZhUFV0QVNKQ0pYLVR5dGhEdGFfeHRmODVQQzJJdkh5dEZwaWp3Y0dIWXlsVnJTRUxNdmZOVDFyelpCakxjOTU0X0dSQmJxMW02aEJlYmtzOGdLMkVhQW0yMXM?oc=5",
+  "clave": "atipicas maes mensais ministerio mulheres oferece situacao teleatendimentos",
+  "capturado": "2026-10-28",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -26955,121 +28170,6 @@
   "categoria_auto": "regulacion",
   "topic": [
    "suicid"
-  ],
-  "ruido": []
- },
- {
-  "id": "9d803c569918",
-  "fecha": "2026-07-29",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Forbes Argentina",
-  "titulo": "Salud mental e IA: la startup argentina que lleva medicina de precisión a los tratamientos psiquiátricos y desembarca en el mercado de EE.UU.",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcEVCTXFSVnFJcEs2ZklDSjZIQ0pBTUxnVWJfVGNVaG5qa3VYMXRjcU4zREc2VWpJSTBfQ1NiLXpKR0FXR0ZkMXJUanVMbHpyOGpjY1c1dl84YnJDUUpiZU9GRUxOdmZENHZQMEk4S0xnRW4wOTBxejFKekllX3VpTUx3dzE3cktReTJaaGhBUklQZkF6UzZPa01sTVhRbktRbzMwTXFIR2pLWllwQS1pQ093Y1doSnp6dmJ5WXZ2QVJ2VmFyM1I1NUR0YlMzRGh0cnhPb0lrZUtIRUV2bVJ0WFFBd2tzRGtack9kZlFWX1fSAfYBQVVfeXFMTnZBaUFhTnBfRTQySi1kYjdFSXN6NUN2LWpLSURnREVyTndBcTJVa0VSckFJUFU1U1BFUXNoc0piSm9RS2tuREloT0FQSDRlMFBMXzFfdDV4OGVPb2lPV08tVEtndmZJemdVWF9XRmhIUnpUVVBVNVhmbU1WYlN1NC1ySmk5cHUzN0tpZEprdXU0d0pVUkhFQUN0M0xRakRjRW1TQVc3U1lEWjVqTUJsYmsxdTNkRmY0eTcxRkVKaUVVX3hza1VFeUdlbEZrZmNjYW8wY1JDb2hsenNFdW1JZ0haMU5kejNwVmFIWnI3aDlxeG0wcWhn?oc=5",
-  "clave": "argentina desembarca lleva medicina mercado precision psiquiatricos startup",
-  "capturado": "2026-09-04",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental",
-   "psiquiatr"
-  ],
-  "ruido": []
- },
- {
-  "id": "59f6b7dbd474",
-  "fecha": "2026-07-29",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Redacción médica",
-  "titulo": "El SNS 'penaliza' a las pacientes mayores y de renta baja con patologías de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd3FyTnh1aVlQalM2UUxVRURzU1p1WDJxbHdjZXVpMVF3WFJiRXJpMklHcXFMNDZtU1dYbU9mT0tqTktNTFVMb3AtU2pVdVc4ZldnbW1MRFVLcUN1SmZHSEhVQmJhdFlPNV9ZWWhRREJpU2REcTdxT0dJWFA3OWhIVWJkUU9HZ3FBV3ZDOUhIZDFNNy1FY1ZQU3JIa0xRckxPRUpGZm14Mjh5OUdnUzRUdXotWUtfZFBRTG9PbjJNUHB6ZnhNc3hrODdaV0dWVVNWeXZNcHZ6TXZZdEJaMnM5azFxdkVZRkhTQWNhQ3VxeVhySWlm0gH6AUFVX3lxTE55RVVZUDVtMUJJNDEyczQ2SWxDcHg2Wnp6dmNMYzF2TmR6cURLN2V3Y09EYmZ6bGtRWlpiY2dPQlpqVVRxUHA2bElUSTJlU3h4SjRRVW1jVDJmeWtLMkxocEo2UFZJSVNfZ1lEMGhqY21KUHhDS0xxUTlsNWVPRm9QOHhISnBxa3NjV0k3bTlyb0xKODg2MjFlX010NnZuVlhscFk0TU5HTHd2TF80U0lhZ3dSMHpWeDJZdVVwWFhLdFBjNnA1ekpjSzdUTFpvc3E1NHVLS2huaVhOOVZOTVZaa196YXVZV1hYVTZIZm5lQXItZ21QTU9NekE?oc=5",
-  "clave": "baja mayores pacientes patologias penaliza renta",
-  "capturado": "2026-09-06",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "b7c85d8b4b0e",
-  "fecha": "2026-07-29",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Redacción médica",
-  "titulo": "La prevención laboral aumentará el control de la salud mental y protegerá frente al acoso",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ3ZNbk1YLUFxbk5BQjlCTGVUaFBOb3NBY3hja3VCNUp1OGFTYWJuNFV5ZV9pMXRhemxxcUpOY3VqNk0zYXd4UVd4dnZDaUljS1dHeVRBT19VV2tVNERtRmxVRGJiclR0cy1qdExBTC1Rb0JxUVFPY2EwdVJfZVAzSHVjQzRadnUyZjFMSVA2UVd3WmxDcVNLaVZuQ3lRNlR1OC1NdFh0bGw4TXMwLXRQMUkyUWJoTUxWelI0WnpORUhDZFpaSXBpS1Blc1ZTY3BHZGUwclVSV1d0X3lTRXNMSlhhYnZPQdIB6wFBVV95cUxPRy16Y0FfOUVpSWRrbVlVeGYtcEdOcUdTTmxyWENBd0xQaXU1d3AyLTdrZnd1Y3E5ZERCR2xlNk56OE5ZTTlKcnpEY0VDU3cyMVRFMkdOLTNZS1hpOV9KWVdGRjNkN0lZZ1l6SUF3WmFsdWtkMldteE0yY0I5anRyVk1JdGhSUjhhRmQ1V3NpRk9DWXRoWXQ2RUY3Q3lZSHd6OHRXempneHZLZE9PbVN5MGZkMFduQ3VNV3FHVlluQWh1S0NZektwSE5FUGU4UEhJT25FREItY0g0eFdzbkQ1VjZuRkI3UEhUcEV3?oc=5",
-  "clave": "acoso aumentara control frente laboral prevencion protegera",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "fe30ce13a8af",
-  "fecha": "2026-07-29",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación (edición US, hl=en)",
-  "medio": "CalMatters",
-  "titulo": "Sindicato alega que Kaiser utilizó un algoritmo, y no médicos, para evaluar pacientes con problemas de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkhpNkh3VEZsSzBRTFRYNjNmWFBzTlYyemVwNllISlR0YTBnazBRMDRLZmpyRWdJa0d4cGVGblhUQTlXajNVazVtRzgtTEppYWZmaFc2cUQ3eVpnc0xIckE4NWtSN01JVFRrRVVnQUVlYlA5Z1hydTBGUzdvRG1wa2htTGtLWUFGZG9weVlJME9rby1Dam9YT2g4bDZSNXF6NUpXWFZSaDZaZy1iQVE?oc=5",
-  "clave": "alega algoritmo evaluar kaiser medicos pacientes problemas sindicato",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "39a377ece14d",
-  "fecha": "2026-07-29",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · EN sobre nuestros mercados",
-  "medio": "ScienceDirect.com",
-  "titulo": "Female sex: beyond risk prediction in mental health",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FcjhZV2dxdkdIaTFiaUR2RTVkbndJdy1jSmxBTlNVMmZfQl9nSzNNbTc4UFFFbEl2bk1Zek5oRHhqcFhaeG9OYzljaXNUTy1iWm9pTnd4LVpxeHpFUHQxWFhNMnlKSndYM3FEekJoVlZ5ay13T2c?oc=5",
-  "clave": "beyond female prediction risk",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "mental health"
-  ],
-  "ruido": []
- },
- {
-  "id": "47467888b311",
-  "fecha": "2026-07-29",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Futuro da Saúde",
-  "titulo": "Bets e saúde mental: dano das apostas não cabe em uma única especialidade",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxeExWX21ma2c0QW1zWTdJVEhLejdSMmlKblh0TDhRdVlmeUF2ZzRXb2YzTzNuUXlzT2pIRnBQcHFXWVNiSG9SdGNBSW1ROVNUVVRwLVB5cHh5OFVKZE40OW45NTF0c00?oc=5",
-  "clave": "apostas bets cabe dano especialidade unica",
-  "capturado": "2026-09-30",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
   ],
   "ruido": []
  }
