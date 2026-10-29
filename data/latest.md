@@ -1,15 +1,9 @@
-# Hemisferio — señales 2026-10-20 → 2026-10-28
-197 ítems con tema salud mental de 1069 leídos · 186 historias únicas · A=32 B=71 C=83
+# Hemisferio — señales 2026-10-21 → 2026-10-29
+218 ítems con tema salud mental de 938 leídos · 203 historias únicas · A=34 B=85 C=84
 
 ## PRIORIDAD A — hechos con datos (leer artículo completo)
 - [2026-10-26] [05] **Entra en vigor el artículo 13 bis de la Ley 4/2026 y restringe los ingresos psiquiátricos sin consentimiento a casos de urgencia vital: qué cambia en Aragón** — Hoy Aragón · cat≈mercado · 12 pts
   https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZnNVS09ld2ktRUJfVDhsY2didjJGdm5MUjBqOEItMHRodEpTTUN1TEFIX0w1NWhOTGpBeWZkd1JoQWpPbHFITUF5TGtqR1hpbE1aMnE5dEYtTXBGaEFDMVNSZjVoWU9fUFJSWjkybi1Gb3lQczJsb3pQSjFPN3Jwa2hyUTh0NndfN01jOWFqaUlPVWdlekxvYThhUHJXaThaVVh5OVBPVnBQYWFubkU1Snp3R3RLekVueE5BWEVxN0lUdmg4TERPS3lrek5iX01vemlwMw?oc=5
-- [2026-10-20] [01] **Sanidad defiende que la reforma de los internamientos involuntarios "dará mayor seguridad" a los profesionales** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈sistema_publico · 9 pts
-  politica y normativa soledadvalle ministerio de sanidad el proximo 23 de octubre entrara en vigor el articulo 13 bis de la ley 4/2026, de 1 de octubre, que limita el uso de los internamientos forzosos por salud mental a 
-  https://www.diariomedico.com/medicina/politica/sanidad-defiende-reforma-internamientos-involuntarios-dara-mayor-seguridad-profesionales.html
-- [2026-10-20] [03] **Mais de 70% dos atendimentos de pacientes com câncer de mama se concentram em saúde mental e nutrição** — Medicina S/A · cat≈research · 9 pts
-  mais de 70% das consultas de pacientes com historico de cancer de mama sao realizadas nas especialidades de psicologia clinica, nutricao e psiquiatria. e o que mostra um levantamento da conexa, que tambem identificou um 
-  https://medicinasa.com.br/cancer-saude-mental-nutricao/
 - [2026-10-21] [05] **Los psiquiatras plantan cara a Sanidad por la reforma de los ingresos involuntarios: "Pone en riesgo a personas con trastorno mental grave y a sus familias"** — Vozpopuli · cat≈sistema_publico · 9 pts
   https://news.google.com/rss/articles/CBMinwJBVV95cUxOc0t1SUZCSGdNendNa09JbWZLMTJ3dkVyRk55WGJrdVhVaHhQbmpPcFdCS0pTNVBaM2tNZkpOa2xSeHBHMzhJWG1FbkE2dHRJdDRyT3RMN0RFcjIyQ1pNMjFicGdxM2tfeldGbXphQzZ4eTFwc0NJcnBHT2xlNTQ5VjVPNzRpQlJmN2Y2TjI0eE9oc1RxcUF2QTFwRTFPYzhfN1FFSDVGbnlZWDB3RDY1cjVzWS1abnp2NC1yMWdMcjd2eWFyZXViZm9pQm1zVkdCNXk2UjZFYkJtVW9CMEdSR193ZTRvbmhaS2x5RzRkUGwzU1E3R25MQmJGc2ppYWEwOUZKZWNFS09CQ19vZ1BHa3Jxa3QzTTROM2J4UW02VdIBpAJBVV95cUxOZ0hfTGpSUXRXZHM5QlcyYmo1T1hSSG5GeENET3VsU1JIOHBaeElhQlR3cDkwbXpXbFdGbnQ4RktGeEZXSmNZTDhRVDluLW45RmxZRFM1eXhmeHE4WUhsMWs4bXlBN2paaVNMX1V1ckotUFljc21aclQydlJiUVUtTERXT1g4eXlicDBra3dmd0xVRk1zX2dMTmtUVlp2M2lGMGZwY3lIZDdUbkY0cHRxTzdLR1FYaGtmc3V6UVpkNUd0OVlYYmpJM3NNOE0ybk1JS2toVXpjbGZfaUNneE9TblNfbU5mYXE5bUN4NjZtY29XSGVCeTh5VTU1eEFrYzVBcFVFMlRRb1lENUZRM0ZCMGhhSHZVVFdsM21GaUhUVkFFX1Qy?oc=5
 - [2026-10-22] [03] **Internação psiquiátrica de 15 a 17 dias reduz sintomas depressivos em 12 pontos** — Medicina S/A · cat≈deal · 9 pts
@@ -22,6 +16,9 @@
   https://news.google.com/rss/articles/CBMijAJBVV95cUxOenBSblFCQ1UtcWRTYXZTVHhwazdvdWxmNndlNDFabDVsSmxoRmdTeVFHaGFjWnNDMHVYYV9zVmJJaGxqUG9KOXJfaGNPVzBiWVh4eTAxejJYVHpZVUh5S2E2YXRrSE9ha1JJUlQzNlVEbFkwTnByazVYdlFMU0tVeGlIbHdFMjY2VHNrSVNaamYtMVNNMDgzVkIzZkJSZzNPY19Bamh1RzNQYVhXS1JMMmJHbzF6OTdSblBUcG5ZQWYwMGVnTmNkLTZrZ3A5X3JUaXJnVHBGblgyV29aQXQyUXV0RnZQLXgtdF9Ec2NMbjExdHdocnpIU2Ezd3JuRlhrYVU0N2ljLUhvQlpY0gGSAkFVX3lxTE1YUmt3VHZSajFfM2RwMVJpc1BiNWRtdVhRZlVIRU5YMlhSbnpMS0Y5bk9ma0gtSGNkU3ZCZkhZV0ZtczlEdTY5YkIyaDMxdWxDdGRSdWVXWXpGNHRuRU1IUnk3ZXVNZTMyWjJkY0hOVWkxRTJMV0t5VEkxYnZicE5QU25DTTMzemV0WjM1VFFkTHhXcmRQNWo2QVZjV3RZMnNldDFZQ0RGQmF1QlNlTGNEUXBDNlhFSXhVcmpfeTVGMTc2WDBua1pPTVZQMkFwUG9KODE2MV9qckg3bWdTZS14MDQzZVh0d3BFTTBpM3NRM2xMOEVYZGl1X0dJS1R0a3IydnFndzFEa1V2TkJhOUl0TEE?oc=5
 - [2026-10-22] [05] **Nueva Ley de Bienestar Emocional plantea destinar 5% del presupuesto de SSP a salud mental y adicciones** — Cúspide México · cat≈regulacion · 8 pts
   https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN1NwUU1iVURfN3NkdEdObElrbEt4endQNW9vN000eDhxeWJ6V29Jc0JKYU41RUJxYWd6MVV2RHpQRlRDVHQwS2ZRcF95S0xfeTlMaE12TW5zYzM0SVFkUWNTMEpWVTlfamVKMkltYWZkVVBnU09EY2Y4N1VFbXYxdUtzek45N3RPZ0o2MkdMdEVvWVp3MXRaXzR3VjB5UmpFU1NUX05vVEJTVDk2dFhTV3Bpa29oYTNkZXVtd1VvX1pqazJPZUx0M0I0U3hUYW1KTjNveXFIQQ?oc=5
+- [2026-10-29] [03] **ESMO 2026 destaca nova geração de tratamentos que amplia perspectivas na oncologia** — Futuro da Saúde · cat≈research · 8 pts
+  estudos apontam avancos em vacinas personalizadas de mrna e novas combinacoes terapeuticas, com resultados promissores para pacientes the post esmo 2026 destaca nova geracao de tratamentos que amplia perspectivas na onco
+  https://futurodasaude.com.br/esmo-2026-principais-estudos/
 - [2026-10-22] [01] **política | Entra en vigor la nueva ley que refuerza el consentimiento ante ingresos involuntarios por salud mental** — https://www.consalud.es/rss · cat≈mercado · 7 pts
   politica: entra en vigor la nueva ley que refuerza el consentimiento ante ingresos involuntarios por salud mental
   https://www.consalud.es/politica/entra-en-vigor-la-nueva-ley-que-refuerza-el-consentimiento-ante-ingresos-involuntarios-por-salud-mental.html
@@ -47,13 +44,14 @@
   https://www.redaccionmedica.com/autonomias/catalunya/20261026/un-estudio-mundial-arroja-que-las-personas-lgbtqia-tienen-el-doble-de-riesgo-sufrir-problemas-salud-mental/363348_0.html
 - [2026-10-27] [05] **La nueva ley refuerza los derechos de los pacientes ante los ingresos involuntarios en salud mental** — PR Noticias · cat≈regulacion · 7 pts
   https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzFvZFR3a1lRNl93RXppdEZoNURJVDBJc0pCc1lLX2NvbUhFZkVxbHA3UHdIOF9sSlRycEJ1bks4R1ZxNGd2V1hyNHhuV2pOa2lhdE13dnJVd2ozR0JTRWtIZmxHNEtQY2EyXzE2TFVWUmRrUURXME1fS3I0VDV3aTNzMzRRbDJfMG0tU3RYcWhKeU1kcGJlY0JXNndWX0N0S2VlNVl3bmkyS3hBQ0xuVy1hVjczMld3d1FSekRkMk1PeDZGM0xDXzl4LWU4aFHSAc8BQVVfeXFMTVcxb2RUd2tZUTZfd0V6aXRGaDVESVQwSXNKQnNZS19jb21IRWZFcWxwN1B3SDhfbEpUcnBCdW5LOEdWcTRndldYcjR4bldqTmtpYXRNd3ZyVXdqM0dCU0VrSGZsRzRLUGNhMl8xNkxVVlJka1FEVzBNX0tyNFQ1d2kzczM0UWwyXzBtLVN0WHFoSnlNZHBiZWNCVzZ3Vl9DdEtlZTVZd25pMkt4QUNMblctYVY3MzJXd3dRUnpEZDJNT3g2RjNMQ185eC1lOGhR?oc=5
-- [2026-10-20] [01] **Pané abre la puerta a impulsar una ley de duelo perinatal para regularlo de forma integral y reconocer bajas** — Redacción médica - Home · cat≈regulacion · 6 pts
-  la consellera de salut tambien desgrana las cinco medidas que contempla el departament para este ambito y ademas: la salud mental perinatal exige unidades de hospitalizacion madre-bebe
-  https://www.redaccionmedica.com/autonomias/catalunya/20261020/pane-abre-la-puerta-impulsar-una-ley-de-duelo-perinatal-para-regularlo-forma-integral-reconocer-bajas/362821_0.html
-- [2026-10-20] [05] **Newsom firmó ley AB 1669 de California que protege a estudiantes que tomen licencias médicas por salud mental: a quiénes beneficia y cómo** — El Comercio Perú · cat≈regulacion · 6 pts
-  https://news.google.com/rss/articles/CBMivgJBVV95cUxON2tEZmFDS0E1a0hkRzdUeHZRS3NQdFRXbXFJdFJneUkzd0ZoOUxtRzU5ak1lcmxyVGlNakVvbEdNejZqWlB1ZG9CNWg2Rk5BVEhBOGt5M1pDYWdRZVBqOXlYNUw2RF9KZEdlY1JOMWwzckNpdjgtRHo3RzFqbWVvWDlVN2RkWC14UDMxdkNYRXZwQV9RU0s1YUNqbUNhc0p5NEF3SlVaR2dLeVBKMzd0OXJfR2RfZlBDdmF5Rk0yYUdIdnljUWg1aWsyWEhsTllNVkZWSTJ2bXd0Qnl6SExQNlEzWlhYV1A2VzBBVUMzMGdxVkh1S3RZNTZpVGRUdHNET0daTlQ0QkNod2JDa2xBZDBqdE5iVHFGZ3VrTjV4OWxycDJ1QzNhWk8xa2FKLVExNVQ4UUptMTlvLVBtYUE?oc=5
-- [2026-10-20] [05] **Prioriza 76 Legislatura la salud mental de niñas, niños y adolescentes, en la ley estatal** — Congreso del Estado de Michoacán · cat≈regulacion · 6 pts
-  https://news.google.com/rss/articles/CBMitAFBVV95cUxQWTFrZ3d0amxvQ3lNcUdHZmZUVUtsVndYczRDeWtHb2hEckdGU0tHLUhfWWFNS1owNHR0UGFFa3hhaTE5VmFVbjI0MnNrcmxJVXc0WDJDeHNUV0l5Y3JqZjdLbnhGNlFHbFc3bF9sVEpOUjVxT1FxSXVnSFJES0ZnRlliMnRGZ2lrMFlvLXU3SGZjcXpPekVmczBxeU9aaUwyS3R6RVV3RFNINUQyMHRwSFhGREg?oc=5
+- [2026-10-28] [05] **El Senado se reactiva: intentarán aprobar la Ley de Salud Mental y presionan a Santilli para que acuda a brindar su informe de gestión** — Clarin.com · cat≈regulacion · 7 pts
+  https://news.google.com/rss/articles/CBMi8AFBVV95cUxNanFIVkxFWnhhYUhSRVNCNXBKR042cXg5eUZwUDZtSklDN3FueGw2dTFkS1lXWjRVMGNSdkZiXzlBWjBpSm9rT0lJbDRVZXUxWFk4T3MwaGhqMFBSbkZ5SHB6V0VJOXh6TVZvaHpndklvRURfU05sV1lnWVg2cXpNVkVPUlB6TDFkZ3hoWlZqa3lHdmtrbGtaZkp3YmZTWUJUNWI2Rl8xLWd1dUFUUDBPb252R3M3bjlPU3VBX0prWDVCVEs3TTdHelM0TmhYbVkwOXc5d0VMS1phTkVZaWU0VWp6enVyQ3NiajlPNExxTUnSAfYBQVVfeXFMTnB4alV5R1ZjOW9lMjRFMXRzUEtrcVd4eHlmakNteFhCZXZMdzJfYURlaGg0WE9aLU9sX0ZUZWFVNE5WZlY4UlNkTGN0LXY1VV8wWlNrWi05Y1psbXdvLVpWdlhpTmVTMFR0bUwwWk5COXJibFFNSHY3RmVPcVNDMzFEcERfTTk0djJLZjFUbklaRS1odU1ZR1pPUHFXR0FHT254bGVEc3J2bGhvczhPVk41NWtkQTg2eC1TS19hejNab2VYTUxhNF9tSU1rM1VvSERvQmFldUR6U0M5QVZSZU0wb2syNWczeUdtYTR0RUt1dFhTWDFR?oc=5
+- [2026-10-29] [05] **El Senado tratará la reforma de la Ley de Salud Mental y busca invertir en grandes empresas** — La 100 · cat≈regulacion · 7 pts
+  https://news.google.com/rss/articles/CBMiygFBVV95cUxNMy04V2VtT241NWJwZU0tSU44RTN4bjJPTzVjTkl5NWswZHh0dElBZ2hyYjFPSHhZZGhmeGVWWWZibUlGT3pUSEluRU1MSUlGelVPWExRUThBWFV1Y0xWaWlWekdRT3VSTVhBU2oxMUhnUGlpb3ZraFYwT3hjUlZSdjQwM01tTEVackY0WldtMWp1ZkVNZDYybmZNQ18yc1VOUG43QXpQdkJnTHJHOG5FTzA2b01ERl8zWFJYYlBvTVBXMGlUNEhzSmh3?oc=5
+- [2026-10-29] [05] **Debaten hoy la nueva ley de salud mental; YPF reportó un récord de producción e inversiones millonarias** — La Nación · cat≈regulacion · 7 pts
+  https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVJVcl9RZERmSllyUkNEaGhOdHY5akU1V3ZZbnk5S29YTlZYU3BGcXJzaXMya3ZfemhuNmRHS2dkTkFMdHBpRnViOGRSRFJ6TWlENkowWWlkUzlUdFNNT2VNcDlITW5oTVd4Mmc2WGxZSmZxQ2YzVFNDbG42M0pPQ0lBeXFtOE1BOHRmLWxoOTJmQ1p6Q1FIV1VnaVFkUGdXTmZtQlJnbVFsc25PakM0VlZvNm5UaVgtRGxxWXVWUHVUaW9VcUE0VTdfdmRVWnpqOVF3bzVMWQ?oc=5
+- [2026-10-29] [05] **El Senado tratará la reforma de la Ley de Salud Mental y un régimen de incentivos para grandes empresas** — Radio Mitre · cat≈regulacion · 7 pts
+  https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWWxYbFFhcTJvMTR3Sk5iVTBHUHMwNFBvT0xqWFVCWm5Xb0c1clQwa3BVUWVUOGZVYVFwYUV3TmdxcWwtSDlldVpQUVQxc0kwcXM2M0ZvYkhlb2lOMURaZVpDalpiLVEtS3RMamprUkZFa0loN3A0UzZfX2ViNUY1RHVaazZhUlBtanNsVFlCajBPUFpwOUxGSUtZeUxNNWtzMGFBV3hlaF9BdVVYYjM3TDhRb0RqTTNMRG50ckI2dUtYalJ0N1duNkdHRUIyeDdyaEdZMTVZakd2OGFVV203Rg?oc=5
 - [2026-10-21] [05] **Sanidad busca "garantizar" la atención a la salud mental en la ley de discapacidad** — Redacción médica (+1 medios más) · cat≈regulacion · 6 pts
   https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLUN6eEhYWkNlcWZ2cW5VcV9HZHZFWDZQR3JHMzNMdW9iMUMyZGlHLTdpSU1vQXQyUm9VbG40RVJIbENTdW9vZGwyeTZvbnhqWTY4aTVQQmlfNkI1c1BPc2FBdXJJVS1PUkszY0VoNjlZMElCbWhoX0lOZkNtSkIzY3NwWlkzcFdkTWxmR3lZQVVLSUl1SWJWTkVYbHl1d2lZMUZtOVdKSDQ5UnNCT1duUUdLUlZfX2NZSjBCMkJUaVVJb01WeEg0RThfOC0zWTdFZWcwNzFDVzBoVWxJcXhyYnM5QUt1V3FkR2VV0gHwAUFVX3lxTFBGMUpPcmk4SklHVXExdGV5NHUtOHB6MHVTLTlKRHFWRzFWTlZLeDkxcE1Vb1diOUdOWG1nUllidzhrTThYaWJfVzFRQ2FGU3JiWnpFeEVUU2VIR3VhTEV3emxxNWk4LU45cU1hcXItdDAyZ3JTMm1VdXh0VndDMTREdlFZcnQzWE90TWlHeVZsUGl1UWNHeXczTlFvOFNkcVJpMHVGOXNkS0ZKSWExMW9nVkYtUk9FeFFSV09Nem9VSTFrdVVieVdSUTQ1Qjk1aGtFVG9hMFl4Y3UyWUY3V2pMQkRMSHh0cUFZelZ0U19GOQ?oc=5
 - [2026-10-22] [05] **Sanidad despeja ‘in extremis’ el temor de los psiquiatras ante la nueva ley de internamientos forzosos para enfermos de salud mental** — EL PAÍS · cat≈regulacion · 6 pts
@@ -77,14 +75,12 @@
   https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNkxjdWpLTWdoa0JRU1lOeEFlTG5XTVJLUlVMR001bS1qSWdRS0NxSVBtNXZ2SHZlY2ZkV1JnSUtqVUpNWHhxQlpZUUhkZ09fdDVvNmZhcWdFclJtaHQwX1VYWkp4a2xHSmo5RHlwajNGczRTQTN5OGNXakhJR1I3Nk10Y2NFWlN5QVZfWHowaTBEMXJmNXFEY0Y5b2w3S0pGcHB0UWhuVHZrMmdtUzYwYUE2NnNESUxwNk9UTmJmTzZTZ05mTzAycVpFSkJ2ZDRuclJURnZsUmdlQmlNVTlHSEZHMXg5dXp60gGDAkFVX3lxTE8wTzJhNU00Z1dsS0EyZ0x4Q3F2YmpweVZ2WTI0QTFGTGNzSHZNOEx1NVhMVkdCTm5IbldBd0ZYWnh1RGhBbExlN29ZTjBuaHNvYzlNZHA4Z1VWaFZaUC1nRjcwZnh0TWxja0pYVTFKaXFRYmR5SnBZanJyUjdjOUJkV1R5MVlXLWJzcW93NXhrUHNoLWREUXNQTmJpcmE1X2c2d2R1VmdLZFRUZWlLd3llZDBNZWFHYXpfXy0ydGJhQTVZQUdXbVJNY3dXb3h3Y1lZZko2NDNuMUVrSVFNWXJxY0lwemJ1X1VONEFWRHV5QUJwdjMybW50bnZ2dHNBYVpuYUU?oc=5
 - [2026-10-28] [05] **Sanidad abre una consulta pública para desarrollar las garantías y derechos en salud mental previstos en la Ley de Discapacidad** — https://www.infocop.es/ · cat≈regulacion · 6 pts
   https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcWpkcUpvRGs3STdieUJJMlo5SmFNV1ZVUXlTVkF3em5mbUdsU3pUWExPT040M2NNVWZsZy1rblRMRzVRRkMtMW1wOHlxVTFWNjdWbkl6MGwwREdzbWdiTTNBUTFxb3JQdXpOcUE1Qk9nTEljTVhuNGw5MlFyUUdmdGtjVmxkU3hyWWtjNmlNS3U2OWRnUXpDd216RklET3RFdHJta083T1dKRFdIYjdvSGFOeC05ekhhdjJMMEJYOGxxQURZSHdFZzVUeEhIWDByc3hzajFVOVpEN3VrenJJd1BwMURuQQ?oc=5
+- [2026-10-28] [05] **Senado: habrá sesión mañana para votar la ley de salud mental y beneficios para inversiones desde USD 12 millones** — Infobae · cat≈regulacion · 6 pts
+  https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOWRzZE1QZzNWb1FpUWtvalNWLVZEaDNNQVlFb0FJNkJkMWxUS3Fwc0RzbEZBenBNbzdUZGxqYUdESmlKN21jZ2NNSkEyQ0JYZk5DUjZrZEZFQWlyWVp1LWY3eVNjQzAxMkt4SDFrNzJmNHc0c0ppczZ1T3JtRVBhWnE4RGR0ZVIzQVZoOU9VaGlSVXpmNE03LUVwTG1ic3Jxa3Fqa1dWbFhRYWRrWmdyNE9RendJRmlwZ1dYbWxnZTliVE9xdUJraWxqazh5R0hUaU9iaUFnRDFlWDEyZjRWVUh0Nmg3NzdVWi1PVzJ30gGIAkFVX3lxTFB6MmE0dzdrQTEzSWZRWnJaYlRSUkpCTl9NSkt6aWFkcFIzSUprTGJpOG1nU2RuTFZYY005MXkyYmJ5TjluTUQzNHdhS3ZYajFQUUdoUVlsNkx1YjI0TUhXNExQWEczSTRTVWN5TVhwVkk4Qkt4cUc2b3RWV1NfZEpyREV6VHZ5UDlqQ2FQZ1NZUzhpcU4yWGc3MmRXMlYtbWRPU1hKazl2eXQtNHBfX2pDT3NfbHpxaE1JSTBlUE5QTEptOEJQSTRncGk3dEtXeXE3UzhDbENFMEp0WmpCaEs4NTdqU1FkckVEOXdwZXhWVGNiZk1zZTFyblkzTjg1Q0lOREZremc1Ug?oc=5
+- [2026-10-29] [05] **La Asamblea por el Derecho a la Salud Mental rechaza la reforma de la Ley 26.657: “No se reforma, se aplica”** — Neuquén News · cat≈regulacion · 6 pts
+  https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYXlNM2VUbnpwaW4xWS16Y29XeHBiTlNFOTdQOEZNRTlFaGpCbm55WDFLOHMyWEFrd1dNbmpTZGNUWFhiZEdmY1l2Zm5FcldNVFlxVnhqYzAyZVpIeFVsZ2R0M21hYkhRNHNmWGpET0NQWlROZXlENUNlVUR4MUxrV1dzcHlycXhxNkJXcV9QcFNPeFpNRDV5c29IeWlUT2g1czdpUTZ4bEhUaGF3OC12WnBxcFlPMXFjZ2lSMmlYei0?oc=5
 
 ## PRIORIDAD B — contexto útil
-- [2026-10-20] [01] **La ciencia señala que el TDAH se asocia con un 70% más de mortalidad** — infosalus.com · cat≈research · 5 pts
-  en un metaanalisis de estudios observacionales, investigadores de la university college de londres (reino unido) han descubierto que el tdah esta relacionado con mayores tasas de suicidio y muertes por lesiones, asi como
-  https://www.infosalus.com/salud-investigacion/noticia-ciencia-senala-tdah-asocia-70-mas-mortalidad-20261020080148.html
-- [2026-10-20] [01] **La depresión y la ansiedad son más frecuentes en adultos con diabetes tipo 1** — infosalus.com · cat≈research · 5 pts
-  un estudio representativo a nivel nacional realizado en adultos estadounidenses por la escuela de salud publica bloomberg de la johns hopkins (estados unidos) revela que la prevalencia de sintomas depresivos o de trastor
-  https://www.infosalus.com/salud-investigacion/noticia-depresion-ansiedad-son-mas-frecuentes-adultos-diabetes-tipo-20261020074946.html
 - [2026-10-21] [01] **Solo el 36% de españoles relaciona la salud digestiva con el estrés o el estado de ánimo** — infosalus.com · cat≈research · 5 pts
   solo el 36 por ciento de espanoles relaciona la salud digestiva con el estres o el estado de animo y solo el 14 por ciento afirma realizar actividades relacionadas con la salud mental para favorecer su bienestar digestiv
   https://www.infosalus.com/salud-investigacion/noticia-solo-36-espanoles-relaciona-salud-digestiva-estres-estado-animo-20261021123638.html
@@ -108,18 +104,9 @@
 - [2026-10-28] [04] **<a href="https://www.fiercehealthcare.com/providers/universal-health-services-grows-revenues-trims-earnings-q3" hreflang="en">Universal Health Services grows revenues, trims earnings in Q3</a>** — Fierce Healthcare · cat≈mercado · 5 pts
   the acute and behavioral health chain's operating numbers further disappointed investors after fellow for-profit hca healthcare outlined a tepid 2027 outlook.
   https://www.fiercehealthcare.com/providers/universal-health-services-grows-revenues-trims-earnings-q3
-- [2026-10-20] [01] **pacientes | Fortalecer la atención en salud mental tras el alta hospitalaria por intento de suicidio: el 20% lo reintentan durante el primer año** — https://www.consalud.es/rss · cat≈sistema_publico · 4 pts
-  pacientes: fortalecer la atencion en salud mental tras el alta hospitalaria por intento de suicidio: el 20% lo reintentan durante el primer ano
-  https://www.consalud.es/pacientes/una-de-cada-cinco-personas-que-intenta-suicidarse-trata-de-repetirlo-al-ano-siguiente.html
-- [2026-10-20] [01] **Las claves del Plan de Salud Mental de Galicia: 177 millones, 357 profesionales y un modelo 100% comunitario** — Gaceta Médica · cat≈sistema_publico · 4 pts
-  la xunta moviliza un presupuesto que duplica el anterior para reforzar la plantilla un 50 %, integrar las unidades de adicciones e impulsar la atencion infanto-juvenil y psicogeriatrica the post las claves del plan de sa
-  https://gacetamedica.com/politica/claves-plan-salud-mental-galicia-177-millones-357-profesionales-modelo-comunitario/
-- [2026-10-20] [05] **Formosa advirtió sobre los riesgos de la reforma de la Ley Nacional de Salud Mental impulsada por el Gobierno nacional** — Agenfor · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZXkwM2w0NUFjTTQ3azV6NWxTa09lYTdGbGFveEZMVjE1WWJvV3FCRVNWWDVLWWxpTFhkM25aTUxpdDhudml6R0xTM01IOF9BOEpYZG1xdXJhbkFpZDc1SWh5bm5BU1RfM0dzaHNocUd1c29WeGV3emlHdW9zQzhBeGNaYVF3VEhRN1N5MUI2aHNUZ2l5Q2JuMEEzVEtrVWtSakJiclJ5T3cxbXJRZkpxQlJGQU83Rm84SHpUU0RaRWhraTdRQkxhNzZmNlM4MU9ZS29CaVNHdFhDSjdqR0p1bXA0Yng?oc=5
-- [2026-10-20] [05] **Patricia Bullrich defendió la reforma de la Ley de Salud Mental promovida por el Gobierno** — » Cholila Online · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE40YXlmcFBrNUlibVVZajlFdldSNldPdVV6YW9sMUl4MURVQlRJS1ptZ3ZucEdiZkxxWXRGVDh6WFFDZmdsREc2NUVZTGpZdkRBRDZxeUhqQ1dBMl9KYlRMZlpaU19hNjhf?oc=5
-- [2026-10-20] [05] **El oﬁcialismo cede para avanzar con la reforma de la ley de Salud Mental** — Revista Quórum · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDg0cVpfMWM5YW53TEEwTUZYb0tlUTkxU0JybldqYWFNdlpvX3Iydy11TVlZeUtmMUh1aWRuT0Q4SXZyUlRrUTJEUEhaTklseTg4WW5zUzBVWGlQZU5MYnJUb3FlSFZJTzkyMGhMMmpRdTN3UVpUaEVvSnNjR2ZxdW5tNVdTbkhaUUxXS3JzMzJ4QllxVDF2aE9YNFF6RDNoT1BIdURqQjJuRUZna2E4Z3E4OHhtdnhGTHFnUmtB?oc=5
+- [2026-10-29] [01] **Sanidad detalla los nuevos requisitos clínicos para realizar ingresos psiquiátricos involuntarios por "urgencia vital"** — Redacción médica - Home (+1 medios más) · cat≈mercado · 5 pts
+  el comisionado de salud mental prepara un manual practico para guiar a los medicos en estos ingresos y ademas: sanidad aplica desde este viernes las nuevas garantias en las intervenciones involuntarias por salud mental
+  https://www.redaccionmedica.com/politica/ministerio-sanidad/20261029/sanidad-detalla-los-nuevos-requisitos-clinicos-para-realizar-ingresos-psiquiatricos-involuntarios-por-urgencia-vital/363700_0.html
 - [2026-10-21] [05] **Senado: consiguió dictamen el proyecto y los cambios a la ley de salud mental quedaron un paso más cerca del recinto** — La Nación · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSzR5NDkwQXpxRDZNOEdCYkJoMWpnZ0hFSk1JcFhQamFKTmJXa0dNVk9ieG5hUFlkV2FDaVY3RTYxR25Lc2RvQWlfbjgyZmRNVEJ2bUg1YkNyVDFIQldQNEhfbFVFU0hYb2d4eFQtZmFCbUVJZEtPNHY5RUJET2tpUGNYQk50a3BhZ09TdFdtWEVia2I0dW9HT05ray1KeDBtaDFyYW1lX0kxaGZkenN4d3dFZlluaVI2TkVabnAyaFZBQWl2cGJFOE0tQ3VxaWhzTk9IcE42el9rclR0ZW9UUg?oc=5
 - [2026-10-21] [05] **Avanza la ley para declarar la emergencia en salud mental para el personal de la Policía y del Servicio Penitenciario - Diario Inforama** — Catamarca · cat≈regulacion · 4 pts
@@ -157,6 +144,8 @@
   https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlNqUkV4TjJibUxuV3RzVTJLdjl4S1M1TmVRVmtFRmNXRkdQajFxN3Bwakt0OG13TnVtOENQT1Vja21LeFlpM1dkUzlwOEg3MDB0aWV4VEdzRzEwRUtrS1p5Y0hYVklSZ3JnV2EtU3EyaEhGcXB2cmxuVUF0NzdKTkY3bXpkQXdkV0gwYjVBRF84UlcybEkzajgwbi1LLTFBM1dPM25YRmE2aDlaYV800gG3AUFVX3lxTE1ZaEJMaXU1ZmRuV3ctUDB4bDR4R3B0LVhYb3A0Zmw5X1hjY2NkcXBIVnp2YTFoQTM0TkUybFRUbElMSFJJZTAxSGpNMy1JRWRnM3R3R2hYSXF0OTZxOThEbmx2NHhWNy1QYjE1bWNDU3NKM29PZ09RNkltQmVrelk5WlRFUF90NERIRXdKbnlOSU9HZzZxSVJiaGhVcW5YS0liNU1zQmJZVGxsNTd5LWwydENQUkdldw?oc=5
 - [2026-10-22] [05] **A SEPC alerta que a nova lei de intervenções involuntárias em saúde mental pode deixar sem ingresso pacientes com transtorno mental grave** — Demócrata · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMiggJBVV95cUxPY1JTMERUaWRtVXN0aUt3dTZkUmFpSzBFZHQzZ1hPRFVtTGlYNTF3M3Rhb0JDeXFXcndxWlFhckdnZVNwU1ZPYUttcmU1V1VISnNFQndBX180RVdycHl3TEhKSWZFWVdFUnMxNXM2V3AwS2VVYWlwb190anZsZ0NBcTRYczJsankxd1RhR3RrWUF5NTF6M2thdFUxX0o0bkphWVB5dDRaS256MVNua2kzLVgyZXpJSWxtRVh5akF3VE10S0dES005OF8zZk9tUVllNFBnZ2JLS00zajlEZXBaYkhXaFZ1WU5CS2I2QXdFcjBrNjVtTzVlREM2QnFEb3hod0HSAYcCQVVfeXFMTmtldUZuY09iWTQxTnQwWlZqcjhDVldXekdxVkViSGNCaTRMQlliajFxZG9iZWNjRnVvMDM4M1RHWF9ZREFsLWNEakM0eWluTTNDemtrb0h4TDh3d0NUUmdvb3ItdEVrQ2Zaa1dmZENVR2lGbEpyNGt5OGJidzB2VXJBTjZrUmUyM0RTdEFJNHR2Ykp2cW9LdkppNDctSnM1TzVERTA2M1pEMENRNnA5UFY0WkY3dEhJVEplR0hoSktiMG9iVXkyM2ttRlZ2NFVOVmtRR3Q5cm9Hb1NOY0tkbVdnX1dORnRYZmt4SWs5ekdUZW5EZVBQaExhV0pmTzk3RXVSUWlDUE0?oc=5
+- [2026-10-22] [05] **La SEPC alerta de que la nueva ley de intervenciones involuntarias en salud mental puede dejar sin ingreso a pacientes con trastorno mental grave** — Demócrata · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWVVHUjN6STJEZmVnSk1VTnRtdjM5Smw0Wm9xc3lveEcyemdldDh0azhYRm9CZFRoQU9hdFR1NlV3c3BMaElBNUVLTEdXT21jTHRCMXlIaWh0YU5YNFZldkRmMWN3NWxHdzA3TnFxNk9DTHVmelpqQ3FzZnRHbXp0b2RBdWw1dk4wS0lBamVNMi1iQldVNUFsRkFGMjRudExqUVhKTnBEYTNuUFJuc2d6U3ozajg3RHBId3F4bHVoSUN4akNfdWxZY3lvY3FLajZwQUs3b0FES1duSUctMjByVjVMd3V4ZWtoOWlRcXFDZmVURm9sTTFJYTdnWnM2dE1VdmV2RkdZdEpDZW_SAZACQVVfeXFMTm5kX2ozbDhSQVVxUy11Q0I2SXJjY1F3alhsNFF6eEZGN0Y1Zmx6VzRUdzdsdUVmVXFhN3VoQUwtWTFXeUUtSFhpTTI3aDNpZGUxZm56aTVndjhoV2gzLWJIbDJhSjljQnpVZmVnMGFhVWVxOGM4SU81d2x3ZUZnYnFHU1BpczRXZFlXbVRHMzBJLWk1eFZRUnp2cTdna015ZV9ORks5QXl6YldSaFllYlhGc1dYazMzNlo0RzMzUFR4WlVzeF9ONndJcnVaWDlCRUdyNWpNNXBkcVFZb3JUZnVqejkzTmhEYVRPMDdMVXdpN24yR20weHo1Y244WXBvZXNJcjF3dnE3aUxMRWZuY3A?oc=5
 - [2026-10-23] [05] **Reforma de la Ley de Salud Mental: el Senado podría debatir el proyecto el próximo jueves** — Diario Río Negro · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkc0STJkUzRSRzV5cHpiRTlvcHlJMXJJbGJaeDhaZkNFZVF2Y2VIc1JiR1FNTlFmbUlFSGsySVZiTjJBZGZ1ajRnaXMxWVhEczZTQzJGdjhhRWNESHczSDVvQmxfNWV0d1VvSUc5eVlPR2czdHFTckI0UXYzNG1sZnpzWDhPYi1TeWN2RDJXTDF1em5CWXc3eEhDM3Jobmt0ZkpfTDBiT1FobGZEWi1ncGxRQnJIN1dCUjBzQ2VhVnZ4ZVFUWFJ5Rk9BT2k0N01lSElLRGhETURGc1Y3NDBYam03bjbSAewBQVVfeXFMUHJXRV96bkh6ZjFneVJvQlJTZWl5cERMeVRWV2tUNjZ6THIxVGtkcS1IMkVIdEZGRTBSeHd0c0ZCVXpHVlBCRmhDWkRCMVo0Y0tScVhVeHZkX2lTQkFDS2NxTjhlX3M1OUVNRmVmWnZGbkVfMWsxbnhQdFN4ZXlLS3dlV1NGZ1NMMVNZZXZjcFllQjl5enppOVVBeGRMNHE3RVItNUdERElFeDFDbHJ6czlzdXFMcHdHYXF6Q2NQQXZacXJQWERma2ZtaV9WVUpxVEh5RlJjV3Q5Zkg0eTJjUjFRT244cWxZdkpKYWY?oc=5
 - [2026-10-23] [05] **El Senado debatirá la reforma de la Ley de Salud Mental y el Tratado de Patentes** — Tendencia de Noticias · cat≈regulacion · 4 pts
@@ -208,13 +197,45 @@
   https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDdLYk9iY3ZZczlTLU5xT3Zxd3UwMXRBLTZ0QTRoVEhHRzA5aXd2bVVTOHFsMGI0dkZfQ1RVZmlpNi00eWxsdWZFLWpPYkJoMk9CdzdZMzZ6N1JjWF9WbkVGb3MyOTQ3Tm9rMUN0MWJuMnJfZlRKckx2NHpSUjVnZTktN0FPSURwSFZNODJkMUlvVm9hWFI0TXAzTF85amtVV1VUNEdtWDN5cm8?oc=5
 - [2026-10-28] [05] **Salud mental e inversiones: el Senado define el temario de la próxima sesión** — MDZ Online · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMiygFBVV95cUxONjFvX1JZN25pYzB2bGRDQ1RmY2xaOG1WSzdLN0p1OTdfQjZYcWl0dTlJaWFwVExiQzRyelZqdUFaeDRoNGZ4NFVDdFV5ME9kZ21JR09aRngySU1yT213dDBEUThkVWRaRFB3WlNlNURJR2lRYkdMVDF1bFVRSXF4VDB6dkdWVkt5LU8tUnc4REd1alZYRldOY0c0WENTZnpkaWFtZmRzaHFGeVNhOEhtUDQzT3prRVR1REwyam5DeWpaNUlmYmRVdlNB?oc=5
-- [2026-10-20] [04] **<a href="https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper" hreflang="en">Commercial plans' mental health provider directories routinely inaccurate, secret shopper study finds</a>** — Fierce Healthcare · cat≈research · 3 pts
-  fewer than a quarter of secret shopper phone calls to a listed mental health provider ended in a scheduled appointment, often due to inaccurate contact information or other issues with a plan's directory.
-  https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper
-- [2026-10-20] [05] **Convenio entre Gendarmería y Municipalidad de Quillota fortalecerá atención de salud mental de mujeres privadas de libertad** — G5noticias (+1 medios más) · cat≈partnership · 3 pts
-  https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeS11OFlxcFVtTE5oNHZHSG1BZVlvSkRnWHRSZXV1b3NtaDNoTTgxcUM1V0pZRVV0WGhFYmd5bXY4S2xPbVNNX3Y3d1d3aVFrOWE2V0g4THR4NnF5bkR2aHpEanQyOWpIZEZHUUJwRnRZSDRZeXZHUU1mRG9RcGtPTTBYalhaYlpzYkcyaDFkbVR2YXNXMm0ybUk3ME1OVGo5a3BtdVdiRks0aGQ5Z19hRXV5bkljVmIyekNSU3hlUTUxckM3X01ZeTVJX3BTUWNiaTg3QTRSakpmOHJkcFdEbTAzOElkTWR2X3l1dGF3?oc=5
-- [2026-10-20] [05] **OPAS realiza pesquisa sobre saúde mental de profissionais de Enfermagem e Medicina** — Coren-SP · cat≈research · 3 pts
-  https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSDdQUHprN0pXY25XemRNelZPbHFYZlN6ZWJ6Um5WbC1wcXpKVkYtc0hLcDMzYmJndnBGNEVkQU5iOVdBQjZSY25td2F0M1A2OUhndmx4U2JTQ2dDLXp2ZE1aaXpRdHhmTFFUSkViVTFtaTV1WjBqanRuTHZkN3BjRFhvRHBIQjlOQ2xzWHVTa0paWGRDbExtc3Fub2NDUVBzWk90aExqUGE4U3RJVnJ6RVBobl9qMkxtVTJOQVYtLTM?oc=5
+- [2026-10-28] [05] **El Senado sesionará para debatir la ley de salud mental** — RosarioPlus · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcnRpVGtndEVnRW9tNUxCNU1YWHlKVERMUG11TlRYSDBXWWViN1BYZjlQYTdXN1doeGtjNDZZaFNEaUtfREdIRWowMHU5OFU1RTkxVWtpYlBvNkQzN2FRQ2x3dGdockJibVVUbXhJYkJoeTIzVGM2RGpHYlZOUjdtdXc2YmpwSktsMjJMMktwRHdjanZzU2FkMHJYOTE4eFRXNGFmVHE4QTg0Rm0wUnVKVUptX0NBMjUyUXBlSHVaWjdxYzVVWDBoQdIB1wFBVV95cUxQalNHZ0E3T1Z3VTIxY2pjYzJha1lSSnFGRGVoS01hVHhuWnUzdGlPTTZPZ1kzdV9hTDJ2dGhyYi16OTFNdXRSbnRNMHh2RWhoRDVXV25rZVZXY2d6bklXaktPU0ljbWJQYzQzblkyZkpBbzBYc1NvRmswRjg0eFJQeFA4NVRYTDVHeGl4LU9kZnBVTTR6WkJOY3lNVlVNT2Y3Q09QNnZwM3pWYjd3RkJoVEJfUENwcXFjT3lKQ0lxR1JEZkJsUGZfQS1wVE1YN25UaFVkOUltVQ?oc=5
+- [2026-10-28] [05] **El Senado debatirá este jueves la reforma de la Ley de Salud Mental** — Diario El Argentino · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxNYjgtM0h1bE8wYVlaWHBfZXdGN1BBTHotR2IyOVFUR2VONEh4bjNySGJWbF84TW9XQkpST3gzd1l5X2sxVDdsVnpITHZoZGI4RzR6Sm5vM0hYVTAxNjB0aGRfM0htM25MWFNJX0JDaXZGcDUtOGNSdXBMNTAzb3d3bWpTcDZqQ3pWUWRvOFpFMTk4bHd1d1FhendGQnZRSFRfN0ZvNVo0MzdJX0lmdVo40gGoAUFVX3lxTE12ckxEYU93LVZndHdPM3ZjdmxXTXp2QkdwRmJYVHctRWRTUHlNbFBlYy1BVGJTNWdWbUc5NGpqV3pyVFlLOG9EOWxCcy1qcmVTTHdndFd0T0J5WlozY1NsVjk4VmdjLTNJcDdVT3BWVHk4T0x2ZWk5OHdfYktkV2VIS1pHYmVVSm1obG81UXBtUENyWUZ3MG9Id2tpVHNYX0pRNmZSNUdmeQ?oc=5
+- [2026-10-28] [05] **El Senado define la reforma de la Ley de Salud Mental** — » Cholila Online · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMilgFBVV95cUxQMWJOc0kzZXRzNncxdXZtaGJVNzZSbDJGYVdwWFJPYjh2eWR5Y0QzTllQVEw3SGo3bmc1a2thcW9abE5vU3RmTXBZMzhpN3kybFF5Vk81TldCak01cGdiMmQ3UzR2eGNLTG5UZ1V4ckxUOHZOdWUydzFuNndMV2d5d0ZPSVE0NFFOX0t6XzdDWmlubENQbFE?oc=5
+- [2026-10-28] [05] **El Senado intentará aprobar mañana la reforma de la ley de salud mental y el RIIR** — La Nación · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkpfaGFNd1NOcWNmeWxfeUgwYVI1VDlYY1NTVGsxa2g2UlhhMDcwcDdBVV9Cbm1ONzlSVWVxV1BOMlc4RFpzT3JGM01lUGtFNVRUMmZsd2dhdEJuMnFQVlNPV2pESFJGWG95M2t0cklXU0ZlcFV2WFJWZGpENXd5WXM2cmFCdkFITVd0elhsQnpoRmNoYm01cnZ0MjJIckZIWWpJYVp2VHJCS184RnB3NzhlaVZwTXNtOThMQUxvQ0dQOS10V0JHSEpndw?oc=5
+- [2026-10-28] [05] **El Senado debate cambios clave a la Ley de Salud Mental - Diario El Norte** — San Nicolás · cat≈regulacion · 4 pts
+  el senado debate cambios clave a la ley de salud mental diario el norte - san nicolas
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGdfWFJyQUFPNUs1b2hTQ1VySDBMeFBQNE1WaDRuX3JhZlN0Q2pENjdDZTdWclRqUWZMOEJmeWp0SzFjOGpiQzdsRE9GU1N0U3R2aDRRU3FzYW9DT1VobFQwUHJEU1lRRU5HZFdTcGlkNWxSVS0takRVSjVFR19lOHBRSmJPSmJIVFVPWGdR?oc=5
+- [2026-10-28] [05] **Projeto de lei em Rio Branco propõe ações de prevenção ao burnout e proteção à saúde mental de servidores públicos** — o rio branco · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRl9fVkVSSnFFb1dUWU0tVndnYTBWa2p0ZEptVDhxdzYzQUdOMy1zR1dLREk1ZHIwRDhISklhSlp1dTFya0xPckhnRV9LWmQzdTNuelpDREZyQlBYOWk0bTljbWdpTlJ0QUxVVHppQmVOdWpqT0ZpM2FPX2FqSVJDNzBucHhCaWV1V1QyWFBMNWkzNzh0ZWsxcm1VVXB0NzZuazZZVmJfWllIaWtScE1NMW1ZNk9QYzY1Uk0tdHE2dGo5T3loejZxSm56QTdfUWV4NUgzZQ?oc=5
+- [2026-10-29] [05] **Navarra aprueba una nueva Ley de Juventud con medidas sobre vivienda, empleo y salud mental** — Noticias de Navarra · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMipAFBVV95cUxQS0JsTXdlZ1Nwd1VMNEJzbmZHWjNjbTh6OHJqRTd3bkdQaEdlMVI4YU9ISjEzdnhHTkthWkhzckZhdW0yVjExZWY4VTViZ0s3bDI1M1ZpUTJjdk1MY3UtYUtvcWNFY2ZFMWFVQmsyeHpNYnNkZXhGRXZtYjFNcm9oU2RVcFZIN1hOWjhkTEdRWjcwZkNkOXRZUHlyTWtyZzgwcHotRtIBqgFBVV95cUxNWVI2dHVBdnlXUEhFWUVCNEh5MXJBbEtZajVUcC1XRW0yZnZ6MEp5WWRmWEYxNVVMZG9kak4taERuamNhb3FDdnNMUzhQQWZEbjJISkJtcjhMMDZkdDFMQkFzWElZSGR4RF9nc0hmZjFGc2NqeDJXZWNVSW1qSDdTZzNvdlRWTGhQWXJkcUlCc1BTdWx6Ul9PelIxR25Zbm16S3VUYmZxQUJzUQ?oc=5
+- [2026-10-29] [05] **El Senado sesiona con la ley de salud mental aún en duda y buscará aprobar beneficios fiscales para inversiones** — Infobae (+1 medios más) · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSTY4YmNVV2RaWjhnVWM4QXpUNWRQRHJQZjNpNFUtZ1lwQVFwWlU3dmIwT09RQ3U3Wnh1V1EtNGNHVEtKSE5Ocmhzb2tqdXF6MUJSWlVGT1d1Vl85MnVoa295czcwZXAwVlVfMGh3dWFXVHNBZ201bVRGckFLU3JzMzE1X2pBOTFsbVhGQWRrV3N6bnA2VmYwalowcmtDcHJNOUZzUjVDNlBMZUQ4TmZHdXdXMTNFUjRNMWo5bEswRzNZSFI2bW16VTFMZmtGOFFpZmN0cnhWTG1OaU95bmVvclkyV1ZNRkQtdnlKWNIBhwJBVV95cUxNNXNYMy14UVFSSmROcEVfUG9YLUFiQjVBVlhrTnB4Z3JFOXkyUEFCWkRBZHNKX2NsVEdzd2FnZ0pYVUZKdW4ya0RVdjFCdDlxWTBPaC1mMEl6RTZDVXdBaUx0d0YtRkFjUVUyWW83c1RaVWg1dVdNTEtlN1N3RFQtbi11YjkxQ2lfcXVDV0V6VFhvMFhfWTZzWkw4SEJCdkwyNml6NC1PTTlZcEdxY1kyeWpvbEhvcy0zLU5fM3VnZndqUG90RGVWX0RjMFF0eEp3b3hLX0ZBbVdEYUxtQ3F1ck1IUzRvQ0Rmd1N2YkRQMjFOY3pyNjcyNURtMkFaZ0lwSlFaTG5Pbw?oc=5
+- [2026-10-29] [05] **El Senado debate la reforma de la Ley de Salud Mental: los puntos claves de la iniciativa y qué otros proyectos se tratarán en el Congreso** — Canal26 · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMijwJBVV95cUxPWHVzQmdPOHdLTlEwVzB6YlFORWRPV1pYTVF6b25rcU5sanhCSlNPTTFBM3NrckNXdmtOMEJsZV9CRmlKbE90aV9paUV1QS1pT1VaX0hfb2xaLVpORWZORnlJTDkzUE05am9PMWl6cjdzRUd6b0U1RXFWUW1FR05SUmJzcG1SN1lZQ0JMYmNoc21DbnZqYmxIYnJwb21YNU9kSDJmSnVyRGtSUmFPa0NfNUdLVGgxRGR0TVhuMUhmY21hdGVGMk5RdlpHckFaTUdyYmx6dV9FdGJ4NFlVdmRJODAtLVdpeGZoSXNjclJyMFlrbUZpdldCT0lWYzNacXlNZlNOT2JGRDJfdFNBYW5j?oc=5
+- [2026-10-29] [05] **El Senado trata la reforma de la Ley de Salud Mental** — Filo News · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGZmZnlmNGZBRHk2eVFLcDljd3RieFo1TFByNWYySE9wNUZNLXRyQ1NHMUFmY3Izcm5mOTFCd0dVUl8tcDZYai1kbTNGV3dfdUVLUnZBMjRubGo2VEJHTnlQQlNUYTN0UFlkNVM4Y0p5RU5oU29mTjJsenFtdXZET3lxcUVCcnl4S0J1a01XaENMUmhmbUtSUw?oc=5
+- [2026-10-29] [05] **Salud mental en Argentina: suicidios, adicciones y una ley bajo presión** — Diario Qué! · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWhSQXhvRGtVZUE1SG44WkRYc0Q0WV85eTZyRFp2QmlxdEdQcTZ4NFJIQmJWazVvV19VVHdzeUQ4VThEVTdJV2dPRnhJMmEwMGRXQkk5YndwWXRoSjhYX3hNeVJrQmZISUZLYjZRX2dHMXI2b3ZRc2NRNjJJOFBTbEJTTmgzN0tuNl9hTw?oc=5
+- [2026-10-29] [05] **El Senado trata un nuevo RIGI para inversiones y la reforma de la Ley de Salud Mental** — Diputados Bonaerenses · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMieEFVX3lxTFBZbUJVbGs1cGpOSlExYW5QS3VJZzQ5cFpEQWZ0b2pUcll6UjdNcUs2LThvQjAtTWdvVUtSYlRxVTRwT2NTS3hQeTZpc1hIb1FnSGl4TTRBclhHSnU2ZHpaekpkYnZVQ0dFUTdBZVhaTjhyVnJoSjlCdw?oc=5
+- [2026-10-29] [05] **El Senado debatirá hoy la reforma de la Ley de Salud Mental** — Diario La Capital de Mar del Plata (+1 medios más) · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVJrZjVFUF9oU2xvWGNFNTR3RlAxdzNLb0NPTnhXczlYYnY3UjJHanpXWmlyWE1Lekh5TDNOclF0blIxcnJFVklJR3ROeHJJdGwtT1pBeWxyZFZNQXNHQTU1SlJZMTNjQzFSQlRPTFNyaXFpcC1QR0J6QWhVazBjcXoyalIzZVFYczJXVkcwckJZTVU?oc=5
+- [2026-10-29] [05] **El Senado debate hoy la Ley de Salud Mental, que habilita internaciones involuntarias** — La Nueva Mañana · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMivgFBVV95cUxPd3hvTTVjN1Y2S203eDlpT184bDNBLXIyVzREeEZLOFR2N3AzNWtCdkRhNGY2OTNQX3RwM3hpbkpGYVpzWG5GUVVtWm5aemJxemVHZVczcDBsd0puTjdMOEpXelpvMWtlN1VKR3Qta1ZHVjFsdXlSS3FnR1Ixc2ppd2VSMkoyeHpWQW5UR1lHVnJLdlRfOHpkLV9rVWNPWHFRV0ZVUWUyY0F5M1RDRlFfQlZBb0hnVDBCTHloQl930gG2AUFVX3lxTE84ZHdKSW16djh2YlFnczNuZi1WM1k0clBXM2hVTlo0OHBQUDcxT3ZEdmp0V1lPT0VRTlM5UHFsLUZUc3NCS2xPZkdyZmVGUEJNUUM1T3B6MnVNUUpNOE0wX1pDYVRrR2pUWUdnam5jUVM5SnRyTExEWGVQdmxDS0FHdFdiSVMwZFB6QmtOb25vb1hEbTVTY0RzZTJGT05nQUhHNmhUdkM1QnRVWk5aT1h1RTBHSlJn?oc=5
+- [2026-10-29] [05] **El Senado debatirá la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias** — Plan B Noticias · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMEZ4Q0Y2bnZxWGlkekZNSDNZcXhfT2FJVHZkc29hMnRhWVNUNnljQ19Ub1ZYdHJwSmxNTlFBQkRqVkVjVWtfRFdXa2hsdDNVbUhuV1VyWVhsTUMzMmFpZHBBMnVIdFBHV1FyYVdYU2lELUtJUnBrWnZKNWQ2YWprbkxHaU4yMnpJRDJzaHZ6UTRVMXRJMW81TXRSWXgxcFNvcVlNYUxybGwtYWxlSk1qWWFGZXNhdFk1aUR4MW9idWtHQUtVazhtdkxkNTlNbS11OWMzaUVpMmRkZHRCS1hfMGs2dUNmdw?oc=5
+- [2026-10-29] [05] **El Senado sesionará por la ley de salud mental y los beneficios a inversiones** — Todo Jujuy · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkdyYS1CNEgwODRyS1JJZFZSWmtvQi1Tdm9Mc3h6cG5yaVQ1Q043VHFnR2duRFdWLUY5ZnZzQUtmMUM5am9PTF9MSGRQQVFKUTBwT3g3blBQWUxISmtVX0ExOUx5bUFLdVkyYTg0cEdFcGxwR2VPcTZCdzZyMTZEUXVDVnpMS084Z0dVaWJsUlg4enBZNkdOUGdyMnkxeTNNc3BGa0tSU29vWTB0RG9GUdIBtgFBVV95cUxOYnJIWVFpWm1tb3ZIZGttQnZ5emE2UTk5OWtnc3E5X3dfZEF4S0xES3B5Zlp2aDIzM01NWDFpdXpPTlVlSU14U1dCdWZlaTZFMGMzZEdwX0lrVjFrZmFPZHVhd1hBVjVqVWc0MHdWWW9QNk9Uajl4YnBnX2lSTVpTN1g4Qkx6Z21naFAwdVpZaFNJb1dlQTBLckRZbUwxNi1iMnVwdXdfTFFnR1NuT3ZGa0JuRE5xUQ?oc=5
+- [2026-10-29] [05] **El Senado debate hoy la reforma de la Ley de Salud Mental que habilita internaciones involuntarias** — Nueva Ciudad · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTy1LQlZTTTdBWEtRRl83TjFYU3JaQ0tpaVVkNUFhRm1hd3VXVFFtT0NDQjJ4empsQkowTjN5ZGh6UWtJbGdQMmlBTEFHbVFUZnltYWRBRTc1ZTNqeW1ON1dMVm4yX2szVDd6azNGS1pOX09ocWkxOFRVTTU1MTRLYW9ESDZwd0xmN2xYaTZqRnRSMGp1clJwVEktS25FZTZrUmFvbmM5bnFsbjhQMVk1UmgxeVpmN0hINE04QlZhUm9xX2RIUGotX3B3cXJ1Q2ZfZWM5UWNTaGpPdWoySU5yT3hRTG8yQ1g5OFE?oc=5
+- [2026-10-29] [05] **Ley de Salud Mental: los principales cambios que se debatirán en el Senado** — Crónica · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXppVTdIdy0zTXd6Q2VETTR2Q0pGTEh2MWk1N1VscDRWVjFQMmJCY0psVUZXMGVEUDNtV0R5b09vd0hhR1oxVklrRXI3ek5XLXVpTlFXd2gtaDZvcUtkYnlvZ282SXdNXzV1YjUzVGlkVXNUSGlYTHEwTG1jZ2ItXzR0akRrcmp4X2tweEJ1V3BhUWVFNS1RcVladEE0Sll3Tlk1bUZRaVgwRlhON2RF?oc=5
+- [2026-10-29] [05] **El Senado debate beneficios fiscales y una reforma de salud mental** — Radio 3 Cadena Patagonia · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3pOMWxXNXBSMzNWX01pT3pTaWZBUU1wNDRZX0VDTWFoamJ1amVkYkZTX29wR0JzR2JtT0locjlmWXFuVmg4aFJHdUExTTQyZk5DM2kyRDJTUzU0ZkxHTHJtMTI2T3ZrWHJpa3Zab1JxY0R1RHFXSTZHTmFZQ01LbDE2bzRkcFREVzlsOTc3M2tqSFNjVGlPZm53WERaa3phb0ZCSll3aw?oc=5
 - [2026-10-21] [02] **Sanofi firma alianza con ScionxBio para desarrollar terapias de ARNm de acción prolongada** — Saludiario · cat≈partnership · 3 pts
   la alianza entre sanofi y scionxbio busca extender la produccion de proteinas terapeuticas en el organismo mediante una tecnologia de arn.
   https://www.saludiario.com/sanofi-firma-alianza-con-scionxbio-para-desarrollar-terapias-de-arnm-de-accion-prolongada/
@@ -244,9 +265,14 @@
   https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmIwUm51YVhuMGd3OWVMSzFHUU9jOXFfaU5iUDdGNTBwZm9NUU1XX19EekZEUk9Vc2J3UVQwdE1YRkxVVGZRc2xlaTh6dXVkSlpyUHo4aGV5Q1BpMzBqV0xMSHc5SE9YaEJfV1JZV2J3eG15bGNwQ3ZtR0dueU1DaDFaU0doUFNMVENWVE50OUxyeGljcElWQm0xNWc3dWNMWHc?oc=5
 - [2026-10-26] [05] **Governo Trump quer abrir o tratamento com cogumelo alucinógeno, ecstasy e ibogaína a até 2,1 milhões de veteranos com estresse pós-traumático ou depressão, sem que nenhum regulador tenha aprovado essas drogas** — Revista Sociedade Militar · cat≈regulacion · 3 pts
   https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSXBWeXV2V3J3QWVCQ2pxaV93NHJZNENjVTMtSUctZ25LQWtkaS1HZnVkOWpGOGM0WUc1VDhzbWFKTGpuU1UwQXZKNGIweGRzakMxRGFiN0JXNkdKaTZPRVZrS1FHYVEzVmxlNkxCRWpuLUc2M2drRV9NTmI0c0YxUjhJMWo5S2NBazczRVdMX2pNd1JOVnlqdDNacUlUaDluTklLZ0Y2MG1tdUZRVWJKWUlMeU9hdzVtR25xTDJvYVNscWhyd3VuVXlqMW5pdG4ySWNV?oc=5
+- [2026-10-28] [05] **Duas startups da Paraíba levam soluções de saúde mental e sustentabilidade ao Web Summit Lisboa** — Paraíba Business · cat≈producto · 3 pts
+  https://news.google.com/rss/articles/CBMixgFBVV95cUxQeC1hMF82TDJHdndsQkVCcnh0dzlFYW1CTVV2WTlOSi1EalVMa3hrUXZCS3l4Y21sSkFCazJJZVl6bGE0cjZjRUJ6QjNwVXBHSlNlYlh0YzNfUE9LaUFlbDlDSWh4SjNOTEdFRlRWb3hocW9kenRPQm9UdHNvN2g3cXdkeUpOdV80NGoya3lmcEZVRDduN1g5b2FwOGwxUTBrOFV6dzh0WUQ2QWxMODNtQkw5NUpFd1hUUmRuelJXVHYwZ3lac2c?oc=5
+- [2026-10-28] [05] **Rede de Saúde Mental de Aparecida encerra mês das crianças com ações de acolhimento e inclusão** — Prefeitura de Aparecida de Goiânia · cat≈mercado · 3 pts
+  https://news.google.com/rss/articles/CBMivwFBVV95cUxOallFZjlGT0tnWWxKRWVNQXlHQkhCUmlYendTeW9NTDNKTDA4X2VSNUNwMVZhWDB4TnlvZXhJdjNyLWRTZE9lV1BUdkpRWG80czRrX21SbHpPR28zMUNSMTlhZ2RjZGN0QjhKT2hYbHAzQ0tVam0wTHh5WUk3MlRob25USHpRSEdlZUtJdjdtQUlXV2NvdGQ1ZU1qZkJrbGdsOWgwVlA0QUR2N0ZzQWRGcFRuQjJQTjdBSWpleExzQQ?oc=5
+- [2026-10-28] [05] **Chilean study finds mental health professionals may stigmatize users through overprotective compassion** — Bioengineer.org · cat≈research · 3 pts
+  https://news.google.com/rss/articles/CBMixgFBVV95cUxPZno0UjQ3bVkxalc0NFh0UWpyNU1yNnlVaTJnZHpwYjQtemttZzdMekNROWVRUndYTjM2RzlFTVZyZnBoclVNSnQtSVNBdFJXVW5WOGRNcUxfaFNTNDVqQ1VRQy1halVUVlZuRzJkakdYQ0lNMmxyWnQzX3BRemZPY2t3Rk0wNi1DRGpPV1AyVmNVTVFIZy1GUE1OczJ1RFNvN19MeC10TFRmWGw1ZDFiUWVxbzNacFJYRUFHSW1GUElmT096UXc?oc=5
 
 ## PRIORIDAD C — probable ruido (solo títulos)
-- [2026-10-20] pacientes | El TDAH se asocia a un aumento del 70% en la tasa de mortalidad general — https://www.consalud.es/rss
 - [2026-10-21] Andalucía regula la figura del logopeda en Atención Primaria: título, sueldo y competencias — Redacción médica - Home
 - [2026-10-22] pacientes | La soledad multiplica por 2,7 las probabilidades de depresión entre los supervivientes de cáncer — https://www.consalud.es/rss
 - [2026-10-22] profesionales | ¿Qué tienen en común la esquizofrenia y el autismo? Más de 94.000 escáneres analizarán ocho trastornos mentales — https://www.consalud.es/rss
@@ -256,7 +282,7 @@
 - [2026-10-22] La Facultad de Artes adhiere a la 13.ª Marcha por el Derecho a la Salud Mental - Facultad de Artes — UNC
 - [2026-10-22] Brasil bate recorde de 806 mil acidentes de trabalho em 2025; novas regras exigem foco em saúde mental — bra1.com.br
 - [2026-10-22] Sanidad aplica desde este viernes las nuevas garantías en las intervenciones involuntarias por salud mental — Redacción médica
-- [2026-10-23] Salud destinará 9,3 millones a un centro para la salud mental infantojuvenil — Plaza Nueva
+- [2026-10-23] Salud destinará 9,3 millones a un centro para la salud mental infantojuvenil — Plaza Nueva (+1 medios más)
 - [2026-10-23] Sanidad pone en marcha el centro de salud mental infantojuvenil de Mutxamel con tres equipos especializados — Comunica GVA
 - [2026-10-23] Sanidad modifica la norma para ingresar a pacientes psiquiátricos contra su voluntad (y los expertos están preocupados) — EL PAÍS
 - [2026-10-23] Sanidad concentra en Mutxamel la atención en salud mental infantil y juvenil que daba entre Alicante y Sant Joan — Información
@@ -269,15 +295,11 @@
 - [2026-10-27] ¿Por qué las mujeres con autismo presentan síntomas menopáusicos más graves? — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-10-27] CREM busca ampliação de atendimento em Saúde Mental de assistidas junto ao Ministério da Saúde — Prefeitura Municipal de Itapira-SP
 - [2026-10-28] Comunidad Madrid | Atocha habilita un puesto de atención psicológica para los familiares de los viajeros del accidente ferroviario — https://www.consalud.es/rss
-- [2026-10-20] Salud Mental en Santa Cruz: realizan jornadas provinciales y presentan las bases del anteproyecto de ley - La Vanguardia Noticias — Caleta Olivia
+- [2026-10-28] Las voces de los profesionales sanitarios en la zona cero del accidente de Toledo: "La fase más delicada es la llegada de los familiares" — Redacción médica - Home
+- [2026-10-28] “La salud mental está que arde”: Córdoba marchará este viernes | 28 de octubre de 2026 — Hoy Día Córdoba
+- [2026-10-29] Bienestar en México 2026: inversión histórica, retos en salud mental y el pago que viene — Debate
 - [2026-10-26] Trastorno mental grave: de la tutela a la autonomía con apoyo — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-10-27] Identifican un mecanismo cerebral que podría explicar por qué la obesidad favorece el deterioro cognitivo — infosalus.com
-- [2026-10-20] enfermería | El CGE crea un servicio de consulta psicológica online a precio reducido para las enfermeras colegiadas — https://www.consalud.es/rss
-- [2026-10-20] pacientes | Ser cuidador cuando también tienes problemas de salud: mayor sobrecarga  y malestar psicológico — https://www.consalud.es/rss
-- [2026-10-20] Quito es pionero nacional con atención integral en salud mental y prevención del suicidio — Municipio de Quito
-- [2026-10-20] Caporiccio: "Los pibes están atravesando una crisis de salud mental" — Noticias Urbanas
-- [2026-10-20] Rodas: “La salud mental no empieza ni termina en un consultorio” — Santa Cruz
-- [2026-10-20] La salud de los españoles empeora: suben las enfermedades crónicas, la depresión y la obesidad pero baja el tabaquismo — EL PAÍS
 - [2026-10-21] Identifican un nuevo tipo de depresión: responde peor a los antidepresivos y no duerme de noche — infosalus.com
 - [2026-10-21] “El centro virtual de salud mental no es una app que prometa satisfacción inmediata” — Primera Edición
 - [2026-10-21] Peligra la validez de certificados por razones de salud mental para acreditar licencias laborales — 0223.com.ar
@@ -297,7 +319,7 @@
 - [2026-10-23] pacientes | Los neuromodeladores, la nueva opción terapéutica para mujeres con dolor íntimo crónico — https://www.consalud.es/rss
 - [2026-10-23] Tres de cada diez pacientes con depresión no responden adecuadamente a los tratamientos habituales — infosalus.com
 - [2026-10-23] TeBo duplica usuarios: la app de salud mental de Cali — El Ecosistema Startup
-- [2026-10-23] RDC: la polarización política en Brasil y la incertidumbre electoral pueden afectar la salud mental — Perfil
+- [2026-10-23] RDC: la polarización política en Brasil y la incertidumbre electoral pueden afectar la salud mental — Perfil (+1 medios más)
 - [2026-10-23] Projeto cria política de saúde mental na educação básica — RCWTV
 - [2026-10-23] Mental Health Spain applauds the new guarantees in involuntary admissions — Demócrata
 - [2026-10-23] John Cryan, neurobiólogo: cómo el café con cafeína y el descafeinado pueden influir en la salud mental — EL PAÍS Uruguay
@@ -311,7 +333,6 @@
 - [2026-10-26] Depresión circadiana: identifican un posible nuevo subtipo relacionado con el reloj biológico y el sueño — Saludiario
 - [2026-10-26] Novo amplía las opciones terapéuticas para el abordaje de la hemofilia con inhibidores en México — Saludiario
 - [2026-10-26] ACEFEP celebra que la salud mental gane garantías legales — El Pueblo de Ceuta
-- [2026-10-26] Buscan ampliar acceso a los servicios de salud mental — Congreso de la Ciudad de México (+1 medios más)
 - [2026-10-26] El mes de la salud mental: entre festejos, vulneraciones de derechos y ajustes — La tinta
 - [2026-10-26] CAPS Solar dos Girassóis zera fila de atendimento em Saúde Mental em Paranaguá — Prefeitura de Paranaguá
 - [2026-10-26] MPMG apresenta ações de integridade em fórum nacional sobre saúde mental — RCWTV
@@ -321,22 +342,29 @@
 - [2026-10-27] Estado conhece trabalho da Saúde Mental do Município — Rio das Ostras
 - [2026-10-27] Semed debate saúde mental e vínculos no trabalho escolar – CGNotícias — Prefeitura de Campo Grande
 - [2026-10-27] Segurança do trabalho e atenção à saúde mental pautam o prime... — PREFEITURA MUNICIPAL DE Sorriso MT
+- [2026-10-27] Norma que fiscaliza a saúde mental do trabalhador é tema de programa na Rede Minas — Agência Minas
 - [2026-10-28] El proyecto MARINTE investigará nuevas moléculas de origen marino para combatir la progresión tumoral y la metástasis — Gaceta Médica
+- [2026-10-28] Buscan ampliar acceso a los servicios de salud mental — Hoja de Ruta Digital (+1 medios más)
 - [2026-10-28] ICBHS leaders participate in International Mental Health Conference — Imperial Valley Press Online
-- [2026-10-20] Sanidad y Unicef Canarias inician jornadas sobre salud mental infantil y adolescente — Canarias Times
+- [2026-10-28] La Asamblea de Salud Mental organiza vigilia y marcha para exigir cumplimiento presupuestario — Diario El Argentino
+- [2026-10-28] RODADA EMPREENDEDORA – vai debater saúde mental e os desafios da vida moderna — NP Expresso
+- [2026-10-28] Ambulatório de Saúde Mental promove programação especial em alusão ao Dia das Crianças — Prefeitura de Alagoinhas
+- [2026-10-29] castilla-la mancha | Los equipos de emergencia que trabajan en el accidente ferroviario de Urda ya reciben atención psicológica — https://www.consalud.es/rss
+- [2026-10-29] medicina | El psiquiatra Juan de Dios Molina, nuevo Presidente de la Sociedad Española de Psiquiatría Clínica — https://www.consalud.es/rss
+- [2026-10-29] Atención psicológica tras el accidente de tren de Toledo: «Las consecuencias emocionales no terminan cuando finaliza la emergencia» — Gaceta Médica
 - [2026-10-23] Comunidad Madrid | El Hospital Rey Juan Carlos acerca la salud mental y desigualdad de género en una jornada abierta y participativa — https://www.consalud.es/rss
 - [2026-10-24] Sanidad da las claves para un ingreso psiquiátrico involuntario tras la preocupación de profesionales y familias por la nueva ley — heraldo.es
-- [2026-10-20] El manejo de expectativas terapéuticas ante la longevidad: “Hay que identificar las innovaciones que aportan verdadero valor” — Redacción médica - Home
 - [2026-10-22] la rioja | 'A flote', la guía riojana para que los jóvenes reconozcan señales de alerta y pidan ayuda ante el riesgo de suicidio — https://www.consalud.es/rss
+- [2026-10-28] Equipes de Saúde Mental de Erechim participam de seminário internacional sobre a epidemia das drogas psiquiátricas — Prefeitura de Erechim
 - [2026-10-23] Webinário da ESP-MG reúne especialistas para refletir sobre os caminhos da saúde mental no SUS — Secretaria de Estado de Saúde de Minas Gerais
 
 ## Estado de los feeds (hoy)
-- 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 0 · ok
-- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 1 · ok
+- 01 ESPAÑA · Redacción médica - Home · leídos 30 · nuevos 2 · ok
+- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 2 · ok
 - 01 ESPAÑA · Gaceta Médica · leídos 10 · nuevos 1 · ok
 - 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · El Referente · leídos 10 · nuevos 0 · ok
-- 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 1 · ok
+- 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · Agencia Española de Medicamentos y Productos Sanitarios · leídos 30 · nuevos 0 · ok
 - 02 LATAM · https://www.contxto.com/en/feed/ · leídos 100 · nuevos 0 · ok
 - 02 LATAM · LatamList · leídos 10 · nuevos 0 · ok
@@ -344,21 +372,21 @@
 - 02 LATAM · Saludiario · leídos 10 · nuevos 0 · ok
 - 02 LATAM · iProUp.com - Últimas noticias sobre economía digital, c · leídos 6 · nuevos 0 · ok
 - 03 BRASIL · Saúde Business · leídos 10 · nuevos 0 · ok
-- 03 BRASIL · Futuro da Saúde · leídos 10 · nuevos 0 · ok
+- 03 BRASIL · Futuro da Saúde · leídos 10 · nuevos 1 · ok
 - 03 BRASIL · Medicina S/A · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startups · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startupi · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Brazil Journal - Latest news · leídos 15 · nuevos 0 · ok
 - 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Portal Médico · leídos 1 · nuevos 0 · ok
-- 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 2 · ok
-- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 11 · ok
-- 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 2 · ok
-- 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 43 · ok
-- 05 GOOGLE  · Google News · PT Portugal · leídos 48 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 10 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 51 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 37 · nuevos 1 · ok
+- 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 3 · ok
+- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 30 · ok
+- 05 GOOGLE  · Google News · MX / LATAM · leídos 44 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · BR deals · leídos 45 · nuevos 2 · ok
+- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 12 · ok
+- 05 GOOGLE  · Google News · PT Portugal · leídos 49 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 29 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 10 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 38 · nuevos 1 · ok
 - 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 76 · nuevos 0 · ok
