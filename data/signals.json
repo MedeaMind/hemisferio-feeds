@@ -1,5 +1,256 @@
 [
  {
+  "id": "af57ba59d7ad",
+  "fecha": "2026-11-03",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Câmara aprova incentivo a startups de inclusão e saúde pública",
+  "resumen": "a comissao de industria, comercio e servicos da camara dos deputados aprovou proposta que altera o marco legal das startups (lei complementar 182/21) para estimular empresas de tecnologia e inovacao voltadas a inclusao de pessoas com deficiencia, autistas e neurodivergentes, ao fortalecimento da saude publica e ao desenvolvimento sustentavel da amazonia. a medida consta no […] the post camara apro",
+  "url": "https://medicinasa.com.br/incentivo-startups-inclusao/",
+  "clave": "aprova camara incentivo inclusao publica startups",
+  "capturado": "2026-11-03",
+  "puntos": 10,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "autis",
+   "neurodiverg"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d671144d5b06",
+  "fecha": "2026-11-03",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "La prevención del suicidio médico pasa por establecer \"cribados de salud mental y grupos de gestión del malestar\"",
+  "resumen": "un estudio identifica 400 suicidios entre profesionales en espana entre 2003 y 2022, detectando tasas de mortalidad superiores a las de la poblacion general entre las sanitarias de determinadas edades y ademas: el congreso urge a romper el estigma del suicidio y aborda la formacion especifica en universidades",
+  "url": "https://www.redaccionmedica.com/profesionales/medicina/20261103/la-prevencion-del-suicidio-medico-pasa-por-establecer-cribados-de-salud-mental-grupos-gestion-malestar/363816_0.html",
+  "clave": "cribados establecer gestion grupos malestar medico pasa prevencion",
+  "capturado": "2026-11-03",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a74430548d42",
+  "fecha": "2026-11-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "QZ | Noticias",
+  "titulo": "Psicólogos bonaerenses rechazaron la reforma de la Ley de Salud Mental y reclamaron más inversión pública",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbld6UXplSF9vYzFZQk1GMmppN0pMX0hRb3JvTGRNekZQb3JURFRGeEQwUlV6ZjB3UkNiSWxSOTEwbkkxTXRkbjlqeE9HaTE0U1BrMlc0OHJXSllURnlvVFdseTJ4YU1HTFN6cFVyYk1zQ0tPSWVXLWw3WE9hMS1La3Q2QUxmaTdUQnRvSVhHQnlVWG92X3JFLVpKMi1sN29RYzRwbVExa1ZfSmNhLVp2cExDQW1NcHRwTl9ZeE8ya0FBdnBMaTNGZ3VYMGFXd1pEVUJHN1RJUkswN3RiblE?oc=5",
+  "clave": "bonaerenses inversion psicologos publica rechazaron reclamaron reforma",
+  "capturado": "2026-11-03",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "28e2ebb3952d",
+  "fecha": "2026-11-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infobae",
+  "titulo": "Reforma de la Ley de Salud Mental: qué se busca cambiar para las internaciones de urgencia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT3lQQlBWMnVjXzFGU0pQUWFtb1ItRE9xaUQ4dlQzNmNSRVptUzg2MGVBMGxkdkVWX1YtYTA2VzdZb2RaZnkwNExQYVdMRVMtblVfOGl6dS1oNndYNWhkdDF1YjlyR1JhRnJkV2pacGpaUlNuRjdoMk5VaHZ6V05lcmZVdWtRQ2Q4QXlzOXNzZ2lBdjNTTmk0RWV4ZE9uamJleEJ1RDI0T1kxeXZkQ1M2dHp6RFpkVFotQU85Q3pxcXpmeHlBR09vYklTa9IB5gFBVV95cUxPSU12aFlSdkNXUFpZbkkyZU5FeGJEVzVYeENRN3dLOUtaWVM2Yk12OXhSSVhJYzVMMVA5MFBJOF9kS2tlVzVLdVhRWjJpNzdKeEZVekpadU40a3ZLUm5RWnU2WnBVSGJGS0J3M1pqd0NmNC1PSDJZcU9fVXpCNE90LXdMWFVET3hTWFNuUUpwQUFwcnR6R1F0NW56SnBnMm9mdDJlQkZaejRUY21SaTBFeFFiR2Mxc0FDVEhGdzVxNmFYb1JrSDFIVkQyakNwcE5LdXR6UnNzTTAxaHV6WngwMDVHSkhLZw?oc=5",
+  "clave": "busca cambiar internaciones reforma urgencia",
+  "capturado": "2026-11-03",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f04657aae75e",
+  "fecha": "2026-11-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "EL FUERTE DIARIO",
+  "titulo": "Abad apoyó la reforma de Salud Mental y reclamó más recursos para garantizar su aplicación",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHkyMWdWdEh2OHRVOW1ta19CaEh4bW1seXMwU1JpNEUtcDRxLXlLNjFxTXVsd0duOHJGRldoeFZhZ1ZpRGVMMlhCd3ByREM2eHUzY3ZGckhsdUhNcmw0SGlCTFFPNGh4RHUtcXJNQXRQSzBmWmt4TUxKTjNrY2lOYnF5eUtzeEttRXNjODZNZ2FJSmg5UGpvaEF1dXkyaFJOUWlrcUdrQjIwSjlUWnExOU5oNVVKdUZtZ2J3QklB?oc=5",
+  "clave": "abad aplicacion apoyo garantizar reclamo recursos reforma",
+  "capturado": "2026-11-03",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ee784a7973d6",
+  "fecha": "2026-11-03",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Litio en microdosis: ¿puede frenar el deterioro cognitivo? Lo que se sabe, contado una experta",
+  "resumen": "un farmaco utilizado desde hace mas de 70 anos en psiquiatria para tratar el trastorno bipolar podria abrir una nueva via en la prevencion del deterioro cognitivo y de la demencia. diversos estudios sugieren que el litio administrado a dosis muy bajas, e incluso en microdosis, podria ayudar a ralentizar la progresion del deterioro cognitivo leve, mejorar algunos parametros relacionados con la memo",
+  "url": "https://www.infosalus.com/mayores/noticia-litio-microdosis-puede-frenar-deterioro-cognitivo-sabe-contado-experta-20261103083847.html",
+  "clave": "cognitivo contado deterioro experta frenar litio microdosis puede",
+  "capturado": "2026-11-03",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "psiquiatr",
+   "bipolar"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9ac08460df3a",
+  "fecha": "2026-11-03",
+  "carpeta": "02 LATAM",
+  "feed": "Saludiario",
+  "medio": "Saludiario",
+  "titulo": "Neuromodulación no invasiva: ¿cómo funciona y para qué enfermedades se utiliza?",
+  "resumen": "la neuromodulacion no invasiva es una tecnica que ofrece beneficios en especialidades como neurologia, psiquiatria y rehabilitacion.",
+  "url": "https://www.saludiario.com/neuromodulacion-no-invasiva-como-funciona-y-para-que-enfermedades-se-utiliza/",
+  "clave": "enfermedades funciona invasiva neuromodulacion utiliza",
+  "capturado": "2026-11-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "626508c3f5f3",
+  "fecha": "2026-11-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "0223.com.ar",
+  "titulo": "Abad: “La salud mental necesita respuestas concretas, inversión y coordinación entre todos los niveles del Estado”",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeVBJZlZiYU5IRFZOMHRiMWZaN1pzRnY4M05wNzlBckowbk4zcFlnckstOW1fdThtQ19wcm8xYkZRMjhYUkFCc0NJR1lOaFFrZG5OQWtIdFQwb1pILThhbC0xeUpkU0R4YkZSMVVHM2FKY2FHWmNxTFZCVEVHaG1xWHRReUpqclB4ODIyaGM5MWl4cWdfdjVsak16c0JONXBHb0NqdGtWc2ZhRnFabHRrdERyaHVkVGdERDAyT1liV1VNM2FVOUdJSmRWeHRxODZLOXc2MlBWc19TN05SUVF4a0NCLVBTNzJVd0VwZFRn?oc=5",
+  "clave": "abad concretas coordinacion estado inversion necesita niveles respuestas",
+  "capturado": "2026-11-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "31d89e750763",
+  "fecha": "2026-11-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Noticias y Protagonistas",
+  "titulo": "Enrique De Rosa: “La salud mental es un tema médico y necesitamos herramientas para actuar en tiempo y forma”",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbEdYeG9lY1hEa19FZXJtdWJ6UlM1TGtBOTJhQnBGWHBtZUVwbnpkdnY0NThkN09ZTmZrVFlpY01uTFZnXy1KRmx5bm83Nkd4dE1JUnkwM2l4bzVPN3RGZjhwSjZQTGxWWklSdGZ2NE1kSDlmeXYzeDZsWGhRNDU2VXRIWFFCLXdDaUtGVWVuZzNQTk1zeTZaWEM5RXJMdFpMdWFkUW9CYzVQRjlsRV94TEVwMDdDNkFlMnJfcnpRRi1RcGVvUktOZGRacFFkT3p6NTc3ZlRTczVfeUJOd1otOXNlNkhZbUM4?oc=5",
+  "clave": "actuar enrique forma herramientas medico necesitamos rosa tema",
+  "capturado": "2026-11-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8509f8eb78e6",
+  "fecha": "2026-11-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Secretaria de Saúde do Distrito Federal",
+  "titulo": "Adolescentro oferece cuidado especializado em saúde mental para adolescentes no DF",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1VSTU8tcEp4d2lJSG44VC1CMS05UHNvUHkzcnYxcWZZamk1MHhOZ0pmcE5YWTJIR19fWFlRYlV1dHp3Mi1nRUJxdlJMUUFVYUhlam45emRKS1ZDSWZiQVQ5UDhfVS13MHMtcVltazRacWxLQWNLeWtIN2dzcUplWVRMbkFWVU05X1lySjFMSkxIUVo5Ul9YT0ZLNEI0WGRhenl6S1Ezcy1qbU9HU2duRXZR?oc=5",
+  "clave": "adolescentes adolescentro cuidado especializado oferece",
+  "capturado": "2026-11-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e527e35c8de9",
+  "fecha": "2026-11-03",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "jornaltribuna.com.br",
+  "titulo": "Cannabis medicinal e saúde mental: médicoexplica o que a ciência já sabe e onde ainda hálacunas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSlpfQ2htc0l0UFEzcldXS1d3a2dZU3pRUEcza2tuQ3NOcHhfeGVNc19DbmJKcTVBck1EeXJOOENLaUZ5YVNwMjVyeC1aM3VJd2RraE9IT2JnYUVVQTBoTHhOblNYNHRuWXVTSXgtNzBJUTdmRUF4eVotRi1yWlRvWlNoMUFjM0o1M2JZVGhSOU13OURDTVB5VTk4VVFtQW1yNzNfck9uYkQxMGp6bXYyWUpHVGVpY3ZPS1FXMnRmV211OEZJc2xlenhtOER2N1Bq?oc=5",
+  "clave": "ainda cannabis ciencia halacunas medicinal medicoexplica onde sabe",
+  "capturado": "2026-11-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d371cf9366e7",
+  "fecha": "2026-11-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Aragón Play",
+  "titulo": "Nueva reforma de salud mental: los ingresos involuntarios solo se harán por urgencia vital y si se han agotado antes todas las alternativas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb2M3ejdJYlF5dHZRUVhsQmE0aDRxNS1SR3owZlVpODlNeXJpcjVjSmczLUhIanlkNk5hckVscHVpQ1JDNjgxRHBJbWptRHUzOEJLdHJWR2pBWllBWU51dlp0MW9NSGV1b29lWGVMT1BqNjBBRTVyYmRrcDRJMEN1VkpzalgySmxVQVAwSVNVUmlyMlZRLVNQZUlSQWVrOEE4aUM5WWhpRnBHUEd5T1kwLWNWem5pVnFfbU5lNXFNSkJGakpranpObVRZS1g5Q1NiLTdYOG1XX0MwN3o1UzRxVHdTOWJDTFRmMmZVR3EyU1RBbk9CYmc?oc=5",
+  "clave": "agotado alternativas antes haran ingresos involuntarios nueva reforma",
+  "capturado": "2026-11-03",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fe66be515372",
+  "fecha": "2026-11-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "soubrasilia.com",
+  "titulo": "Saúde mental para idosos no SUS: CDH do Senado vota em 4/11 projeto de programa nacional",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVFE5cVhYcE9QRUc3TlVrSzVUNy1RczVoUlhlUWJUcjhZZ1l2RlM2WVNYZjR6ME1PRGF3MENPRXUxWFB3THlNZEQ0TUxBa2NubXdJTWVsZkVFUnZqOW1xNFVHSmtEU2FwNkZyWHlKUU10WXVPV3RGU3dxZHZMMG9KNW5sTHl3UkVaRDVwOTU1ZURNLXFrQWszYWxpNFJEbU5SLThRZi1WTVM?oc=5",
+  "clave": "idosos nacional programa projeto senado vota",
+  "capturado": "2026-11-03",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "57a8c8519588",
   "fecha": "2026-11-02",
   "carpeta": "05 GOOGLE NEWS",
@@ -32,6 +283,44 @@
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6bf3114588ec",
+  "fecha": "2026-11-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Digital Conclusión",
+  "titulo": "Eduardo Vischi: «El cambio en la ley de salud mental es un mandato de la sociedad»",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZHo2NFdLMmk4VjJmbXhzS3hROUc1SDl4RmlCN3pKMmNYNXhlWXZ1T3NyTE1DVzFsMFlkRkpFR2hKSmhrZFZwVllIM3JtbFNFb3F3bjcyRWVRMTNuWlhKZjZmYWZXbDJlRnlJTE5hNEhyVlFFNEFRcEdxOVljY21XR2h4Rm9kYXBmLTFNNF93RjdvSno3MnpzbGVRUTlxcFFMejZrVDZMNGVUd2ZUYjJyWFNHYk5xclItcGxDaEdnSzlQcVlTR2c?oc=5",
+  "clave": "cambio eduardo mandato sociedad vischi",
+  "capturado": "2026-11-03",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e436ce6b728d",
+  "fecha": "2026-11-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Del Sur Diario",
+  "titulo": "Salud mental: especialistas sanjuaninas advierten que el presupuesto real es del 2%, lejos del 10% que exige la ley",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZS1NUUo1LWpfWHIzU0o0Unoya29vLVNtOXJrck9JNzFlSXM1c3JLU2plTUs0VkFwZHl4TENkZHVuMkxMblBiUlBsVVotN2FWcUFMQjNCS1dNWUVRaE9TaXRxa2hCY210N2hWMDhaTC1PSDJYZzQwcXlCMUZqdEt1YW1FNi1zOVFsdXBqWWI0SVZHck94aFFaamdObzA2bDRmZGdlZ2ZMSVRGMHVsMUFWNWQ3QlZKZ1JHNFBnb2RVTmNNVVRRWHRmLUZRdVdLUVJEYjgtcHRNMmFVZw?oc=5",
+  "clave": "advierten especialistas exige lejos presupuesto real sanjuaninas",
+  "capturado": "2026-11-03",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
   ],
@@ -2779,6 +3068,25 @@
   "ruido": []
  },
  {
+  "id": "b736b8f3a055",
+  "fecha": "2026-10-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario El Día de La Plata",
+  "titulo": "El Senado aprobó los cambios a la Ley de Salud Mental: los puntos clave",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa29mYWFRNTBFQ0lHNXdGMHVmbnVLdVh6cWRnNFZnNFhXVXNscGhvWEtZTktwZVpIRkZraGc3dHR2QldydU9fdE9TYWF3d18tejdrRV9JRFR1NjIwaWNkWVlJd1FEUF9HaHVpX29DSmpnZnJPNVZDUFlJRE00eXBxR3NOZ3dwR3hHelU0OFpRWE5ULWRCaDNXcFJRQlFidkc3UGZCX1hzaVc3Ym5BS283cmFJN1p2MWVnZ1NKc2JDVF9ud2hrR3NzTDhTZldreFI4dXpkcENBU1l3bkZfbHBlMmxQV0c?oc=5",
+  "clave": "aprobo cambios clave puntos senado",
+  "capturado": "2026-11-03",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "f5b3dd45cd98",
   "fecha": "2026-10-30",
   "carpeta": "01 ESPAÑA",
@@ -3022,6 +3330,25 @@
   "categoria_auto": "otro",
   "topic": [
    "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b20781d9c723",
+  "fecha": "2026-10-30",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Child Mind Institute",
+  "titulo": "Across Generations: Reflections on the Second Annual Global Summit on Youth Mental Health",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVktyaWF5VFVKQ1AxTERJUjd5TzI1ZzhyX0hIWXlaREVSbnhKVl83U0hkMGNVUnpOZzJzMkcwZkpjQVRSeXQ1Wnk2VU00NmV3ZUR6Q0twVXJJZjVGYU1vY2tULTdReklWLWMxMW1mbU1YeDd4QUwwZlFHbUgxOTVtOERTcUhFcVJqTExza1VNeFBRNXNYdXRsRDA4SkdkUQ?oc=5",
+  "clave": "across annual generations global reflections second summit youth",
+  "capturado": "2026-11-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -7842,6 +8169,25 @@
   "ruido": []
  },
  {
+  "id": "50b97c557d84",
+  "fecha": "2026-10-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "FecomercioSP",
+  "titulo": "NR-1 desafia empresas a equilibrarem saúde física e mental, segurança jurídica e prevenção de riscos no ambiente de trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQc2w4M0FhSHhCSTdBVWFlNjdJSFRpRkV2SnRVT2FpZjJleGRhNXFseUxoWEplN3RaQTJWRjJtRjBWenJBRXpKTGZxd25wbFpwUjlnRzQ3TWo1eDNCNlkzMXRGaEdoWXhwdjNpZnd1c190eVVmbzAwbTNfMW9keTdHOFhPN3hycEwwYVpSZS02LWFjOFd3Z3cwVVhwamV0Q0o3bDB4Uko5Y01XclNBLWkzOGZjblc3Ylp3SkhqS2E0aG12a252eUlxUFNxTVQ5Q3o5dHRHYkVsclluNHpqZ0hYZTdhd3duV2N2Y3gyWUdEXzBQT1kxT0Z6c0FFYw?oc=5",
+  "clave": "ambiente desafia empresas equilibrarem fisica juridica prevencao riscos",
+  "capturado": "2026-11-03",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
   "id": "b3f6c079aa1f",
   "fecha": "2026-10-21",
   "carpeta": "05 GOOGLE NEWS",
@@ -10910,6 +11256,25 @@
   "ruido": []
  },
  {
+  "id": "d7993d06211b",
+  "fecha": "2026-10-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "UNI Global Union",
+  "titulo": "Spain’s bank workers strike for higher wages and tech safeguards as most suffer from mental health problems",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc0lITUJSVndrQU03eDdadzZDbHJPdU85QWw1SUFMbEdSUHVDMVhEX0lhemxPWFRJcEhqQU5JZjJrMGJ5Rmx5Q2drVk9tTEVnVjBURjcwLVBpZk1rSEEzMFd4QWlqbnRKaUVyUjFGbXp4RTBScVVhUlVmWU9ROWZDbmtBUDFIWFkzUG9LTS00cEhkSThtdHMtNkw4bkdhOUppTU9xX1hzSml5N285VEZrSEo0OVlnSDBpRUFBbWhOTGJLWS01dEFDQnV1WnJRSU9LNXdPU08zS0k5WmI5?oc=5",
+  "clave": "bank from higher most problems safeguards spain strike",
+  "capturado": "2026-11-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
   "id": "996929451686",
   "fecha": "2026-10-14",
   "carpeta": "01 ESPAÑA",
@@ -13379,6 +13744,25 @@
   "ruido": []
  },
  {
+  "id": "ee23d13ad0af",
+  "fecha": "2026-10-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "www.gov.br",
+  "titulo": "Saúde mental e combate à violência de gênero: saiba como acessar a rede pública de apoio e cuidados",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNZGV1bjRNZUdHcmxFRVpBU3JVSjJuUF9wcUROTUVGX080bzZMQWFWQVdXVExqYXVzNTk3SHR6X0lpSjB3OFA3dThTTVBiRmlwRUNjNGpoUEw4VVB5ZVJSZHRZLWNCM0hMY0toM3FLeFB6b1dkNDJUMGpoWV9teERGaFhzSmlwbDdwdWppcFNESHFaWm5maWxQVWxyNTBGN3dDWTVxRmk2bVcwQ2d1RXhacXJvZm1tRFJWRnJQU3pxSjlIcHd5RWF3YnJ5c09CYy1OZWoyclotNlJLcHhUcUFwaHYyZmRVaW1yWFlsR0VzT1pEbmRJTmRGSGxuVVVCVE5QV1pMVC1fRXp0dTc2bERGSEpic2JNdU1tTjNBdg?oc=5",
+  "clave": "acessar apoio combate cuidados genero publica rede saiba",
+  "capturado": "2026-11-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "7e0124a465a4",
   "fecha": "2026-10-10",
   "carpeta": "05 GOOGLE NEWS",
@@ -13886,6 +14270,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "eb89583919c2",
+  "fecha": "2026-10-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Reuters Connect",
+  "titulo": "Queen Letizia Attends World Mental Health Day 2026",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMzBZR2gwWFRrdGxFYU1Iazd1RTRaME4ydTdoOWtMTC1TS0NkQWJwbVhyeklZN1VFVHVieU8tbU9ncHAxVlJsVVFBMG5acUwxN3loejNuRXZtNlE0TlRtcHc1MFdFSUNoWDFuVmVpSlhxenZFb0tlTnh1MHFNY05RcTkzS3dUVHZWVmd3aG5sdzVybE9YRjFMMDdyNVlWcVJPb0hVcW10bFJHOWF2WGNhVUtOLWtuV0NVVUdkRlB6cUExaWlQZGpHOU1NWjMxdDJrWEFsdmk2TXNVMFZxMlpJ?oc=5",
+  "clave": "2026 attends letizia queen world",
+  "capturado": "2026-11-03",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -16484,6 +16887,25 @@
   "ruido": []
  },
  {
+  "id": "28dd6c21b7fc",
+  "fecha": "2026-10-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura Municipal do Natal",
+  "titulo": "Trabalhadores do SUS recebem ações de saúde mental em unidades de Natal",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SWFY1YlYtR2FCSGt0bWM1akl1a0l1NjlVWjIyVzU2LUxGZnBpZW54TF84NjFha1dXb2ZvU0E3cndVTzhaeFVYQ2dvSzlWQTJvQWRTVEFWZw?oc=5",
+  "clave": "acoes natal recebem trabalhadores unidades",
+  "capturado": "2026-11-03",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "8bb2fec8e3bc",
   "fecha": "2026-10-05",
   "carpeta": "01 ESPAÑA",
@@ -17146,6 +17568,25 @@
   "topic": [
    "saude mental",
    "caps "
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7eaa409e2e70",
+  "fecha": "2026-10-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "The Straits Times",
+  "titulo": "Cubarsi urges young players to seek mental health support without fear of judgement",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmNXUS1Yc1hKbmRjdjNDR1E0R2dfMjlaZlB3Nk1kbGR1WldPRS1sRzdrN3dHcDJFaXhGWjY0NGlmR0xfQWM5eDFud2NyVHc3R3NGZURhbTJMdGZ5TDVSWk9INFc4UG81TThJMHBfdFZhODFNRjIwaW1GUVlmbjdmQUFQbEhrSjRTOTRsY01CUTZYUW1xeU9rc3A3bEM1Mm1QcHBlMlp2NG85QmtUTUt0bGpWSVdXcHo0ZGtiM1pGQkdSOTdyZEE?oc=5",
+  "clave": "cubarsi fear judgement players seek support urges without",
+  "capturado": "2026-11-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -21357,6 +21798,25 @@
   "ruido": []
  },
  {
+  "id": "30172a77e866",
+  "fecha": "2026-09-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Campina Grande",
+  "titulo": "Setembro Amarelo: Prefeitura promove encontro com profissionais da Atenção Básica para debater a rede de cuidado em saúde mental de Campina Grande",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeFpGWE9EOUo3OXZvRmxqM0t2ekk2SEtWd0c0RnhrdnJuSXpkTHRBMEhrNEVWZmZ2Rk1TaW9tZUd2SUFGY0dmbE1kb3U5cmp1Rkt1eVJjWHpsMzVJLTZKNUU0Z1dsai14b01NLXRtNHd3NmpzRnBxY3JwSS04Mzc2QV9KRHJMVXpEcEYxMlRJQUxUcERNYjZCSUlvUS1EZjBQMzY4aV9WNVpfSEl4Y2t4Slowa2RBclpUZGFnNmVKZk5EVUFONFpRRUU4Wm44SGFrMlROcURCTXhTaWotVEdIZmM0YUpHdDRDSmxqSGpja2cyMmY0T0ZXMjlVbWJhaktBc05mS0FJZnd5UQ?oc=5",
+  "clave": "amarelo atencao basica campina cuidado debater encontro grande",
+  "capturado": "2026-11-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "e39669f8001a",
   "fecha": "2026-09-23",
   "carpeta": "01 ESPAÑA",
@@ -21978,6 +22438,25 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6d067da8710f",
+  "fecha": "2026-09-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "www.elsevier.com",
+  "titulo": "Interventional psychiatry and neuromodulation in Spain: State of the art and a call to action",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdjd4TTFTVXFxQTNWNDNtQ2lCZlZWUURTSWpJamlkZlp3QzZVTkk0dmZ4ZzloWFVfVEZ3ZzNEODhYT1FlUmx2ZHJQc2N0SFpsd1JUU0k0UlVfUjNRLVVEckNXQWhCc2tKMVVhVUZPMjg2aF9xckxFOUVVYWJKV29jemhTQmJhcUI0dlZRWERrMnFKREt5a2tjTFk2YjNwdUh1d2JoSERjV2VURVQtMXdfQzNudWpadl9ZajU4SmFJYlEtRVEyYjYyMEx2QklQTU9hb3Vxb3JvR2QyV3BTcm54MmpFM0VubTEySjh2OGxB?oc=5",
+  "clave": "action call interventional neuromodulation psychiatry spain state",
+  "capturado": "2026-11-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psychiatr"
   ],
   "ruido": []
  },
@@ -24844,6 +25323,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "da732d8151e7",
+  "fecha": "2026-09-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Maricá",
+  "titulo": "Maricá promove encontro sobre saúde mental e envelhecimento saudável em Inoã",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFFUSFBOa3YxLTNpbFMxUXk0NVZ3MFVqZFIzdVlTVVFaQ3NrbVIxXzZ2b3VyLUgwRVlqUmVYelJKQ0VkSnNIdHFoOG0xdFdFeTk3RmQ5cGxZSk5wZWY3NmV4Z1J6U3pZZ3NFc2FGdGs5S1IxVEpKdW1sSkxjZl80S1VSSU1lSXgySXlRZFpqdmJ0RmdGNkh0dElvUjFKN3QtSV91MWw3SG9mdW9TeWxSRFhaR3Y?oc=5",
+  "clave": "encontro envelhecimento inoa marica promove saudavel",
+  "capturado": "2026-11-03",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -33019,44 +33517,6 @@
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "82ec676318eb",
-  "fecha": "2026-08-04",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "Sitio Andino",
-  "titulo": "Salud mental en Mendoza: los 15 hospitales que atienden urgencias las 24 horas",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUI0aGZDamctZXZ4TkNWOVZ2UGdCeTc4UE5vaGU4c0QwOG5hMS1VcXFENjltQ1IzNUUxZGhsQlhDX29xWDA5UjlfZHFHZktWdzJOSUlKX2N6VGlpbWpDRi1mOFFfQ2stU1RDTFgxSExSYlg3bFhXbmdlSXBCY3RnZWpfZ2VKeW9MbkxRbDl2YW5OOWNIRUJhdTl2dUpDM1hDaEsteVVhMDI3SWQ1bGRHd1BWOWdPQjNXblRfZFpFTzPSAcYBQVVfeXFMTjNxMjl3T0UySmRnYS1yZy1JUTNoU2lJQmc1aGFSbDBMWHhvY1dfVHVBVHpKNW9kbnl2MHB5UklwdnRvUkVnZFFGcTBZOVdUaEw1VWlBd0tfUUNIcWdQWGJuYUQyek5uekRGazlKMlN3bWhFNUxaM25DYUdRelJJVDNnMTNqR2dyUkNtVDlqT2lHdDY0TDNZakxtN1NGLWg5WmVlTjhSU0pRTVM1QUpzbm9vUnhfSjNIRVp1djd0Y1ZkTlNOcmd3?oc=5",
-  "clave": "atienden horas hospitales mendoza urgencias",
-  "capturado": "2026-09-07",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "35d6db2b5cbf",
-  "fecha": "2026-08-04",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Junta de Andalucía",
-  "titulo": "La Unidad de Salud Mental de Ronda trabaja en la mejora de la coordinación de la atención a menores víctimas de violencia sexual a través de su Comisión Intersectorial",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcHozbmctOU1WVm1XTk55Z0ZQYXlrWUI2QWd0NGg5c0s5eVRpVlZoZ1JWOS1mandSVFRGcjBYdWZWSGdGVkVvdFF5LWxxcXhzV3RVZnI1bFN2RmFYS1NUNm14dkkzZU0tWEVVNVR6NFdiaTFrUlFGOURQcW01SXRHWVJZWU1xaWtHY3pyLVVsQzV2QmpROGVFcThzZDhHTXJpR1RfZ2E3dVQ5YVFqTFNVV05EajRDNWxaT295Y0ljdi0?oc=5",
-  "clave": "atencion comision coordinacion intersectorial mejora menores ronda sexual",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
   ],
