@@ -1,5 +1,46 @@
 [
  {
+  "id": "6c0e8c2a301d",
+  "fecha": "2026-11-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Sabemos",
+  "titulo": "Los psiquiatras alertan de que la nueva ley de salud mental puede dejar desprotegidos a los pacientes más graves",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPakR5U20wME45VnE2U3ptTG1yam1WcnpyN2ZEODFTVDhDelFpN3VPQ1BWMnB6cTZBM25CX2tTbENhRm1Idy1hdFh1QzRGcm9UQUlvVVRvRlJkVGwwRkhWMUpxZGR2NlNoZDF3S3d6SmdPRUdJZG5uY2NrM3V1TkFTQVhzMGlhOEpHN25nMDJ5QzducXdUNnVaWWQtZHdKQ0lBVkwyWEtYTWVoSmhGZXFabzJmZTRWN19fN3ExVVF2T29zOGhtMk80djYtSHU0T1RkSVNMbTR0QQ?oc=5",
+  "clave": "alertan dejar desprotegidos graves nueva pacientes psiquiatras puede",
+  "capturado": "2026-11-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "200148436ddd",
+  "fecha": "2026-11-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Razón",
+  "titulo": "Más psicólogos en centros de salud, menos recetas de benzodiacepinas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZGc3bDNtOUs3azV6OWpvSGdET3dZOHNsVWlvLVpzZF9Wbk5qX0s0aFJhY1U4ZFRITGxNY2ZrWnBoZTh3S3lpVkRpajJJZXROX0x1UFV1Snd4VndEdlFSNGpXYnpBcHQxNjBpQl92ZUFVVjd4SHhLZzlqRkdhRmp4RWlUZ2JmUGxCYXAxVG9aTnRBWGlnSUpVYTdKdXJqMkNsbWYtMFV6VnEtOHdyYW5lWHd1NjlCNDZiZTNLeHM5aEhIOW5meEN4S9IB3AFBVV95cUxOaC1teENSV1pPVWpFRERDcHJVQnJ4aXF2X3FialF2aUNRMVU4YXRhZHoxcW01blFpc0EyZUF4bGM5bVdxcS1lVWh3Vm9QSXVlVTFTU3NfNFU2Sm9sb0ZLNUhrSlBIeFVIcXNFTjJxRzNHRTFLWHFmaEpJNDNfVS1DTlhxeWtLTUtSVlY1a0V0UmE1MFh1N1I0RDhHNEd0ZXN1V2d2Zm5oMXl5Mi0zeV9IcklYb29sM3g5MkluUm5vNklqVDBScjZad0IyNE9qWDhuS1BDcG5vR1FqVXAt?oc=5",
+  "clave": "benzodiacepinas centros menos psicologos recetas",
+  "capturado": "2026-11-07",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": [
+   "receta"
+  ]
+ },
+ {
   "id": "fc3b17bb0f59",
   "fecha": "2026-11-06",
   "carpeta": "05 GOOGLE NEWS",
@@ -35,6 +76,63 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "baf56a4bef19",
+  "fecha": "2026-11-06",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "Sem cuidado não há vitória: CFP leva a defesa da assistência psicológica continuada para atletas ao Conbipe 2026",
+  "resumen": "o conselho federal de psicologia (cfp) levou ao conbipe 2026 uma forte mobilizacao em prol da aprovacao do projeto de lei 7.683/2017. se o corpo das/dos atletas conta com acompanhamento medico e fisioterapico, a mente tambem precisa de cuidado. e … o post sem cuidado nao ha vitoria: cfp leva a defesa da assistencia psicologica continuada para atletas ao conbipe 2026 apareceu primeiro em conselho f",
+  "url": "https://site.cfp.org.br/sem-cuidado-nao-ha-vitoria-cfp-leva-a-defesa-da-assistencia-psicologica-continuada-para-atletas-ao-conbipe-2026/",
+  "clave": "2026 assistencia atletas conbipe continuada cuidado defesa leva",
+  "capturado": "2026-11-07",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5c98fcd309bc",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Información",
+  "titulo": "Sanidad se olvida de la reforma del centro de salud de La Loma y dedicará la ampliación de La Mata a salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVUN4NXhxUWY0cnhTZ0ItcTVWWkI1R0Zael9qenBsN1VNZFhFOEtwdnZYLUNkbWxpVUJZZTE1alg4UVJ3MkxrQ09CbC13SjhFaWxoQTdXS2s5aEhHalplQjhrSFpJOEVaZm0xS0FLWDJhd2hNZW1zaWJXbEc1bnhZMjV5Xzc5UmxaeUhCbXVpSm5ZbVVKSjNPLUh0R1VVUkRlNHBhZERoUUdtTFQ3b1MtX0RHV2NmR2x4QWxtRFdXMkkxTi1oTDlpeGVSVmtLWER6akI1d0ptU3o0X0JQRFpFczBn0gHnAUFVX3lxTE5jX1llbXVJeXh4bmt4Qm5FczBNS2xRLVlsNjY3bHpxZVZjUVo0c1pPVXJVbHhvR1pXXy1vWEtCUjkxY1ZGbXBWWWxYenVaZVZZOF9sNGh1NGNTZ1p1U3RkT21wamFxY2J1Y3JFSm9tWTRHdUJWUU0yMmkyRWFhQ3FobENpZmNoMVQ5SkxSWVdSSm11MWRvQUF3SjhQbkZ3VVZjQ0c4d3lUd1AzcmNuVFdXUXE2Q3VBOG1CMTR2WG9xU1VCeENWQlBreER5YmpzZTJ3b0doMHN5VVNaOEZpNnVnS2F6T2NSQQ?oc=5",
+  "clave": "ampliacion centro dedicara loma mata olvida reforma sanidad",
+  "capturado": "2026-11-07",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d77aede9f207",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Radio LV11",
+  "titulo": "Reforma de la Ley de Salud Mental: especialistas explicaron en LV11 qué cambiaría con las internaciones involuntarias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRGJYLUJ0Z1l6T19Qa2hJMUZMVzFUakdyOWMwQ0VZMFBaQVdvbElTVXBwQmQxSjhWREY1cHRXQXNQRWxjbkViZ2FSRUltQjJyOGJWNElPbkdpOE9YV3dMT1ZYUGo4Q2xjbDUxakZzSGg2UlFTTVJPRzVGczVfdTlBcDAwLUdKR09naERhaUtxenlFMmtxUWhDa1VERnBwUDlnMjEwU1lKa0ZvbXlQMVZLT3RuVTdoSENERGU1ell0UnJEdldPZ2FJdDdteXF1dGJyT3BoX3JiRjQyc1ZCV2ZiaWp4TXM3Z3Za?oc=5",
+  "clave": "cambiaria especialistas explicaron internaciones involuntarias lv11 reforma",
+  "capturado": "2026-11-07",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -136,6 +234,103 @@
   "ruido": []
  },
  {
+  "id": "340b947b14e6",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Reporte Indigo",
+  "titulo": "Senado impulsa Ley General de Salud Mental, garantizará atención a personas con depresión y ansiedad",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObXhGdnQtQnBkMDc2RWtMTXM4ZTk4RFBJNm0xQl8zNHZjZlhJUWE5WUNFMXVXYTlvWGFCU2ZaZjcyZnc2MHBoWXJJSFlScExOWVZ0VnlvM0xBVW85NkI2UWp3YzI1Nk9SandUNEJpa05HaWtZUGdHZmhCVnZXZnMyRkZmSXU1YWNLaVlBOFZZQ2tpZHZWa0ljYnNwXzdGdlJMYjlBaVJqYTNacExzZEZUZG5LQUVJcTFLcGMyVlJna0ktQWhVeWF4N3k2VFNLRy1wd0FmZDZZekxzQjkwXzRKOWlfbGh6d1FXZndoaHRB?oc=5",
+  "clave": "ansiedad atencion depresion garantizara general impulsa personas senado",
+  "capturado": "2026-11-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "ansiedad",
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2da88da07a63",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "A Gazeta do Acre",
+  "titulo": "Felipe Tchê tem lei sancionada que prevê ações de saúde mental para professores de Rio Branco",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOejZNLWE5dllscVFNSWs0Z1hudlBuYXJlWmJiclVfMnBtaTFwbjY2TW9oMThqLVZRMVZoaHBDWExTMlVvSnFXay1ONzRpRGwzTTJvVUM4anNPZldWaDdzWU1zRXhhcTNmRHF1QS13Vm1RNFpTNUlHaXRxWF9IZ0dJMndicnFlckpnNWNFT2lwUkp0OTN0RHY0LVFnNEYyZlFpcFkwUko3NHBpenY2V0dyaUVqYm1DN1pwRmZZWjc1UVJZbXo3bERZYVVLVWFSM19ZS1dRejc5T2dTNWM?oc=5",
+  "clave": "acoes branco felipe preve professores sancionada tche",
+  "capturado": "2026-11-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "23b1c672534f",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "ContilNet",
+  "titulo": "Felipe Tchê tem lei sobre saúde mental de professores sancionada",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUM0b2RESmhGY3lla3EtbWtfV3FwbW02ZXJiMkFjSXM1OW00dlNBSXJ0NndudXZ4eXZBMDRWMFRZLTg0SmRiQmxWUXJjdV8zaWw1YUlQTDAtMjlfNDgwaU1KSGw2T1VZWUhzcVExczZwWHpEcWg0VG90RDBnRFZxRU9kVEtIbTUtcFg0Z0pBaGZDZGhZWWFZT2FrckNoQlQyZU1GOExUaEVEVUE?oc=5",
+  "clave": "felipe professores sancionada tche",
+  "capturado": "2026-11-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "74a79e6a58ca",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Paranashop",
+  "titulo": "Atendimento psicológico online no Paraná: dados e regras",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXVkTHVyNXN5UDJtNTBqcmZmVGVsSnQxNE4yR2NSdlhYVTQzQktlZjJOU0xTVy02N3JGTzVuNUYtR0dmd1JEZnlINmhOQnVhZjhUb3l1S0tJamxaSzRCQnFhRG9sRW14Mm1paHU1aWhGbnduRC1NaVAwQm5PYkxtQmpWSzhYNXphNXJPUEl6VEpScEZhd1hxTVJEUnhjakZwVV81MA?oc=5",
+  "clave": "atendimento dados online parana psicologico regras",
+  "capturado": "2026-11-07",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e98af3dd1722",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Onda Cero",
+  "titulo": "Alicante Sanidad ha licitado el proyecto de una unidad de hospitalización psiquiátrica en el Hospital Doctor Balmis de Alicante",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQZDlHT2FXaHZJVm52eDhzSW1SdFd6MGZ5U0dRSHY0blRmV3FuVkNoenJzQ1AybHRrLVhzeWNEamw1RlVtYlNxc1N5cVJWQ2dRd3pVQ3Ewc2s3TGtIV1ZSNDVmdFVqd2JsclBDeUZXX2FHYUNVc1M4TUFKUmV0LTYwbHpLbmRnWGJ3cHkyN295dVBHNDJBUTYweWpYSTZuZWw0RWsxMmFWZUNzTzNldGtpeFJnWWg2a0hqa1AyaTJKeFAxa2FEOGNxNm81TXNRaTNpNk1PRUpWSWFjTXY2clhqbElFOGttdm1uUEVfS2d4WEtQbTNNMDNGOThXbTMwZS1yQmEzRHdfZDJWNW9xNS1ZZlA3elluaExMcDRQdUpiNWdHYzdlTFlqYUMxc9IBqwJBVV95cUxQaTRGN3FuUVk1emNrcmx1ZkdfRWczMm5mSVFmd3NBNFV1SUFlWmNfcXZHcW5RZm5ZX3hFejRKdkxLZlUyUm4wWWpjaWxlODVta2d5VHFkQWNhMXc5Y0pZODlYSWE0Z25Sb3U5RFBiXzBBZ3pCWlJsQ3F6bVFSWDd1Mzl3ZkJQazZPMTJEbFR6RnFkUVV0UldTdzc3NkxDdTJ3YW9pTllJSV90aTZJdmVWV2tMYkc0Ymk3c3laOFk1aXE3YkJxZkROTFNBT3JjcmRxQ2NVR0p2OGkzWG1CanlrSTNiSGRfbHFhN3ZId3MxMmJWSk9IZlFRT2Fpd1E0UEZfbkQ3TktDU0pQc2I2bHdOLTdhZUYwR0lDamljcl9veGkyVllCZ19jck1yOA?oc=5",
+  "clave": "alicante balmis doctor hospital hospitalizacion licitado proyecto psiquiatrica",
+  "capturado": "2026-11-07",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
   "id": "dd9b49b04d95",
   "fecha": "2026-11-06",
   "carpeta": "05 GOOGLE NEWS",
@@ -170,6 +365,120 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "82a674976b9a",
+  "fecha": "2026-11-06",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "Nota de sentir: Magda Dimenstein",
+  "resumen": "o conselho federal de psicologia (cfp) manifesta profundo sentir pelo falecimento da professora magda dimenstein, do departamento de psicologia da universidade federal do rio grande do norte (ufrn). magda deixa um legado expressivo para a psicologia brasileira. sua trajetoria academica, … o post nota de sentir: magda dimenstein apareceu primeiro em conselho federal de psicologia .",
+  "url": "https://site.cfp.org.br/nota-de-sentir-magda-dimenstein/",
+  "clave": "dimenstein magda nota sentir",
+  "capturado": "2026-11-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "126585d72ecf",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Sol de México",
+  "titulo": "Que nadie enfrente solo una crisis de salud mental: Alejandro Mojica",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZEdSNGZhVF9vbktFclZmZFBDR0lWV1dCdlNHNDRQaVdpVDV6YXVRdF9UUXZReEphZDNMcWQwUXdPM2g0QzZ0Zl9qMS1aTnRSYkhmOGJBSVM4eHJLNWR1N0pYcE1nSlFjN1VtRTNjb2VCcS1GTWV1SVdrM0tFa0RiajBXWkRvV09nVXhjNktXdnpnWVl2VGNJYnNZQUhKazNQVW9UQ3k4TWhTU0RHNmRHdHE4dzRKRkoy?oc=5",
+  "clave": "alejandro crisis enfrente mojica nadie solo",
+  "capturado": "2026-11-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9827098f649f",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Prensa Mercosur",
+  "titulo": "Amplia movilización en defensa del derecho a la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUhIbU9aZ0JWQ2xBLVFLVjAxRGd3a2VYREh4TUdfZWUwV3hrdFhXdWw2OUxYWWMzVl93Rm9tR3czemwxaXBvQTdpTEtKdlU4VW0yRHZtMERycWFGVVk0cDAwTEw4T2o2dlUtaFQwc3dRVFQ0Wl9nVnNCcUJNbHJqWUx6Qm1PNFpXZXNDYzBpeUxWeWxyQk5USzdZZDJNQ0dr?oc=5",
+  "clave": "amplia defensa derecho movilizacion",
+  "capturado": "2026-11-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5b6a47b09368",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Notigram",
+  "titulo": "Que nadie enfrente solo una crisis de salud mental: Alejandro Mojica.",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHRMSVl6ekctbUVzaDlJSHRHQy1QV181eExlNjhmdlhmMXFhWUdjdnplSExBdGk5bTFCVHRFQWhNTTdFVGJZWTJzQVVHUUlHejNUNkxDX2QxOVI3VW10VG9UUjlwTnROZWQ2dHFoQ1VyN1d0S09rM1I1TlNERkdIY1ZMbjdRRE83NmNwdE1BQ3hTSjZ1elhDSDRCTUFtOUtkNjAyQ3FjMVQwQ0loMWpxRk9HZmFPelg1bjZrakhUbHRXZkk1?oc=5",
+  "clave": "alejandro crisis enfrente mojica nadie solo",
+  "capturado": "2026-11-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9f54a93ac13a",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura Municipal de Esteio(RS)",
+  "titulo": "Programa Qualidade de Vida no Trabalho promove palestra sobre saúde mental e autocuidado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdEF6OHlWM0FxUHZ6Q3pGVjZ3czN4LTR0UFJpQmFxQ1pQMHVaeHUtZ1FlTUZCLXM0VFdxX01Xd3BEdHRmbDNXWlhMQ1dFYklSbkc1VkhFQjhIS0hYMklUbTRSQ1RhM0dvZzJ1dV92dEg1V2ZudzBQdVY4Q3NJd1hQX3k4N0hjN255eXo5ZzJJRmI1NDlvZTV6VFQ0Ni1WOXRnUnNsU25hMkFWUW9KbmJOVHBEcG4xekttTnI3NzFjNlVIa09EVEhIZ3lXa3JRY3BTZk5DdUFzMU5mOW1JY3k5Qg?oc=5",
+  "clave": "autocuidado palestra programa promove qualidade trabalho vida",
+  "capturado": "2026-11-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "df6bc39faa62",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Maricá",
+  "titulo": "Maricá reforça cuidado em saúde mental com esporte e atividades artísticas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaHFlR3V0ZEhnbHQ3WWpkellKN0cyM1o0dFYydVQ2NVhPU0RZcFdSOC1icTFnZm5YbExzeHVKc1BzVGkwZmRBcGVGOUxJTUdzWDM1QnMwdzkyeHpFNkVCWE9Cb3BRUFZqRzlkYUVrWnlHaDhzaF8zcHU2VnhsSUlfaGNzelNLLVBvVXJPTjkzN1NLZlNhSGV3eHRtLU9tUzRrTFNhZXVwRUFVNW5UZjd2THRn?oc=5",
+  "clave": "artisticas atividades cuidado esporte marica reforca",
+  "capturado": "2026-11-07",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
