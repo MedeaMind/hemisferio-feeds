@@ -1,5 +1,24 @@
 [
  {
+  "id": "6a3b57b65d14",
+  "fecha": "2026-11-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Destape",
+  "titulo": "Alerta en La Rioja por la reforma de Milei a la Ley de Salud Mental: “Es un retroceso”",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNU5jSURJZDhqOWlfZG1zTzIyLWdZWWM2dVAzaEVfbHlCMGM2OGVKcWtHdEdmUGFHZS1rNlExYU1pUXRWWkI0dW9JTzQzN1hkMDY1ZWM2cmFLYTUtNmxhNDg2Q2t4cmFYYkdTend2VmxTMm85dzZFaV9wYl84QlpDV29vQWhDdS1VX0ZVSHF2ZHB1SGpXZmJ0MHZPUjRJdVhNQ2k2RWpBT2QzRkxYcHFQY1l6OVBfd9IBygFBVV95cUxQUWxRcndvOGNsS29JTDdDZDQzNzFQZ1lkd3FxTFJxX1BfRHg1QkZtemdITW5RWEdwcF9Fai1xY0hVNkRzNXNsSkJURF9udGhiN2kwQ2JoZW1lanVOWWtvcmMxSGRWQjE4dnh5R3g4c0xEVXVhQUF1QnB6eTd4dndPR3RqUFA5QnpDWTZWQWp5a2xMeEllWE4ydDNOTWtlWWZQdlpnLXVqLUFRbEh1X1BlY2RjM3F5ZEt4dWh2NXZDZnRHQ2FWTzJYelJB?oc=5",
+  "clave": "alerta milei reforma retroceso rioja",
+  "capturado": "2026-11-08",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "6c0e8c2a301d",
   "fecha": "2026-11-07",
   "carpeta": "05 GOOGLE NEWS",
@@ -16,6 +35,121 @@
   "topic": [
    "salud mental",
    "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "524a96af1b41",
+  "fecha": "2026-11-07",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El burnout sanitario resiste como el gran 'punto ciego' de las reformas laborales en Europa",
+  "resumen": "alemania y noruega reformaran su listado de enfermedades profesionales y daran un mayor peso a la salud mental y ademas: primera piedra para que el 'burnout' sanitario sea enfermedad profesional",
+  "url": "https://www.redaccionmedica.com/politica/internacional/20261107/el-burnout-sanitario-resiste-como-el-gran-punto-ciego-de-las-reformas-laborales-en-europa/364239_0.html",
+  "clave": "burnout ciego europa gran laborales punto reformas resiste",
+  "capturado": "2026-11-08",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "burnout"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "02c6d07b4f5c",
+  "fecha": "2026-11-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Nueva Radio Suárez",
+  "titulo": "Salud mental: Peralta cuestionó el proyecto de modificación de la ley nacional",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQlBNVUx2TlN5ckZwYTBUS0N0a1haeTZiVWt6OGdyYmJSWElndHFoVEx2M21VUlNKcEdIZEVPOVFPdVhhSkNlU3UyZnNua0hTU21OV2w5NkREUnhPRGQ1a21QakdRTXFVekFNS2ZZMVlwX1lBbW4xb3laR3BjZGt0ZW9wUnNrZFV5b25yRzZjTjdrTldjVzgzWV9zMDdSeXVSd2VuNjNtVV9wdG9uNUVRSVpfMVhCcGkyMHBzQThBRFIzcDE4UlNFOGhHN1o?oc=5",
+  "clave": "cuestiono modificacion nacional peralta proyecto",
+  "capturado": "2026-11-08",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6412673fc70b",
+  "fecha": "2026-11-07",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Villalón (Atlético de Madrid): “La IA es una ayuda, pero el ‘jefe’ es el médico y su equipo de trabajo”",
+  "resumen": "el responsable de los servicios medicos del club madrileno valora la capacidad de la ia para ayudar, pero sostiene que el criterio clinico del medico no puede ser sustituido en la toma de decisiones terapeuticas.",
+  "url": "https://www.redaccionmedica.com/innovacion/avances/20261107/villalon-atletico-de-madrid-la-ia-es-una-ayuda-pero-el-jefe-medico-su-equipo-trabajo/364570_0.html",
+  "clave": "atletico ayuda equipo jefe madrid medico pero trabajo",
+  "capturado": "2026-11-08",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "259c5b13f58c",
+  "fecha": "2026-11-07",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "De \"vómitos terribles\" a un brote psicótico: Psicología alerta de los peligros del complejo consumo de ayahuasca",
+  "resumen": "tras la detencion de dos personas que operaban una clinica de retiros en sagunto, expertos alertan de psicosis, abusos y un marco legal de “bordes grises” y ademas : el ministerio de sanidad amplia su lista de sustancias psicotropicas",
+  "url": "https://www.redaccionmedica.com/profesionales/psicologia/20261107/de-vomitos-terribles-un-brote-psicotico-psicologia-alerta-de-los-peligros-del-complejo-consumo-ayahuasca/364436_0.html",
+  "clave": "alerta ayahuasca brote complejo consumo peligros psicologia psicotico",
+  "capturado": "2026-11-08",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "44ad4bfd006a",
+  "fecha": "2026-11-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "Gazeta do Paraná",
+  "titulo": "IASIN leva saúde mental à SIPAT 2026 e cuida de quem protege vidas nas estradas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMldWYjVXejRFRVZaQ2pmSXhyeFFlb3o3OGpzTjVTVWZSRzVrSl94MkMycnBWOURpd3cwZzJCYi1XN240TzRKdmdsYUJmSTVtbjc3RDZqcWxZS296VGNwMnpSTWI0NkdOVWIxOXQ1X01BdUVLZzNMcFRSenRSOU9fRnpNNXVCV0wyS3poUndQQjhrb1RuOHNoVmNqV3RGb2N1Q1RRaU1uQ2QwVVVzMG5WbG5RSUh6MEY4?oc=5",
+  "clave": "2026 cuida estradas iasin leva protege quem sipat",
+  "capturado": "2026-11-08",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6feb0b050189",
+  "fecha": "2026-11-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Tua Saúde",
+  "titulo": "Nova norma de saúde mental no trabalho já está valendo e traz mudanças para quem sofre com estresse e assédio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYVlLZmtmVE4wZzJrMWhvRUM5ZXhCY1dQNnd3QkYwRlBHTzVDbTJsbW5fa2NCOUlGamMtWUNhdkJWemtKUVNDVXZBeUVGaUV6RnRkZ1phZU9xX0kwZXR4ODlqbU9fSE5odTVRSlJTb2NIYXhUZmRTeXVTM3k5YlBhT0ZIdHBDV01KZVZpMTBTbzA5QVRVNTlBMTByLTlaYnFSYzEzdFdMN3N3aE41Z080eUNhQVRBZmhQTFV4SXM2WVZPaVpRNXBfSkZMS0VCLTF1Q0YyUXN5cnhkMktEem8taElib01WZw?oc=5",
+  "clave": "assedio esta estresse mudancas norma nova quem sofre",
+  "capturado": "2026-11-08",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -284,6 +418,44 @@
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUM0b2RESmhGY3lla3EtbWtfV3FwbW02ZXJiMkFjSXM1OW00dlNBSXJ0NndudXZ4eXZBMDRWMFRZLTg0SmRiQmxWUXJjdV8zaWw1YUlQTDAtMjlfNDgwaU1KSGw2T1VZWUhzcVExczZwWHpEcWg0VG90RDBnRFZxRU9kVEtIbTUtcFg0Z0pBaGZDZGhZWWFZT2FrckNoQlQyZU1GOExUaEVEVUE?oc=5",
   "clave": "felipe professores sancionada tche",
   "capturado": "2026-11-07",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "aeddd0b5f2de",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "ESdiario",
+  "titulo": "Sanidad licita la unidad psiquiátrica del Hospital Dr. Balmis de Alicante y salda una deuda de 1986",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNl9GV2VCUHVDTzBhYlBCNUczM3VBMjVOaDJQRnJyR21XRU1JS2g3ZFRJMWtvS1hpUndTajBxVXE4dm9FNDhiV3BmXzd0WVgzWUdIcnBfa0NnajRzdGdNcFRZOGxiVmlIeDZKS196d01TNVBVa1Jta2FlQmU3blRNdFJmck00cVlLaHBpQUw1M004OXY3Y2NFRVR4SktRdUFnTEhCRGRTcTV0NFVQR2R2MjBFcDVLd3JiNFZza0E3NDRiR28xWGw4LUhwNmZWeHBKRnZTbERBaGNBYWEyMFVFY2dHS3FiSmly0gHuAUFVX3lxTE9vM25KeV9XdjZJcE1fSEZZUVk4QzFNTURwX3BjcTFZdVhuX0h3Y0ZLSkd5OVNtLVZ6NC11d25yZW0wYUM1Z08zNERNTHFIc2FYWHAxY21aemtEcG42bUF4aHBKLUhIbkF2Smd2WWtNSGNQUkh5Y2lWc2phZ1BRZ0JwWlBEZ0JtNF9DSDIyWlg3WlI0OEYzVElaRmJIcWdheTVNVEFXYlYtVWpNaGxtb2lvX1Nxb3I4S19WWUpvSmluaHNzaU1RcV92RTVUdUNvM1dBOFp2c1ZBc2lIME1oM1M1R1BXOFBVYzhhVlZyblE?oc=5",
+  "clave": "1986 alicante balmis deuda hospital licita psiquiatrica salda",
+  "capturado": "2026-11-08",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5dca1c1dfac7",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Demócrata",
+  "titulo": "Bruxelas acusa a TikTok de incumprir a lei europeia pelos riscos do seu algoritmo para a saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOERBVV9ZeFhxdnJmejFoYzRxVFpJNFpza2FCU2pPTHp5NUY0X0hTS3pUTVU0YkpQcG43aHlLZUctbkNDRGRWZk1wZmZNUmNWcEo5cVczb3NJZ3FIUGE1WVBSa0g5SXc2YmU5VUVJQzhrdUpzVXE3dTZmT1BOakNmalI4dGlTeGRyYnU4eHJ2NnNSbHFRWTVHR0VRdHk1Qm5ucHdrY25QRVpTYl8zZm9VQmNUVnduelnSAbwBQVVfeXFMTVpOU2JBUlQ0a3d5SWQwQVJaUGt2eGtIazJ5a2VMZVEweW9udThHZC0yaGRoTngzQXlLd25aamE4d2xIdFQzT01lMXhpN2xaeFhPckR0QkUtN25OYjAyLTZmV2xTc0EtR3dTTFRpQlJKWlFoZkpwdjlsV0dhZExFV3VVSFlKSEFUZGdrc3pYcTYwZ2FzZE82N1J3WkMxOG10VjF4ZXBjYjdjczBuVXZkLWNrU01jMVdzNkdHdXY?oc=5",
+  "clave": "acusa algoritmo bruxelas europeia incumprir pelos riscos tiktok",
+  "capturado": "2026-11-08",
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
@@ -35343,46 +35515,6 @@
   "categoria_auto": "empleador_aseguradora",
   "topic": [
    "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "80212647fc2a",
-  "fecha": "2026-08-09",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "portaldotransito.com.br",
-  "titulo": "Saúde mental no trabalho entra no foco da NR-1; especialista alerta que só cumprir a norma não basta",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQLXZfVVp2Wlp2SDF4bUFKVEE1dThNd1lyYlBtWDNJV0lCbEF2TUZLa19zYkdXZHJnXzlpT1FXdGt0eVRTcVN5RzV6WVdpMVFMTWFIQkRDVGt1YzU4ZkFsUUc0QWhaT0o1b284bHRvSDUxLUdaVi1rZ2U4LXNMNmMtUHlwR2JVZmRWSWpYRFBORGV0ZzZMNkk2aTVRTVFLdGhidm9uODBaM1lRSVhIakhWLWg5QV9kY1d0NmNndzV2MXVrZVpzTFRDNk9TUzgxV2d1MkVFY3J2dk9pY2NvS3pBS0RFejJDdWJoS3ZGSmpHM0VfUWJvQ05TcUV0U21mNk9qSVNncVkwVUNJMUHSAZACQVVfeXFMTndWX3pSTkR3VmxpTGZnX3lFSmJiSnlvNHZzT1YtQi1adktYd1NmNEZlWmZTelZzUGFsQy1FdFhLc3Nick1GdGhUdUppTFVjbHRiZzVadFdJWE9fMEVuUG42ZDNpZS1keUxia0R4dm5KMXVHVEI3a3lhdDlneWFxa1U3TXduQ2d2d3ROM29BQ2FPaHVFSFZzanJjTlBON2NQMjRWa2UxTkIyN181MTVQT3R6QWo5ODFHYmJCQXBQZjlGWGE1d1lmX0ZHLWRSQTc3bXMzY2h3TlJHREFONlZzZFlxUXg1b3QtN0FpUkpBYURRZXFPZGxweFBibGNlWE01VnVqN1FxcXAtWjBZUmFNSEE?oc=5",
-  "clave": "alerta basta cumprir entra especialista foco norma trabalho",
-  "capturado": "2026-09-26",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "d73284185f5f",
-  "fecha": "2026-08-09",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "PCGuia",
-  "titulo": "Mena.ai quer ser «o sistema operativo da saúde mental europeia»",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGRkalhENnYtaTVKYmtTd0o2cl9JbDRQNHE1cmhSc3BESEZsMHljTV9naWxmX1ZrQWRDc3JwSFEwdDdmc1BhT1NZZGJNRTZTbXpXa0tRTlIyQ291OWRlUWRyQWJlX2xIczRhVjg2LWZ5TFpRUTN6Z2hiYjBFRjZOQVJoTkRzVko2NXJBN3MxZS1JZG5ZOTlZ?oc=5",
-  "clave": "europeia mena operativo quer sistema",
-  "capturado": "2026-10-06",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental",
-   "mena.ai"
   ],
   "ruido": []
  }
