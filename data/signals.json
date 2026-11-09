@@ -1,5 +1,121 @@
 [
  {
+  "id": "4f3828914c4a",
+  "fecha": "2026-11-09",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "¿Qué pasa con el bienestar de los jóvenes? Un estudio en 92 países detecta señales preocupantes",
+  "resumen": "una encuesta realizada a 50.000 personas en 92 paises revela que la salud mental a nivel mundial podria estar estancada, incluso en los paises mas ricos, y especialmente entre los jovenes, quienes en generaciones anteriores tenian niveles comparativamente mas altos de salud mental.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-pasa-bienestar-jovenes-estudio-92-paises-detecta-senales-preocupantes-20261109082949.html",
+  "clave": "bienestar detecta estudio jovenes paises pasa preocupantes senales",
+  "capturado": "2026-11-09",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ac020a83b5bb",
+  "fecha": "2026-11-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Castellón Plaza",
+  "titulo": "Sanidad adjudica licencias de realidad virtual para Salud Mental, pero queda desierto el equipamiento",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYlJCQnJ6eThWcWw0UTFhWktReDdUYjRGZTBlejliNjNwT19xejBMcXM3ZVR6cGhRZkt1OVp3cGxNNTlSV0M2R1p2UzBaS0ViTEJaQzVGczdnVU13di1fMS1XVnpDM0M3THZUM3VycTBLTFRXcU1JSUZNXzNkNlJkMktlWVdqYUtGd1VpUFBkUDY1UkpWUERqSW5vSkpLVkxQS1NnVTgtS0loVzZLU3NZS0kwVlJ4SE4xZlE2d29rM1pwYVAwR2JKVlVxQXpEZDczZTA0NGlsR1BuOS1YMGhUSE92NzVWWDg?oc=5",
+  "clave": "adjudica desierto equipamiento licencias pero queda realidad sanidad",
+  "capturado": "2026-11-09",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "partnership",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "97a2b6912133",
+  "fecha": "2026-11-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "www.examedia.com.ar",
+  "titulo": "El hospital de salud mental de Paraná cerró la admisión sin fecha de reapertura",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkI4cHdYZjFIM0RvZUV2UGZKWUkweG1qTHdRUDE3dTFUZHN6U2ZSMUwwemtzaTF5N0NOWHoySGZwcnFLeUVFWkYxRW1fSEVMendhUkxseGJTVHBsR012aVpoTUVudm82ZTBMWTFFX25JaWdHS1YwNV83VWlNcGVYVUVkb010LVZBY0ZjM0xYWHZwd2ZUbVViSFZJLWpSb29Sc01F?oc=5",
+  "clave": "admision cerro fecha hospital parana reapertura",
+  "capturado": "2026-11-09",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8616244990b7",
+  "fecha": "2026-11-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Entre Ríos Ahora",
+  "titulo": "La Facultad de Humanidades fijó posición en torno a cambios a la Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkQxYy0ycE9MZTRBODIzVGdGMl9OcDlkdUxsUkRkMDJweGZwNzZmY2llSHFRYm1wQkRaVGtXNEN0bkFEQmNXUHE4VkM5d1A0ZXB0WF9waEZTdmFzQ0hNTkhlNHpYQ1o3b2ZEdUZscUtSbUhvOTl0VmJkcWpEcGp4VWJMc3Q2Z2s0UlZtbW92S2EtNm5uNEF1VDNMUWthZDR4d0RhU0dJQ1NjNUR4ZFNzSFBB?oc=5",
+  "clave": "cambios facultad fijo humanidades posicion torno",
+  "capturado": "2026-11-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "14d70ce96050",
+  "fecha": "2026-11-09",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Gaceta Médica",
+  "medio": "Gaceta Médica",
+  "titulo": "Plan de Salud Mental de Galicia: «Buscamos una atención precoz para que la persona pueda mantener los vínculos familiares, educativos o laborales»",
+  "resumen": "el director general asistencia sanitaria del sergas, alfredo silva, explica que el principal valor de la estrategia no se reduce al volumen economico, sino a una reorientacion asistencial volcada en el bienestar emocional, la atencion temprana y el apoyo continuado a las familias the post plan de salud mental de galicia: «buscamos una atencion precoz para que la persona pueda mantener los vinculos",
+  "url": "https://gacetamedica.com/politica/plan-de-salud-mental-de-galicia-atencion-precoz/",
+  "clave": "atencion buscamos educativos familiares galicia laborales mantener persona",
+  "capturado": "2026-11-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "bienestar emocional"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5c207e5e3128",
+  "fecha": "2026-11-09",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "O atendimento também é parte do cuidado em saúde",
+  "resumen": "por eli melo junior o cuidado em saude comeca muito antes da realizacao de uma consulta ou de um procedimento. ele se manifesta tambem na capacidade de orientar, acolher e oferecer respostas seguras ao beneficiario em momentos que muitas vezes envolvem duvidas, ansiedade e necessidades urgentes. um atendimento claro e resolutivo contribui para que o […] the post o atendimento tambem e parte do cui",
+  "url": "https://medicinasa.com.br/atendimento-cuidado-saude/",
+  "clave": "atendimento cuidado parte tambem",
+  "capturado": "2026-11-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "ansiedad",
+   "ansiedade"
+  ],
+  "ruido": []
+ },
+ {
   "id": "6a3b57b65d14",
   "fecha": "2026-11-08",
   "carpeta": "05 GOOGLE NEWS",
@@ -13,6 +129,83 @@
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bc967cbf0f86",
+  "fecha": "2026-11-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Santa Cruz",
+  "titulo": "Santa Cruz concretó el anteproyecto de Ley de Salud Mental basado en la corresponsabilidad y el territorio",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSmhBbVo2ZmVDVDBvQnpDMEd6S3FRRldRc1NtYTFwQXI4ZEh4eEVVVjAzZDVNaURPY08xTnVvNV9Bd1V6Vy1HZm9DeXA2S1JnU1pnR1gxUHkydi1UbmRXbGgtNVktUmcycXMzcXpzbnpFZ3lSV0tqQTItT2ZUdUJ4X01aVVVKOUpqemZFOGRKajdkNDVKcVgyZUx4R3RpYzMxTnR1Z2pjZkU3dEtmaWM3UzFXNUtoaDVxSXNOUEVySW10N0UyOVlBZnptamRWMDRmREdnU2N1Q0dTRTloM21XY3V1V01WWFZPc2FtdUNn?oc=5",
+  "clave": "anteproyecto basado concreto corresponsabilidad cruz santa territorio",
+  "capturado": "2026-11-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1e11b35a3717",
+  "fecha": "2026-11-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Marplatense",
+  "titulo": "Alarma por los suicidios en la Policía Bonaerense: impulsan una ley para atender la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUWFlVmRQTzBCeEtrdjdfUUpxQjlvRlZ2ekxieEpFS3ZZVUE3aW01cDhvMkxBQVJaT0VqX0t1bE9vdUZaaVpuQ0k0bDZiTEVDWlo5dHdFNFNORWlvVEhORGRiZ0hGMW5qTTU4cTZmdndkTFp3NGxyNUhETTRxNXBiOFpFcTMyT1RaUURTZ3h3YmRsbnlCOVlndmdUNTRvakJzRklxb1FFbTh5ZElrTUg4YU5PNVpMTElrQWhjQTRBdk8ydzQ?oc=5",
+  "clave": "alarma atender bonaerense impulsan policia suicidios",
+  "capturado": "2026-11-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "01c7198aa66b",
+  "fecha": "2026-11-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Nuevo Día",
+  "titulo": "Policías retirados tendrán apoyo laboral, financiero y de salud mental bajo nueva ley",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZnRmZ1hLbnNYbDBrQ0thV0dUcjU5OFB1Zkk1WlhaWDV2aGZZRFVPS09iY3JGbEw0LXBzT3FoaXlvU0hYSkhJajdkQlZoaUJyT3lhd21BeHdLWGoxWE82T01BS0NRVGlpUjVOcEJUX1Q4QUFPODhFekxmU0FlenJSdUlLYmlra294ZGRpYS1UbnVRWmt2cFBBZGtmM1I0b2x4czhWY2FxbDNXQjdZNU5TYUNRQUtxX3FhSTBLaXk2VWYyODhGQmVpTTdORzMwbEluX0E?oc=5",
+  "clave": "apoyo bajo financiero laboral nueva policias retirados tendran",
+  "capturado": "2026-11-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2d9cc67baaa2",
+  "fecha": "2026-11-08",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "patagonianexo",
+  "titulo": "Santa Cruz terminó de redactar un anteproyecto de Salud Mental con enfoque comunitario",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3RIVTlCYjhIdzdPSFFGSEphclMta3dnM1NxRVhTaUxncTBIamFlWThDTU5fLW5ZOFh3Nkdhb3loUHR5RWw0N3Fidkh3N0hDd0Q5aEtRMjBpZkdKYWwyaExfX2pldEw3REZOdHdXY1pteXhLRTNtTUdEZF93SE1ocDQ1dU5HZGNweDJvUE1kTDY0WnJIYzRUYVRzM3c0bUxWN24wNU1VWHZvbkY2QUViV3NpR0xoZ2tEUmU0NmxjR21MaUU?oc=5",
+  "clave": "anteproyecto comunitario cruz enfoque redactar santa termino",
+  "capturado": "2026-11-09",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
   "topic": [
    "salud mental"
   ],
@@ -499,6 +692,25 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "338997af9685",
+  "fecha": "2026-11-06",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Telecinco",
+  "titulo": "Bruselas acusa a TikTok de usar un sistema de recomendaciones de vídeos en bucle, dañinos para la salud mental de sus usuarios",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLU1YNVFmM1VHRjNJcEE3N1ZrUkdkcU5xNEZMUWF3M2I1d3FwSFRzR0RoV1VKS0NYSjd0UTdqaWdoVEx4RDYtS2lPbUk0a1RITWs0dVpNUVJZNnBJQUU2c01zNFNlUUhIeDljNTNyNzVsM3BYTWFWRGxpNmtGSWhkSEJrYW5oanJSTWp0aW9fXzFvMGVTZlRYeDl5TVMyWlhEOC1hN0hEZXdlbFNSODN5Y0JfZDd3V1FHWGF2QnNqRW5GSWN2N0VHYUp3Qk0wMTYyYWREXzJ3dmE?oc=5",
+  "clave": "acusa bruselas bucle daninos recomendaciones sistema tiktok usar",
+  "capturado": "2026-11-09",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -35460,62 +35672,5 @@
   "ruido": [
    "tribuna"
   ]
- },
- {
-  "id": "62cd6d838f3a",
-  "fecha": "2026-08-10",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "El Diario de la Pampa",
-  "titulo": "Emergencia en salud mental: una inversión de $12 mil millones y ocho obras estratégicas",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNlNKMlBhd2pNTFAwNk9QaHFYb2RMZ2ZDVVVyX3NkTHJQb2Y4dFpVVDZ5ZnoyWkxqVDlSdWFYU1RmVDBMVFdFcEVxUWlzajhsckoyMXo4a0toaEtOTlFYakYwLTF2VVI3RWk4ZFBCeFVrRERkSlVSRmNYVlF0eGRkbHphUDNrU19yVU5US1hMZHVPS1pnb3ZyZzBFS1Jzb2Q5TFJoM0Rfc1h0RUYzbW5UMmM1d3ZxWUhFT3RUdXB5aDdPN3lya1FyNEpENk9FRW5ZRkNDLQ?oc=5",
-  "clave": "emergencia estrategicas inversion millones obras ocho",
-  "capturado": "2026-09-09",
-  "puntos": 6,
-  "prioridad": "A",
-  "categoria_auto": "deal",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "0257d6baa192",
-  "fecha": "2026-08-10",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Jornal Panorama Minas",
-  "titulo": "Câmara de Juiz de Fora promulga Lei que promove saúde mental nas escolas públicas",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWYwTkl3R3ZId1ZLblRwSVgyZ3ZacXRud01nOTNsSFdQT1hqanR3NEI2ZEFxaEJkMUFNa28teHFkT1k2SUtJTGRTM1g3Qjh4dEZSdVY1ck1sdlR3eUxOU2JVUHFmSmg1MXI2elZCX0hJYUoyLTl0SDJpVDU3YVBFNzVyOVJnSktmcXBadElJWDJqR3NGOXVtSnBmR3V3R2U5N0ZqUy1MdUF5My1QMkpnQ2dvd0prSUxB?oc=5",
-  "clave": "camara escolas fora juiz promove promulga publicas",
-  "capturado": "2026-09-04",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "94f0e527b70b",
-  "fecha": "2026-08-10",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Times Brasil | CNBC",
-  "titulo": "Dr. Inovação: Saúde mental vira obrigação para empresas com novas regras trabalhistas",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFlZbHlMTHFzc2lTSzJWdTlDUzNwdFJ6eTYxWGRfSjRodU8wekNJZ3RkRVktR1VkdDg0LTBZb3hMc2wxYTZkSldfNEF2Nmh5NFNvZmJoN1JkYlBPTjI0RW9MOUZSNzg0NExnQ2psNV9NZVFSSFVVR3g2cHlId2hDUUxSZWN0eHk5RC1MNUo5c1hZbE56MGN3ZGJ5OHppUmdNRi1XVV90ejN6VGFqOGxRQUl0SDBpLXk5ZUtPbkxYc1E?oc=5",
-  "clave": "empresas inovacao novas obrigacao regras trabalhistas vira",
-  "capturado": "2026-09-04",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
  }
 ]
