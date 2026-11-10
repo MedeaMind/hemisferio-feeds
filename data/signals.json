@@ -1,5 +1,180 @@
 [
  {
+  "id": "0773dc0a2172",
+  "fecha": "2026-11-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Uniradio Informa",
+  "titulo": "Casi 12 mil personas han recibido servicios de salud mental mediante la Ley CARE en California",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNkNOVXY2aGRNQ0ZZMTBNR2NtNklaZGNwWFJQWDRDWl9DZERpRHN1UkxIZkRZdGNPRDRxUFVZa1lQSDdoV01iQnlValZrMWxSVjdGclp5bU0wLWJwQjR3T04zOWRMblpQbUQ4d3c2Nnc0cmFXTm9zU19TaDVqYmkwVnJQSWgtd3pvamU5NlNTTTlCMDQ1TlAyVzNWSDluMllOcEt5Y2g1UU4za1IwWU9PeTZWWDNLSWVISkc5NlJ5M0pvd1loNFZsb1dMR0xBRGvSAdQBQVVfeXFMUFNlYlV6ckdacW5CUmtUb0tqMlRXZDVmZkx4eTU2MU5QWnR5V091a2ViNWN2Qko2Z1haaXRfYUp0Qm9NemQ4UFBuWmNEcTBzWWtQR0o2NVZkdFBUa1lub1pWVmpIcXg2VmxjNGt6XzhuV29vN1pNT2VVT0NUTUR3VjVJaFZrczQ3cHJ3SDhDcURSTzJUY0RfQzllNTRaMWpMRkdhOUJCZVFXOVczeUZqdHZacWNwSnJ5RHVJdFFFTDBrSEllcjM4SXdKVUVqaG1POUtwTjU?oc=5",
+  "clave": "california care casi mediante personas recibido servicios",
+  "capturado": "2026-11-10",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bd498ade681f",
+  "fecha": "2026-11-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Pacientes de cáncer de pulmón y profesionales piden incluir el cribado de personas de riesgo en la cartera de servicios",
+  "resumen": "el presidente de asociacion espanola de afectados de cancer de pulmon (aeacap), bernard gaspar, y el investigador principal del grupo de investigacion en biomarcadores y nuevas dianas terapeuticas en cancer de pulmon de la clinica universidad de navarra, el doctor luis montuenga, han subrayado la necesidad de que se incluya en las cartera de servicios el cribado de la enfermedad en pacientes de ri",
+  "url": "https://www.infosalus.com/asistencia/noticia-pacientes-cancer-pulmon-profesionales-piden-incluir-cribado-personas-riesgo-cartera-servicios-20261110125755.html",
+  "clave": "cancer cartera cribado incluir pacientes personas piden profesionales",
+  "capturado": "2026-11-10",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "dce5c40967dc",
+  "fecha": "2026-11-10",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/digital-health/ai-enabled-virtual-mental-health-startup-siggy-launches-stealth\" hreflang=\"en\">AI-enabled virtual mental health startup Siggy launches from stealth</a>",
+  "resumen": "siggy combines therapy, prescription management and ai for intake and between-visits support.",
+  "url": "https://www.fiercehealthcare.com/digital-health/ai-enabled-virtual-mental-health-startup-siggy-launches-stealth",
+  "clave": "enabled from launches siggy startup stealth virtual",
+  "capturado": "2026-11-10",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5316489b0ef6",
+  "fecha": "2026-11-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "Simulacro Examen MIR 2027: Enfréntate a las 10 preguntas más complejas para asegurar tu plaza",
+  "resumen": "enfrentarse a preguntas con un alto indice de discriminacion es vital para afinar el razonamiento clinico multidisciplinar, gestionar el tiempo y controlar la presion psicologica",
+  "url": "https://www.redaccionmedica.com/formacion/mir/20261110/simulacro-examen-mir-enfrentate-las-preguntas-mas-complejas-para-asegurar-tu-plaza/364553_0.html",
+  "clave": "2027 asegurar complejas enfrentate examen plaza preguntas simulacro",
+  "capturado": "2026-11-10",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "eb5aece18093",
+  "fecha": "2026-11-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Gaceta Médica",
+  "medio": "Gaceta Médica",
+  "titulo": "Las claves del programa electoral del PP: más médicos, un fondo para enfermedades raras y un plan de salud mental",
+  "resumen": "los populares proponen reconocer un ambito de negociacion propio para los medicos, reducir la duracion de las guardias, incorporar al menos 4.500 facultativos a atencion primaria y agilizar el acceso a los medicamentos innovadores the post las claves del programa electoral del pp: mas medicos, un fondo para enfermedades raras y un plan de salud mental appeared first on gaceta medica .",
+  "url": "https://gacetamedica.com/politica/claves-programa-electoral-pp-sanidad-enfermedades-raras/",
+  "clave": "claves electoral enfermedades fondo medicos plan programa raras",
+  "capturado": "2026-11-10",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "17f20d9ac55e",
+  "fecha": "2026-11-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "https://www.infocop.es/",
+  "titulo": "El 17,8% de la población ha necesitado atención por problemas de salud mental en el último año, según el Barómetro Sanitario 2026",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNFdRdzhaQ2dwSk9EQlhabk1mOHhDQ1hmSEUxNm1VR2JQOFFleWR5NzFEeXhQZ3RMLXdBZlFMSDB1QWEyMnhOaVVLTnlSeHZrVzdtMU5IY2NmdnR1WUJXS2NmZ1RpX05BQnQ2c2p3U3h1S1NjWUVPQTZETGNWMXVZT1dPV1NVV2dZNndPTXRfREQ3bEhqLXJ4Q3dQTDZPNnY2YnhsemwtOTBXUHJROVM5NjZXTUpaN3ZBTmtIUlBkak0wRFEwUk9jVnZLOWJhbUl1N0ZacmJVNEMwWGozN1VfbXVNb3c?oc=5",
+  "clave": "2026 atencion barometro necesitado poblacion problemas sanitario segun",
+  "capturado": "2026-11-10",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0a5577bee4ae",
+  "fecha": "2026-11-10",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "The Officer",
+  "titulo": "La salud mental sigue siendo una asignatura pendiente entre los mayores de 75 años",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHJoTkxSS0N2Sjg4bmJib3BwbFlINDRHVlNMSDFQMjgtdGNYQnprRlVrOF9vaG5yUEs4TkFNNURldkRnZy0yaFZLS1RfRUdlS0NNOE9IUnBOS09KR2xOaEY5YlZ1MkUxTlZnMFM2ZFYteXRIMTQ0d1B1aEFOQlN4cENoUmpxVUlvd1k1bEZSRks5QmVsYTRYYVE4MDI3Zks5VWh1QTVJZlY?oc=5",
+  "clave": "anos asignatura mayores pendiente siendo sigue",
+  "capturado": "2026-11-10",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "93141e63dfa2",
+  "fecha": "2026-11-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "pacientes | El enemigo invisible del corazón: un tercio de los pacientes ingresados en Cardiología sufre ansiedad o depresión",
+  "resumen": "pacientes: el enemigo invisible del corazon: un tercio de los pacientes ingresados en cardiologia sufre ansiedad o depresion",
+  "url": "https://www.consalud.es/pacientes/el-enemigo-invisible-del-corazon-un-tercio-de-los-pacientes-ingresados-en-cardiologia-sufre-ansiedad-o-depresion.html",
+  "clave": "ansiedad cardiologia corazon depresion enemigo ingresados invisible pacientes",
+  "capturado": "2026-11-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "ansiedad",
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "61197e617ff9",
+  "fecha": "2026-11-10",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Más allá de las hormonas: qué papel puede tener la microbiota en el bienestar adolescente",
+  "resumen": "la microbiota intestinal tambien cambia durante la adolescencia, una etapa en la que las transformaciones hormonales conviven con nuevas rutinas de alimentacion, de sueno, y de actividad fisica. ¿que relacion tiene con el estres y con el bienestar emocional? ¿como podemos cuidarla? ¿por que es tan importante cuidar de la microbiota en las primeras etapas de la vida?",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-mas-alla-hormonas-papel-puede-tener-microbiota-bienestar-adolescente-20261110082646.html",
+  "clave": "adolescente alla bienestar hormonas microbiota papel puede tener",
+  "capturado": "2026-11-10",
+  "puntos": -6,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "bienestar emocional"
+  ],
+  "ruido": [
+   "que es ",
+   "rutina"
+  ]
+ },
+ {
   "id": "4f3828914c4a",
   "fecha": "2026-11-09",
   "carpeta": "01 ESPAÑA",
@@ -57,6 +232,25 @@
   "ruido": []
  },
  {
+  "id": "13b5317aee6d",
+  "fecha": "2026-11-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Alicante Plaza",
+  "titulo": "Sanidad adjudica licencias de realidad virtual para Salud Mental, pero queda desierto el equipamiento",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWnpERHpoZ0g1QWlTT21PMTJucE0zeXBjdjhjZXdiUldmNF9tUFk5dWNyVEVvZTA2dWhIa1VtWWdDNURwc3hDcFdRaFlsNGFVQkoybk5KdUF6aWliZi0ybTRBeHlMakNOUjJkZXoyendpS0ZicWhWUzN2YlBsVGxwQ01CLXdXVFQ4dXhzSGlHMFl5MnBhMUdORFFucTBoTTQyM2dNeThjMVdyQVJPOWtmbS1LNFpuYm9EQWllSXZwMTJYN0FQVFNDbVdDRHhyQmlZR1d0ODBJazdtZ1BoTFRlRm01UGRWYjllbzVaMUtNRE9YZw?oc=5",
+  "clave": "adjudica desierto equipamiento licencias pero queda realidad sanidad",
+  "capturado": "2026-11-10",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "partnership",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "8616244990b7",
   "fecha": "2026-11-09",
   "carpeta": "05 GOOGLE NEWS",
@@ -67,6 +261,25 @@
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkQxYy0ycE9MZTRBODIzVGdGMl9OcDlkdUxsUkRkMDJweGZwNzZmY2llSHFRYm1wQkRaVGtXNEN0bkFEQmNXUHE4VkM5d1A0ZXB0WF9waEZTdmFzQ0hNTkhlNHpYQ1o3b2ZEdUZscUtSbUhvOTl0VmJkcWpEcGp4VWJMc3Q2Z2s0UlZtbW92S2EtNm5uNEF1VDNMUWthZDR4d0RhU0dJQ1NjNUR4ZFNzSFBB?oc=5",
   "clave": "cambios facultad fijo humanidades posicion torno",
   "capturado": "2026-11-09",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2e07598b6de9",
+  "fecha": "2026-11-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "elDiario.es",
+  "titulo": "La salud mental busca un espacio propio en la Ley de RTVE ante los comicios de noviembre",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFQzYlBQcUdtLUxCcUNVc09yUkNaelJQS3FZdkM2NzZXRUJ4d3RlVlRKZUNTV1ZCM3Y4YzUtQi0xb184aGJ0Szc4RTVrT1N3T1JzSlU4TF9JS010YVpMYUo4NWlZRnNmMl8xQWVGQzBnWllOVkx3dVZCcWMwMlI2RmFYdHFIV3VDbWlPVTdhWEpYN2FlSmhXV1dFOTZwUGxiRWpsVVAyOGxaMkoxcE1ZdmZsbWt4QnBxcjh4N3gxczRwUdIBxwFBVV95cUxOU1Q1WkNpLVQzVEhlNjF3cm93TE84d1M4OW01NXhOR1FvTVZQVW9scmMxWmNqZzFuVEF2ZGJLdzJrSUp1ajlUeHpXRzBtbFBYUWNNcEtZdjJuTVlJZU1mR0xHMkp5Q19BWWxjNVNZTGR3XzJ1X3U1ajZrRUtIMXpWVmphODR1UXN0SVJCRTBjY2RGeXhRTTRnakUyZS1DcEdyZmxOUk9lOUtWeml0di16ajg2czNPeXR4Y0hwcVhqbGc0alRvaWU4?oc=5",
+  "clave": "ante busca comicios espacio noviembre propio rtve",
+  "capturado": "2026-11-10",
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
@@ -112,6 +325,66 @@
   "topic": [
    "ansiedad",
    "ansiedade"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3ebd5c35f90a",
+  "fecha": "2026-11-09",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Preguntar sin juzgar: el reto de abordar la salud mental desde atención primaria",
+  "resumen": "medicina familiar y comunitaria rosalia sierra xlvi congreso de semfyc la salud mental en el siglo xxi no se explica desde una unica perspectiva . la relacion con la tecnologia, los habitos de actividad fisica, el consumo de sustancias y las propias condiciones de vida se entrecruzan y plantean nuevos retos a los profesionales de atencion primaria. pero, antes de incorporar mas preguntas a los pro",
+  "url": "https://www.diariomedico.com/medicina/medicina-familiar/preguntar-juzgar-reto-abordar-salud-mental-atencion-primaria.html",
+  "clave": "abordar atencion juzgar preguntar primaria reto",
+  "capturado": "2026-11-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "habitos",
+   "congreso de"
+  ]
+ },
+ {
+  "id": "1326fb32660d",
+  "fecha": "2026-11-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "AGESOR",
+  "titulo": "Claudia Lártiga: ´Nuestra salud mental se ve debilitada y es prioritario atenderla en la próxima ronda de negociación",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40cEpiM3I4VEk0dHZONDlNQ2gzZEdtakd5Z2lPV3NqMlpGUHRzelNiT01MNkZFc1UzQmlvb2dnakRCYUJRMUc3RTRqaWlHMkRaU1VrV2FVTS0zUQ?oc=5",
+  "clave": "atenderla claudia debilitada lartiga negociacion nuestra prioritario proxima",
+  "capturado": "2026-11-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "05e0c27c8fe8",
+  "fecha": "2026-11-09",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Plaza de Armas | Querétaro",
+  "titulo": "Prepara Sinuhé Piedragil iniciativa de atención de la salud mental de los jóvenes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNzJmUW1vNlpwZ3g0MHQ0ZFFTNktfWS0zLXdUUGQyUDBqQ1ZYVFpYTGRFQWF3cVkwZGRzTXd3MVF5eC0zMk90ajFxTzF0Y1ZBRlM1N2xOT0ktRHliOFJLSi1uYTRsMmRWWnhFa2VDM3pMMk5TVUMwZmRvUUk1elhPb2xhekFhdFhSOHNyMzJrdEZIdjVNVUR4Y1FRWWswd0g4SjRQU1pDQVl1ZklCOXRj?oc=5",
+  "clave": "atencion iniciativa jovenes piedragil prepara sinuhe",
+  "capturado": "2026-11-10",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -35613,64 +35886,5 @@
    "salud mental"
   ],
   "ruido": []
- },
- {
-  "id": "095a793510c8",
-  "fecha": "2026-08-11",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Brasil Inovador",
-  "titulo": "Startup Vortice.ai desenvolve tecnologia de IA para healthtech britânica de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVVyYUpXM1dwbEVRbXNpMDlkUFZDb3h1Z0h4b2xCRVVzbFR5QklPMmM0QVJrNS1McXdIRlVGdHpNckFycFl4alFaV2ZHbkRNX1FkV0JaeWUweTlCQkdBbGNQRkc3dDZGVFhxSk9kR0tvdlVBTmV0S0tJc19SZS12NHJwTjQwRmhSSXNxaURQdjBoUGt0SnVVeTEwdlpuN1lBM1hXS1JabDJYblRvMC1xZlBlVEdxanNPUWJv?oc=5",
-  "clave": "britanica desenvolve healthtech startup tecnologia vortice",
-  "capturado": "2026-09-06",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "1717f5f26e4e",
-  "fecha": "2026-08-11",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "Diario Público",
-  "titulo": "Apps para cuidar la salud mental: las herramientas que convierten tu smartphone en un aliado",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2NE0zSzFhMHpzZ0ZnZUJsU0FxenZMdzJyN1M2cGFqalJWLXdNR0Y3bGppdDNvMUxkdUZJRzdwZ0hVMnVfSVAzVmpWOGkxVUJ0TllDZVZYQlZIemg2MzR1SWEtamo4dFYxWjF6dEVodEJBVDFrbDJ0bTkyZ9IBgAFBVV95cUxONmo1Vk1IM0FWTEdUQWVwVDZIemt3TGsyeHlPdk1hSjN3YnhpSUdFalhvd3BZa0R3WVQwTkR3NDNKaG81Mi1uLVZzbklOVmJtUUh2aUc3UTdYT0RYMkpJeTZKR0lrSm9tQUQzNUcyM3dGWjN3c1BydVRNZzJBOGdqaw?oc=5",
-  "clave": "aliado apps convierten cuidar herramientas smartphone",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "72d106ea9af1",
-  "fecha": "2026-08-11",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación (edición US, hl=en)",
-  "medio": "laopinion.com",
-  "titulo": "Meta, Google y TikTok pierden batalla legal por demandas sobre adicción en menores; Tribunal rechaza inmunidad",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMGlXdlV0WW8xV0RhaUwwaUZzUXYwSlk4Yl9JMVVpLWJtbmRwSGRYQXhndThtbmN0V1JtWjF5X3hQWlF1Y3ozRmJ4eUd3QXhTbzVZVVh6MU8xTkdkOFBkUlNkUy1DdTNRSDlSQ08tUHRSeFBDRHB1eVhOZGVWT1RYeUlqeVF1OElPbDQxNEdzMFNiWTRnZVRyeGRkRlFDRTJSOGo0STQ0SG5qQUU2d0dESzZ2NU55TGhTN18xVVhmTU1RMlhjSkM3XzV5WTl6NUY4N0Y2c0NKclhIZw?oc=5",
-  "clave": "adiccion batalla demandas google inmunidad legal menores meta",
-  "capturado": "2026-09-04",
-  "puntos": -3,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "adicci"
-  ],
-  "ruido": [
-   "tribuna"
-  ]
  }
 ]
