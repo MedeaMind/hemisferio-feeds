@@ -1,5 +1,292 @@
 [
  {
+  "id": "d2000705623d",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Moncloa. Gobierno de España",
+  "titulo": "Sanidad publica los primeros resultados del estudio sobre la salud mental de la población afectada por la DANA",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGQ2MzJFM3lwdi1hSjRyNHl1VkFpTWowVi1tV2dGNTZ5UDVYYzNBam1zUFhkOG9QVWdIQU1fYUZIczFpZ01KN1VCckVlTFgtZ3RPNDdsT0VyTTNQNWxJUnVPUzNGU2Qza0Q4ZzRwNmpEZVp6X2JSd2lUdkRZR1RrMzNIc1ZSVWJ0T0RMN0tYNGtvaUE2ZUN6dWVyVm1ZUHJiam1JNGJlMDdUaUJyWUM5Mw?oc=5",
+  "clave": "afectada dana estudio poblacion primeros publica resultados sanidad",
+  "capturado": "2026-11-12",
+  "puntos": 8,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d5f03889b7dc",
+  "fecha": "2026-11-12",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "andalucía | Sanz anuncia que la Junta pondrá en marcha en 2027 un programa específico de Salud Mental Perinatal",
+  "resumen": "andalucia: sanz anuncia que la junta pondra en marcha en 2027 un programa especifico de salud mental perinatal",
+  "url": "https://www.consalud.es/autonomias/andalucia/sanz-anuncia-que-la-junta-pondra-en-marcha-en-2027-un-programa-especifico-de-salud-mental-perinatal.html",
+  "clave": "2027 andalucia anuncia especifico junta marcha perinatal pondra",
+  "capturado": "2026-11-12",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ec44b2bbd488",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Andalucía Información",
+  "titulo": "La Junta impulsará en 2027 un plan específico para cuidar la salud mental perinatal de las mujeres",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUElucHc5a2M4MXRxb1FueGlsZkdkN1JYcFRPT2NyTnpoeDFHN2t3cDRrY05Ib091NUNmaHIxZUFjVmZCSGdKOEZDTWVSa1dpZlJpLWEzTFJvLXpjaC1IZFUzRlBvT0ZtSC14eTMxQ2F1WmFFY1I1MWxXVldUM2hwbVpvdHY1M3J5S3VLdmZzdzlnY0JaQVdINE5zdGdaMHR5bFQ4NldCZE5zSjhUaE1pREJ6djc2NGxoSUhBMk5XdUtUcExQSUhsM2xSTjQyVFNyeGYzc2s3Mm5nMjV2OTNYQjhPa0FfVmRZMDJRWg?oc=5",
+  "clave": "2027 cuidar especifico impulsara junta mujeres perinatal plan",
+  "capturado": "2026-11-12",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f8c2c3804d05",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Demócrata",
+  "titulo": "Casi la mitad de los adultos afectados por la dana de 2024 seguía con malestar psicológico 18 meses después, según Sanidad",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTlBxd05tWmNyQXpvRXkteGpKVUQtdl9tdU1uYmtsVFg1V3ljb0VRMzNhanZ1RnVjLW5tZnZ5SWdHQ1dBcFFQVVBLQVJpMk5Tbk1NQVJnM0lMMlR0eTkzZVdzTF9CY3R4Mm5JX1REOEZPVzFiV0xMUEd2SEZfRWQxeUtIZ0plM1M0QmV4SXo0ZXdSWWJBekRpRTVwZVY4YXVxNFZpREl3c01EdHBzUjRMMEZtdHdUNG9GclJObEFrSjQ3UGZFNW1sQkRUVGt0RUxSbmdpVHdYNVFQUWlDSDJoU2Y2a1J0WlBrRUc00gHwAUFVX3lxTFB2d0ExOE1TODZoUm1oY3FyMDB2NG93NGFvZGlPS01CVDJKVFZNUld6Wl9BeXNWQm9fcHNVUDRROVhjdlZBam0xd2ZtN2JlSEluSFZ2bURpb1JRTVI4SVoxb2tEMmJpM1FPTWRCUnk2clJJZWFCYXBzOTQ2WUwzUjZGYmVCTU9MYzc3d2FfNzEza29HNG5KTDRFN0RJZmxtOVlyb21oSi1VbW10bVk3d0dvdU1pS0pJb2hpQ1RJM2E1U3pXV2hONEFvckxZTDhha2F6THNERWZHV1k4eURQWnBlczF0c0ZtZ0liQ1JtcXZfVw?oc=5",
+  "clave": "2024 adultos afectados casi dana despues malestar meses",
+  "capturado": "2026-11-12",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d7bd94b7ce9c",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Nueva Provincia",
+  "titulo": "Críticas a la reforma de la Ley de Salud Mental: \"La entendemos como una restricción\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0RUSE5uakk3WXJ3VXlrelIzZWFxQTVQbWtjemd3RGFITVRHel9hclVpallOMGI0d1dBQlF5cW1GcUdpRmhWakgtUTJRYklEOTJ3ZTJmaG1waGxBWjRnYnZmSzh5dkVLQlBaNmlLTWd4WUpVM0xaMGh2ak5Zb25fdlEtUEZZb1lZRjF1dkZydVpjWlVVRjk2YVV4RThhTnNvNE0wZ3RpUzZPN2dYVHVLQ01hZ2QwVk9lcWlBT2g0YUxCSEo5VDMtdQ?oc=5",
+  "clave": "criticas entendemos reforma restriccion",
+  "capturado": "2026-11-12",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9e8f4e20fe05",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "portal do governo de roraima",
+  "titulo": "Seed promove palestras sobre saúde mental e valorização da vida em oito escolas estaduais",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmdBZEdmYkNGckVRTTFJMHpSRHJTMmE5SWItVDFNcE9VVm5wOWpZU0FiU2c2Rm5pdTQtNHNCVlVBYlB1SHlGYmhSVWt6NFhRSFEwUmJZZGF6N2FBWWNSX3BFUEc1eElLTjhHYkNqQlNfT19RVVZMRUFheGpUNVVuUVJKeFlWYXBJOUtxSW1UNGNjNmpSckU1Tzc4WXZhaDhlT0NUYkt5YzRYdFhnenF1S0l0amgtdw?oc=5",
+  "clave": "escolas estaduais oito palestras promove seed valorizacao vida",
+  "capturado": "2026-11-12",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "deal",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "64c71ad89ef1",
+  "fecha": "2026-11-12",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Casi la mitad de los adultos afectados por la dana de 2024 presentaba malestar psicológico 18 meses después",
+  "resumen": "el 49 por ciento de la poblacion adulta de las zonas afectadas por la dana de octubre de 2024 presentaba malestar psicologico moderado o alto un ano y medio despues de las inundaciones, mientras que el 15,7 por ciento mostraba sintomas compatibles con un probable trastorno de estres postraumatico.",
+  "url": "https://www.infosalus.com/actualidad/noticia-casi-mitad-adultos-afectados-dana-2024-presentaba-malestar-psicologico-18-meses-despues-20261112123832.html",
+  "clave": "2024 adultos afectados casi dana despues malestar meses",
+  "capturado": "2026-11-12",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "research",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": [
+   "mostra"
+  ]
+ },
+ {
+  "id": "457ad4873028",
+  "fecha": "2026-11-12",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/payers/carelon-agrees-pay-10m-settle-ghost-network-coverage-denial-allegations-new-york\" hreflang=\"en\">Carelon agrees to pay $10M to settle ghost network, coverage denial allegations in New York</a>",
+  "resumen": "carelon will pay more than $10 million across two settlements in new york over mental health networks and coverage denials.",
+  "url": "https://www.fiercehealthcare.com/payers/carelon-agrees-pay-10m-settle-ghost-network-coverage-denial-allegations-new-york",
+  "clave": "agrees allegations carelon coverage denial ghost network settle",
+  "capturado": "2026-11-12",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "af31d4a2ca83",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Qué.es",
+  "titulo": "UNICEF advierte de que la sanidad no cubre la salud mental infantil y adolescente",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFMmRGRjA1MzlBZUNZLVNNSTBWc05tZ0JZM01sRVhBeXZQZml0SFFYMXQ4X3pOUEg4V0w0OXJWUWhXaUFMZmN6RlMtNlpva1lRUy1ic2V4R2xzREFVRldMczcyMEx4bG9xNEdR?oc=5",
+  "clave": "adolescente advierte cubre infantil sanidad unicef",
+  "capturado": "2026-11-12",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "63cc63f18f5e",
+  "fecha": "2026-11-12",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "La oncología de precisión avanza para curar más y tratar solo con lo necesario",
+  "resumen": "oncologia naiarabrocal esmo 2026 nuevas estrategias terapeuticas, tratamientos que llegan a fases mas precoces de la enfermedad y mayores posibilidades de curacion con menos toxicidad y secuelas . son algunas de las tendencias que marcan el presente y el futuro del tratamiento del cancer, junto con el papel cada vez mas decisivo de los biomarcadores para intensificar o desescalar las terapias segu",
+  "url": "https://www.diariomedico.com/medicina/oncologia/oncologia-precision-avanza-curar-mas-tratar-necesario.html",
+  "clave": "avanza curar necesario oncologia precision solo tratar",
+  "capturado": "2026-11-12",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d12287df2b0f",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Ministerio de Sanidad",
+  "titulo": "Seguimiento epidemiológico de la salud mental en la zona DANA (SEDANA-SM)",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOanB5NkVuQmhTMkptT28xbW1VMzd1UWxMRVdRR0d4TWtaeUpucEk3WDJGd1hXZHpuNDhqaTVhQTNTR1dNcTRRQ0xpYXBBdGhTc2paSVBObG1ZTjF4SjVweWRUd0JvNXpUcVR6cU4zLThzaVhhRjJrNjVHWTJESmZyakVmY19abk1HLUh6cm5UbUV6TE1JLThJdkZB?oc=5",
+  "clave": "dana epidemiologico sedana seguimiento zona",
+  "capturado": "2026-11-12",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "96bc87509f24",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Gaceta Médica",
+  "titulo": "Casi la mitad de los adultos afectados por la DANA presenta malestar psicológico más de un año después",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTh6SDktLWc2d3EzUk1yYTVKeDI4LWsxNWdMRGVwbU04RnEzWVFJTGlHbTNKelJzVkhjUjBDSEZ2YldoemJQbE5Gb0psRVYySFpGQ0dDdThYRjFzNXB3TFdBNjhxQmhULWRSMzFnUXBVLVJrRDk2dml4amZuUFVrTzl4a3huQWRxM0RuLW9iRWxIN2s?oc=5",
+  "clave": "adultos afectados casi dana despues malestar mitad presenta",
+  "capturado": "2026-11-12",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "62b43c58a2f7",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Demócrata",
+  "titulo": "Los internistas reclaman abordar la salud mental en los pacientes con diabetes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUhlNHFIeDBPaWxEUXJxTE5SeUZVRTdjd3haQzh0aFZTYmZvZ2p4V3VHVFluNm5QYUNyMEszeURDVWE3aGU1Ymg1enR6VUZ3ZXF4OGl1VG03ZW9IU2xXNWJ1bS1hWkpYVnJFWEVhVFFHa1lvQ2QweC1oeE5lRGN6MndlbzJreXdGNFVMdWllY2tpb085QkhqYU53cWF4MmgxVmZKcGxoLVg1cFRXRHluQlBR0gG3AUFVX3lxTE4xanlIVEJpWk84V3RVOHZQQU1xZTczNWs1TTdDc2ZFZHlJc2RmNVVQbGxEQ1k0UXhzNmh1OGtpNUNPLXNEWDZaMDA5bUcxU1dXZmtkaXFBZ1B3aUFRSkNJakxCVEV5cDZiNndLanZNeDlSQWk2cmxSQkZ4b2NyT2VxdlhpOTBJVURRQ3BTUFBmZWpkdXV1M3QtTmZ6a0VtcmNCNXI1TTk4Wld2Z2FHaVc0a2FUR19sUQ?oc=5",
+  "clave": "abordar diabetes internistas pacientes reclaman",
+  "capturado": "2026-11-12",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8c76e10457bd",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Litigio Periodismo Judicial",
+  "titulo": "Salud mental: convocan a organizaciones sociales y civiles para integrar el Órgano de Revisión del Chaco",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYzYydjdqRGRDRTNjNnV3NXhvcmxaQXJiR24xWFlTTnl0N0JmNlhmdFRzc3lEZlV2dUc0UU1VaDhOanhyZEYzX2R5ek5WODJKTlNQQWFJUHJUajdSSTFDbkduSWZpMmlHTWN2cXhySTY1U2ZFLWZPX00tZDZXX3pKZmlfd3NLM3ZpdGxxUnpGVzd1VUk4SzhYeTZ0WWxpcnNhQTVMdDlsSDVTSHFWNmx6VHhoVEp1b2lwNHFpMzlsX1ZZSFZydklnZ05udFYydDE0QXNYYw?oc=5",
+  "clave": "chaco civiles convocan integrar organizaciones organo revision sociales",
+  "capturado": "2026-11-12",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9e5b28d0bc12",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Erechim",
+  "titulo": "Programa Saúde da Escola aborda saúde mental na infância na Escola de Educação Infantil Copas Verdes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXYtZm9WYWc5TW9QZjE3UGI3UkJidTk1cnVOdDFkbzk3emxzUTB3bUJrUTVfTGNqMXV1dlV0WlpZYVdGbEVUXzMybV8tTjg3bUlPNWJ4cTVBWVJUQlRxdVFYNVJLaFZfcEpBY3YwUnJBMVVIc3lkSVA5NDU4d3hadnhWUlVRbVFlb250N25mT3ZSV25IeXBQNGpmXzBzWW1XRDN1R081RFdicTdCN2hEMzVvSnB3c1ZaVTM2ZU1jaGpYandrNlhrb1NKZEN0TkNJdTR3RUQxSHFFQVRONDdv?oc=5",
+  "clave": "aborda copas educacao escola infancia infantil programa verdes",
+  "capturado": "2026-11-12",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "5c5a5c404a5f",
   "fecha": "2026-11-11",
   "carpeta": "01 ESPAÑA",
@@ -20,6 +307,44 @@
   "ruido": []
  },
  {
+  "id": "e80b2f4fea67",
+  "fecha": "2026-11-11",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP apresenta avanços da Psicologia brasileira na V Cúpula Latino-Americana e do Caribe",
+  "resumen": "o conselho federal de psicologia (cfp) apresentou avancos na producao de referencias tecnicas, nas discussoes sobre mudancas climaticas e inteligencia artificial e na valorizacao profissional durante a v cupula latino-americana e do caribe para o fortalecimento gremial da psicologia, realizada … o post cfp apresenta avancos da psicologia brasileira na v cupula latino-americana e do caribe apareceu",
+  "url": "https://site.cfp.org.br/cfp-apresenta-avancos-da-psicologia-brasileira-na-v-cupula-latino-americana-e-do-caribe/",
+  "clave": "americana apresenta avancos brasileira caribe cupula latino psicologia",
+  "capturado": "2026-11-12",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "producto",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bd984019b69e",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "RH Pra Você",
+  "titulo": "Prevenir o adoecimento mental no trabalho: norma NR-1",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hRXBWLXZOZjM3TUdtbzd4ZFdKUXRqaGlUMWdrY2wybHVvaFdQM21vY1pnVlQ1WXVZVjBsNDRfQzdnYmxwMWZIV0FqQlpGVkVwMXM0SUZwY2tkeDRFNjNTSzN3ck1maW9vZFpINTlVVkhuYWJHbFZTTnNuZkw?oc=5",
+  "clave": "adoecimento norma prevenir trabalho",
+  "capturado": "2026-11-12",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
   "id": "4565217307af",
   "fecha": "2026-11-11",
   "carpeta": "05 GOOGLE NEWS",
@@ -35,6 +360,101 @@
   "categoria_auto": "regulacion",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fbf2dd91f627",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Valencia Plaza",
+  "titulo": "Sanidad publica el Plan TDAH 2026-2030 con 29 actuaciones y ocho unidades especializadas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSlkyWFhkSHVER1dWeGpUZWc2UVpvT1JDc0VpdmVwN3FZOHlQVk13QTY3TmdiQTczeHRfV0NkbGV2ZUVfTm5jbE1GVHZ3Sk9ydl9Demo5VGVYRmJuVWVETkx5a0FVTnlsSnBqVFczSnlOODM3ZGZGNk5vTXczZkRUa1FUcVlsQWlGRENzcThKNXczQmNSUDEyMno1ZkF2WlVLWHpjZERxNklWMks2b0FSY0RrcjBFZ2pfdzR1N3pTMWcxZWc1eG5wMGRkZkk5RTZoTHloUlJ4cFVMSTBNSzkxTHJ2UXNJUmRIRzZkelNzTFZPTHM?oc=5",
+  "clave": "2026 2030 actuaciones especializadas ocho plan publica sanidad",
+  "capturado": "2026-11-12",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "tdah"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d3bde089f530",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Nueva Radio Suárez",
+  "titulo": "Juan Azpitarte analizó la reforma de la Ley de Salud Mental y consideró positivo que se fortalezca el rol del médico",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbUJFdXFBNm9pN2p5T0hqSWI5NVN3Nkd6ejQyMVNDaVNlVEZsSjBHZ1ZFLUdlTUhoZHFydDBxQjJDbWI1YjRqNGZKV0FLR0IwaGNQc1VvYkxVQWI5X25USUN4TWNlT3dROXlTZGxySXctZUFjT1prdkY5b3QzNC11QURGZ1V2Vy1IcXVJeHdYeEwtMnZSLXp6Qkp6ZTRHRS1PSjB2OU1icTZMclA1TVBweGc4ZnVvNGQ1Z210VXJoSFJ1NlJjNGNyYWVMUmZ4Q2ZtdHFzLVlGd05sTHRzb1ZVb3JrV2trVFlBTkZxeF91SnVYTnhVUDBtQ3VHYnVRTHg3?oc=5",
+  "clave": "analizo azpitarte considero fortalezca juan medico positivo reforma",
+  "capturado": "2026-11-12",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "96a5388918b7",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Nacional — La voz de todos",
+  "titulo": "Senado aprueba ley costero-marina y aplaza la de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWS1qcEY5bE1GZ2Z5bThDMmdieVAxZVhBRnR4cGtKR0RsS1h5VVV6bmlpNDdzUjhxNVFieERGVk5vWGx3TVV6anE1bFFkMTczeGFNU2VxYW45ODVVbGZPaFV5SExVMlRYUjZkRU5pejRFQ3FkbGJLd2xuWllDaXpkeG1oUlJTS05ocnhWSWY3RnZLYmNITkdTdG5uaVk5XzZHZzNPalZmb0FXOUtHcVpNTVhhdUdkSnkwVFJ30gHAAUFVX3lxTE1KbEE3Ump5dnlBYjI4ZnN3VWtnZVR1WG1qN0lrNHl3WjZxODJpeFZGTk9ta05UczJrVzhzRFpFS1AtN1RnNWc4cm42TnR0OC1NU2pEOUdxS2Q5a1Qtai1GdlY3Q0JJLW8tR0NHOWFiYjQ2cHctdHJXNTBXaGpRb0ExbW93a0E0OHF4VWJOUDNreDZqNEc5cHJ2NFZhQ2NiMzdWVWtXb1lDcXllWUNKa3V2Rkw3cm1DbC1qaHkwLXlidA?oc=5",
+  "clave": "aplaza aprueba costero marina senado",
+  "capturado": "2026-11-12",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "566e95efbcc3",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "atlaspublico.com.br",
+  "titulo": "Comissão da Câmara aprova política de saúde mental para vítimas de desastres climáticos, com piloto em três estados",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRno0SmtWUFRLN3ZXb2UxQ29UY3ZZZTYtVXZQWTQwTEp2cFNMaTFnN0NaZ1U0SXk4NmZWWW5XSVF5WGVkSktqa3U2ZnpxdFpDamRSc0JNY1Q3UXA1QXZxeHB2M3ZPX0oxdVlrTFp5UmVRQmhFTVFnOTVoZWZfMUw4ei1PMzJMVk12TVN6bzZWMWpHVGxuQnhpVHlMQ19Nc19pVm1pSFgtb2ZVQQ?oc=5",
+  "clave": "aprova camara climaticos comissao desastres estados piloto politica",
+  "capturado": "2026-11-12",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "acab29526815",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "atlaspublico.com.br",
+  "titulo": "Comissão de Saúde aprova substitutivo com diretrizes para saúde mental em regiões de baixa cobertura no SUS",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaWgyd2d0S1VpenphLVpuN1dRWGZKWGFMU0JiZC02Z2xiVjlXazZ5dGZPbGs2djVFbUp3RjFISUlITmNSTlBCanZQMGVuOUlKRXd1djlJUTN4dURtVHdnMEJKTGE3eTlLOUE2Y0gtS29oRDQxRjBmZjUtMjRNZHVhOTd0NnNvZ1ptcERjQ3N5VFZkSzVrdjVWaVBGZ0Y0V3FOVFlBVVp4RVoxOTBH?oc=5",
+  "clave": "aprova baixa cobertura comissao diretrizes regioes substitutivo",
+  "capturado": "2026-11-12",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -97,6 +517,44 @@
   "ruido": []
  },
  {
+  "id": "36be8663dadb",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Arica al día",
+  "titulo": "Gobernador regional impulsa proyecto de $3.230 millones para duplicar la atención de salud mental en Arica",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRWdwVVlFOHVUTmsxYWlJQ0ZRWDJQLV83M3BaazBObWdlTU92YW9XVEt2RWlUOXJtc1JvejRpX3hXaDA0VkdhOEM5TjRNTWVZRUFCMDZDdml5RmwtcHZvQzFhaTJiSDI3ZkM2MVhYRDJIMVRuNm95VjR0c2ROUk4zNEVmeWsybUp1MHZPQ2tsQUpldmtKamN6WUhXaGhRdnJobEZERlNLWm9BZ3o1T3pzbkIxVVhxdmdlWmJMcHJ6Q3liR2NsOXh2Uzl3bw?oc=5",
+  "clave": "arica atencion duplicar gobernador impulsa millones proyecto regional",
+  "capturado": "2026-11-12",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9c80b3976949",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Cuiabá",
+  "titulo": "Exposição reúne mais de 50 obras produzidas por usuários dos CAPS e está aberta ao público em Cuiabá",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMFhiaXVaWDNxREVsMy1FWURTbUtZc2xmYzVzYWhyd0h3WFV1QlhrSHAxcF8xN18yT1BBSjVEcWFkZEpLVVdiVnd1X2s2VkxEQ0poR3JYSmxkMWtISWd5eE50cS1LZEd6bHMtQnVNd2NCMi1CdS1OQ1RIblp6ekxLZkVCVlBPTzFScldZUncteUZXYzVqOWRsQ3FwaDhOWUc4RjBQV3ktekFpUWJZTnByQ1RIYkhTRVN1WWphanFoSERnU091RjJTeU9PcUxyTEhfQUU4bg?oc=5",
+  "clave": "aberta caps cuiaba esta exposicao mais obras produzidas",
+  "capturado": "2026-11-12",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "caps "
+  ],
+  "ruido": []
+ },
+ {
   "id": "7b50eaac29b3",
   "fecha": "2026-11-11",
   "carpeta": "01 ESPAÑA",
@@ -155,6 +613,44 @@
   "ruido": []
  },
  {
+  "id": "80782bb87981",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "GN Noticias",
+  "titulo": "Salud mental y políticas públicas: la necesidad de respuestas integrales y urgentes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnVMSzN0SHIzNFFSWjgzRW5nbDVCQ0VGcmdQQUR3OGowQXVCWWJCYm01VDVYZG4yWDVCNzZOcXF6NnFUdWpBcEhyd3RocHo4YVVSeENFeVp3eHVWcEthSUxGQkZBanJCWWltUjQ0WUtPTi1GeEtkdlJQMDg0UVJWOEt1OTUtaXVBd29EWG1NRUpwb3lpVzdmRmpfd2tfWGlEMGNlLUJoWFIyUUtzeXFrVFRtRDJoSXF3?oc=5",
+  "clave": "integrales necesidad politicas publicas respuestas urgentes",
+  "capturado": "2026-11-12",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "19aa81e7fe5d",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Maricá",
+  "titulo": "Maricá promove ações de inclusão e integração social na rede municipal de saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzYtZEQ0V2dqTWlYNFQxZU5TUmtmTHMyMlFEUEVDek85bVdkUUdxUnJlbmNiWDBxQkxMS080dnpCZF93YnlYX0doNTRHaEhZQW8wRW4yRjE2eUloZzRyTWlZRDR3d3FUR2puc1Y5ODlHeVJ3NEJJRm5yWjc4VWktM1lPNGNKNkc1RFRvQ3JDekNkbkZVM1M1RE92cW42RWtvTGg0Um9FY2JsNXVNR2xZem94cnlHcDVOLUIyaGJweHF0QQ?oc=5",
+  "clave": "acoes inclusao integracao marica municipal promove rede social",
+  "capturado": "2026-11-12",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "2074fc01ee29",
   "fecha": "2026-11-11",
   "carpeta": "01 ESPAÑA",
@@ -173,6 +669,27 @@
   ],
   "ruido": [
    "dia mundial"
+  ]
+ },
+ {
+  "id": "d6584f5843e5",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Porto Velho",
+  "titulo": "Campanha amplia debate sobre saúde mental e incentiva homens a cuidar de si",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DSU1kb3RDN25DdEJiaVZ5VGZUUmc3Wm5uZWZ1eWM1NDgzbkJjX3NOem1malAwdzlqRF9UOVY4bjZjdDR1bmZOUG1wdDYzTTNYRTd4LXNpeE5pRG1JbjVlWg?oc=5",
+  "clave": "amplia campanha cuidar debate homens incentiva",
+  "capturado": "2026-11-12",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "campanha"
   ]
  },
  {
@@ -35952,250 +36469,6 @@
   "ruido": [
    "selena gomez",
    "cantante"
-  ]
- },
- {
-  "id": "411a875c231c",
-  "fecha": "2026-08-13",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Você RH",
-  "titulo": "3 meses da NR-1: cuidar das pessoas é o melhor investimento que uma empresa pode fazer",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMl9LSFdJdXFWcXZjQ1M1d2tQZDBwSXZHbXJ1LVZnVnFXUldBblhQZlFlSXdoN2FqQUJXUk5RRWJoVURrWGFSa3ZFUGtkUTZGZUpydkJWQ05kXzRKeEx2ZzhhQl83N25pbENlMWc4MnJ0b0tzT3Y2Yjl2cHY1bkplQlowRWgtRkVwT1ljLXBYZHJCUlVSTnhaTkRCdG5OcUNxUUtreVRXblNmMnBJWmY0UjVFQUd1eDlEWFMxT2pYZjNBa1VzN0E?oc=5",
-  "clave": "cuidar empresa fazer investimento melhor meses pessoas pode",
-  "capturado": "2026-09-07",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "7c6829989fd5",
-  "fecha": "2026-08-13",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Portal da Câmara dos Deputados",
-  "titulo": "Comissão aprova capacitação em saúde mental no SUS",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWnlsZDRMY2lPaWJtel9ubHdLakFQQmVJbzZhblJubFpGM2UyMFl5cFBSd0trcG80VzZVWlBsMloyV3NWLWZMeUJ4V0RyLXYyaThmNGw5NGVwejVOaU9fSk1HdW93dGFRN01UNjlqeUFSYWp2ZFR4UjFHdS1YUzF5RE9IUHZuUnhQa1RWZlRlRjg5M0ZJa3M2aw?oc=5",
-  "clave": "aprova capacitacao comissao",
-  "capturado": "2026-09-10",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "d76224ca85ce",
-  "fecha": "2026-08-13",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Diário do Nordeste",
-  "titulo": "Como o investimento em saúde mental gera retorno para as empresas",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNW9Oc1JycnpPM0xiWnVpV3JDTFVadWVqTGk0eW9kRi0yZms2NUVISkd5OHVxRm1NRmJFVVJ0NUc2TklPMVB3RnhJU2dUNXVhS0dLZ0kwYzVLQWlsemdPZlRlNkRKVzAtMXowek9wQ0Q3V1haT3MwOVlZWVVYc3g0SVVUbW1kcUp4ek5YQWtTMnNOMEtsaGZDUEQ2eWhnZlVpWUpiU2puMW04NjM5NXU3elBwQkFMQ2FSY1hhTnBTLXNNSUFEODlz?oc=5",
-  "clave": "empresas gera investimento retorno",
-  "capturado": "2026-09-04",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "1c78d2eeb31a",
-  "fecha": "2026-08-13",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "Quién",
-  "titulo": "Selena Gomez y su mamá son demandadas por presunto fraude relacionado con su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYVlBSUlyemFDQkpGb2QwLTVjel8zUmVpdU10YUZ3b1RibmFzYS1xQ2IxX1B0cG1CUno0bVhiOGhwNVFPSlhqVy1XekpJUm9kNWRRM2tEaGJCV1BtbzNfN3Vhcm9FM3JkYWIwc1EydlMyZkVrbGExWmVSOF9YYTNXc2h5M1VYRldDQUVVb1pHaWMtenpjcUxnNXo0dWFSYjI5Um5ReTVKSVhPXzQ4ZFBPVmducW12ek5ObXFqblFDRzdIazRZbTQ4a3phWXVUTEI4WVJEeDhxSUxsc3VKaGtj0gHsAUFVX3lxTE5PMGN6NnVEYUtFX3pkLXAyWnRxMnRuQ0tUMlFNR0g5dVh5VXdmazVNTjZodG9ISzFUeEoyYS1RWms1bjBRbnQxOFhNTTZtMmptT3dGTTlTNUJXZlhucU9jUVVZTVBmUDkwaWl3SGJhUFdWc3gyMG1xdkdLX0NrTkhJYU83aFpHRWRKTmVSRnloV2JqMVY3TENRS0djaFI0ZlBsQ2N5NlIzdzMwb2NMaHBZTmRZVnBUS096bldrZmtQRHM0OWZVN3ZQSnRjaG9kR0EwSDhSN0ZtVmlKME1JMnQzbzBBY2dsNUp4S1hX?oc=5",
-  "clave": "demandadas fraude gomez mama presunto relacionado selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "549fb2d2b59b",
-  "fecha": "2026-08-13",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "RFI",
-  "titulo": "Salud y bienestar - Mentina: Una aplicación de salud mental segura y libre de IA",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUk9EVkFEOEo5eHdoSm42NG1mSTlzSjZUNHo2RXpsN3pIbzVsRUQzc1ZpM2Y3ejVza3BRb3pnTG4za2NubWktUHYtSnJYck9aemNHTFlWenNhZlhVa0o5R3BsSW56bG95Q25IMHNETWVzc2xuR2JISjBZc01kTmRMbndqVy1hRWJoVElDN2E4SUFPREF6bjFBWGw1c1UycEhoeGI2d29vQlZmRWRpRXdEdDc3NE1QbjlYQXRURWpEVTE?oc=5",
-  "clave": "aplicacion bienestar libre mentina segura",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "165302b1ad3d",
-  "fecha": "2026-08-13",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "Diario Financiero",
-  "titulo": "Inversionistas acusan a Selena Gomez de fraude sobre una startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbS1henpGOEczT0NnWG56S21DSlFlRThzeVV5aklwazFtS0Zpbzc2UGVKTjAxamdBQ05tcDU5R3A0MXgzaWxLRjFQZFVNV1JqN01reUc1bWNWa0N3bXpvdXZOSm9OTC1reGx2WkFwY0RXckZrdFo5U1NGcXB5TDRIMFVObEZPWk1LaDVNTWpkU3E3cXF4R3ZfUmNqVU5VaU16Snk4cUtfMA?oc=5",
-  "clave": "acusan fraude gomez inversionistas selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "d7f6ce0bb95d",
-  "fecha": "2026-08-13",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "Cadena 3 Argentina",
-  "titulo": "Inversores demandan a Selena Gomez por fraude en su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3dFTS1rV01EcE42TVNhZ01xTWhmMVphN2xFREJ2TkJuRzY1X2xHaXFpUGdOMnJIckJ3Sm5pSzF5amJlUGYzcXJVMUp5THVwMm5ZY0diT1dremVtV3I4eWk2dUt6NVM0U2VEZ1Y3TzBHRUYyblJfVUZkWUpuN0tseHVyTi1JVERJcHplQ0lpc0p2aGVZZWtWbklFcTRkdFl4R2FiLVN4RS1CRGhJYy1fQ2hKOUxPSHdzZThSRjlLblVxLXfSAcgBQVVfeXFMTVdyV2gxX0lGSWhLYWhuYnNvTjFrNXZGYmIxTVItMXFoWnl3dmYwNWxKMFJHbWR3Y3Z4RnJDZnZRbUZvR3gtVVB5SWhFRVRmcUwzc1l2OFZqZ2RJZ0pMSzNSek9Zb2pUV0RMQ0tENTlmMkpxdHpwanh5LUNFRHN3WlZXazB5bFIwb3hRYzNGVEdfcGpoMXNfS1BTX0FlM2FNbks3U3BwLVpPZS13LUd6b1g3WVdlTkc2WFZOLTU3ZjZyTzZXOXRJV2c?oc=5",
-  "clave": "demandan fraude gomez inversores selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "c526f90cc3dd",
-  "fecha": "2026-08-13",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "exame.com",
-  "titulo": "Selena Gomez é acusada de fraude por investidores de startup de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLXZVMzAweWMwOVFPck1MNndYaHB2azloSzZ2eTA4OTNDUXhFdTVOZTlyWS14M0N5ODM1d1ljNEVVWUZWclRWcGZGZVlYSUplSDIzOXVfN0pCUFNJbmp5Ym14aG42TUhMWV9BOG1RbXlyaGQ4LUtKRGVUNHJ3LVd4SGZvaHYyQTE1ZlJ5TU1HaHFwN2NKSXZEQ0pSNVhLNFZs?oc=5",
-  "clave": "acusada fraude gomez investidores selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "258cf4d9952f",
-  "fecha": "2026-08-13",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Bloomberg Línea",
-  "titulo": "Selena Gómez enfrenta demanda por fraude tras el colapso de su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemtDRGpBdXVYcWVVcy1GTjJ0WVpnMXBVUkEwSnBhMDdoVV9HSC05ZC15NjdOSkdhY0NxOXRPS2N4M19lYlNzQWFTM0dSbUk1N2hEMS14aV91bW5pcVZhdEdMejZjdmNNZ2pfU2JaQTBfTTl2MkJSak9GTHE4WGhWeTFUTjhxeUtldmRTNEhDRmdIVmRTUjI0RGlvTE9vS2pzSEZXUklGT1N5Z2VpVUJYcFRQcjBRb0xHeHpJZldqQkpESXgzT1lMMXVPUThvTS11Tkt0azJB0gHqAUFVX3lxTE9DM0UtclpSeVZLUS03OWZvTVV6dzNuUzVvbWtaTlZHcVJ6Yk9uNEZ3YWZ5X0dma2pyX1U0Ty12LTA3UnFaLTlNMTZrS2xfNzhDYmQ0a18tbllOVjQtNmhjN3c4NVY2QmNQcWEyUDY3MjljWTA4Q01JOE90bmg4VVZ4QlA4N3EwVzdOSlBaZk5wbXRYZjBFVVVrSk5VengyMm5jTTRpZWE2aVNKZGdzZzlpNVdDM1h0RWVMZDBUSTJmV3NtQ0pHMXFTUzV3VVk1UU9iYzdzWVVGdkRjUE1XcTJnRFFOVUpkUktZZw?oc=5",
-  "clave": "colapso demanda enfrenta fraude gomez selena startup tras",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "a34ee2cd2db6",
-  "fecha": "2026-08-13",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "ExpokNews",
-  "titulo": "Selena Gomez, bajo la lupa: la demandan por presunto fraude en una startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZWh1QUtLV0RQX0d0OGVhZmZfXzVEcEtxZTV1VlV3cmhXM3dfWlJjNTZUYXJ5SXZaWm1oOG10blhuRFV0clRiWEFpMGt5bHRxQTZ2cWhYaTIyYVBGRVBkRjdXdnZHWEx3cW9lQjM5SE53U2dpRlJBZVMxSG5JY284aUk2VE9VNWJVbXlOTTdDRQ?oc=5",
-  "clave": "bajo demandan fraude gomez lupa presunto selena startup",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "baff7e06ea2f",
-  "fecha": "2026-08-13",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Excélsior",
-  "titulo": "Selena Gomez y su madre son demandadas por presunto fraude en startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa2UtbUk2R09XMHVoajZYVmVmbGRPNHNqSHdWaEZVeVo3em5SSXd4czJieGFoajVwQTR5OVdoamV0MndvSXdGdGNsaVVhWVE5QzRJMXYxck92RjBySk42NEVUTnBaZi1lUk9FNlpleUVWYlh1OHkwekFHQ1FyN3dnTnNSOXhpYzZLWVFKb3dCcG1wYVZFaVNidGV6a3BZbmgyaHJtQlI0ZTZOUVFsNVZMZ2Fmb1NSLWs0VXfSAb8BQVVfeXFMTWRZNnRqbUlLTHhMTzVwTktvWmVxNi16bGJmTzJCdkVyLUxObUMzYnFfRU9BZS04ZnllTER0ODNwQjNkY3E4bk9DSE9YTm94ODdYVjR1d3l2dFlyUGM2bzdfaXVWbWJEaDVyYnoxVVZ0ajI3WWk3SDNDS2szQjVKOG41eDhOLWkzVWVvVDM4cEdxR1JrVWZ2Q1QzdHdYdDZqTE5qWmVvdGFyY2gzRmtnVnYyQV9wWWNOVTdSTWxhZWc?oc=5",
-  "clave": "demandadas fraude gomez madre presunto selena startup",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "4e9de50800ed",
-  "fecha": "2026-08-13",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "ncnews.com.br",
-  "titulo": "Selena Gomez é processada após investimento milionário em empresa de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdU1TeTJqTFltLVBNc0JQZmpPX1NpQjdnUVhMVGVYbmJpR000eEpiWERHeHVldFE5MEptaUZZVHl1Yy1XaElFclJSX0pqSFF6WUFQOXB3bXlUQUZja3pNLUk4UXh4SDFxeVpOTmUtWnVvUmtKVjAtYjUtSXhVZ3hyekxqUUtJZXo0dEhtdTdNRTBLWFQxel9SMmZkdC1lQTNKMFFGNk5sOE1Ra0drQ1BUaGVFVVRJZw?oc=5",
-  "clave": "apos empresa gomez investimento milionario processada selena",
-  "capturado": "2026-11-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
   ]
  }
 ]
