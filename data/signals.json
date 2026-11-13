@@ -1,5 +1,203 @@
 [
  {
+  "id": "ae40ae6fb068",
+  "fecha": "2026-11-13",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción médica - Home",
+  "medio": "Redacción médica - Home",
+  "titulo": "El número de inscritos provisionales para el examen PIR 2027 cae ligeramente",
+  "resumen": "casi 4.000 psicologos competiran el proximo 23 de enero por una de las 293 vacantes ofertadas y ademas: examen mir 2027: sanidad prorroga hasta 2028 a las empresas de la ultima y \"polemica\" prueba",
+  "url": "https://www.redaccionmedica.com/formacion/fse/20261113/el-numero-de-inscritos-provisionales-para-el-examen-pir-cae-ligeramente/365110_0.html",
+  "clave": "2027 examen inscritos ligeramente numero provisionales",
+  "capturado": "2026-11-13",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bf2fc3c2fc71",
+  "fecha": "2026-11-13",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Aumentan las prescripciones pediátricas de psicofármacos: ¿están bien indicados?",
+  "resumen": "psiquiatria mariasanchezmonge congreso nacional de psiquiatria las indicaciones pediatricas mas recientes de psicofarmacos son eficaces y seguras, aunque en depresion y en el trastorno obsesivo-compulsivo (toc) funcionan sobre todo en combinacion con la terapia cognitivo-conductual. la revision del nino sano que realiza el pediatra es una oportunidad para valorar la situacion e indicar la derivaci",
+  "url": "https://www.diariomedico.com/medicina/psiquiatria/aumentan-prescripciones-pediatricas-psicofarmacos-estan-indicados.html",
+  "clave": "aumentan bien estan indicados pediatricas prescripciones psicofarmacos",
+  "capturado": "2026-11-13",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psiquiatr",
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4c29b1cd8ae6",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "ConSalud",
+  "titulo": "29-N: Podemos y ERC proponen blindar la sanidad pública y ampliar la cobertura en salud mental, visual y bucodental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeGIzektBT0U4N0Jpbkl1Y1pYTjdNUzRzYmk1MEYzMjJzSi0ySUhrT1RhbV9hX1VEM3UzeFJXM3NwZXAxRmpmM0NGam9MQXFrNHNNRE14SGYyQXJBZ2N0N042NmpLU1lfY0J2enhnUEJycDNjYm5fcVRoS2NSS0M4THRCVTdkaTdkQmxfbXlWc2tpUVpRR2lzaExfVlUwdy1EcEpjN1NUVVJheXNrZkVaa3I2S0hOaEdxSklsRHdYSjczU3hZaXYxVzV3SnVadTdDZnA1V3c2NzJ5bmhm?oc=5",
+  "clave": "ampliar blindar bucodental cobertura podemos proponen publica sanidad",
+  "capturado": "2026-11-13",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "26736a6a8b65",
+  "fecha": "2026-11-13",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Desarrollan una nueva estrategia terapéutica contra el cáncer con resultados prometedores",
+  "resumen": "investigadores de la universidad de michigan (estados unidos) han desarrollado una nueva estrategia terapeutica contra el cancer que modifica las interacciones de las proteinas para mejorar la eficacia y reducir los posibles efectos secundarios, tal y como se recoge en 'nature'.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-desarrollan-nueva-estrategia-terapeutica-contra-cancer-resultados-prometedores-20261113081150.html",
+  "clave": "cancer desarrollan estrategia nueva prometedores resultados terapeutica",
+  "capturado": "2026-11-13",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "24da572b28ca",
+  "fecha": "2026-11-13",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Javier de Castro, presidente de la SEOM: la desescalada gana peso en oncología",
+  "resumen": "oncologia raquelserrano esmo 2026 acaba de terminar el congreso de los oncologos europeos (esmo 2026) que se ha celebrado en madrid. la presentacion de vacunas personalizadas de arn mensajero, la irrupcion completa de anticuerpos conjugados con farmacos (adc) asi como de biespecificos y triespecificos, de nuevas combinaciones terapeuticas y biomarcadores, son \"innovaciones terapeuticas clarisimas ",
+  "url": "https://www.diariomedico.com/medicina/oncologia/javier-castro-presidente-seom-desescalada-gana-peso-oncologia.html",
+  "clave": "castro desescalada gana javier oncologia peso presidente seom",
+  "capturado": "2026-11-13",
+  "puntos": 1,
+  "prioridad": "C",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": [
+   "congreso de"
+  ]
+ },
+ {
+  "id": "5ffea04b5c96",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Assembleia Legislativa do Estado de Mato Grosso",
+  "titulo": "CST vai cobrar recursos para ampliar atendimento e reduzir filas da saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR1cxamEzZkpOMjdUQ1IyTUtOOE5reGlkQWdwS2RFYl9iek5Nd05QSVFVMjBiZU9oaHlSdEFpa215ZGt0c3MzcnNWMU9feXJrQXlkSXF1SldSakh0NlNoaUpXdUJzUUJyZ25tQVhCcTYyT2pMd01wQXktUkRWaE85SEdXRmhCdjZuWG81RnRFTW1NSFFGQmVZTU1ueFc3cllFT29kZjVHdnpkOWhrNXVXVXNfSVNNNUJHdExubXU2anZPdWVfWEVV?oc=5",
+  "clave": "ampliar atendimento cobrar filas recursos reduzir",
+  "capturado": "2026-11-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "32613f533cd1",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "RO Acontece",
+  "titulo": "Agora é Lei: Política estadual associa saúde mental masculina à prevenção da violência contra a mulher",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSm5wcXFvX1FGUF92Y0ZRRENpWE9kSG1YTHdtaDdxaXRCS2N2QzJvcXYtOU9FYV8wc1BiRXdRSGlFNkgxNFdnN3AyMzV2UzlGYlJzeFM0UTFhOHhMMnhYS2dUZUZNRjNJWHJITkhLNVJQUG14RTFMVWFmVm5fODRVaHpXeElrMHk4MXlacDduWl9keEdwUmc0QlR2RnlBZEN3YWxvd092eWRaVWZFQV9XMVV5SFpEMGRWQjRMNUVBZDE5NUF1R3BlZ1dwS1pTT1M3RTJPSGF3?oc=5",
+  "clave": "agora associa estadual masculina mulher politica prevencao violencia",
+  "capturado": "2026-11-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b75bd687fe61",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Urban Acres",
+  "titulo": "Child Mental Health Gets BRICS Push at AIIMS Delhi Conference",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0hoaW82NGNjaUYyY205bEVyXzlQa1RVUUhxSV9xYlBEYzVLamZXWFIyR1dDc3BZanI0dTZqc1NvVkpqcjA5QU11Vmw1ZFdEellQdTBFREhZSEd1NmxKdmhWTlAtUzdaa2swUDE1eXNsMTlrM3BGemk2VFQtckczVWZDQW9Hbl9BdjVmVg?oc=5",
+  "clave": "aiims brics child conference delhi gets push",
+  "capturado": "2026-11-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ed32e586c36b",
+  "fecha": "2026-11-13",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Internamiento psiquiátrico involuntario: la situación paradójica en España",
+  "resumen": "opinion saradomingo tribuna el 23 de octubre de 2026 entro en vigor la ley 4/2026 que modifica, y amplia, algunos derechos de las personas discapacidad. como suele ocurrir con este tipo de leyes el respaldo de los diferentes grupos parlamentarios fue muy amplio, ya que ningun partido se atreve a cuestionar que se amplien los derechos de nadie. esta nueva norma ha causado gran inquietud en los prof",
+  "url": "https://www.diariomedico.com/medicina/opinion/internamiento-psiquiatrico-involuntario-situacion-paradojica-espana.html",
+  "clave": "espana internamiento involuntario paradojica psiquiatrico situacion",
+  "capturado": "2026-11-13",
+  "puntos": -2,
+  "prioridad": "C",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": [
+   "opinion",
+   "tribuna"
+  ]
+ },
+ {
+  "id": "0009ff56061f",
+  "fecha": "2026-11-13",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Gaceta Médica",
+  "medio": "Gaceta Médica",
+  "titulo": "Los temas sanitarios presentes en la entrevista a Feijóo de Jordi Wild",
+  "resumen": "el presidente del partido popular aborda las bajas laborales por enfermedad, plantea garantizar el 100% del salario a los pacientes con patologias graves y defiende la necesidad de un plan de salud mental the post los temas sanitarios presentes en la entrevista a feijoo de jordi wild appeared first on gaceta medica .",
+  "url": "https://gacetamedica.com/politica/elecciones-29n-temas-sanitarios-entrevista-feijoo-jordi-wild/",
+  "clave": "entrevista feijoo jordi presentes sanitarios temas wild",
+  "capturado": "2026-11-13",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "entrevista"
+  ]
+ },
+ {
   "id": "d2000705623d",
   "fecha": "2026-11-12",
   "carpeta": "05 GOOGLE NEWS",
@@ -12,6 +210,25 @@
   "capturado": "2026-11-12",
   "puntos": 8,
   "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "47f77cd3c0ec",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infosalus",
+  "titulo": "Sanidad destaca la inclusión de su modelo de Salud Mental en Emergencias en informe europeo de cambio climático de OMS",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd3BTcjNUeVNjWkMxdW5RNHdhVUJRSGI5YlBFaTM0bDVaNmJSM1M5TXh6cFF4ajY5YXdlbzhvU1dib243ZHl3WHJYdTFVZzRtaDZIY0t2bVA5NFFBVmhQSi1sZ2JzMHJtdVBPZ3ExX1NQOG5jdi1vSlA2UlJ4VmJJeDdnVkdOaHBqaFBZcnFyM3lxRTdreTFlMWVldm1hNmJ1WDE1WU1DY0pRZGV4S3RwTzNrLUhIc1dYVTVzYTYyQ2xOR1M5UTF3c1E2cFBJSkZtamhkcEYwWkY3ZWlsdUNEaGJnc1Iyb1N1cTNxR0hXeFk?oc=5",
+  "clave": "cambio climatico destaca emergencias europeo inclusion informe modelo",
+  "capturado": "2026-11-13",
+  "puntos": 5,
+  "prioridad": "B",
   "categoria_auto": "research",
   "topic": [
    "salud mental"
@@ -108,6 +325,122 @@
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "deal",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "45b0294dd141",
+  "fecha": "2026-11-12",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP defende fortalecimento da política de saúde mental e do cuidado em liberdade no CNS",
+  "resumen": "a conselheira-secretaria do conselho federal de psicologia (cfp) e conselheira nacional de saude, ana carolina freire lopes, defendeu o fortalecimento da rede de atencao psicossocial (raps), do cuidado em liberdade e do financiamento da saude mental durante a 383ª reuniao … o post cfp defende fortalecimento da politica de saude mental e do cuidado em liberdade no cns apareceu primeiro em conselho ",
+  "url": "https://site.cfp.org.br/cfp-defende-fortalecimento-da-politica-de-saude-mental-e-do-cuidado-em-liberdade-no-cns/",
+  "clave": "cuidado defende fortalecimento liberdade politica",
+  "capturado": "2026-11-13",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e3ed32535b9e",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Cadena SER",
+  "titulo": "Casi la mitad de afectados por la DANA de 2024 presentaba malestar psicológico 18 meses después, según Sanidad",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbC1KRFo1aVB6ZTVsNzNJU0l3MXU4WlhDSUFaaVZJdW8yc2V2YjZndm10b0xqNjVRLWVqaEJhbUdMYUdxOE9iRlA5ZGFJQ05BTUtPTzZleDR2N09sbHpaa3JfT29kU01lZUc5NllXcVRKYUNaVk50LU5EV2dRejlFV3pjejBJajZabUZOYnM1ZzRXemJQMFZvVUROS2xnbFFkSEo3ZXpKYUtnOEJocERacTgzOFl5ZXlaRjNadW96QlFkcERmRjBLaXJvbUthRUlNa0wtUFBTWWRmMml1c2E3UG1DSWoxTm1SbnlUOTU4ZDVtUERCZ3FjSlQzbHRGYTR0RDRjSy13ZEVTR1nSAZ8CQVVfeXFMTm1WQXJrXzlWX1FoTGUxTEFreENWUkVSOUhFODV5ZFZKWXBvTmt0WGN3UGJoNVlIX1ZQdkdNNVdaUklsejZGWkw5VXVsMGNIOUhxc1M0eFFWVXVwTmZkbmFKaUU2cWZDYk9QaHo5emN1T3J5bHNBVGhULW9MbnY1ajBmMnpPYlBxZG5KZWptY2ItMkd1NlNPc2RfeWJ0dkFWSktOWFMxeS1yZElVUXRpT2pBa05Ga0JuLWVwYkpTVldqUFBaNjZyVFp4SVFGaDJ1TklfLXYxSjFEWjlTUVpCcEE2M0oyUmZ4aU9PMXdNTURoMy12VG5BNEs5Qkw3Y3V2TDgzREEtd2hoSTFCMU5KZGV2d3Y2bGEyajkzSkt1VDQ?oc=5",
+  "clave": "2024 afectados casi dana despues malestar meses mitad",
+  "capturado": "2026-11-13",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9b5c537d888e",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "LU9 | Mar del Plata",
+  "titulo": "Mar del Plata alberga el Congreso Internacional de Psiquiatria y Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFF5WnB4cVV2RlBhMFltdktETlZmVW9Vbi00T3d5Wl9QRXNmQWk1Y3R4M1VtenVyU3pPU1hvV3Zyc2w3cVZDM2kyUHpsSmp1RzJXd2t0NUtaVjNZV1ZXdF85ZkVMa1lRTzZ1eDMxUjlqU1V5Y0s3MnJsYjhJOXZwMFBEMDVjMUFYR3RSdFJEZ0ltZ184Q0tpTWxzR3JvLUNhX19HLXYwMC1USlctQ2RfRA?oc=5",
+  "clave": "alberga congreso internacional plata psiquiatria",
+  "capturado": "2026-11-13",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8223412d2099",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP defende fortalecimento da política de saúde mental e do cuidado em liberdade no CNS",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUG9YWTI0eGdPMk9sTnFhSjJndWRZMlV0aFJSZGdmTTFycVZ3SHc5eURPSEVOVVBFT0R6ZGwxdTQ5YmNTaXFrc2oyTWhYdDZPVF9uVURJTDdSdHFtYVNOdUpRNUdLbm9hSDAtbDdJSllYQzFpcHhleFBUQTc1ek1aaVM4UUNLSUNZTGN0U2FaVVd0ZjRYWEVBUkFIZjdRM0dIX3lSSmNXS2ZJMWdxcTk0czR3?oc=5",
+  "clave": "cuidado defende fortalecimento liberdade politica",
+  "capturado": "2026-11-13",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fd901d87e34c",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Gaceta Médica",
+  "titulo": "La OMS incluye el modelo español de Unidades de Salud Mental en Emergencias en su informe europeo sobre cambio climático",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcEhVMlpuZVFUZXRWRkt4T19SbkVGMWtYVF92ZWtLRm9MNFNFM0ZUSk91cWcwblBuRHZKTENKLThpWUN4Q05GWVlQS19YR2pncl9OdExJUHg5bUtXN0F1MV9ITk9ST2I4eE9XWXVTcElDdkRXY2ZIdjVCLU1JSXZ0VE5HZEVmdUlteHZGRg?oc=5",
+  "clave": "cambio climatico emergencias espanol europeo incluye informe modelo",
+  "capturado": "2026-11-13",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b111b134fe45",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "www.gov.br",
+  "titulo": "Pesquisa inédita identifica fatores que afetam saúde mental e qualidade de vida no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY19jZEJXZGlYX2dKRzRCdmg4RDQ4dGc5ejFjNC1RVXdNMkxJeHN6MU5fUjhyY19udzJxd2tBUkUydXhTbjhmRzB5ejNHQ3RyWGhsZFh1cnViNmpvVTM2LTZtaWlRYVZ6QkxZOHloUTRIQkVDTmRraENHM3lnTGVVQjhDRmNBR0JqOUdSdEpNdWpHNGNoYktJcnpOSjcxeEdvQVFFTEhlcWs5SHhkVTE4Y2loTXE0ekd1VEFpQnlKeFpLOUhoNHVVcmhkSGM4WDNLbEpfeA?oc=5",
+  "clave": "afetam fatores identifica inedita pesquisa qualidade trabalho vida",
+  "capturado": "2026-11-13",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
   "topic": [
    "saude mental"
   ],
@@ -283,6 +616,124 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "403bdca10a1f",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Canal 9 Bío Bío Televisión",
+  "titulo": "Fundación Familia Feliz ofrece telemedicina en salud mental a todo el país",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaFQ2U1pqR1Y1aGJ3SkdPamgwMjZsdFNDRm9vVjNhWS02NjV6MEtNczhvbkY1M0V4a2FKYnFsQXQ1ZG1VSl96QTFNT3ZBVU54Z0QtLThxa3F2a2dLUUE5Vm80Q1NmRTNodWJsR1ZIZVhaN09oMng5TXJoLWM4T2lMZzQ4WDZxbG9reEMwb0F3LW9vM25EVERpSExkd1VJZ2xvSm5QQmVSLUlCenVtdUhqUkZYS2JSMGNtcE9aRzVUM3BXcng4ZXRNQ25R?oc=5",
+  "clave": "familia feliz fundacion ofrece pais telemedicina todo",
+  "capturado": "2026-11-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b1ef86b0ca3b",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Diario La Provincia San Juan",
+  "titulo": "Sabrina estudia Abogacía, creó una app para cuidar la salud mental en la minería y es la Emprendedora de Rivadavia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUl9mY2ZmcXV0enpwbFpNOE9MRmF4bDhUUHFPbzkzcFRJdnFUREdjTGRSM3JzazVoRDViUlhENDRJOHhIeUdKdkd2MC1seXZjcXhOTUI3VEh2U2JoZVJrd2E0VG5NVEFkUU5jR0tNM0taZnlyd0ZuMGRYRkpkNjh1dDNxZWhxX3JybS00LXFhQ0dzak42Y3lud3NlNnJ5aC1ZMWwyWGhLdjhOWTZMdHdIbUR1OWZZS090UXFYX1VYRVEwbzBzR3BMcVY0QlBnVEQ3WExybXdQRmdzR0xMUlh3RnZUSmludWxwZXN1R2FsVTFnbWhXVnR6RNIB-AFBVV95cUxQUl9mY2ZmcXV0enpwbFpNOE9MRmF4bDhUUHFPbzkzcFRJdnFUREdjTGRSM3JzazVoRDViUlhENDRJOHhIeUdKdkd2MC1seXZjcXhOTUI3VEh2U2JoZVJrd2E0VG5NVEFkUU5jR0tNM0taZnlyd0ZuMGRYRkpkNjh1dDNxZWhxX3JybS00LXFhQ0dzak42Y3lud3NlNnJ5aC1ZMWwyWGhLdjhOWTZMdHdIbUR1OWZZS090UXFYX1VYRVEwbzBzR3BMcVY0QlBnVEQ3WExybXdQRmdzR0xMUlh3RnZUSmludWxwZXN1R2FsVTFnbWhXVnR6RA?oc=5",
+  "clave": "abogacia creo cuidar emprendedora estudia mineria rivadavia sabrina",
+  "capturado": "2026-11-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1a213e3384b3",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Bayeux",
+  "titulo": "Bayeux inicia articulação entre serviços para fortalecer atendimento em saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObnp2ajJWMjN3Z1cyR2MwVzBiRG13RVBKWVZkbnZ4MFBubXgyT1JhUzJ4N1lubDV4YmVsVGpXd0hxVjJRV3hsS1J2amRib0ZYMUFwOUpvOW02WHdxVENpZTRQNllZWU9JemxLUy1MX3hHZ3lCd2lSZGdiRE5TeWg5Q1JqUEtVY1hEZ1hyOTRESnVFYUtuRjd6ZGxIdW44Z0Z0NkwzSm93elc0X016SGpQT1ZERFdfQXBLZ2c?oc=5",
+  "clave": "articulacao atendimento bayeux fortalecer inicia servicos",
+  "capturado": "2026-11-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "753bbbd18d82",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Polícia Penal do Paraná",
+  "titulo": "Polícia Penal do Paraná lança campanha permanente voltada à saúde mental e à qualidade de vida dos servidores",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNUlNYkg1Zl9SdU9wVG5KUnpCMWhPODdtMEVXVTdRWURaNTViMVU0RDVnRXFzYjdSbU0yNGhDOFV1NmFJOVdMQ2x2bnMxVUtsbk81MVUtNkZ4YXZKRE1jRk9HOHN5N2l6VWxiMWhfM2U1U1VGZ2FTcDJwTkpHMkZVclNnVlNqMURod3BwSFI0Zi1OWWRMR28wV0VRMnNQMm1sUVliZEdKWFJNbHBMS1lPLXhROGJKN2lKeWkwZE1tWFNMeWdYVHVlRzRNbDlzQQ?oc=5",
+  "clave": "campanha lanca parana penal permanente policia qualidade servidores",
+  "capturado": "2026-11-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "campanha"
+  ]
+ },
+ {
+  "id": "aec43035b3c5",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Polícia Penal do Paraná",
+  "titulo": "Polícia Penal do Paraná lança campanha permanente voltada à saúde mental e à qualidade de vida dos servidores",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVXprdjJIb0NDRWFTeHlWTjVPdzJnRGtJS3N5Z2F2eWM3SWxMM2lmbno2R2ltc1FDMWduQ1RzMWNUYk05RlBud2RsbG9hdmdGTlprdHZtSllWTlY2NHhQZUlUTENWeTBaSnVEbVBLbDN6c2NGel9WTERCdnZoTG5yZGVsdnB0VWVVMW55YUtlVC1RUEJZUHFjQW83eEVlcF9SbEdQZTAyLVpLN3VzWURVZGM3Zk1Jb01nUmw0aXFkakcyOVB1?oc=5",
+  "clave": "campanha lanca parana penal permanente policia qualidade servidores",
+  "capturado": "2026-11-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "campanha"
+  ]
+ },
+ {
+  "id": "3d45e1de6dee",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Bioengineer.org",
+  "titulo": "Shared Telepsychiatry Training Prepares Brazilian Residents for Indigenous Mental Health Care",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2R6SG5ZazBUNzRDb2hYUUhIenAwb3ptV0RPUXNxNlZ3UGotU3FkbzJ3MzQ1Y1AxWFpJbVBueFotaXBFSjFzQ2gtcFA2clphTkVVaG1iekFNdTdBT3Fjc0RKRDQtTUttVWhsdUdReGpORUQweDdaUTdPXzdsRG1hVlZTTUZDbEF5dTBnb1Fxb1o2WlhjaDZwLW1QTXhKRVZSTlpHNHI1SnVoZzE3NlRQaGE2QzJtMVdna0E?oc=5",
+  "clave": "brazilian care indigenous prepares residents shared telepsychiatry training",
+  "capturado": "2026-11-13",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -682,6 +1133,27 @@
   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DSU1kb3RDN25DdEJiaVZ5VGZUUmc3Wm5uZWZ1eWM1NDgzbkJjX3NOem1malAwdzlqRF9UOVY4bjZjdDR1bmZOUG1wdDYzTTNYRTd4LXNpeE5pRG1JbjVlWg?oc=5",
   "clave": "amplia campanha cuidar debate homens incentiva",
   "capturado": "2026-11-12",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "campanha"
+  ]
+ },
+ {
+  "id": "f4192fffa349",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Porto Velho",
+  "titulo": "Campanha amplia debate sobre saúde mental e incentiva homens a cuidar de si",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FdkdWYWgwMnY3aDU1V0xOS1BwRjZiMmxWek56ZzVMX0xTdjZwYjV5ektOWmtjcGxwRmVwQlVxNXpFbWpMb1lCbDRxRGpRd1l5U1k4dm1UVlpnSFk?oc=5",
+  "clave": "amplia campanha cuidar debate homens incentiva",
+  "capturado": "2026-11-13",
   "puntos": -3,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -35817,658 +36289,6 @@
   ],
   "ruido": [
    "selena gomez"
-  ]
- },
- {
-  "id": "3e0c9bf782ae",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "CNN Brasil",
-  "titulo": "NR-1: Com nova regras, trabalhador terá proteção à saúde mental no trabalho",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkRkU3VSM0tsa0pCME9ScXhMU1kwZEl4WWVPeVVQdUtYalRoLUx0TjlXZHJNYzRVWFVNWFUzcTlKUFBlekpmalBZRFBMLVMyWFdDVEx4MU96SEFMRWNTY0RhalAyR0pTX0hOQXFTVHlzZHY3S0ZjMzVYYjVkRGVVamdEWUhYUTIwSXoyTXpwalFKUTFVNGxjWmFqNU4zUkcyVENWeHdadHNRMWFjZ1hucFNSclNPb0xmRUJUdGx6UnpjTHF3U1E?oc=5",
-  "clave": "nova protecao regras tera trabalhador trabalho",
-  "capturado": "2026-09-19",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "ca8576acf23d",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "FM Mundo",
-  "titulo": "Cinco inversores acusan a Selena Gomez de fraude con Startup de salud mental que cofundó en 2021",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1ZQSDhzTmN3Y0RKMU5uT1BIMl91REtISURsVk50TFlXeF8tTnltWnBqWXp6Y2lNUWlUdmtxMmZCV21fTlF1eWlTei1FaWE3VDRPUjhaczBPUkx3M0J4d2ZoZGRxU1ZPV2ZqdEN4UzlVVTVwVVdwR0pCLUFESWxLVUM4MEdqMU1wVEVUcWozZU90TlBFZVRWbldBWkdBQ2FmdGV6dk9nekI2bS14UkxlOHkwSUxORUoy0gG-AUFVX3lxTE45UFByRFhEcEpOLU11Sk9hOUdpQWFLS2N2MzUtYTZObGhoc2YyUU1XR1FFNmlIbDB0WHA1SzBHTGdaUlN4YmVNVmJtZEtWaHdtYnBFelREMHdCeUdjVnpEWmpNbFZPc01Ld3Y1cmlUdjd4OWRodXFsZlNkY1B3MUR3NWtTdEY5N3JRSGdsZG5sbUxORG12ZGZEdHhfU0VCcWVSOVNXcjdhbTlLdUZ5QXJNNVVab1prLVlUeVJUMEE?oc=5",
-  "clave": "2021 acusan cinco cofundo fraude gomez inversores selena",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "62bdc0359a4d",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Seu Dinheiro",
-  "titulo": "Startup de saúde mental de Selena Gomez é processada por investidores; artista é acusada de fraude de US$ 1,2 milhão",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGN3VjkyU0RyakRCU0pOT2M5S2hOSWt5UENBRTdXQU9PbkZKR3ZqRzB4UVVwVFBVLWVvTXY1djhKU0IwVF82cURqRnJlakhuLVNDVDBhZDVHbDBGeTBfXzBVQUpfSjhSYXBfSWI5Uk9XdzhjcHB4ZDJIV2FrRTNwb29BZWRrWWxlYnZjZWJYZmRqU2VFeU1VODMzZ2pEZXBXOXZpUVJybG9tZUM3OVJVT1d3?oc=5",
-  "clave": "acusada artista fraude gomez investidores milhao processada selena",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "ac7c969f7940",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Kinvo",
-  "titulo": "Notícia Startup de saúde mental de Selena Gomez é processada por investidores; artista é acusada de fraude de US$ 1,2 milhão",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUzh2b1RnRmVfd3hiemZSc3loTnRtMkMtWlNGNVVSbFZTVGZPaWktd3dsNm9NX1Q1Tkx0dnRuX1dsQ19WdE5neVkybXYxSktWWlpTSThUOFU1OVJLdmtidmJLdXBVbElxdE9WYXFJc0pXVm9IRXFEWHJ2VWtTaHdjNjR6cDJpMWtHWV9ObjY4ajJ0WlFuYzJJZGpNZnRKQ3BNZFBNeV9QZ2NDbGZyNlNWeUdTOEhHYnNrX1hxeC1hRjhYWU8tS0xGNGtiYUh2SFVwUDJwci1nbkw2NTA?oc=5",
-  "clave": "acusada artista fraude gomez investidores milhao noticia processada",
-  "capturado": "2026-09-30",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "8f7fc47f9767",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "El Economista",
-  "titulo": "Selena Gomez, demandada por varios inversores de su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSlFySElmY0dkbk4wS01Xc3lRNHhDODNySk9qVzNRaWZEeWx4STBtXy1WUUU2ODl5cW5VdnY0Q3NzdUc1MTc0TjhLTDdrVFJIa3liaUhjc0V3SnZmX0RmRFVnM0dGOUdPVzBOZ05WVlVGWjBBdVRDcXhmeHhfc05aU2dFalNfOWN4bmEzOFVGX3FGRFpqbE80WUplMUdPNk44QlVOOVNyaW9QMlZEb1NFek1vYlJmTWt1dlNta1dDODA0bldIZkVpSkJtM2d0azlMejZPSURDWmJhU3k4dW9IUE9aQUxFSUFCc3UwaDV3?oc=5",
-  "clave": "demandada gomez inversores selena startup varios",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "a988ec9ae2b0",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "CNN en Español",
-  "titulo": "Selena Gomez y su startup de salud mental son acusadas de fraude",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3ZqYXZyMVlLc3BzTThrQ2dKVkxabVQwVVlyRFdQVDg2OGlSZEpqVHpfdl9HYmI3SktTQ2tXUUl3bDl2MUtwWWRDV1kwQm1CUU1Ld0ZfNWVrY2RpNE95dEQ0dnprcU9aQ0k3ZlN4OG5XUk5iWlZtZFNZaHNuUXloU3VZbzFrU2RfeS1UMTRuczVpbi00aGtBZ0FnaVBlOVVV?oc=5",
-  "clave": "acusadas fraude gomez selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "67d4b3925530",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "El Independiente",
-  "titulo": "El caos de la startup de salud mental de Selena Gomez y su madre llega a los tribunales: \"La empresa se desmoronaba y no dijeron nada\"",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQN2J1SjBBVGluTVhlYXkzOGF1aV8tb0ZOQnVTYnZGbFM1a19iaDlvMGtvNWpJR05ZTmxYWVdkSlR4TXpzLTM1NE56ZWdwcnE5czVOODk1bWFLeTR1ZEkwRnBKQVlMSFlSM3dIZFI0MGZsWlpsMkw5MV9ZTVYtS3B3WTZfSE5MdVF6eGxfb21xeG42RWJxemlkTzVNR3dvX0FjUEh4WDBEYTY1bVR0QXo2SF96c0pjcUVtQ2JPbmZpeFRmZmNpbG9NY214Rmw2T3AyMGlzUDJrVzZ4OUY0V0x5NEtrdFJvOG9lZlZTMDFoZlZKcXlJMzZWRXhvdDcyei15ZTMzbHlkSzJ1ei1aZUHSAZMCQVVfeXFMTlMxZF9lZGZoeG80eHpmazMxNWdFUFFKSHB2amk0dmFXWVVKcnVmWmpNNjZLS2l1dDctcl9iSWdZYk9jOXdDRGxzdjlVV2Nxb08zQmZXZFk2ZHlDNDhlc1paLVdhQ2Z6ZlRrMlpVb0JwZ2M2bkxPeXhWeDdobjFpRHlOcHBDNFlfeDQ0TjRDTzhISHBfblVJMUk0SC1xZHFhbmJVMzZ0Rzl2LWZFcnBLb3phdXVNQzhoNmZtRU5yNGhMcUkzcTNiZ3NRRjlyMjBmQ1ZCd0hGZmY3aVhEYnlhbXVTa1dtMkxlWlpnc2ZpcHU0R0MyUkpFVV9yejdYdGlGN3gxU21fblQ2OHVPUnp5d05QOTQ?oc=5",
-  "clave": "caos desmoronaba dijeron empresa gomez llega madre nada",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "tribuna",
-   "selena gomez"
-  ]
- },
- {
-  "id": "c8188a5c87eb",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Cadena SER",
-  "titulo": "Selena Gomez, demandada por cinco inversores de Wondermind, su 'startup' de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbjlERU1mSUU4eGJyeFBkcFRCUmJlb25FZHNUdHdLRnZiRmtNdkhVYmFkQmxxc1hlWVlHUGNFdjJEeXllTnhXeFQ5cUMyRFJDR0hndGlYRC1saURfWTZGbWZNZnpELWV6UjhjdmhTZkhmZjRnU3l4bHBLVWNKLUFpODk1MXZBcW1Kc0ZjR2NsUGQ4NFdWY3F3X1ptai1ra04tVFlPYm90Q214TjRqcGxjTU9xa3ZiT1VzdU5hZTZKY9IB0wFBVV95cUxNUkhRTlY3c2pjdkFiSHYtalZsbVNqMUJ0UWxDZEtLMVRQY3BvWThBMC13SUdFREtQRTFESVVhbHBvQVpoOGt6YlFiZU5rYzdJazJIYkdNSTdhQk54cjEtZThQdzh4d3VVTHVsRkgzdlUwaFVSQVdEa1JIRFpNdmd5dzFQYWJFZnpzUHN3ZXd0RThPQWh1S09aNHpIOVV5NzBXdjlwLWtiaG13TV9KOU5sU21GRjh5U015b3RKZlRFa1hLLU9ieTBNWVhkREdWLUY5UGtZ?oc=5",
-  "clave": "cinco demandada gomez inversores selena startup wondermind",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "d99b2b961d93",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "cincodias.elpais.com",
-  "titulo": "Selena Gómez se enfrenta a una demanda por fraude tras el colapso de su ‘startup’ de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcDA3SGZrYTRHdEhMMTBNdFN3aGhZc3ZlbjRjcGwwVmVpeVgwc0k3MWFXaG5DdGtZY2RlN1RXcTc2c0JkVC1QdU5jT2d0U3p0ZEJvQ2xiODF1UGZTV1FicG1adkV6bWh2LTdrVFlZWm9jb3JKX0NHSy04cXJPTGpLeFFYeXc5eUtsNWU3SnczMjVXMXZWbnc1b3QtQW9fcHZaLWVnV2lLaktlR0dXeE9qNEQtMXU1TWxmcjBSeWFoTVpsaEJFUEZYdkRpa185VVFITkVaWXc0aGhtX2tockFvUGhrQdIB9wFBVV95cUxOQzRxelZwWkR0Q3UzOTVwdXdnU09vTlA4WS00OFNVT1p6bFhMdHhSdnlLNkRzZzk0OTM2ZVFnbWRjWG5VNjBzeFFoaVUteDl6NE8tQW1MLW5uazIwekFkRHhwcXBQLTlxTnlybmNsclhIN1JTbTJnd0UwR3k3Q0phbWdCTjZZZ3g3MDlMSHRROGs4RHd2bzhxdHBFS3lMU0x1N1VjbXBxbXZuVnpQMng1c1gwNk0wZVE2bkh4ZzBvbUdjODNPVEs4bmJodnpLR3JuVFVfREJrQU45RmUtRklXZnJ2cV9iQnpRRzBtWjVqTFJranQwNVln?oc=5",
-  "clave": "colapso demanda enfrenta fraude gomez selena startup tras",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "2ec38aa1f3a4",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "La Nación",
-  "titulo": "Selena Gomez, acusada de fraude por su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU0xhZnRrN3JFSVJZTl83d3dsUm55c3FFa0poNmd5SXVjaWQ4QlhRRlZTSFpWcl9NY3JWZmRNcVVZX1cyTWkzQ2F6WXZrRExlNEhhdWlUcWxXbWM1aWNtMHE1bDVqc0hvZzF1RXh6SEZTS1h6WlBxTXA3RXZfX3hIYm5NQjVfcVkybjJ4blF3S2R0WjJrZ3E2RURhTjJPWkRRaFE0bmN5bmZqdW5XVEt6UXFqYm85V1o4eC0tRlV4UmxVV3pm?oc=5",
-  "clave": "acusada fraude gomez selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "6fd92fbee9b9",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "BioBioChile",
-  "titulo": "Demandan por fraude a Selena Gómez y su startup de salud mental: inversores acusan que fue un engaño",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObkVZcElmRTRaYlB1aDFxSVNIa1RmMTZMbWxITlZlc2MwSGhfTHRfeGp1NGJDby1mQWJPdHFnZXRfMzNqWmp3eExRd041NW56Wl9MZC1SN0JNZmh4S19nemdNQlpwWXl3UnEzZGkxWEJOS25NaS1SRlB0N21yX2RPS3dISnFqejNRT3ZTSGxVRmdhRTFIZERMMmtNdjZWU2lOM0p6ZkF3RWRTbWVfVnk5bnRZOGtDdnN4eTRnTm4taUlsOE9HU2lHMVpsandLUnZqWE9pSnhyWGQ4Yy1uMFhDazMzZFlYOEM3a2VFbTNLeGJCcGw3bGlYYmFmbUY0LVJiSnJYMGtiTTBpYkVDWmU3Mw?oc=5",
-  "clave": "acusan demandan engano fraude gomez inversores selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "83e7821ae892",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "El Colombiano",
-  "titulo": "Selena Gomez es demandada por presunto fraude en su startup de salud mental Wondermind | El Colombiano",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYzZLeDhqYlZLYndmQ2N4Vm1US2g0YWJ0amNlT0JVSWZ3ZXh5T01vWVhOQXB4V0FGZ2t3amtkcUlRMEItYW83am5oVUhZa2JuQ2ZFSWtybV9reXdGT29TSjJ4cTNLVVFnZTJFTG00ejNwT3RwU3RrWXV5R0p3aHh3OTY1VmRIUEdYM3l0VVpWSjhXSVNtX0YwUmgwUFhjWGdfaTduNll6Ml9pS3lYNmJV0gG0AUFVX3lxTE9TTUIta1pZdFhhYzFsRlVFbkJId2FnUERydU9JQXhuMnVJNFl0eHZfMWxyVGVIZlo1bFJYS3VWMVUwQjhZZ05wMXo5ODVVQm5TbDJTbzYzUFY2VlFoeW9YQU8zQlU0eGliOXdoYi01a0t0NGhPVXJXQmtPb18yQnlJZmNNV05sLVE5TEVGWEpsdzB3RTFVVjNBeWFNTm40VjFONGtuZkM0WV9ReGt0NVljazBwVg?oc=5",
-  "clave": "demandada fraude gomez presunto selena startup wondermind",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "fcf9240a30cd",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "Revista Caras México",
-  "titulo": "Selena Gomez y su mamá enfrentan una demanda por presunto fraude relacionado con su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdEViTXFxN05fYktwd1IxV1ItOTNuVWM4dnFwV0FrcHlCVF8tRnZiVFJSZl82cUxRaG1xWjlhSkVKWWpHLXBoRU42bUdBc2lGRWpVeWw5UTlnOThUaDhOdWxJX04tSFRGZnV2cHNqbE94SFFMaFZWN1NyMWdzLTJBV1pBekdhWGVGdXQ5MnowT0ZhaTVxSDZKQ3dlYXVUSXdzTUdnbTRVU0h4aEhVc21yRzN1UUtRcE5KS1JHekI2LWR2TmtYSElZa0p6WjM3MndsRklMQTRmWFh1Ny1tYWFvUlVB0gHvAUFVX3lxTFAweklZY015cThpZnNTR1htYmUzYk5NcUpVTEZQTnJxZTVnbFU2VWdrUTgwY1RFWmp5c2NqSmFqNjlRQXZzWVA4VEl5QjRyVDRBcTFNV2ZWYm5ody1mbVJJano1OFFQUVY0ZnlwTi1lWm8xUGFhVXVRVTl1b0NGdVdINnZSSmZ1Vi1UVGlnNW14QnNUN0JSdHpiLTJPRzV5dFpOWGxvRmFvYWJmZldxcjdMVzlGYXRjZ0RQdFJOd1pQc0ZmT2VzY2NwLW9VYWRHbS0xalF1NkJuTEVqaUQ0b0gta2pobUZ1MDJPeTNmeks4?oc=5",
-  "clave": "demanda enfrentan fraude gomez mama presunto relacionado selena",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "1b32cf5a865e",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "DiarioBitcoin",
-  "titulo": "Inversores demandan a Selena Gomez por fraude en su startup de salud mental Wondermind",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSXBuZE96akhiM2t0OUg2NndzQkJ5ZjQ4bFY3cHlEbFh6NUNPOXY2YVA1V29xM1ZFUUVCVW5pdlotSEdOd1BVb0UtajQxUU5IdjR6Qi1naml4OVFKd0hHVm1laHg4UV96YmxlQndFbGE2WHRETFdEeDg3b2ROVzh4S21pMEJGN1Fpa0RmOXgyUzRuOWYzbDd3MmN6b1RRcXlZNl9WSDJnZVNEUVdRX0dJcm8yRXB1Wks0WU5tektkT1FNMDhtc0xFcnNKZ1ZLb2dnZzhV?oc=5",
-  "clave": "demandan fraude gomez inversores selena startup wondermind",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "d4cc3a852273",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "Hoy Digital",
-  "titulo": "Demandan a Selena Gomez por fraude en la startup ‘Wondermind’ de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2VSN1pWT3ZIRnNmVTcxRUVRWnVtdm4xNl9oblZTU3hPSE9BVGVtLUFacTBRY213T3Iwc0hGSEFfZ0R6TWg1aVdSdVF0bDFldUNtSHpjRDl5eGJRRzZXdFRQbzVYOWZ3bzZtdEFyRTVZY0ozVUpFb1kzM3hYUDd1aE8zMDQzTFhqTmVOUm9XdXNnWVlkMXlqVndhbmR6RWJxaDR1SkJRYUhBQdIBrwFBVV95cUxOYlExaWZnLTNNUHlsQ205ZHhQcFR5YlFQTjZzZ2ZGZTFXUVN1bmhEQ3YtOURrU1JDa0xxVjNrbGdiM2syUlB0S1JyaFRmSzJHWjlVSHEwdE9vM0xBMFd2aExIR0tfNi01V2JFRVM0VzYxRnZjVS1QSGpPQ05tZFVWYW5vTWx6bXJtZVNXcmhoM0haNUZWb21kamdxTjg1UWJsNTdxMGxWcV9QRjFGQXo0?oc=5",
-  "clave": "demandan fraude gomez selena startup wondermind",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "d248e246433d",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "VEJA",
-  "titulo": "Selena Gomez é processada por fraude após fundar startup de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVlLQWd1NW9TSThqbW9NR3J6eDJ3Y2tpb0VqcTJ1U3JxUkRVVFNmLUNBMGRldVFpbHJjWVlBZzB3eUVFb0xHcjFYcjJjQWNJeGVqY1lqSVhkVW4tNGZLaHczZXJfMVZKY2JIT3lyRTVYTmtJOVRhVzBTXzZTZktCWlMzTVY0R3hyODJXTnZUS09sMzhVc1NING40RjdOeVpvNC1MVDlhbXJSVTg?oc=5",
-  "clave": "apos fraude fundar gomez processada selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "df406d8bcaca",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "SpaceMoney",
-  "titulo": "Selena Gomez é processada por fraude em startup de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcnN0TFdfQXhBYk5VekFVOGt3bHY0b1VndURDeVV5eGlwTVZCM2JQUHNFWTFHTnZsUkc5WGRObjRnN19pNUQ5Rm9LclUwakxpcGRKbjNDb2VoX1A5cElzUXVGREVYQ0hGSk9tWlRxcGxBb3d6TTV2WFJieUpyUllaWkRmV29RMzFXNGtiR3p3?oc=5",
-  "clave": "fraude gomez processada selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "8a6016b66f21",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "noticialdia.com",
-  "titulo": "Wondermind, la startup de salud mental vinculada a Selena Gomez, enfrenta demanda por fraude tras su colapso",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc19GTEZTZTRwWmd6X2ZpY2pzWk1NSC1RdC1CRUpXQ3NKdW9Vd3gtWVVadU42cHUzc29CaWJYWi1fNEJGaklTYnYtSVVRNFBVZE1jb2YxZFBBSFlKbjVGWXdLVzRiVTRwTjVmLUR4TXFMb1pNeXF3YS1lc0NvY2FQSzFTeUtGc0h6VEJmZkZ3TWtaeDJ2ZHBnaFBEelVEMDF5UFF6M19Pd0tDcjVXdTdnOUlRVmZnTjNtMUpxQzBpOG1BUnloZ0pEVkhXdjZ2N2F3c040NFhueW8wZkhxQnZzVHdrRzBPTk8yU3E4RnM0Sml6cnM?oc=5",
-  "clave": "colapso demanda enfrenta fraude gomez selena startup tras",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "bf638bf918c4",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "El Economista",
-  "titulo": "Selena Gomez, demandada por varios inversores de su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSlFySElmY0dkbk4wS01Xc3lRNHhDODNySk9qVzNRaWZEeWx4STBtXy1WUUU2ODl5cW5VdnY0Q3NzdUc1MTc0TjhLTDdrVFJIa3liaUhjc0V3SnZmX0RmRFVnM0dGOUdPVzBOZ05WVlVGWjBBdVRDcXhmeHhfc05aU2dFalNfOWN4bmEzOFVGX3FGRFpqbE80WUplMUdPNk44QlVOOVNyaW9QMlZEb1NFek1vYlJmTWt1dlNta1dDODA0bldIZkVpSkJtM2d0azlMejZPSURDWmJhU3k4dW9IUE9aQUxFSUFCc3UwaDV30gHYAUFVX3lxTE9zcVlicnZoX3F0TElwSllON3pDOU40bVJuRG80R2Y4OFRzZEJFM1JXVVJTR0NjNUhvOUd4ZlR0M2szRVlnaTVpbUMwTTFvZjJNcGZfZnNLUjAwVngxRkZkUlg5LVlqWU1DLWQxUDBOSHllYnRVZWJ3UUFEZ2xvb1VQNVJ0R0R1WXItckNIdU84OTVVMXJpV1pQRVZkb01TVjRYb0RfMXI1bTRiYXprUjR3ejdQX3lKNjJvMzZWaU5fcHlUd2s1dzduVUlkdzdPMVlwaFdKSnZsMg?oc=5",
-  "clave": "demandada gomez inversores selena startup varios",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "b4b969260ecf",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Público",
-  "titulo": "Investidores processam Selena Gomez por fraude em startup de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0hmd1NjeUxiSDF2ZXA5OHNxS1FTbzVTc2VIS2hxVnpoX1NQRno5bHhJdGphOVpSTUdnR0VKZ0tkRFJSWDVzaHBuSWMxR3pZU1h4MC12VzdXRkVodGIyN3pHVmY3YjBjODA2UXlwNE9GU1VvTWppdV9OdEx0cGQtZUdScGhTcDlsb0owTFBZTEh2TEgzeVlaU3h2UTVHenlmS1N1UzJGQUk3WkMwaGdzQ2ZJS3VqbktjZ19j?oc=5",
-  "clave": "fraude gomez investidores processam selena startup",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "fd285c7e31f5",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "ZAP Notícias",
-  "titulo": "Selena Gomez acusada de fraude relacionada com startup de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVdhanM1RXRFenZqWmZxMjY1Y29URmRhQUJtS0NDOU05TXRPeEdyejNjcWtib3VFYkhfVUN4ek8zdXVfa1BvUTNMN3FsMklyMkdDRk5TNms5aFNTNFgwRmRJYmFCaDlnX3pGclVyeTdralN4U1h3Vm1ESkZzNkhpUF9GNWZVT1lrZVU5OWM1YjF6YnZHMGdrSkYwclpUOFU?oc=5",
-  "clave": "acusada fraude gomez relacionada selena startup",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "93bbae166109",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Noticia al Dia",
-  "titulo": "Wondermind, la startup de salud mental vinculada a Selena Gomez, enfrenta demanda por fraude tras su colapso",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaHlMZVlONVdsOTJEdjcwc0NhNDJaZldEUkxmcGhmdWhhajI1b1hJXzZSV3ZwVktQLUxZWWtRV1FYQzhYUjBJYzZNNkhudFM2bzNKQkFCTzY5ZDBtQnFuS0tUd3h3dm9JM2dhZUwyYXV2eTVLUmUtUWdwamlQUVEzb3Z1bE5zOUp4Ny0wOUlOSGUweTA0ZHZMbHNlOVlOSlhKbC1DV2xhUXo0ZW1UY3haSDBQMUF1bGVwaHloYlZ3a1JtYVZQTEtGZUg1RzNpeEVNWU1uc29YbG0wbWt3V1RaOTlfLUpjRTdWN0lzTWh3?oc=5",
-  "clave": "colapso demanda enfrenta fraude gomez selena startup tras",
-  "capturado": "2026-09-06",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "253324852190",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Cooperativa",
-  "titulo": "Selena Gomez recibe demanda por supuesto fraude con su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVlE3ekpxX2VVUjkxMXhLbTM1UUYzTXJlbDVDak9WbUdaZlhRR1FSZWttem1kTEJtSF94WkVKLUpTYjd4LTVPaFRURTQ2aXpyb2hnWUJBVDhaZ25kMmpFZC1RM2ZhNzFwN2t5UzVCYjNfZk1IZkZkWkJPVTFrcjlpS1J5NFlkX25ldzhvRTNFX3ROMWV5TXZrV1N3Yl8yS3BTTzdxcjZrSl9iUlBETHVsUV90R0NFMjA3d2V2bnBQQ0FWVzFyWmNva0VXNEluVnkxMjZKRUw2QzlQaGl3c0lqc0dGTEXSAYwBQVVfeXFMTUktdEJmSjVoTk9uYm1Ba1RDVWZvNTNKWFYyMXpfdVA3RVlFeHk5YnRWc19DclJQWDgyVVhCSWdlZGJjMzdSSW4xUWNiM244SXppRlZwM3RmYVozSWw4aUx4aUpwZlRCTVliVFpuOUZMeE0zSl83X2dOWHZsVjJINTdKZU1FZVE3eGlzQ3I?oc=5",
-  "clave": "demanda fraude gomez recibe selena startup supuesto",
-  "capturado": "2026-09-07",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "c7cd0ccda50a",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "CNN Portugal",
-  "titulo": "Selena Gomez processada judicialmente por causa da startup de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYk1Wc0lTdG1KY3I3WkNuLVJ0bWpiZkpJQ2Ruc1lTY1owdzdvbzhoSlpEelpWWmxCUXZYU1NGRXh4RXJxb1Q4SnV4WmFobnY1WkJZQmhjYm5tdllnS1lHOHQtWW8zT0Q4VDlzTVNZd2ZORVI0OVZvN1F0WFdEQmpPQWNXV0R0VUlIdkczTmRQNmRrSldMcEhYWFlqVTUxZEh6enFQZDhMOXFXLXJUNnFmZER3UEJxYWo2WTJsZzY3U190aWs4RllTQ0lZZE5sS0ZqZ2FQbmJxMDVvcjczSlNnbHpIUEx5WXMtYkppWg?oc=5",
-  "clave": "causa gomez judicialmente processada selena startup",
-  "capturado": "2026-09-08",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "b9e62c7e4f1c",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Infobae",
-  "titulo": "Selena Gomez y su madre son demandadas por fraude en su empresa de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHRVUGJsWnRaWGlaZFJIMFpRYUxKUU1PTTI0X3hhYXFoQWdCaTJmcHE3eDFuYzE3czQ2Z2dpYWNhMWhiaTJ4d1lQSGRwcWhHbVdYS2lMVHZxeGZZc1pmQTc4cGxZcnc0bXhtdzBNZXk2WTBXZmdfdkFkWEZLVkZOOHc5cUdqWFZHYWwtYUR1NTBDbndFd0MxUWdob3ZIaW9pWGhDS3huWUVVWG5VQTkzOVQ5dkxFbGw0UUZfdC1WSm1SV1B4Sk1pYmtTQdIB5gFBVV95cUxPdnlCNFpHTEI4cTU3dnZXOWs5c3hVVzFsdHR0Z1ZNQS11SmJGbHlMR09hdWdWN0VrZ21YS2hhVVpQT01xT3BlX202Rl9oY1FYQjB1bU5oY3pSQVR0MExoVGdiNVEyNFEzSUlLZXQ3ZWVzSlI3RXNkWEdkRmVxcWZTQXZPaHhCWWFGR3JnQmloLUFOVTcyc09MS0wtSS1sbzJ0a2xBdHk1cllieUc2M1FNSkt0YkE3Z0xQSEZkdm5fWmRjYzJ4cHA4bGZqV1FoLWNXcE85dTByeFRiS2hRaDdxZVJrUUM3QQ?oc=5",
-  "clave": "demandadas empresa fraude gomez madre selena",
-  "capturado": "2026-09-10",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "4a744f582f37",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Revista Caras México",
-  "titulo": "Selena Gomez y su mamá enfrentan una demanda por presunto fraude relacionado con su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdEViTXFxN05fYktwd1IxV1ItOTNuVWM4dnFwV0FrcHlCVF8tRnZiVFJSZl82cUxRaG1xWjlhSkVKWWpHLXBoRU42bUdBc2lGRWpVeWw5UTlnOThUaDhOdWxJX04tSFRGZnV2cHNqbE94SFFMaFZWN1NyMWdzLTJBV1pBekdhWGVGdXQ5MnowT0ZhaTVxSDZKQ3dlYXVUSXdzTUdnbTRVU0h4aEhVc21yRzN1UUtRcE5KS1JHekI2LWR2TmtYSElZa0p6WjM3MndsRklMQTRmWFh1Ny1tYWFvUlVB?oc=5",
-  "clave": "demanda enfrentan fraude gomez mama presunto relacionado selena",
-  "capturado": "2026-09-15",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "6d5fb9ca96ce",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "TVI",
-  "titulo": "Selena Gomez processada judicialmente por causa da startup de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOEJ2S3VMYWRIOGN6dGVfclpVVU01b1lNRHB0dnFXWVBSRkFxNjdFZWljM19wN2VIdTlCeTVHRG55aUx5LXcxUnhBLUs2c2xkVXJTem5tVnNCbjdFMGlmQnR2eUlIRDdScFBmRU90bFZWNjNtTHlFbVZMc1hfdzVBQnNrLUdmZ1Z0d1pVbDFoTGoxc29aQTd4MDJDU1RNUE14a0ZrT2dmY1dydzBWNUZBU1FOMWZ0OWVRaXVDUHdHRXNOM2psUDRGQ2NRNEZFU2pROGs2MldrbnNxQWx3cWtodEhUM09JTUtEb01ieEd3?oc=5",
-  "clave": "causa gomez judicialmente processada selena startup",
-  "capturado": "2026-09-21",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "70ad36a32b32",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "MunicipioSur",
-  "titulo": "Selena Gomez enfrenta una demanda tras inversión millonaria en su empresa de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYnJqN1N2NkZFVkk2WXZEZEgwNExzVm1lbHM0QkF5TE1NekNqZkpxSnl4cXpnbUNVVDRXclYwMEFGOFlMRFZoZmp5WDVmLTdGNGpIM0xBNy1mZlp2YkRjckh2dERqb0c5R294WmlhTTJQYUtRVmo0ckZkYUhLYS1jN3h5NHh6aUNTZ1JuWHRDS2p1bjZaeDdDbUh5cEYwVlFmNG10bXkyNU9vVTVhVVNERXZmNC1wVlFybkJtU0dlQkN6SUhN0gHKAUFVX3lxTE9PMkZ4eXNneVEzT2J3YnNXcXR6ZnNWVXhLTjREN01YWWZ5OVIxR1h2aVFGVUdrb2RlLXFFTGo1VEZpNXRWQThQUC1DRjZKeTBqaUtqUjR5SHdpNkVvREJORDk2VXNCYmRGYW44eVRVX0R4NV83Z0tMbVpSTjh1RFFNR2RBMzJLN3gxM2ktQWNzQnRJS29ERmtqODRVQVBUTXpFWTJwMVdPRkxEV3JLN3UxTU9TOExVYVo1N1Z6ZXRYRkQyUmpMS1JqR1E?oc=5",
-  "clave": "demanda empresa enfrenta gomez inversion millonaria selena tras",
-  "capturado": "2026-10-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "845c77d98386",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Infobae",
-  "titulo": "Selena Gomez y su madre son demandadas por fraude en su empresa de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHRVUGJsWnRaWGlaZFJIMFpRYUxKUU1PTTI0X3hhYXFoQWdCaTJmcHE3eDFuYzE3czQ2Z2dpYWNhMWhiaTJ4d1lQSGRwcWhHbVdYS2lMVHZxeGZZc1pmQTc4cGxZcnc0bXhtdzBNZXk2WTBXZmdfdkFkWEZLVkZOOHc5cUdqWFZHYWwtYUR1NTBDbndFd0MxUWdob3ZIaW9pWGhDS3huWUVVWG5VQTkzOVQ5dkxFbGw0UUZfdC1WSm1SV1B4Sk1pYmtTQQ?oc=5",
-  "clave": "demandadas empresa fraude gomez madre selena",
-  "capturado": "2026-10-10",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "30a0efe03e54",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "Cadena SER",
-  "titulo": "Selena Gomez, demandada por cinco inversores de Wondermind, su 'startup' de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbjlERU1mSUU4eGJyeFBkcFRCUmJlb25FZHNUdHdLRnZiRmtNdkhVYmFkQmxxc1hlWVlHUGNFdjJEeXllTnhXeFQ5cUMyRFJDR0hndGlYRC1saURfWTZGbWZNZnpELWV6UjhjdmhTZkhmZjRnU3l4bHBLVWNKLUFpODk1MXZBcW1Kc0ZjR2NsUGQ4NFdWY3F3X1ptai1ra04tVFlPYm90Q214TjRqcGxjTU9xa3ZiT1VzdU5hZTZKYw?oc=5",
-  "clave": "cinco demandada gomez inversores selena startup wondermind",
-  "capturado": "2026-10-14",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "7576d80c2cc7",
-  "fecha": "2026-08-14",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "20minutos.es",
-  "titulo": "La cantante Selena Gomez, demandada por varios de los inversores de su 'startup' de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbGNEZjZNVGdjWUc4QXlzdzBFaFBvUHlOT2s0TmVFMU5IekVVOXpUN0VhNkhRT3BlY0Y2dXdjbGJpVFM0YWpaeHE4cmNhc240VUVBaU9pMTktcDhHWG5zSnlKOFhlRzEzOTlDYkZNR1VOTjNMSEh4R1dkZVY1UDRGTUdYLUxseE9UenFkdDZ4SXBCeHhxdnl2S18weDFjMy0xNTZlbHZDVmJlLUhVNXBra0hjVVAzTzhKSFNZei00UHR5ZWRnRXc?oc=5",
-  "clave": "cantante demandada gomez inversores selena startup varios",
-  "capturado": "2026-09-05",
-  "puntos": -3,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez",
-   "cantante"
   ]
  }
 ]
