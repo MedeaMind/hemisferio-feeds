@@ -1,5 +1,83 @@
 [
  {
+  "id": "c1fc646ac4f2",
+  "fecha": "2026-11-14",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Cáncer de pulmón: las novedades que pueden cambiar estándares",
+  "resumen": "oncologia naiarabrocal esmo 2026 el avance de la medicina de precision y el desarrollo de nuevas inmunoterapias, conjugados anticuerpo-farmaco y anticuerpos biespecificos estan ampliando las posibilidades terapeuticas en cancer de pulmon . los resultados presentados en el congreso de oncologia esmo 2026 (algunos de ellos en sesiones presidenciales) muestran mejoras relevantes en supervivencia que ",
+  "url": "https://www.diariomedico.com/medicina/oncologia/cancer-pulmon-novedades-cambiar-estandares.html",
+  "clave": "cambiar cancer estandares novedades pueden pulmon",
+  "capturado": "2026-11-14",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": [
+   "congreso de"
+  ]
+ },
+ {
+  "id": "c7665a448d1e",
+  "fecha": "2026-11-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infobae",
+  "titulo": "Salud mental: la ley debe garantizar que la ayuda llegue a tiempo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2RldjFoSV9URVZjZW9vZk1xZjZCYkNLa1lzUG1tUzB4YTZqVlVIVVJlYmRkM0lxRTF6OUh3MmY5WE0yMlU4aWNUa08zQmlvNmNELWRaMUljOGxVQ01ZbUNIdmRzeHhzdl9ka2Zna0hLTTFOVHg3aUtrRzlIcUQ4a1NuNEdGcE5kTS1RS0tUNkRGYXZDOVJ4M2h5cFZjSTBzZFZNTjkxcGdIb1hU0gHHAUFVX3lxTE56eDAzbms3ajRONkN3cHRnMmJ4T253dmYxUVhhbnBRcy16UlM2ei16Zk5XR3FZNm5mTW1fcGY1UExTX1hUTjBkWVRCdzNsY3BWZ0NhS0tUSkhMcVNWZ2VMeERienloWHhQS3ZLTnlWdDl4UGpuWUNGWUd0V3BqTDE1R3lmMGRqeUNGV3pQeWRhMml6RmJYOWFCZmhkQkI3bUR4MVBONjhsa1ZjTVE3X0U2ODQ2RjI1aGtBdWRqMlZiY2trNFVrMWs?oc=5",
+  "clave": "ayuda debe garantizar llegue tiempo",
+  "capturado": "2026-11-14",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "884a7c4b57dc",
+  "fecha": "2026-11-14",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción Médica - Home",
+  "medio": "Redacción Médica - Home",
+  "titulo": "El laberinto asistencial tras el coma etílico en menores: entre la falta de protocolos homogéneos y la atención fragmentada",
+  "resumen": "medicos de atencion primaria y el ambito hospitalario destacan la importancia de los padres a la hora de prevenir y tratar problemas de consumo que, en ocasiones, senalan la presencia de problemas de salud mental y ademas: baleares define las bebidas energeticas como drogas y prohibe su venta a menores",
+  "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261114/el-laberinto-asistencial-tras-el-coma-etilico-en-menores-entre-la-falta-de-protocolos-homogeneos-atencion-fragmentada/364918_0.html",
+  "clave": "asistencial atencion coma etilico falta fragmentada homogeneos laberinto",
+  "capturado": "2026-11-14",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9afc416c692f",
+  "fecha": "2026-11-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Infobae",
+  "titulo": "Un grupo que reúne a Meta, Google y TikTok demandó a Nueva York por los avisos de salud mental en redes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHRzSzB4bUhBWm5vTmxZUlNwRXVOOXM5TlZOaEt1S0RnTUFuZl9leGczMkxUSUduN3lkRVBaMzlLV1hwZ3pJTlhqM0NfRWZ1Uk9UQi1zQXQxUzdFeWtVemJPRkNSU2tzTnYzNDNlZ3AzR0FwLWdPY1owSTdHQzdlSFdoSUtZZEFzUExJSjU1eDBrUFczam0tTE16NWx0WGt1RGRycTFhM0k3UWtHTmhJcHlMLWFqblJ5N18wTkVNdXd3TUN0S2FJUGhEaXNpVFV5NllLYUNQUXY0QUxCQUYxTUU5eDFaTjF60gGDAkFVX3lxTE9zc21hTXdDZmxya2RXTU9FR2U3OEc3MEd1ZkFNT3d3czdUTzhQYzZpcnUyMlVrQXVtRzRlai03elNNNlVKNTEydGpsYVZFRlh3WFJPeGxSdDRveC1kQ19KaFh4dWxsZEw4Nm5NZGQyMkFiQlA0ZmpwWGp1ZzVnRWV5b1RreTN1RW1iUG5EdWtlZkoyUEdxOWw4N09OLS1CNlg1Si11ZHozSzA5OVRacG53Mld5eXNOVjUxMG9rTTJZUm1jaVlUd19EaXVZYjZ1Q0otdmxoOWlDZjVya2xRcVZ6Ni1NNDdvVGJqengzOEJGNk9UVUk4cXljUWl6U3hsNWt5dXM?oc=5",
+  "clave": "avisos demando google grupo meta nueva redes reune",
+  "capturado": "2026-11-14",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "ae40ae6fb068",
   "fecha": "2026-11-13",
   "carpeta": "01 ESPAÑA",
@@ -15,6 +93,25 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f3331e57e1c0",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Libre",
+  "titulo": "Entra en vigor la reforma que garantiza los derechos de los pacientes ante las intervenciones involuntarias en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSElENzhXRklleWdTcUJKbkw0dUJaeG1TTVVIbkVjbGNBd2FrRC16YVNWOFlIOU5ZeDI3a1ZlUzFWekFRb2lDOENMZ2ZQWExGOUNMTGRya1M2Q2VYZUNneWg3RXBNM3JaQVpadGttWUVWTmRqNEZXeUJtTEhmdzkwZmp4eERtMWNLQ0lLWnJ4UGtMZ0I4eGo0VC1GaFlUZm1aZkFWOFVReXloT2RuNmZhTWhiNGprdmV6bVcwWFlMcTJ1YkNtMkQ4S3NUV2Z5NjlIUjd4RF9uclFTOXc?oc=5",
+  "clave": "ante derechos entra garantiza intervenciones involuntarias pacientes reforma",
+  "capturado": "2026-11-14",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -58,6 +155,120 @@
   "ruido": []
  },
  {
+  "id": "4e4ba974a4b6",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Valencia Plaza",
+  "titulo": "Sanidad concede 1,55 millones de euros a 35 entidades para programas de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLTN5ZU5mOFFGbjA1RnE2Rk1mWTQwdWJQdXNJbXVBSzFGb2dVMXZmQkxWY2VRb3pxRWpLNHc4WjlvQTI1Z1dUYVpqcldkMHUyQmxubjgtd3F5QkZ1TEJweVA3V2VERkdYMXd6Zzl4c3hKcGI4TFM3aDFYR1VMYWJSSS15Sl9VSy1URl9wamNVWE53SmVrMXl2Yk1CYlgxRjhfOXZERFFRWkY0TzcxdTM3a0thSW84bjJXSmVWTDMxd2ZUcWRkNS1pZ2x3M2ZocmU2WFZPNGU2enpjMGJvRUdmTkxXYmRWMWUxemdYMg?oc=5",
+  "clave": "concede entidades euros millones programas sanidad",
+  "capturado": "2026-11-14",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f2ee24f8fb60",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Castellon Información",
+  "titulo": "Sanidad destina 1,55 millones para atender a personas con problemas de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNDJIT3Q4amJESHNubEtMd2tnc2dXS3lPZFp6MkZ3QmJyVDlzOGo5c2ktX182MVhOOHJ3ZGtzVENfcm9kS3pqMUhUcjFUX25WclRSNV9tcVRNY3lic1RjLUxNdHNOc0N1REFlRjBPOEhyRmtpSnEtM0Z1ckduaEw0UlNHaVQ0eGxVakNQYjd6Tm5kR1Z3SzJGQWUySkhmYlQ5MXpwb2Jlbnk3WjFRZ1RPZ2h3TmxXWmU0S3h4V296VHh6SF9NZjZDZUowV08?oc=5",
+  "clave": "atender destina millones personas problemas sanidad",
+  "capturado": "2026-11-14",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "27b4c7da172a",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Actualidad Valencia",
+  "titulo": "Sanidad destina 1,55 millones a mejorar la atención de personas con problemas graves de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWJvdUh4LTZoNkRGSDJ5RWRIRF94dXRjZEhRZ1Rhcnc0X0F0ZzBxOUdDTnN1czdpU2k2UGx5UExZdXdZMGJjWXRKWUNXXzBtS1NQcjVXVHRQbXh2a1NwczNxX0xELVBaUndlalVqZmEtSFN3OFUxWU5jaDVfd3ZMSEplSE45ZlMtbWFkaTh2TVpTX3BsN29BbQ?oc=5",
+  "clave": "atencion destina graves mejorar millones personas problemas sanidad",
+  "capturado": "2026-11-14",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "623aaa7ffef7",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Alacant Extra",
+  "titulo": "Sanidad concede 1,5 millones de euros a 35 entidades para programas de salud mental grave",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZndOSUhpQjRjbUlHQVFpQkhSbks2UXpsNlowaEJVTnVXM1BCWDZSOXV5czlqbmpEX0VrZDV4cmhUbHRBSm5KNmJNc3hsRnRmN09WRXRnTlFxLV91YWdMZlNwRTVVbU9EdGZUcWpaS0tETGtfV3RqN3lIaldoLWJ4aFRoSmxITllfNnBnVHZFeUpOaG9NWWlnOUJOQXp4dVdWaU1sdm9XeUZ3SzRhMUdxeXFuU1d0a0Nrc3AxX0JmZGpxOGdYaE9BdE9VQnZEZWxjS2ZNRmpaMFk?oc=5",
+  "clave": "concede entidades euros grave millones programas sanidad",
+  "capturado": "2026-11-14",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9e598a7ff7a6",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Castelló Extra",
+  "titulo": "Sanidad ha concedido 1.550.000 euros en ayudas para programas de salud mental grave en la Comunitat Valenciana",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYjFWV1RGekxrZ1l2b2ExbWMxUU0zMzRIRkloTFUwN0o1NzVKazF2ZFpNSThHeEk3OGd0cWQ2OGVkWFRUeTBCZnRPRGZzMTBiVk1WR2ptb1JXVmJ4M1BIOTlEbDBnanpvcVFhRlFBSGZnc0tjQnBoN2hjNi10RER2dWlnLVBZeEZOYXU4S18wRjlUT2JPNmFianVhQnhOVFp3cXVnYkd2M3hYQ3ZKVjcyVVQtNnpldncta0lISmRqbXQzZ3IzQklucE1nbHQ2OVlZaDBjZnRrS0JXTDdxR0M4aFo3X2Z3MEJyRmxZc3hVZW9nRW52MmV3?oc=5",
+  "clave": "ayudas comunitat concedido euros grave programas sanidad valenciana",
+  "capturado": "2026-11-14",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "739906a87a64",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Merca2.es",
+  "titulo": "Sanidad concede 1,55 millones a 35 entidades para programas de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1ltYUVteE5TMHdtVnRldlpCUWV6QWs4emVoRE5hNm15Q2FMaVVlNDlKdzEtZ0tKNzdJNEZZdmJrbFRTeEJra1FpWGlJRDJLZEw5b2RQVWNsTEFCNlRnem5EUkFjTlFGeXpLWWxXXzliYmNOLWdPU0hzeWxicndHcm9hRGtrVmptWlF2VjJKN1VmZjhlUGhDZVVqazQyUTBjUU0xVFNwT0pTYUJJaXY3NDRGT2Jkc00?oc=5",
+  "clave": "concede entidades millones programas sanidad",
+  "capturado": "2026-11-14",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "26736a6a8b65",
   "fecha": "2026-11-13",
   "carpeta": "01 ESPAÑA",
@@ -77,6 +288,44 @@
   "ruido": []
  },
  {
+  "id": "438eefc8e12c",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Governo Federal",
+  "titulo": "Ministério da Saúde facilita acesso a teleatendimento de Saúde Mental no Meu SUS Digital",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPY1VRcjlqc08zLUkwLWVwQm1GMkIwRkJBcW9teE1GTFA1VUd6UURxQmFsN01RRkVLWXI5MzJRbXhrc1BpSEVQTEMzaDhVREV6aGpsUEpiekw0MzRhZzhmMktmVmUtbWpjSTFDMng1RVJsTFE0QWRLRWhOeVNvRC1abDlXWXMtcEVKb29PaUFQZ0JvTXZjQzdETWxNejJmRTJmX3N0dkphMVBEeFdaTThMclRvVkQ0c0tYY21NR2lUZ2hVVGJQOHQ3WnJpSmtHd0N5dGltUFd3akdwWWYteWtwTGI3OU95dw?oc=5",
+  "clave": "acesso digital facilita ministerio teleatendimento",
+  "capturado": "2026-11-14",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "55627014497f",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "bra1.com.br",
+  "titulo": "800 mil pedidos de demissão em um mês: entenda o alerta sobre a saúde mental no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMFRPLTVha210ckZqcWdvREpHejlXMDlXVFpsWTgyUVpZbnpWYm9zTW5QVGh3aXBIQUcyUEt1c0s1NjQ5blhGUzR0QUlQbmVyNnE1TmthYnRxWHFOaWtBdWlhaUdFU1ZUM2hmY2ZLbWVzT0FrV1o0dmtSUnBZNjFCbW1uanNWREdkbDZhQ19zMFFGMTNFTS00YVotVG1YUWYyTS1DUXRLWlZoMWZjcDBFVVlQVC13WHJaWFFQUXR1QzMxNTZEd2h3RDFyTQ?oc=5",
+  "clave": "alerta demissao entenda pedidos trabalho",
+  "capturado": "2026-11-14",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "24da572b28ca",
   "fecha": "2026-11-13",
   "carpeta": "01 ESPAÑA",
@@ -92,6 +341,27 @@
   "categoria_auto": "regulacion",
   "topic": [
    "terapeut"
+  ],
+  "ruido": [
+   "congreso de"
+  ]
+ },
+ {
+  "id": "3a2586e20b5d",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Diario de Sonora",
+  "titulo": "Congreso de Sonora recibe propuestas sobre salud mental, educación, ganadería y cuidado ambiental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON2U5a1Z2RU5DeE12SUhIRDJDZ0JlREwtZl9QOE9DWUpYTFNJSVdhYTBEdklqTnNsSTFFRV9OSExfWlVZMGlpUkFPTlYxaDZ5bHpqUWw3S1RFaV9uc3ZXT0lkdDBxcVdrdHdKbnRGaWhOOW5Tckx2cWR6ckNnN3RxYlBHVXRZdHlpcU1yMHl2dmNlM3pOeXJ3Z1VCbFpvZVF5aFRIcS1HMUlvSlVDcm9DMG5Sa0JkZ0s2THphMVh4REhzcGNwQTkyam5aaXpFRkpGdG9seVNR?oc=5",
+  "clave": "ambiental congreso cuidado educacion ganaderia propuestas recibe sonora",
+  "capturado": "2026-11-14",
+  "puntos": 1,
+  "prioridad": "C",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
   ],
   "ruido": [
    "congreso de"
@@ -151,6 +421,120 @@
   "categoria_auto": "otro",
   "topic": [
    "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ffc458b48f51",
+  "fecha": "2026-11-13",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción Médica - Home",
+  "medio": "Redacción Médica - Home",
+  "titulo": "La 'baja por menopausia', la ampliación de las CUME y las ayudas a la Dependencia, a la Diputación Permanente",
+  "resumen": "el hemiciclo debatira estas medidas en la sesion del miercoles 18 de noviembre y mas: farmacia, enfermeria y psicologia: el peso sanitario de la nueva diputacion permanente",
+  "url": "https://www.redaccionmedica.com/politica/20261113/la-baja-por-menopausia-la-ampliacion-de-las-cume-ayudas-dependencia-diputacion-permanente/365165_0.html",
+  "clave": "ampliacion ayudas baja cume dependencia diputacion menopausia permanente",
+  "capturado": "2026-11-14",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "94abc470d42a",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Curitiba",
+  "titulo": "Colabora.cwb reúne especialistas para discutir saúde mental e longevidade",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQkdYOXNzeFYzX2IzTzVZQ205S0JqVTNpY0EtTUhkUFFFMkIycjlOOGRwUDJCcS14OUhmTmkwRU44eVIxc0tCYTFpak9MRUhtekN0Z0JDQkpPdi1zclRzbHdDNVAzbmh0QzhWdDNDNmpMeFE3WmYxcU9nUzMtMy1scXZPakRhTmo4Z3IxZE5CcmtQbTdUai11OFc2QW5nRS1qVXc2Qy1ZV3NnVnBqRGtjS2hVTUZCVzN5SVE?oc=5",
+  "clave": "colabora discutir especialistas longevidade reune",
+  "capturado": "2026-11-14",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "41a231316471",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Secretaria de Saúde do Paraná",
+  "titulo": "Novembro Azul chama a atenção para a saúde mental e o autocuidado dos homens",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHJiWlYzNGNEUzB3RFJiQ2R3V1pRc1Y2SV85d0tXZkYxWkdUX2dMZGxsRGZ4eDJST3FVbXk2bTZTenJCNVFXemRwbnJHQUhYeDZPZjhyRDY4QUhTeUNQdHQzQ3lva0VRRUJGQ1RBNGVjR3dMeTM4aGtTX0JuR3VoMWNzWFZPYkRVRlljbUhWSnFiUTVlUm5JQjMxMEpmcEFuUWNlU05zM2MzYmVk?oc=5",
+  "clave": "atencao autocuidado azul chama homens novembro",
+  "capturado": "2026-11-14",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7433cffe96f3",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Erechim",
+  "titulo": "UBS Paiol Grande promove encontro de saúde mental com foco na saúde integral do homem",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTWozYlhyZ3JvbkZZQ29RTWZTaUctNWZHTXk5cmlDQ3ByRmxGS05VNEV0ZngtalpQTk9WMWV1Rlo3S05BVzhYbjJNLUhXSWJGdk9ubXplTms2RzV0U0ZWVTF6SUt2THBjSVRhMTlTVGR2aEhCemdOWF8xWnVKeDcydDFMcXpIYVptdXNyQUVRUTJib2VBRkthcWt0THVmUUk3ZnMza2c3SkhCck1VY2MzSTVDZ1F6SHllSmNudzRlLWVHZk5OR3dheGpMQQ?oc=5",
+  "clave": "encontro foco grande homem integral paiol promove",
+  "capturado": "2026-11-14",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "75809fea7223",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Secretaria de Saúde do Paraná",
+  "titulo": "Novembro Azul chama a atenção para a saúde mental e o autocuidado dos homens",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTdXWGR4QmVVeEJiVXdrSDlWRWwzZXpPTnoydmkwdndvemtIV3J2cUY5TThjU3BVYklEYnRJcTNYcjdwcF9Ta21Zb0puWGxOWFB6S192SDNvR3MzU3E1Qm1TNnBUQktyMGgxMGZpcXdkbXN6UjRDSVZ1VTA3cE9xTHZmb1RMbzR2MGtNb3dXWlJnYV9GbUFwb1ZscElHTk56WDF1LWVwNDdoeHVxNDV3ZUhOc2k5RGZyTEtn?oc=5",
+  "clave": "atencao autocuidado azul chama homens novembro",
+  "capturado": "2026-11-14",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "aaf357ab7dc8",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "Agora Litoral",
+  "titulo": "Novembro azul destaca a importância da saúde mental masculina",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmhOVWFZRzJLOXFMRkcxWmhtX29IcnVwRVViZlg4OHo4YjM4NktYZUVnWlpza3ZRNjdHTHJiTElZZXpPdlhIbFU2Q2dqOWcwTFhCYklEODJVT21vWXFvVzR6b2NRTzVMZTFxRFhGandtQ3pNODNPY1JGcnd6U0xPYVlxbFI1TlEwOHlVWDQ0ZEZtajBzdzUxLVkxbXRtdk1jb2hR?oc=5",
+  "clave": "azul destaca importancia masculina novembro",
+  "capturado": "2026-11-14",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -738,6 +1122,25 @@
   "ruido": []
  },
  {
+  "id": "180b9fefc021",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Diario La Provincia San Juan",
+  "titulo": "Sabrina creó una app de salud mental y es candidata a Emprendedora del Sol por Rivadavia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZmhKSWZuMzQ0Y2dMaVEzVUhzV1VzZzhvSjU0VzI2a3Z0WEFjY19ydWxTUTRCRS1TQXpKWkNlUzl4dy1IZzlIN0h0Y1E5YnlaemR0bkhyNnlteEFmUktKMXpscnVvdXRaSmxNN1FfOENJdlYwdTNXd3pOZjNhajBqU1l6S3N2c0RnNkI1emR2djJWSVlnckVDeWVkVk0wYzdaN3dsUjNNM2paSXlROTZvQmZlRnUwYklXbXEtZFdwZ2JRZ1F3VkFRQ2dyT0xkUzlwSEFPSERoeUQ2TGFPWkZJdEt6OXdKRnZpNmFFYk82THRaX2RQOVFyWl930gH6AUFVX3lxTE1maEpJZm4zNDRjZ0xpUTNVSHNXVXNnOG9KNTRXMjZrdnRYQWNjX3J1bFNRNEJFLVNBekpaQ2VTOXh3LUhnOUg3SHRjUTlieVp6ZHRuSHI2eW14QWZSS0oxemxydW91dFpKbE03UV84Q0l2VjB1M1d3ek5mM2FqMGpTWXpLc3ZzRGc2QjV6ZHZ2MlZJWWdyRUN5ZWRWTTBjN1o3d2xSM00zalpJeVE5Nm9CZmVGdTBiSVdtcS1kV3BnYlFnUXdWQVFDZ3JPTGRTOXBIQU9IRGh5RDZMYU9aRkl0S3o5d0pGdmk2YUViTzZMdFpfZFA5UXJaX3c?oc=5",
+  "clave": "candidata creo emprendedora rivadavia sabrina",
+  "capturado": "2026-11-14",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "5c5a5c404a5f",
   "fecha": "2026-11-11",
   "carpeta": "01 ESPAÑA",
@@ -754,6 +1157,25 @@
   "topic": [
    "salud mental",
    "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d10a0b0f6995",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "24horas",
+  "titulo": "Gobierno Regional aprueba $3.230 millones para duplicar las atenciones de salud mental en Arica",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaFRUMXJJUDl2ZlgzVnFWNXp0RXJMR21UcHZPQVh4UVpGTjFVQmxoNldvcl91NFdmSWtWM0g3UTF6dEYtaThuOEZCMXd2MjRKNkU0Y0FRcDhoRFBKS09UZ2owbFV6OEE5NWlGTkRFNGhteWtOeGIzNnhidU5STmtYQng4aHpDUC1LRUNLd0ZJcXRDNF9OQ2VwZmE4dHY4WUtpVFlKclJ2LVB6R0RTWjlTbzFCV0E4dHNBbVE?oc=5",
+  "clave": "aprueba arica atenciones duplicar gobierno millones regional",
+  "capturado": "2026-11-14",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -36240,47 +36662,6 @@
   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMWgtY3pBdl9qS0tMSFhaME1ZOEJBZktrQTViSFlzbkhHRnhfeUtHb0JiNk0wRGp6OExKWnpHWkZWZkdPaGlzcnNLa2JnNjd2RVhEWjR6ZEJLZjZkU3dqSEN5TlN6cTV2WDVzdFJVZTlaZmNJUlJVVUE0VFhyVjFWWW91LUx5WUZ1OHFfdVRkN2JQRUlCb3IxeHRFT1hkMFF5MEVUTmJRU2F6d0xSSWZ0MV9WeXdhSHp2WXZFOEV6elNZakVHbmNseHd2UEZLcnR1THNnSjE2VHdFR2JHajhGWEtkMWXSAeoBQVVfeXFMUEdZcjFkelJIQ1hPNXZyaHZkMUg3cGlqSUdlS0stMk1UOVZqeVpMeUhMU0t1d2dwd0JhX0xaaFZkdGt0LUt4V2NScnZ0ODJsQkhHWHpsRmxPUjB2MUpiWm1uMmJJREpsRkFZeW4tbm8wcTNiNjJPczNqZ1RQT0RHaFhnMHYwOXJVMTFtUGhDUFFrcU1BTlZyNW9NelNDeGZSdHpNUl9za0lKVlZDbmc3TmtfWjlrVWZqNnVrNE5adHRiS3V2ZmpwOWZDS3RUdmtwX2dDcUxUWGQ1VDdWNGtNZF9qTGxrUkJWVGlB?oc=5",
   "clave": "ante demanda fraude gomez responde selena startup supuesto",
   "capturado": "2026-09-23",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "84ecca5dde52",
-  "fecha": "2026-08-15",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "G1",
-  "titulo": "Saúde mental no trabalho ganha novas regras com atualização da NR-1",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVl3c0hYeGVrbUZGcWI3Z2FFRm5WbzhPRHMxX2lVN0ZVYllOc2ZOV0FEZGdvTG5ydWtId2hPQWJzX3lUUVNRbEJuVHJiNklrMzVuSkdaREQwRFJkVmRfMTl6eW5uRlpUQmtxZ09rMmdKVW5XeGwyQmQ0M0VsM05XVWd0bFZ4aG9ENW5GTkRzNnlhYXkyTUJHX0lxV25mLXFXRUFTNnZ6Z3V6QjQzMC12M25MbU8wSV9sYVc4TUdKZlNFYUZEdG56QVNWMEJoZG1NRmRTREMtM1FGbEpJWUtpRTFHT2F1Mmw2YVoxdVZISjRxT3fSAYICQVVfeXFMTjh3WS1sZXJaLUY1NjlySUFNUDdjbndQX0d2OEd4Wk9mTF9ZR3hFbEpGZE96WTVPZm1RNWpWMzBfZTcyLVVJRGJJUzF3anJJX0FYb1ZlQUZjY1I5ZmtpTWFOaFdZcjI4WUtSd0NhdDYtS2pIZUNTckt2RXljMmV0OHY1MVIzQ01pRHl1aF93N19qVDhJWkZTN3NROWdfSWJKZjdJMTZsTl80RlAxLUV6UFlmUGtFMWVjbzhiazVTc3psRGJrSTV3RGlxTjhtY2lCMk9DYUtrTVVrRGZwV1VlTDZ6YTF1X0hyaE91Smp4Z05tZFhlR2JYNmlxLTktTVdIcFpR?oc=5",
-  "clave": "atualizacao ganha novas regras trabalho",
-  "capturado": "2026-09-04",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "b1303a98ef3a",
-  "fecha": "2026-08-15",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "NOSTÁLGICA cl",
-  "titulo": "Demandan por fraude a Selena Gómez y su startup de salud mental: inversores acusan que fue un engaño",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVJFMnV6di1nczUyMVpMYWxac3gyOHVvZHNVTWZfMTVhYS1uZEJrTDVqall0QWxuUW5BYW1vYy1uZXM2Y2N0UkhFTmtGRVJFWGpfLU1PQmV5RTVfNFlxMm5GdElDMC1MUkhEYkdxdEdGNGRLVXEwbjdudW5hZ3ZMWjRUVndQSDB4aGhvNkFhM3R1YU5ZcVczSHMxVnpkTkZReEkzYWRVZzRsV0FmZXdnbmtqT2R5MzZKeE1GTmNxcndpRk52?oc=5",
-  "clave": "acusan demandan engano fraude gomez inversores selena startup",
-  "capturado": "2026-09-05",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "producto",
