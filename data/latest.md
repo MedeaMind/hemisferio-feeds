@@ -1,9 +1,7 @@
-# Hemisferio — señales 2026-11-06 → 2026-11-14
-152 ítems con tema salud mental de 735 leídos · 144 historias únicas · A=12 B=61 C=71
+# Hemisferio — señales 2026-11-07 → 2026-11-15
+132 ítems con tema salud mental de 730 leídos · 124 historias únicas · A=8 B=53 C=63
 
 ## PRIORIDAD A — hechos con datos (leer artículo completo)
-- [2026-11-06] [05] **Nueva ley de salud mental contemplará cierre temporal de medios que divulguen datos o imágenes de suicidios** — Diario Libre · cat≈regulacion · 10 pts
-  https://news.google.com/rss/articles/CBMizAFBVV95cUxQSHhZSXdpazVSOTlyT3BuQXNsQ3I1aUxOTjM0cnNHa2JmZFdTOXBNTjVBMEFhbTBZUHJrc2s5d2FRakh0RURJbXdKblJfYkVNTEkxbEt5OW5BX0hVSVFOMV8wQkJEZm9wRjVTZG5TSHlPdVYyNGs1aXZkR3REbXZ6RzlVNDQybEgtRWo4b0d4V0xLX21rYWtFZ1lvME9Va3gtdWNIME5rOXhRNTNHRFZsNlhiSzZEal9FRW0xVUdpdmE2RUo0dEhoMlNQUlDSAdIBQVVfeXFMUG1nc1VHTkd4WmE1bWFUQjljcEctV0xCazF1czB1alA0QWMtTzVQX3FnbDR2aFRPRHNmTkdreFJ0a3ozSURuVWFEVmNFZkxId1VuQjlBOEthRHF2X2hLY21WcHVSa0QzNVVsWXdQYm03WmRUTlVydzdlZFZGaDlsWVQ0WUxodmdPUDJDNDNhQXVyRUZqczFPbExSUFhPVnNnajE4TkFsdmNMUzhubGMyc0JHYzNib29ZSmlKS1ROemFVbzNyMXI2YUVQVWVRX0tJd2ZB?oc=5
 - [2026-11-11] [01] **En España hay más de 240 internamientos forzosos al día** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈regulacion · 9 pts
   politica y normativa soledadvalle psiquiatria son mas de 10 internamientos involuntarios a la hora, uno cada seis minutos . en 2025, el ultimo ano con datos disponibles, los juzgados en espana resolvieron 88.417 internam
   https://www.diariomedico.com/medicina/politica/espana-hay-mas-240-internamientos-forzosos-dia.html
@@ -19,16 +17,8 @@
   https://www.redaccionmedica.com/formacion/fse/20261113/el-numero-de-inscritos-provisionales-para-el-examen-pir-cae-ligeramente/365110_0.html
 - [2026-11-13] [05] **Entra en vigor la reforma que garantiza los derechos de los pacientes ante las intervenciones involuntarias en salud mental** — El Libre · cat≈regulacion · 7 pts
   https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSElENzhXRklleWdTcUJKbkw0dUJaeG1TTVVIbkVjbGNBd2FrRC16YVNWOFlIOU5ZeDI3a1ZlUzFWekFRb2lDOENMZ2ZQWExGOUNMTGRya1M2Q2VYZUNneWg3RXBNM3JaQVpadGttWUVWTmRqNEZXeUJtTEhmdzkwZmp4eERtMWNLQ0lLWnJ4UGtMZ0I4eGo0VC1GaFlUZm1aZkFWOFVReXloT2RuNmZhTWhiNGprdmV6bVcwWFlMcTJ1YkNtMkQ4S3NUV2Z5NjlIUjd4RF9uclFTOXc?oc=5
-- [2026-11-06] [01] **El comité de reforma de la sanidad catalana amplía sus perspectivas con tres voces más** — Redacción médica - Home · cat≈sistema_publico · 6 pts
-  el cairos tendra tres nuevas vocalias: una terapeuta ocupacional, un medico de familia dedicado a la gestion y una enfermera y ademas: cataluna alargara un ano mas la prueba piloto de reforma de la atencion primaria
-  https://www.redaccionmedica.com/autonomias/catalunya/20261106/el-comite-de-reforma-la-sanidad-catalana-amplia-sus-perspectivas-con-tres-voces-mas/364517_0.html
-- [2026-11-06] [03] **Sem cuidado não há vitória: CFP leva a defesa da assistência psicológica continuada para atletas ao Conbipe 2026** — Conselho Federal de Psicologia · cat≈regulacion · 6 pts
-  o conselho federal de psicologia (cfp) levou ao conbipe 2026 uma forte mobilizacao em prol da aprovacao do projeto de lei 7.683/2017. se o corpo das/dos atletas conta com acompanhamento medico e fisioterapico, a mente ta
-  https://site.cfp.org.br/sem-cuidado-nao-ha-vitoria-cfp-leva-a-defesa-da-assistencia-psicologica-continuada-para-atletas-ao-conbipe-2026/
-- [2026-11-06] [05] **Sanidad se olvida de la reforma del centro de salud de La Loma y dedicará la ampliación de La Mata a salud mental** — Información · cat≈regulacion · 6 pts
-  https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVUN4NXhxUWY0cnhTZ0ItcTVWWkI1R0Zael9qenBsN1VNZFhFOEtwdnZYLUNkbWxpVUJZZTE1alg4UVJ3MkxrQ09CbC13SjhFaWxoQTdXS2s5aEhHalplQjhrSFpJOEVaZm0xS0FLWDJhd2hNZW1zaWJXbEc1bnhZMjV5Xzc5UmxaeUhCbXVpSm5ZbVVKSjNPLUh0R1VVUkRlNHBhZERoUUdtTFQ3b1MtX0RHV2NmR2x4QWxtRFdXMkkxTi1oTDlpeGVSVmtLWER6akI1d0ptU3o0X0JQRFpFczBn0gHnAUFVX3lxTE5jX1llbXVJeXh4bmt4Qm5FczBNS2xRLVlsNjY3bHpxZVZjUVo0c1pPVXJVbHhvR1pXXy1vWEtCUjkxY1ZGbXBWWWxYenVaZVZZOF9sNGh1NGNTZ1p1U3RkT21wamFxY2J1Y3JFSm9tWTRHdUJWUU0yMmkyRWFhQ3FobENpZmNoMVQ5SkxSWVdSSm11MWRvQUF3SjhQbkZ3VVZjQ0c4d3lUd1AzcmNuVFdXUXE2Q3VBOG1CMTR2WG9xU1VCeENWQlBreER5YmpzZTJ3b0doMHN5VVNaOEZpNnVnS2F6T2NSQQ?oc=5
-- [2026-11-06] [05] **Reforma de la Ley de Salud Mental: especialistas explicaron en LV11 qué cambiaría con las internaciones involuntarias** — Radio LV11 · cat≈regulacion · 6 pts
-  https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRGJYLUJ0Z1l6T19Qa2hJMUZMVzFUakdyOWMwQ0VZMFBaQVdvbElTVXBwQmQxSjhWREY1cHRXQXNQRWxjbkViZ2FSRUltQjJyOGJWNElPbkdpOE9YV3dMT1ZYUGo4Q2xjbDUxakZzSGg2UlFTTVJPRzVGczVfdTlBcDAwLUdKR09naERhaUtxenlFMmtxUWhDa1VERnBwUDlnMjEwU1lKa0ZvbXlQMVZLT3RuVTdoSENERGU1ell0UnJEdldPZ2FJdDdteXF1dGJyT3BoX3JiRjQyc1ZCV2ZiaWp4TXM3Z3Za?oc=5
+- [2026-11-14] [05] **La Xunta amplía el Hospital de Día de Salud Mental del CHUO en Ourense con cinco consultas y 83.500 euros** — MONCLOA.COM · cat≈research · 7 pts
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnk2a3BGTmVuRGdPQnFhb0s5ampsazlwUVFZX1lGTHlxRjdwLUcyLWdDVjJLa1lBelRBNlhhY1h2c1AzV3hINVBCdHhCTTYzYk5SSFd2VENkTGM1QzlqeWZXdjJBMV84eXZJdzVHZzdycDU1dnEyMFlqQkVubE9MVGd3dHpVU3hjWHc?oc=5
 - [2026-11-10] [05] **Casi 12 mil personas han recibido servicios de salud mental mediante la Ley CARE en California** — Uniradio Informa · cat≈regulacion · 6 pts
   https://news.google.com/rss/articles/CBMizwFBVV95cUxPNkNOVXY2aGRNQ0ZZMTBNR2NtNklaZGNwWFJQWDRDWl9DZERpRHN1UkxIZkRZdGNPRDRxUFVZa1lQSDdoV01iQnlValZrMWxSVjdGclp5bU0wLWJwQjR3T04zOWRMblpQbUQ4d3c2Nnc0cmFXTm9zU19TaDVqYmkwVnJQSWgtd3pvamU5NlNTTTlCMDQ1TlAyVzNWSDluMllOcEt5Y2g1UU4za1IwWU9PeTZWWDNLSWVISkc5NlJ5M0pvd1loNFZsb1dMR0xBRGvSAdQBQVVfeXFMUFNlYlV6ckdacW5CUmtUb0tqMlRXZDVmZkx4eTU2MU5QWnR5V091a2ViNWN2Qko2Z1haaXRfYUp0Qm9NemQ4UFBuWmNEcTBzWWtQR0o2NVZkdFBUa1lub1pWVmpIcXg2VmxjNGt6XzhuV29vN1pNT2VVT0NUTUR3VjVJaFZrczQ3cHJ3SDhDcURSTzJUY0RfQzllNTRaMWpMRkdhOUJCZVFXOVczeUZqdHZacWNwSnJ5RHVJdFFFTDBrSEllcjM4SXdKVUVqaG1POUtwTjU?oc=5
 
@@ -46,28 +36,8 @@
   https://news.google.com/rss/articles/CBMifEFVX3lxTE1hRXBWLXZOZjM3TUdtbzd4ZFdKUXRqaGlUMWdrY2wybHVvaFdQM21vY1pnVlQ1WXVZVjBsNDRfQzdnYmxwMWZIV0FqQlpGVkVwMXM0SUZwY2tkeDRFNjNTSzN3ck1maW9vZFpINTlVVkhuYWJHbFZTTnNuZkw?oc=5
 - [2026-11-12] [05] **Sanidad destaca la inclusión de su modelo de Salud Mental en Emergencias en informe europeo de cambio climático de OMS** — Infosalus · cat≈research · 5 pts
   https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd3BTcjNUeVNjWkMxdW5RNHdhVUJRSGI5YlBFaTM0bDVaNmJSM1M5TXh6cFF4ajY5YXdlbzhvU1dib243ZHl3WHJYdTFVZzRtaDZIY0t2bVA5NFFBVmhQSi1sZ2JzMHJtdVBPZ3ExX1NQOG5jdi1vSlA2UlJ4VmJJeDdnVkdOaHBqaFBZcnFyM3lxRTdreTFlMWVldm1hNmJ1WDE1WU1DY0pRZGV4S3RwTzNrLUhIc1dYVTVzYTYyQ2xOR1M5UTF3c1E2cFBJSkZtamhkcEYwWkY3ZWlsdUNEaGJnc1Iyb1N1cTNxR0hXeFk?oc=5
-- [2026-11-06] [01] **Andalucía refuerza la salud mental con tres nombramientos directivos** — Redacción médica - Home · cat≈regulacion · 4 pts
-  nombra a miguel guerrero coordinador del plan de prevencion de la conducta suicida de andalucia y a matilde blanco y francisco vazquez codirectores del plan de prevencion de la conducta suicida de andalucia y ademas : an
-  https://www.redaccionmedica.com/autonomias/andalucia/20261106/andalucia-refuerza-la-salud-mental-con-tres-nombramientos-directivos/364544_0.html
-- [2026-11-06] [01] **c. valenciana | Sanidad licita por 1,3 millones la nueva unidad psiquiátrica del Hospital Doctor Balmis de Alicante** — https://www.consalud.es/rss · cat≈sistema_publico · 4 pts
-  c. valenciana: sanidad licita por 1,3 millones la nueva unidad psiquiatrica del hospital doctor balmis de alicante
-  https://www.consalud.es/autonomias/c-valenciana/sanidad-licita-por-13-millones-la-nueva-unidad-psiquiatrica-del-hospital-doctor-balmis-de-alicante.html
-- [2026-11-06] [05] **Bruselas acusa a TikTok de incumplir la ley europea por los riesgos de su algoritmo para la salud mental** — Demócrata · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHU1QjJBVmxLdG5lN0dhOVFDZVlucHNJdkgwYnRiT0tRRTJILXROcm5mU2d5SU5ISEFUOVFyNlBTSTdITzRadEEtSHVBRi1sV3dTWktxNlRJOHhtekxvcnl3eWV6RDU3TDNyUmx0cDN5alRGdE15SmJEWG5Oc0lVem9teTZrUUFGdVpUZDR2dnZuRU02M2fSAZsBQVVfeXFMUEZIUEN1WTFGcUx3Ny1fMHloOWp3NHp4aXpKQVR3alFXZTUxc2NFSTVSQkF5cGZvRVZNaEl4R2g5cGZqVnFMbmh5RUVUbTBjb2xrazlxa0VTNThCUURIbHJtOUF2QkJZa0NnVFY0QXNZblpHY1FMaTRqWjE5SEcyNUlpSGp6ek5pQUJRR1RqVHBmMUZxVkNmQmxTMDQ?oc=5
-- [2026-11-06] [05] **No al proyecto de reforma de la Ley de Salud Mental** — Prensa Obrera · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTM4T0hxU1VDekRXaWdsUmhVY1lRVmZJU0FqMmwyNVhsMm9nY2tReHBYN2lvTmNjV29CWXNRaHNiVXpPdmljOXp2THlEMmNwM0tEQjMxLU96X2IxeUI4MzVOclFjODMybEQzV3dLaVhaZDVyNkt0R1VZRHprbU1IUy03TmxxUWRJbkt1dXNEQQ?oc=5
-- [2026-11-06] [05] **JULIETA CALMENS: "TODOS LOS MINISTROS DE SALUD REPUDIAN LA REFORMA DE LA LEY DE SALUD MENTAL QUE IMPULSA BULLRICH"** — Radio Provincia · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTFAya19mMUdtTk5KYWNXQkF3YXh2WmJNMFJHekYxNGQ5RlpKc2UteXdqTjNwcnJBUVJPXzVvWTlFSEpqUWVPWU9hU2dqOGFscHQzVFpLcHRsS1VNblJTdGoxdzJjZml3UQ?oc=5
-- [2026-11-06] [05] **Senado impulsa Ley General de Salud Mental, garantizará atención a personas con depresión y ansiedad** — Reporte Indigo · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMi7gFBVV95cUxObXhGdnQtQnBkMDc2RWtMTXM4ZTk4RFBJNm0xQl8zNHZjZlhJUWE5WUNFMXVXYTlvWGFCU2ZaZjcyZnc2MHBoWXJJSFlScExOWVZ0VnlvM0xBVW85NkI2UWp3YzI1Nk9SandUNEJpa05HaWtZUGdHZmhCVnZXZnMyRkZmSXU1YWNLaVlBOFZZQ2tpZHZWa0ljYnNwXzdGdlJMYjlBaVJqYTNacExzZEZUZG5LQUVJcTFLcGMyVlJna0ktQWhVeWF4N3k2VFNLRy1wd0FmZDZZekxzQjkwXzRKOWlfbGh6d1FXZndoaHRB?oc=5
-- [2026-11-06] [05] **Felipe Tchê tem lei sancionada que prevê ações de saúde mental para professores de Rio Branco** — A Gazeta do Acre · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMi2wFBVV95cUxOejZNLWE5dllscVFNSWs0Z1hudlBuYXJlWmJiclVfMnBtaTFwbjY2TW9oMThqLVZRMVZoaHBDWExTMlVvSnFXay1ONzRpRGwzTTJvVUM4anNPZldWaDdzWU1zRXhhcTNmRHF1QS13Vm1RNFpTNUlHaXRxWF9IZ0dJMndicnFlckpnNWNFT2lwUkp0OTN0RHY0LVFnNEYyZlFpcFkwUko3NHBpenY2V0dyaUVqYm1DN1pwRmZZWjc1UVJZbXo3bERZYVVLVWFSM19ZS1dRejc5T2dTNWM?oc=5
-- [2026-11-06] [05] **Felipe Tchê tem lei sobre saúde mental de professores sancionada** — ContilNet · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUM0b2RESmhGY3lla3EtbWtfV3FwbW02ZXJiMkFjSXM1OW00dlNBSXJ0NndudXZ4eXZBMDRWMFRZLTg0SmRiQmxWUXJjdV8zaWw1YUlQTDAtMjlfNDgwaU1KSGw2T1VZWUhzcVExczZwWHpEcWg0VG90RDBnRFZxRU9kVEtIbTUtcFg0Z0pBaGZDZGhZWWFZT2FrckNoQlQyZU1GOExUaEVEVUE?oc=5
-- [2026-11-06] [05] **Sanidad licita la unidad psiquiátrica del Hospital Dr. Balmis de Alicante y salda una deuda de 1986** — ESdiario · cat≈sistema_publico · 4 pts
-  https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNl9GV2VCUHVDTzBhYlBCNUczM3VBMjVOaDJQRnJyR21XRU1JS2g3ZFRJMWtvS1hpUndTajBxVXE4dm9FNDhiV3BmXzd0WVgzWUdIcnBfa0NnajRzdGdNcFRZOGxiVmlIeDZKS196d01TNVBVa1Jta2FlQmU3blRNdFJmck00cVlLaHBpQUw1M004OXY3Y2NFRVR4SktRdUFnTEhCRGRTcTV0NFVQR2R2MjBFcDVLd3JiNFZza0E3NDRiR28xWGw4LUhwNmZWeHBKRnZTbERBaGNBYWEyMFVFY2dHS3FiSmly0gHuAUFVX3lxTE9vM25KeV9XdjZJcE1fSEZZUVk4QzFNTURwX3BjcTFZdVhuX0h3Y0ZLSkd5OVNtLVZ6NC11d25yZW0wYUM1Z08zNERNTHFIc2FYWHAxY21aemtEcG42bUF4aHBKLUhIbkF2Smd2WWtNSGNQUkh5Y2lWc2phZ1BRZ0JwWlBEZ0JtNF9DSDIyWlg3WlI0OEYzVElaRmJIcWdheTVNVEFXYlYtVWpNaGxtb2lvX1Nxb3I4S19WWUpvSmluaHNzaU1RcV92RTVUdUNvM1dBOFp2c1ZBc2lIME1oM1M1R1BXOFBVYzhhVlZyblE?oc=5
-- [2026-11-06] [05] **Bruxelas acusa a TikTok de incumprir a lei europeia pelos riscos do seu algoritmo para a saúde mental** — Demócrata · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMitwFBVV95cUxOOERBVV9ZeFhxdnJmejFoYzRxVFpJNFpza2FCU2pPTHp5NUY0X0hTS3pUTVU0YkpQcG43aHlLZUctbkNDRGRWZk1wZmZNUmNWcEo5cVczb3NJZ3FIUGE1WVBSa0g5SXc2YmU5VUVJQzhrdUpzVXE3dTZmT1BOakNmalI4dGlTeGRyYnU4eHJ2NnNSbHFRWTVHR0VRdHk1Qm5ucHdrY25QRVpTYl8zZm9VQmNUVnduelnSAbwBQVVfeXFMTVpOU2JBUlQ0a3d5SWQwQVJaUGt2eGtIazJ5a2VMZVEweW9udThHZC0yaGRoTngzQXlLd25aamE4d2xIdFQzT01lMXhpN2xaeFhPckR0QkUtN25OYjAyLTZmV2xTc0EtR3dTTFRpQlJKWlFoZkpwdjlsV0dhZExFV3VVSFlKSEFUZGdrc3pYcTYwZ2FzZE82N1J3WkMxOG10VjF4ZXBjYjdjczBuVXZkLWNrU01jMVdzNkdHdXY?oc=5
+- [2026-11-15] [05] **Emergencia en salud mental: en Santa Rosa hubo 324 consultas en un mes** — Diario Textual · cat≈research · 5 pts
+  https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1RobjRjSkR5anQyWndmMHMyc1JoUG5QaEVLZnl1YlFHRjVOUG16TEZzVjB6MFR6WEFTeENLRFpaY1RfVnV3bkxycnJLWE92MF9tZkYzWlhuelp5c19ESWhiN1gxOUtLb1dTZDc1UGdCaHlfdk9tSHRpQXI5YjVKUGxHdTgzLW9KY0NZTnNjUXlnaWFWcGhDY21fblhneGpVS2NkaWR0MGFWMW04QjZZSFpqS3pVSW5XaWxmeUtRNDRNZw?oc=5
 - [2026-11-07] [05] **Los psiquiatras alertan de que la nueva ley de salud mental puede dejar desprotegidos a los pacientes más graves** — Diario Sabemos · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMi1wFBVV95cUxPakR5U20wME45VnE2U3ptTG1yam1WcnpyN2ZEODFTVDhDelFpN3VPQ1BWMnB6cTZBM25CX2tTbENhRm1Idy1hdFh1QzRGcm9UQUlvVVRvRlJkVGwwRkhWMUpxZGR2NlNoZDF3S3d6SmdPRUdJZG5uY2NrM3V1TkFTQVhzMGlhOEpHN25nMDJ5QzducXdUNnVaWWQtZHdKQ0lBVkwyWEtYTWVoSmhGZXFabzJmZTRWN19fN3ExVVF2T29zOGhtMk80djYtSHU0T1RkSVNMbTR0QQ?oc=5
 - [2026-11-07] [01] **El burnout sanitario resiste como el gran 'punto ciego' de las reformas laborales en Europa** — Redacción médica - Home · cat≈regulacion · 4 pts
@@ -141,10 +111,13 @@
 - [2026-11-14] [01] **Cáncer de pulmón: las novedades que pueden cambiar estándares** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈regulacion · 4 pts
   oncologia naiarabrocal esmo 2026 el avance de la medicina de precision y el desarrollo de nuevas inmunoterapias, conjugados anticuerpo-farmaco y anticuerpos biespecificos estan ampliando las posibilidades terapeuticas en
   https://www.diariomedico.com/medicina/oncologia/cancer-pulmon-novedades-cambiar-estandares.html
-- [2026-11-14] [05] **Salud mental: la ley debe garantizar que la ayuda llegue a tiempo** — Infobae · cat≈regulacion · 4 pts
+- [2026-11-14] [05] **Salud mental: la ley debe garantizar que la ayuda llegue a tiempo** — Infobae (+1 medios más) · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2RldjFoSV9URVZjZW9vZk1xZjZCYkNLa1lzUG1tUzB4YTZqVlVIVVJlYmRkM0lxRTF6OUh3MmY5WE0yMlU4aWNUa08zQmlvNmNELWRaMUljOGxVQ01ZbUNIdmRzeHhzdl9ka2Zna0hLTTFOVHg3aUtrRzlIcUQ4a1NuNEdGcE5kTS1RS0tUNkRGYXZDOVJ4M2h5cFZjSTBzZFZNTjkxcGdIb1hU0gHHAUFVX3lxTE56eDAzbms3ajRONkN3cHRnMmJ4T253dmYxUVhhbnBRcy16UlM2ei16Zk5XR3FZNm5mTW1fcGY1UExTX1hUTjBkWVRCdzNsY3BWZ0NhS0tUSkhMcVNWZ2VMeERienloWHhQS3ZLTnlWdDl4UGpuWUNGWUd0V3BqTDE1R3lmMGRqeUNGV3pQeWRhMml6RmJYOWFCZmhkQkI3bUR4MVBONjhsa1ZjTVE3X0U2ODQ2RjI1aGtBdWRqMlZiY2trNFVrMWs?oc=5
-- [2026-11-06] [05] **Atendimento psicológico online no Paraná: dados e regras** — Paranashop · cat≈research · 3 pts
-  https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXVkTHVyNXN5UDJtNTBqcmZmVGVsSnQxNE4yR2NSdlhYVTQzQktlZjJOU0xTVy02N3JGTzVuNUYtR0dmd1JEZnlINmhOQnVhZjhUb3l1S0tJamxaSzRCQnFhRG9sRW14Mm1paHU1aWhGbnduRC1NaVAwQm5PYkxtQmpWSzhYNXphNXJPUEl6VEpScEZhd1hxTVJEUnhjakZwVV81MA?oc=5
+- [2026-11-15] [01] **La conectómica impulsa tratamientos más precisos en psiquiatría** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈regulacion · 4 pts
+  psiquiatria mariasanchezmonge congreso nacional de psiquiatria con la oncologia como abanderada, son muchas las especialidades que han iniciado un viaje hacia la medicina de precision. las ciencias omicas copilotan la na
+  https://www.diariomedico.com/medicina/psiquiatria/conectomica-impulsa-tratamientos-mas-precisos-psiquiatria.html
+- [2026-11-15] [05] **Telemedicina, salud mental y hospitales: los proyectos que prepara Jujuy para 2027** — Que Pasa Jujuy · cat≈sistema_publico · 4 pts
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXl3ZmNlWDl1YnhJeUVPeWtQWDR5WlhIdjRrU1JmNlgxaW1aU2xwRTFiMWhPM05KQUhVNmFNVVh3cS1HTEgxa2RVaHRDWXlrUTFiRjI4M3BQcGQwODJLOHN3RWYxdGw4UG1xQnFyZDFNbExjOGxrbjEzenhPQ1F5a0o5LVQ3WU9BWnZqbjdJSF9tSHlWM0lPd055c2FoUG1SeUU2VGVjbGM0Zw?oc=5
 - [2026-11-07] [01] **Villalón (Atlético de Madrid): “La IA es una ayuda, pero el ‘jefe’ es el médico y su equipo de trabajo”** — Redacción médica - Home · cat≈producto · 3 pts
   el responsable de los servicios medicos del club madrileno valora la capacidad de la ia para ayudar, pero sostiene que el criterio clinico del medico no puede ser sustituido en la toma de decisiones terapeuticas.
   https://www.redaccionmedica.com/innovacion/avances/20261107/villalon-atletico-de-madrid-la-ia-es-una-ayuda-pero-el-jefe-medico-su-equipo-trabajo/364570_0.html
@@ -172,8 +145,6 @@
   https://www.infosalus.com/salud-investigacion/noticia-desarrollan-nueva-estrategia-terapeutica-contra-cancer-resultados-prometedores-20261113081150.html
 
 ## PRIORIDAD C — probable ruido (solo títulos)
-- [2026-11-06] Alicante Sanidad ha licitado el proyecto de una unidad de hospitalización psiquiátrica en el Hospital Doctor Balmis de Alicante — Onda Cero
-- [2026-11-06] Bruselas acusa a TikTok de usar un sistema de recomendaciones de vídeos en bucle, dañinos para la salud mental de sus usuarios — Telecinco
 - [2026-11-07] De "vómitos terribles" a un brote psicótico: Psicología alerta de los peligros del complejo consumo de ayahuasca — Redacción médica - Home
 - [2026-11-07] IASIN leva saúde mental à SIPAT 2026 e cuida de quem protege vidas nas estradas — Gazeta do Paraná
 - [2026-11-10] Simulacro Examen MIR 2027: Enfréntate a las 10 preguntas más complejas para asegurar tu plaza — Redacción médica - Home
@@ -186,18 +157,12 @@
 - [2026-11-11] Exposição reúne mais de 50 obras produzidas por usuários dos CAPS e está aberta ao público em Cuiabá — Prefeitura de Cuiabá
 - [2026-11-12] <a href="https://www.fiercehealthcare.com/payers/carelon-agrees-pay-10m-settle-ghost-network-coverage-denial-allegations-new-york" hreflang="en">Carelon agrees to pay $10M to settle ghost network, coverage denial allegations in New York</a> — Fierce Healthcare
 - [2026-11-12] UNICEF advierte de que la sanidad no cubre la salud mental infantil y adolescente — Qué.es
+- [2026-11-12] Sanidad destaca la inclusión de su modelo de Salud Mental en Eme — Torrijos Today
 - [2026-11-13] Ministério da Saúde facilita acesso a teleatendimento de Saúde Mental no Meu SUS Digital — Governo Federal
 - [2026-11-13] 800 mil pedidos de demissão em um mês: entenda o alerta sobre a saúde mental no trabalho — bra1.com.br
 - [2026-11-14] El laberinto asistencial tras el coma etílico en menores: entre la falta de protocolos homogéneos y la atención fragmentada — Redacción Médica - Home
 - [2026-11-13] Javier de Castro, presidente de la SEOM: la desescalada gana peso en oncología — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-11-13] Congreso de Sonora recibe propuestas sobre salud mental, educación, ganadería y cuidado ambiental — El Diario de Sonora
-- [2026-11-06] Colapso en salud mental de Magallanes: demanda duplica capacidad y Fenpruss exige inversión urgente — El Pingüino
-- [2026-11-06] Casandra Gaspar: “Es difícil pensar en una salud mental cuidada si no tenemos garantizados nuestros derechos” — Prensa Mercosur
-- [2026-11-06] Nota de sentir: Magda Dimenstein — Conselho Federal de Psicologia
-- [2026-11-06] Que nadie enfrente solo una crisis de salud mental: Alejandro Mojica — El Sol de México (+1 medios más)
-- [2026-11-06] Amplia movilización en defensa del derecho a la salud mental — Prensa Mercosur
-- [2026-11-06] Programa Qualidade de Vida no Trabalho promove palestra sobre saúde mental e autocuidado — Prefeitura Municipal de Esteio(RS)
-- [2026-11-06] Maricá reforça cuidado em saúde mental com esporte e atividades artísticas — Prefeitura de Maricá
 - [2026-11-07] Nova norma de saúde mental no trabalho já está valendo e traz mudanças para quem sofre com estresse e assédio — Tua Saúde
 - [2026-11-08] Policías retirados tendrán apoyo laboral, financiero y de salud mental bajo nueva ley — El Nuevo Día
 - [2026-11-08] Santa Cruz terminó de redactar un anteproyecto de Salud Mental con enfoque comunitario — patagonianexo
@@ -236,8 +201,8 @@
 - [2026-11-13] UBS Paiol Grande promove encontro de saúde mental com foco na saúde integral do homem — Prefeitura de Erechim
 - [2026-11-13] Novembro azul destaca a importância da saúde mental masculina — Agora Litoral
 - [2026-11-14] Un grupo que reúne a Meta, Google y TikTok demandó a Nueva York por los avisos de salud mental en redes — Infobae
+- [2026-11-15] Frente Amplio impulsará la atención pública de salud mental — navarratelevision.es
 - [2026-11-13] Internamiento psiquiátrico involuntario: la situación paradójica en España — DiarioMedico - Plataforma de profesionales sanitarios
-- [2026-11-06] Saúde mental dos profissionais da educação é tema de seminário em Urubici — Assembleia Legislativa do Estado de Santa Catarina
 - [2026-11-07] Más psicólogos en centros de salud, menos recetas de benzodiacepinas — La Razón
 - [2026-11-11] La Federación Española de Diabetes reivindica equidad territorial, educación terapéutica y asistencia de calidad — infosalus.com
 - [2026-11-11] Campanha amplia debate sobre saúde mental e incentiva homens a cuidar de si — Prefeitura de Porto Velho (+1 medios más)
@@ -245,7 +210,7 @@
 - [2026-11-10] Más allá de las hormonas: qué papel puede tener la microbiota en el bienestar adolescente — infosalus.com
 
 ## Estado de los feeds (hoy)
-- 01 ESPAÑA · Redacción Médica - Home · leídos 30 · nuevos 2 · ok
+- 01 ESPAÑA · Redacción Médica - Home · leídos 30 · nuevos 0 · ok
 - 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 0 · ok
 - 01 ESPAÑA · Gaceta Médica · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 0 · ok
@@ -266,13 +231,13 @@
 - 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Portal Médico · leídos 1 · nuevos 0 · ok
 - 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals · leídos 44 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · ES regulación · leídos 62 · nuevos 10 · ok
-- 05 GOOGLE  · Google News · MX / LATAM · leídos 40 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · BR deals · leídos 45 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · BR regulación · leídos 70 · nuevos 6 · ok
-- 05 GOOGLE  · Google News · PT Portugal · leídos 47 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 10 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 9 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 35 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 26 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · ES deals · leídos 43 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · ES regulación · leídos 57 · nuevos 4 · ok
+- 05 GOOGLE  · Google News · MX / LATAM · leídos 43 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · BR deals · leídos 43 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · BR regulación · leídos 66 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · PT Portugal · leídos 48 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 9 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 10 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 33 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 31 · nuevos 0 · ok

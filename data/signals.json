@@ -1,5 +1,100 @@
 [
  {
+  "id": "c9468e469ffa",
+  "fecha": "2026-11-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Diario Textual",
+  "titulo": "Emergencia en salud mental: en Santa Rosa hubo 324 consultas en un mes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1RobjRjSkR5anQyWndmMHMyc1JoUG5QaEVLZnl1YlFHRjVOUG16TEZzVjB6MFR6WEFTeENLRFpaY1RfVnV3bkxycnJLWE92MF9tZkYzWlhuelp5c19ESWhiN1gxOUtLb1dTZDc1UGdCaHlfdk9tSHRpQXI5YjVKUGxHdTgzLW9KY0NZTnNjUXlnaWFWcGhDY21fblhneGpVS2NkaWR0MGFWMW04QjZZSFpqS3pVSW5XaWxmeUtRNDRNZw?oc=5",
+  "clave": "consultas emergencia hubo rosa santa",
+  "capturado": "2026-11-15",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "81a179872b36",
+  "fecha": "2026-11-15",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "La conectómica impulsa tratamientos más precisos en psiquiatría",
+  "resumen": "psiquiatria mariasanchezmonge congreso nacional de psiquiatria con la oncologia como abanderada, son muchas las especialidades que han iniciado un viaje hacia la medicina de precision. las ciencias omicas copilotan la nave en psiquiatria y las expectativas de los especialistas son halaguenas. han sido por ello las protagonistas del simposio celebrado en el congreso nacional de psiquiatria en sevil",
+  "url": "https://www.diariomedico.com/medicina/psiquiatria/conectomica-impulsa-tratamientos-mas-precisos-psiquiatria.html",
+  "clave": "conectomica impulsa precisos psiquiatria tratamientos",
+  "capturado": "2026-11-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "96249b00be1b",
+  "fecha": "2026-11-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Que Pasa Jujuy",
+  "titulo": "Telemedicina, salud mental y hospitales: los proyectos que prepara Jujuy para 2027",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXl3ZmNlWDl1YnhJeUVPeWtQWDR5WlhIdjRrU1JmNlgxaW1aU2xwRTFiMWhPM05KQUhVNmFNVVh3cS1HTEgxa2RVaHRDWXlrUTFiRjI4M3BQcGQwODJLOHN3RWYxdGw4UG1xQnFyZDFNbExjOGxrbjEzenhPQ1F5a0o5LVQ3WU9BWnZqbjdJSF9tSHlWM0lPd055c2FoUG1SeUU2VGVjbGM0Zw?oc=5",
+  "clave": "2027 hospitales jujuy prepara proyectos telemedicina",
+  "capturado": "2026-11-15",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0fd4cfdbb085",
+  "fecha": "2026-11-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "navarratelevision.es",
+  "titulo": "Frente Amplio impulsará la atención pública de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYVktMlZWNWtIMU95bGhtWU9FczkyZ0lraHZWaEtWN05yVHo2eWtYU1FjVE9KdFc3STlIY3pLWE1rcVNTQ3Q0c1B2NkxLdVRYQ2F2ZGdIRElhYnoyUUJFUTE4ajVyaklWWWFSYUVSOHJLeVRfMS14eGNDeEk3LUQ0NTBsdFIwUVpzQ2hxSDBYaTgtbG02QTFBU21abnBmQnNxbzQ0Z29zLTNKMU5GamhTSTNOMm9XWF9yRmJEZ1NQVmg1Q2o5b1IycFdlNk1ZWVZqaF9jeE5BTVNod3hV?oc=5",
+  "clave": "amplio atencion frente impulsara publica",
+  "capturado": "2026-11-15",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4f4fa69e5bf1",
+  "fecha": "2026-11-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "MONCLOA.COM",
+  "titulo": "La Xunta amplía el Hospital de Día de Salud Mental del CHUO en Ourense con cinco consultas y 83.500 euros",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnk2a3BGTmVuRGdPQnFhb0s5ampsazlwUVFZX1lGTHlxRjdwLUcyLWdDVjJLa1lBelRBNlhhY1h2c1AzV3hINVBCdHhCTTYzYk5SSFd2VENkTGM1QzlqeWZXdjJBMV84eXZJdzVHZzdycDU1dnEyMFlqQkVubE9MVGd3dHpVU3hjWHc?oc=5",
+  "clave": "amplia chuo cinco consultas euros hospital ourense xunta",
+  "capturado": "2026-11-15",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "c1fc646ac4f2",
   "fecha": "2026-11-14",
   "carpeta": "01 ESPAÑA",
@@ -31,6 +126,25 @@
   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2RldjFoSV9URVZjZW9vZk1xZjZCYkNLa1lzUG1tUzB4YTZqVlVIVVJlYmRkM0lxRTF6OUh3MmY5WE0yMlU4aWNUa08zQmlvNmNELWRaMUljOGxVQ01ZbUNIdmRzeHhzdl9ka2Zna0hLTTFOVHg3aUtrRzlIcUQ4a1NuNEdGcE5kTS1RS0tUNkRGYXZDOVJ4M2h5cFZjSTBzZFZNTjkxcGdIb1hU0gHHAUFVX3lxTE56eDAzbms3ajRONkN3cHRnMmJ4T253dmYxUVhhbnBRcy16UlM2ei16Zk5XR3FZNm5mTW1fcGY1UExTX1hUTjBkWVRCdzNsY3BWZ0NhS0tUSkhMcVNWZ2VMeERienloWHhQS3ZLTnlWdDl4UGpuWUNGWUd0V3BqTDE1R3lmMGRqeUNGV3pQeWRhMml6RmJYOWFCZmhkQkI3bUR4MVBONjhsa1ZjTVE3X0U2ODQ2RjI1aGtBdWRqMlZiY2trNFVrMWs?oc=5",
   "clave": "ayuda debe garantizar llegue tiempo",
   "capturado": "2026-11-14",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e6eaf3225c49",
+  "fecha": "2026-11-14",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Ecos Diarios Necochea",
+  "titulo": "Salud mental: la ley debe garantizar que la ayuda llegue a tiempo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVJnTHU1NVhNTUZJTHByMXdqZWE1V1A3LXN2YjRad0VPUmpsZTNsQ0xmNmtVVEVsdDE5TzltdDJYd1M3MUljNjBVQzlSMHBBSzk5MnR5cmU5ZU4zZ1F5OUR3Mk1hbE9mZHJsVjFranllQ045RHg5X2duaWh6RFNWZ3E2N1NkVFQtS25XdGVoTQ?oc=5",
+  "clave": "ayuda debe garantizar llegue tiempo",
+  "capturado": "2026-11-15",
   "puntos": 4,
   "prioridad": "B",
   "categoria_auto": "regulacion",
@@ -881,6 +995,25 @@
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFMmRGRjA1MzlBZUNZLVNNSTBWc05tZ0JZM01sRVhBeXZQZml0SFFYMXQ4X3pOUEg4V0w0OXJWUWhXaUFMZmN6RlMtNlpva1lRUy1ic2V4R2xzREFVRldMczcyMEx4bG9xNEdR?oc=5",
   "clave": "adolescente advierte cubre infantil sanidad unicef",
   "capturado": "2026-11-12",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "318511170e82",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Torrijos Today",
+  "titulo": "Sanidad destaca la inclusión de su modelo de Salud Mental en Eme",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRXlkQVZoeXMzQ3ByTktjQWpYa1A1WkdVSDVteEFOenh4bm5SaXBTeHVjSTI3RmN4LUJObGl3RWt3UnhZRDlWOVRTT05EMUR4aFJmcmx4WXd4bEUyLWZXSHh2WTkxMFRKQXc4cTRudDdkcGdhdHRHOFpjT2lhT1BmRFFQc0NYOW5hQzlucnNpUkJ0RDRsaXZCTGVfQW96SzBpempxMy01VURNeFkyTGdMTWxHLUdkWmM5WURwZmotdVRhTFJJalRBUUlPZnlzeVRHa0dzTDBsZzhDNENub2czbTA2TGtjd2xQSmlxek9IZTJvOXZZNHlv?oc=5",
+  "clave": "destaca inclusion modelo sanidad",
+  "capturado": "2026-11-15",
   "puntos": 2,
   "prioridad": "C",
   "categoria_auto": "sistema_publico",
@@ -36494,174 +36627,6 @@
   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb05CTlZ0NVlnTm51Y3dYMEt5VXlTQ3RiSG9yYmI0RVhMQk50Mk1yYUxzNGdKMDA4QkRSZUYzSm9IbzJXcndheGFpTnFOQnpsSWtVdmlYUzJ3MnJwRUctRTNkb1Y5VEpaLXBKaFB4MmZNU2haLVVabzczVlJTUjJsUF83eTFSalBsd1VPRWFTcW9NZExVN3dvdmloa2V0b3BJekRwNWttMW5tRnQzbXR2RU9fYjY3TjdJSkpQbzV1S2c4dWVDbXNCWURiVkRJZWdld0JXOHVUT1JCQ1B0cjNhSGtXTWRTOHpTZUd1dlEtUnc?oc=5",
   "clave": "demandada fraude gomez inversionistas niega selena startup tras",
   "capturado": "2026-09-07",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "283425ec46d7",
-  "fecha": "2026-08-16",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "Quién",
-  "titulo": "Selena Gomez responde a la demanda por presunto fraude en su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkwzQUR0TkY1SUU3MmxHRWxQTTNrT2Q1QUY1SlBDOU0zQmpYbm9WVl9RLTBYUzJpbUpFRVpoczJnLTJRQ080eWhnc01zUUJoTzBhMTRGQzRudlZvVWFMMWZ3TlNzVUExSGxTeDJPa1F6T0pzU3c3YjZuVVJfSkEzaENwVlBzd05zN0F6YThWNm9na2lmaHJ0cXpXTW11clp3bjR4ZFRpQnpPb0t5ZGVXbWM1REVZZ0Y0QmZNWVRIRGRKdFg4UXVCQzhn?oc=5",
-  "clave": "demanda fraude gomez presunto responde selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "cd21d76deee0",
-  "fecha": "2026-08-16",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "La Voz del Interior",
-  "titulo": "Grave acusación. Demandan por fraude a Selena Gomez por el colapso de su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdUI1dHluTnNwR0Z1T2dTN3JjaWhkQVRDenplcDdIazUzNF91U21ua2F2Y3h6emREWVVpVmZiMHlINHRJTUl1SS1IcU9UdWxWcmlLQWxlVGZSTnVBMVE4ZFpPQUdyQ2RFSjl0dnFSWXcxMng3SWJubFYyb0VROVJYdllFZ2t0MEdYSS15dW15YXpXSXRQSzBvSDFVMTZaTGwycTk0cEtQd282MDU1eGNUTF9rZHdxNUs3enc?oc=5",
-  "clave": "acusacion colapso demandan fraude gomez grave selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "510ccfb28ee7",
-  "fecha": "2026-08-16",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Estrelando",
-  "titulo": "Selena Gomez rebate acusações e nega fraude envolvendo startup de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbk9TQjAydVJwQnZzUE40OFloVU03MHlxVDVHZHZHQTd4aGtxd3ZiSXRLQS10NkhITFR0RlFNNmxXV3N3bnVHbk1LSXJERG8xdG54T0pIQl9Kb2liYXc0Wkk4dmlWQUw4U3kyUXZtOXBmYWU4aTNXODd3eERNaUg4OUMtbW1RSEU0TFZVOHdkWk9GZXZZLUdsaGpmSUhJdXRhTHVlV0wtcWU3THg5SzhZckRnX3VFTm5DdWRCU2N3S2ZhZVFxOEFManRrRQ?oc=5",
-  "clave": "acusacoes envolvendo fraude gomez nega rebate selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "17386cf2a443",
-  "fecha": "2026-08-16",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "MILENIO",
-  "titulo": "Selena Gómez responde a la demanda por presunto fraude en su startup de salud mental; esto dijo",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGxOYmRwX3FwTHl6eUN4OU5tWkl1Y0VnMEpOcHdIclpEMF93bTlxX0QydkdMelFGazhmUWJvbTdhWjRtNW1pNVBaazkweFhtanVOWUJCcmJBVXFHSFo4OXdnc3VvVTFhdjhiUUFsenBDNW9VNUl0SWFTZWlPM3drR0h1RGlqNFJOcGNmOTM1WGVRS1hjNTNlcNIBmAFBVV95cUxNMm9pUGUzcUY2RHFvei1hWVhsdHNBVGNPSEU1VHlGcGk2Yk1YOE15ODhiU19FOUJvcUZ1Qy1EWktmNTVXenhXazNMY2NkS1M5MGJHYmZkSnpCaWZPZFZPcVU5ejBFN3ZPczhzWTdEb00tVUF3NG1wUHhhQVVubnRSeG1XeU1mMDB5VXViOTZtNkRvUGxldXFvUA?oc=5",
-  "clave": "demanda dijo esto fraude gomez presunto responde selena",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "593a3fb5ebc5",
-  "fecha": "2026-08-16",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Globo",
-  "titulo": "Selena Gomez quebra o silêncio sobre acusação de fraudar investidores em empresa de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOWxSeWNqNmFYZzdxN2pxSUJicGJfNk9oQjY2VUp5UHplaDZ2bWlPNGxMX3YxQUgxczVsSEJIaExuNjJkTnlrUzhVTWZObXpzbVIwSGMwV1lodFVTZ0V4YmlrLVZWV3NFX014TEItS1VmaTh6dXhEVU16bGdER1ROMDQ3Y0FhVVhKYi1ISXItT2JEUWsxQ1hPdWxpUG9JUVlOVlRyMUhEOS1vSTQ3cFRvWTBVZFFTVDktbXVCOUpmTk11aGd2d21FQkZaektIS2VDSG54RFd1MkFxRFJNa3dBNldXVm9VV0xhNGtwQ1E1cF9pYXR0NEpycmVCcWx0c3lPalHSAZACQVVfeXFMTU5ES1pWbXdpc2piRUpfLTg5MjNlX25Cbm82MndpdDdmYVBVYXhZU1RNS3YwQmc5TGlsMUVjdk5CX1NEOUZ0alIwMFpGVG1xVnRNeWV5X0VKTm9vSnl1U2o0LVA2Szh4SzhMVXNKVjhFdHNSeWlSTWRleGVKdFR0Wl9kai1nWENUNXgzbmVPajdwWFM0aUdBNVN2bW9uY3ltWnlDRkhJbDRzZTVLellIQnVqM2xuV2JwRVR1dU5xWnBnaGQtT3pLLTRNMWVERDdvZDNKbHRWUllsOEhQc1VaVlpxY0dCRFFOQ01rWjBOc1gwMkt0MjZINXNDbTA5eVl3ZUd0bXl1bkRrRExNM1diRjg?oc=5",
-  "clave": "acusacao empresa fraudar gomez investidores quebra selena silencio",
-  "capturado": "2026-09-14",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "c082c3cd2cae",
-  "fecha": "2026-08-16",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "MILENIO",
-  "titulo": "Selena Gómez responde a la demanda por presunto fraude en su startup de salud mental; esto dijo",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGxOYmRwX3FwTHl6eUN4OU5tWkl1Y0VnMEpOcHdIclpEMF93bTlxX0QydkdMelFGazhmUWJvbTdhWjRtNW1pNVBaazkweFhtanVOWUJCcmJBVXFHSFo4OXdnc3VvVTFhdjhiUUFsenBDNW9VNUl0SWFTZWlPM3drR0h1RGlqNFJOcGNmOTM1WGVRS1hjNTNlcA?oc=5",
-  "clave": "demanda dijo esto fraude gomez presunto responde selena",
-  "capturado": "2026-09-16",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "41a19bb25e48",
-  "fecha": "2026-08-16",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Capricho",
-  "titulo": "Selena Gomez nega acusações de fraude em startup de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV1NhTks1ZjVJLUZ2SlZPblFuZ296OW14ZUFYSEVzWFpBS3FmT0taQkgwNGF2OWdpWUxVeWprd3N0ZWdiZk82RFdCLVR6VTlXSkhUQ1lVYlhfOUtMazRlRVdaUHpzV3pRT2NoNjdwbU9QMzRMbnBucFdCaVdtNFlaaUFKTTVVOTVsSnpLSlNiSl9KNVZ1eG9uZk1aczdtSmRSVlVKS0xnTlhvTjh0ZEYw?oc=5",
-  "clave": "acusacoes fraude gomez nega selena startup",
-  "capturado": "2026-09-20",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "f50b4197540d",
-  "fecha": "2026-08-16",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "www.noroeste.com.mx",
-  "titulo": "Responde Selena Gomez ante demanda por supuesto fraude con Startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMWgtY3pBdl9qS0tMSFhaME1ZOEJBZktrQTViSFlzbkhHRnhfeUtHb0JiNk0wRGp6OExKWnpHWkZWZkdPaGlzcnNLa2JnNjd2RVhEWjR6ZEJLZjZkU3dqSEN5TlN6cTV2WDVzdFJVZTlaZmNJUlJVVUE0VFhyVjFWWW91LUx5WUZ1OHFfdVRkN2JQRUlCb3IxeHRFT1hkMFF5MEVUTmJRU2F6d0xSSWZ0MV9WeXdhSHp2WXZFOEV6elNZakVHbmNseHd2UEZLcnR1THNnSjE2VHdFR2JHajhGWEtkMWXSAeoBQVVfeXFMUEdZcjFkelJIQ1hPNXZyaHZkMUg3cGlqSUdlS0stMk1UOVZqeVpMeUhMU0t1d2dwd0JhX0xaaFZkdGt0LUt4V2NScnZ0ODJsQkhHWHpsRmxPUjB2MUpiWm1uMmJJREpsRkFZeW4tbm8wcTNiNjJPczNqZ1RQT0RHaFhnMHYwOXJVMTFtUGhDUFFrcU1BTlZyNW9NelNDeGZSdHpNUl9za0lKVlZDbmc3TmtfWjlrVWZqNnVrNE5adHRiS3V2ZmpwOWZDS3RUdmtwX2dDcUxUWGQ1VDdWNGtNZF9qTGxrUkJWVGlB?oc=5",
-  "clave": "ante demanda fraude gomez responde selena startup supuesto",
-  "capturado": "2026-09-23",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "producto",
