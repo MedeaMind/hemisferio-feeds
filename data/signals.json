@@ -1,5 +1,238 @@
 [
  {
+  "id": "4774cd090fbb",
+  "fecha": "2026-11-16",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción Médica - Home",
+  "medio": "Redacción Médica - Home",
+  "titulo": "España inicia el IPT del 'competidor' de Ozempic y Wegovy",
+  "resumen": "la aemps ya trabaja en el informe de posicionamiento terapeutico de foundayo (orforglipron), de eli lilly y ademas: estados unidos exige reforzar las advertencias sobre los riesgos oculares asociados a los farmacos glp-1",
+  "url": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261116/espana-inicia-el-ipt-del-competidor-de-ozempic-wegovy/365216_0.html",
+  "clave": "competidor espana inicia ozempic wegovy",
+  "capturado": "2026-11-16",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4c58a3b7126e",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Análisis Digital",
+  "titulo": "Con un duro documento, la Asamblea de Salud Mental de Entre Ríos rechazó la reforma a la ley N°26.657",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVTgzZF9nWjl1T0EwTkxPUW1acGxad0w0cXNDaDJreDZFeVpWN003UVlnVXVRUzdJUWxPM0g4cmxJZEZnRGtob0RHQ0txRF81NG40Zm1wQ2NNY1IycE9RbzBUWlJTOHpjM0xlS0djckJ2SFVCbWtxR2NwbU5vd0x3SG02Z1NyTTJXb2M4STJKM1FIWnJsN0JlZUR2aWZ5cHlscXFVV0tHeGR6Z1NxZ1VZVldTWmZHWFlLMXBTaWFobERHOUF0TWtDWnU5TTFJQk43NXhSQWZHVlhpczA3Q29NeHRsZ29PX2NLVHhWUHotaw?oc=5",
+  "clave": "asamblea documento duro rechazo reforma rios",
+  "capturado": "2026-11-16",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "89872baec545",
+  "fecha": "2026-11-16",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "c. valenciana | La Comunidad Valenciana destina 1,55 millones de euros a 35 asociaciones para programas de salud mental",
+  "resumen": "c. valenciana: la comunidad valenciana destina 1,55 millones de euros a 35 asociaciones para programas de salud mental",
+  "url": "https://www.consalud.es/autonomias/c-valenciana/la-comunidad-valenciana-destina-155-millones-de-euros-a-35-asociaciones-para-programas-de-salud-mental.html",
+  "clave": "asociaciones comunidad destina euros millones programas valenciana",
+  "capturado": "2026-11-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f29df2a7fc27",
+  "fecha": "2026-11-16",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Agencia Española de Medicamentos y Productos Sanitarios",
+  "medio": "Agencia Española de Medicamentos y Productos Sanitarios",
+  "titulo": "La AEMPS inicia los IPT de los medicamentos que han obtenido una opinión positiva en la reunión del CHMP celebrada en octubre",
+  "resumen": "generar pdf fecha de publicacion: 16 de noviembre de 2026 categoria: medicamentos de uso humano referencia: ipt, 10/2026 los informes de posicionamiento terapeutico elaborados corresponderan tanto a los nuevos medicamentos como a las nuevas indicaciones o modificaciones de estas que hayan obtenido el visto bueno del comite en el caso de los nuevos medicamentos, la […]",
+  "url": "https://www.aemps.gob.es/informa/la-aemps-inicia-los-ipt-de-los-medicamentos-que-han-obtenido-una-opinion-positiva-en-la-reunion-del-chmp-celebrada-en-octubre-2026/",
+  "clave": "aemps celebrada chmp inicia medicamentos obtenido octubre opinion",
+  "capturado": "2026-11-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": [
+   "opinion"
+  ]
+ },
+ {
+  "id": "2a0647882262",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Información",
+  "titulo": "Sanidad concede 1,55 millones de euros a 35 entidades para programas de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUEczWmw0Q04yMWtnYlVSc3hzZlZoOE5oOUZYS2hoY3l0TjBtOUpxYTM3WjZRSkNVMGJtZEI3ekRnakhGbmdlUTdja25TMmtNNW1uQ2VDV3RtY3k4R3RNd2FJT2l0NW93YW1lUlRRaVd5Y0w0U2lwY2FzQ2FBMG5VSEpIVEc5bXpxMW1UbXo1eGU4TGpmU1ZtLWN0blpkM2dDQnRKdnlTLWdGRWp0NVF1OEd1UmUxWmx6elN5eTJnaGR6VnlSR0RjRlRUWVhYZFBkY3BocXVObWNteUdqR0c2REd30gHnAUFVX3lxTE5RREVrWDdUaXJKN0U0RW5scVNaeGJwNm13ZUZ6MnJMTGp5X3kzYlpJajU4RjhHbkxUS0haa2RmT2IxNTRHQkZjc04wd256d0tsVjZvN3pWemhvMmFOY05aNnRXR1Y3azM4ajNFT3hPWEg3VzB1MVlTbkJtYVN6aTdXMFRkRWNYVlZVZUVJaG5faWlXT3Rwa0sySDVyU0tOYlNld3VtZlNGSUp1OWppRkVsUm45dkJkcVBBU21MUWlfVi05dDRrY3plaElJZU1MUVBOX1pob2huRnJHbzdQUnVreXp4aWQ2WQ?oc=5",
+  "clave": "concede entidades euros millones programas sanidad",
+  "capturado": "2026-11-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8542544b0447",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "IndexBox",
+  "titulo": "NetChoice demanda a Nueva York por la ley de advertencias sobre salud mental en redes sociales",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaDFIMERFV1NkTjhZa1dsX05pVmhxRU96TGpCRW10NXllNTlBdWR5NHdrcHBwVnM4Vi1DZ1h2TVloRUc1ajJ1bnR2WHpDZG5ud3NfOXBJMml2MUZaNm9vdEZ4N0hOQ1NPV19TSWpfZUplV3hYSGdZSk40MXhOdm5IQ1d1MW1JVDhBSE5zcjZGc2RqbUdxOTlBVXB1M1p4YUtyZXc?oc=5",
+  "clave": "advertencias demanda netchoice nueva redes sociales york",
+  "capturado": "2026-11-16",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "87febd400080",
+  "fecha": "2026-11-16",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Un fármaco experimental muestra actividad frente a tumores con fallos en la reparación del ADN",
+  "resumen": "el cancer center clinica universidad de navarra (ccun) ha colaborado en un ensayo clinico internacional de fase i que investiga una nueva estrategia terapeutica para pacientes con tumores solidos avanzados que presentan inestabilidad de microsatelites.",
+  "url": "https://www.infosalus.com/farmacia/noticia-farmaco-experimental-muestra-actividad-frente-tumores-fallos-reparacion-adn-20261116111606.html",
+  "clave": "actividad experimental fallos farmaco frente muestra reparacion tumores",
+  "capturado": "2026-11-16",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "64b05d1a27ad",
+  "fecha": "2026-11-16",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Josep Antoni Ramos-Quiroga, nuevo presidente de la Sociedad Española de Psiquiatría y Salud Mental",
+  "resumen": "profesion saradomingo nombramiento jefe del servicio de psiquiatria del hospital universitario vall d’hebron, profesor titular de psiquiatria de la uab y coordinador de la unidad docente hospitalaria vall d’hebron de la uab, josep antoni ramos-quiroga asume la presidencia de la sociedad espanola de psiquiatria y salud mental durante los proximo tres anos. sustituye a marina diaz marsa , presidenta",
+  "url": "https://www.diariomedico.com/medicina/profesion/josep-antoni-ramos-quiroga-nuevo-presidente-sociedad-espanola-psiquiatria-salud-mental.html",
+  "clave": "antoni espanola josep nuevo presidente psiquiatria quiroga ramos",
+  "capturado": "2026-11-16",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "01f3b78a71aa",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "elDiario.es",
+  "titulo": "La salud mental vuelve a quedarse fuera de los presupuestos de Canarias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDVMWlgzNGtBc01GcjRVTHVmZ2x4ZXlibnZYdEpFaWh0YkZyak5iUmVQbUg1ZGhUck5rMGFra0p6UEV0TzF0MzU0QzVvLWZrc29lX080QVd1dDIzZnVRUWNQcnBQTFpNS1Bod092QThnVm1RdHE4SWRMek5KTGJFMkdIVlBENldhSk9taGhBdXhIXzcyc0tKSVF3UW0zWFJUdFpWWUU0dHRvWlRhdEppX1V4UjktSmNneEhr0gHAAUFVX3lxTE9OOEo5ei0zeTI0RjJ5ZzNSdU1WVm1WOGEyUldqWXZ2bHY1bGJocVpjelRoalJRamRNejUzM0ZTNVY5VXdfSkl5SDNLU3VNV3VjalZGMzhGbUNIZnd2U3VmR293MGZ1Wlg3VHBkZkxaODFWR2VFb0I4TVJIbjJLSktsN1ZmdlhoMHhvdktaTmlETkRtbVR3UlVTWllNa2FGb1dPcnVuMGZ5ZUdfOEFJNkFnZGg2Z0trN0tNN295cWhkYg?oc=5",
+  "clave": "canarias fuera presupuestos quedarse vuelve",
+  "capturado": "2026-11-16",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "624c5916e5de",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Entre Ríos Ahora",
+  "titulo": "Salud mental: psicólogos reclaman financiamiento",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORG1VTnIyVTZsd1dxRVRiOWxHZXJ1M21sejF5N3JZRDhrenBTZ2ZBbTNlWVJRRmNhQjdtNkNMc3ZCNW9pZjNUQ3Z2OG5zdnQza0RfTnNRVG1WUEU4V2xWZW5JaF9TSS0zMlRDWW5FUHQzNTZXUWtwYUJVYkZ3ZnMtcQ?oc=5",
+  "clave": "financiamiento psicologos reclaman",
+  "capturado": "2026-11-16",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "57cadfca4ea2",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura Municipal de Altamira",
+  "titulo": "Prefeitura de Altamira entrega CAPS II revitalizado para fortalecer atendimento em saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZmtCQ1ZrR0F3YXZJUHJHamtPUDJEX2ZQdmhZa0g0ZjFQRDRZUXhvT18tT0E4dEZMaHBBdDM5WC1wVXZYUU5YbEd1Y243TUJ2LTJkWENSSzB4Rm5oT2Z5TTVrMllyeWROUDNhZ2Y1RjJCWTFwOWd4VjJSZGw1M1VWMzdob3hfQi1RRXdvZjkwTFBvZUk2bjZ4MGlrZXhCLVhZelBCb1JqU082aDcwV0VybHRzTFMyTGpPUURETHR6Y3k?oc=5",
+  "clave": "altamira atendimento caps entrega fortalecer prefeitura revitalizado",
+  "capturado": "2026-11-16",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental",
+   "caps "
+  ],
+  "ruido": []
+ },
+ {
+  "id": "547f24e7df4b",
+  "fecha": "2026-11-15",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción Médica - Home",
+  "medio": "Redacción Médica - Home",
+  "titulo": "La sanidad, la “gran prioridad” del PSOE: garantizar un gasto del 7% del PIB, psicólogo en 30 días y adiós a la privatización",
+  "resumen": "el partido socialista ha publicado este domingo su programa electoral de cara al 29n que incluye 20 medidas especificas para la sanidad y ademas: gestores, clinicos y perfiles sociosanitarios cierran filas en el psoe para las elecciones del 29n",
+  "url": "https://www.redaccionmedica.com/politica/20261115/la-sanidad-la-gran-prioridad-del-psoe-garantizar-un-gasto-pib-psicologo-en-dias-adios-privatizacion/365190_0.html",
+  "clave": "adios dias garantizar gasto gran prioridad privatizacion psicologo",
+  "capturado": "2026-11-16",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "mercado",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "c9468e469ffa",
   "fecha": "2026-11-15",
   "carpeta": "05 GOOGLE NEWS",
@@ -53,6 +286,25 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9ec65f4a2691",
+  "fecha": "2026-11-15",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción Médica - Home",
+  "medio": "Redacción Médica - Home",
+  "titulo": "El peligro del 'estudio ansiolítico' en la recta final del examen MIR: \"El repaso por ansiedad es inútil\"",
+  "resumen": "el medico internista jose curbelo advierte a los aspirantes de 2027 que revisar los temarios de forma compulsiva para calmar las dudas genera una falsa sensacion de control y ademas: si yo pude con el examen mir, tu tambien: \"hay que ir con una sonrisa\"",
+  "url": "https://www.redaccionmedica.com/profesionales/20261115/el-peligro-del-estudio-ansiolitico-en-la-recta-final-examen-mir-repaso-por-ansiedad-es-inutil/364866_0.html",
+  "clave": "ansiedad ansiolitico estudio examen final inutil peligro recta",
+  "capturado": "2026-11-16",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "ansiedad"
   ],
   "ruido": []
  },
@@ -941,6 +1193,25 @@
   "categoria_auto": "research",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0ce373a84ace",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Ministerio de Sanidad",
+  "titulo": "La OMS incluye el modelo español de Unidades de Salud Mental en Emergencias en su informe europeo sobre cambio climático",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5b2pRUFN3RGIxTDNwWTcwNi1wQ0pJWUFRb3QyUm9LQklZd1VJbXAwd3BCSVhSS3oyTjFKTmk2ZjZmX1lQT3l6X3pZUWE5QUdNVE80bXk2bm9xdUg4SGhIM2R4YUNBRW5CMWc?oc=5",
+  "clave": "cambio climatico emergencias espanol europeo incluye informe modelo",
+  "capturado": "2026-11-16",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -36528,105 +36799,6 @@
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS3VGWTVYaktIRWZRM3hCejdYbWhsVEhfQ0JLQXNacHV4dUF0bVNGVlU0X1ZZVjZpSjBSNHRDVWlDa1dVZmt6a21IeHFzaWVKWERpR3lwTmNtVEctUmFpcUsxc3RBclpEZU5qWVhCMkUwQVN3V0hONWx0dVp1X1VnMk5sT3BJUU1iX0YybTlsSG5Fa1JwTWF2SFFfRlFDdFdYMzRJZV9ISEx1bDFETnlLVnB6Nk9IRlZO?oc=5",
   "clave": "demanda enfrentan fraude gomez madre presunto selena startup",
   "capturado": "2026-10-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "a142831538e9",
-  "fecha": "2026-08-17",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación (edición US, hl=en)",
-  "medio": "KGET.com",
-  "titulo": "Descartan proyecto de ley de desvío por salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGI1T0lidzdNcXZaSWUtWW1GOHZ0ak1OZ1R2OFlNRHV0cXJ5dUJrRlJsMFUzbGJRdXhhTTdqWHVoMTc5Z0x2SkhaUXhjWnZRSWFKTTBXN0xkakpvNXRDLXdJS1VpTnVoT0dZUFFQOTMtakJiT2prblZNSXJMTDBMNGdWVHVtLVdNVTRvMzFhbTBTVndyZURBadIBngFBVV95cUxObmhlckwyYVJTS1NTMUdFeVB2LUQxV3BFTm5XcjR6LURoY090WGR1aEsyQTBFZzVsa0RKa010T19NLUJIWG92UXEtc2NXSkpTX3lJOUMwcEY0YklndEZLZ1dSM3UtVTQ0Sjl0TmtCZExZdmljMGNBSGhzd09WZ3NEUEFmYl9oSkZjckNOcGxyQklDdndoaGdhRVJ5VlJkQQ?oc=5",
-  "clave": "descartan desvio proyecto",
-  "capturado": "2026-09-04",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "d0f6f2aee4d7",
-  "fecha": "2026-08-17",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Prefeitura de Fortaleza",
-  "titulo": "Prefeitura fortalece atendimento em saúde mental com a entrega de mais um equipamento reformado",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDc4aUE4UzgzQ01WQ1NzTmpvc2xqUHFsZnhSSjltV0dzakxwQ0k4R3lUYzJzOXlyYk5hQ3RkcnA5cnZCQXE4WTR1aDl1TFhKUXktNHJ0RUJmRTlmcE1WWWNCbTcwZlZXeWRfRzhKTUEyUHdOVDVaVGFJT2FueXlfRjJkVHpzN2NSNnBaNTQzU21GbVY4aWJIM0pfalhNMzlBUXpuM0NZaHdTRG9QdlNkNmJOUGpQTF94TWJqZmFMTlg4SFdOblBGVGc5V1hqRnBjU2c?oc=5",
-  "clave": "atendimento entrega equipamento fortalece mais prefeitura reformado",
-  "capturado": "2026-10-03",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "6e1501a43b60",
-  "fecha": "2026-08-17",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Comunidad de Madrid |",
-  "titulo": "Salud Mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uOTI0eGlTQTJwbmpOQ3hxMmtHR0xfZkVYV2t2dml5UmhRNTVjWmRRNGYxZkdvYUtid2pKQURQVWVtMk4zVnVIVHNucjBRaFgtb19RVWFSWlBneFU?oc=5",
-  "clave": "",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "3624d040f970",
-  "fecha": "2026-08-17",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "El Universo",
-  "titulo": "Selena Gomez niega fraude tras ser demandada por inversionistas de Wondermind, su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb05CTlZ0NVlnTm51Y3dYMEt5VXlTQ3RiSG9yYmI0RVhMQk50Mk1yYUxzNGdKMDA4QkRSZUYzSm9IbzJXcndheGFpTnFOQnpsSWtVdmlYUzJ3MnJwRUctRTNkb1Y5VEpaLXBKaFB4MmZNU2haLVVabzczVlJTUjJsUF83eTFSalBsd1VPRWFTcW9NZExVN3dvdmloa2V0b3BJekRwNWttMW5tRnQzbXR2RU9fYjY3TjdJSkpQbzV1S2c4dWVDbXNCWURiVkRJZWdld0JXOHVUT1JCQ1B0cjNhSGtXTWRTOHpTZUd1dlEtUnfSAYQCQVVfeXFMTkhlbklTdUt6RmRBOUl5UXlvWnc3SHZVWDVRQ2FiVnZaTjJIZW5BUzBKMzl3TGZJLUNvUW4zY1NQNFUwS2hOQnpCTjdtQ0dnbkFLTmV3eGN0bmMyWGJTcHFiOU1pSU1Xd0xGZUcwN2VXbmhUWVNKck8taUF5blV6MFczVWRra29SZ19fY2k3TThNMkJwZjZLWEhpYkQ3VXpMU2FOVEt2TmowQUhIRDFrQ1hIWktpZFczSHQ0S0g1a04xOGJ1YW10Y3lRVVV0cHkzOXkyMU4tUnJBazVJeFVnVk1hZ2l1Z2xHYW5UVW5KY2taa1NhblZ0d3pUVTlScjVETWNPcUM?oc=5",
-  "clave": "demandada fraude gomez inversionistas niega selena startup tras",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "f47e25fbb5c4",
-  "fecha": "2026-08-17",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "El Universo",
-  "titulo": "Selena Gomez niega fraude tras ser demandada por inversionistas de Wondermind, su startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb05CTlZ0NVlnTm51Y3dYMEt5VXlTQ3RiSG9yYmI0RVhMQk50Mk1yYUxzNGdKMDA4QkRSZUYzSm9IbzJXcndheGFpTnFOQnpsSWtVdmlYUzJ3MnJwRUctRTNkb1Y5VEpaLXBKaFB4MmZNU2haLVVabzczVlJTUjJsUF83eTFSalBsd1VPRWFTcW9NZExVN3dvdmloa2V0b3BJekRwNWttMW5tRnQzbXR2RU9fYjY3TjdJSkpQbzV1S2c4dWVDbXNCWURiVkRJZWdld0JXOHVUT1JCQ1B0cjNhSGtXTWRTOHpTZUd1dlEtUnc?oc=5",
-  "clave": "demandada fraude gomez inversionistas niega selena startup tras",
-  "capturado": "2026-09-07",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "producto",
