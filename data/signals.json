@@ -1,5 +1,161 @@
 [
  {
+  "id": "f1ee827f3b7e",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Análisis Digital",
+  "titulo": "Trabajadores de la salud y la cultura organizan un festival en defensa de la Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM3FuVEJPRjI3a0hKQ3E3azVVV2VRYV9McGdFNFpGbFQ1WnBteGM4bFdiUjJNUlY2Nk82djBSbnc2Z0VuT2hYTkJBc2ZNbUtWNXdvUWttN2FiLW1NZWxfLVlSVEJnbjBCcGl2TGI2Wk5GbFVlTlVCN0pGZ3JyNHljWUkyS21YV0NTNXhYTGpzeXRvUW9USFVLM1hXa2JHTThKS2QtamRSOUhGNXBIQjZYbkFaZkVFQlVCVkI0aFlsc1dvcW9abmthWDhkUVJqYXhEMXlhd0VZaHFKSG14U1JMZWltWHE?oc=5",
+  "clave": "cultura defensa festival organizan trabajadores",
+  "capturado": "2026-11-17",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "254e87123873",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario de Avisos",
+  "titulo": "Denuncian que los presupuestos de Canarias para 2027 dejan fuera una partida específica para salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzJvenRlTEhQbGIxNkcyanh2NXE5Q0dDUzdEdkNiYnQ5WlJOR0xKVUVsR3N5VU40YjZSUTM1cFZmci1LS0l5dGUxZHVqSTJzUzJfblNqdjV2UUZiNEpPUk42NnFlN1NYYUR2OEJHWU5jR3NwQXhGSlZKSnc5Q3pQbzRDeVpiTlpUUWF3ajR30gGTAUFVX3lxTE0zZ3MyV09LUDFGckdmZEV1VVdXOVQ3UmdVal82dWxtLTItSGg5anNLbzdQS1hfeWdkZHhhRFFYZTFNdVBRUkk5X3pSQXNpZG54R1BSZXRjMnVPb05EbFotTmFLcXU4eVFUZXNfYVRib05WWFNmeF82N2pmVzQ3bUFzUmwzQThZLUc2RTN1M0VKZjk0TQ?oc=5",
+  "clave": "2027 canarias dejan denuncian especifica fuera partida presupuestos",
+  "capturado": "2026-11-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6edb576076a9",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "boletinbien.com",
+  "titulo": "Corrección en la ayuda a salud mental de Asfeme para 2026",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYm9xbWFtcEdWZ0tWVl9NNy00R2xPZHV1WnlBa2JCMVZqNDFlZDUyb1hob2ZCSzU0N0hYUk51VTFtX0t1dGw3U0JsdUFDZmhETHktMkQ2bGRHREk0MkhHWldwWFY5MGpGbE9LdFVReEtoeXZNcnNKM2VGSWZJMlJWSWgwR0JESlFHdlFBSktTMzVsaEZ4QkFrUkN5bXFwRXV6cENxaEVmVFEyWUMtSjRRTjVCOTR4RkVp?oc=5",
+  "clave": "2026 asfeme ayuda correccion",
+  "capturado": "2026-11-17",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2206b5f3e141",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Nuevo Día",
+  "titulo": "Salud mental en Santa Cruz: un proyecto plantea reforzar guardias y sumar especialistas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVBSdldKWTBZYnZfZHlQZURyYmFFTTlPaGF0V0Nxd3MydkRncm01a1VndW9yd0REa0MzakpucEY1clh3a0g1eFlTNWxOM3JDb3E3R255OERLWEtaRExJcE9qZXFiQUVMY3BRbXR1SERza1pfXzc0Q29GOGRwd3RULWVFU2UxbUFGdjJybmxBbFVlYlVNR3BGc2o3b3JpcnBQa3I2OUlBNEZ5OUI2S21IYndhanhncXNVd0dHSUxCMVU5bTZYbnZWSnd4RjNDWGsyN0E?oc=5",
+  "clave": "cruz especialistas guardias plantea proyecto reforzar santa sumar",
+  "capturado": "2026-11-17",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "17cdfec74287",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "horadigital.com.ar",
+  "titulo": "La Asamblea de Salud Mental de Entre Ríos rechazó el proyecto del Gobierno y pidió la declaración de emergencia en el sector",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZ1ZrdmpreDVBTVFWc3dpb3ZxVlQzNUFJbXlwZWtwdEpLOXRVWUFMOV9PTjhWbkhkQUp4Ry1FMGR6TXNtYWRmaDFYQlVaYlc3QW15WDcyS01hTF9JMzZIdE5RWnYzVENVdjFjc0dUU01CbEVVQVZvWDI0azBtbVhsM0NIaFl2dlZhcXVqVFFhMUF5RjVTTnAtaWRmY043S0FjUjJXeUJPcWZtWEE2eVFnVUY4X0hOMEVKSTdoNDlURGlLX2pOc09TWEVPVmRheDFmYWxnQ24xVk5NMks5d25DOW5tX0NUaEE?oc=5",
+  "clave": "asamblea declaracion emergencia gobierno pidio proyecto rechazo rios",
+  "capturado": "2026-11-17",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bc514a3c0f56",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Manaus",
+  "titulo": "Conselho Municipal de Saúde inicia Semana do Controle Social com debate sobre endividamento e saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3ZTczZxa2hWNWY2UHh5NDZvMng3T2hZSks1X2J1ZmRYcG9XZENYZDFWZ3NXRzVfTnZ0TXQ5R2Q5VTJCTTdrV2J3bjRNTHVlUGF0bGJGaE82TGVoYUEtNE5oNDREWEQ2c2xjT3VBckRRUlI5TkxTY0k2UEdSZzlIT2Y3T1ZKTHlpSjBMdjNkbXZPMzFzcjFKbm1BMA?oc=5",
+  "clave": "conselho controle debate endividamento inicia municipal semana social",
+  "capturado": "2026-11-17",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "aaf9e8c3f56e",
+  "fecha": "2026-11-17",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "andalucía | Un centenar de psiquiatras consiguen una plaza fija en los concursos de oposición de 2022, 2023 y 2024 en Andalucía",
+  "resumen": "andalucia: un centenar de psiquiatras consiguen una plaza fija en los concursos de oposicion de 2022, 2023 y 2024 en andalucia",
+  "url": "https://www.consalud.es/autonomias/andalucia/un-centenar-de-psiquiatras-consiguen-una-plaza-fija-en-los-concursos-de-oposicion-de-2022-2023-y-2024-en-andalucia.html",
+  "clave": "2022 2023 2024 andalucia centenar concursos consiguen fija",
+  "capturado": "2026-11-17",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psiquiatr"
+  ],
+  "ruido": [
+   "concurso"
+  ]
+ },
+ {
+  "id": "14bc09a6d87e",
+  "fecha": "2026-11-17",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "Com apoio do CFP, I Seminário Nacional de Saúde da População Negra e Ancestralidade promove diálogo entre Psicologia e saberes tradicionais",
+  "resumen": "o conselho federal de psicologia (cfp) apoia a realizacao do i seminario nacional de saude da populacao negra e ancestralidade: dialogos entre psicologia, saude coletiva e saberes tradicionais, que acontece entre os dias 18 e 20 de novembro de 2026. … o post com apoio do cfp, i seminario nacional de saude da populacao negra e ancestralidade promove dialogo entre psicologia e saberes tradicionais a",
+  "url": "https://site.cfp.org.br/com-apoio-do-cfp-i-seminario-nacional-de-saude-da-populacao-negra-e-ancestralidade-promove-dialogo-entre-psicologia-e-saberes-tradicionais/",
+  "clave": "ancestralidade apoio dialogo nacional negra populacao promove psicologia",
+  "capturado": "2026-11-17",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": [
+   "seminario"
+  ]
+ },
+ {
   "id": "4774cd090fbb",
   "fecha": "2026-11-16",
   "carpeta": "01 ESPAÑA",
@@ -34,6 +190,64 @@
   "categoria_auto": "regulacion",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fcc29509034a",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "DiarioVictoria.com.ar",
+  "titulo": "Con un duro documento, la Asamblea de Salud Mental de Entre Ríos rechazó la reforma a la ley N°26.657",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2RTLTBQUFc0Q00wcl9BdWotX1V0NjBkQi1uT0xmRlVUczJuX003Q3l6QmtiN285cWZiNmN2NkkxclBRbVV0bDg1YjlrUl82Tk9NWWZCLUxpVURDbEJRVjUyOXpjekllYkFBeHRidmYxOW93OWxDOEJRdTNNTktRNERpWjNUb084WFhNSURJOGZNOEt5eExTc2ZOVzZGLVFjRGZIWEcxQ0F0a3hBdDY4Uy1UNy1zSDdCZEFVWDVZeGJ0aWV6MTlGdjBn?oc=5",
+  "clave": "asamblea documento duro rechazo reforma rios",
+  "capturado": "2026-11-17",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "79325f10d8c2",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "bra1.com.br",
+  "titulo": "NR-1 vira pauta: o que a nova regra sobre saúde mental no trabalho exige das empresas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYjlJR3FMMXUzdlF6NUpCWGszNDFaU2l6Nnlja1FCRXdRYzhZYlI4S3NwMHVEelh2RnFiWXpSOVJ4alhXYjVrSEl3T0xUVWNVcHF0LTRsTVlhTkxQM2xVSmQ5eTdxZXpDcHJUcGEyaGR4NUdMdFB4WTZ5UXNnSjJqaGFoWS0xN3BpeDhva2JoaTVaNTJSeTVSNVdaMWZ3c3QtdE9sTVFsMWJ6aFJaZGtrajVwX3RDd3FSd2ZORDBHcEVQZ3dwY3lJ?oc=5",
+  "clave": "empresas exige nova pauta regra trabalho vira",
+  "capturado": "2026-11-17",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental",
+   "nr-1"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4da1c4b3af1f",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "Sou de Palmas",
+  "titulo": "Governo federal facilita acesso a consultas gratuitas de saúde mental pelo Meu SUS Digital; veja como solicitar atendimento",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORW5PdXN0ZU1oTlZ1bGRuM0FpTXJieVZROVJ4WXhzWm5uV3JJTzY4MTJIUk1EWkpsNGVSaHl2NGI0VG9FY2hQWnlkcEJndXVCaUo2NEk3dVB2aUY1Z2o0TFFtYmhDa2JVMF9mU1I3SGRkS3huUk5kV2p1Y01HNUlrVDBnd1BELVRneG9SNWZCaTB2YTRDY3gzSEhxTnVURUVHOHd0TG5uYzFlUmRZM3AzZ2RzeVYtVkRNWEhEbjhMWHZhWXhoYlp0RXRTZThBRzZoeG96aWl4SlNIX1hPdk1IRHNvWHZnX0gxLTFXRHRlaHk2eFkxOFFYaVZrTW5qeFl4cWJjRmJINnQ?oc=5",
+  "clave": "acesso atendimento consultas digital facilita federal governo gratuitas",
+  "capturado": "2026-11-17",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -116,6 +330,44 @@
   "ruido": []
  },
  {
+  "id": "a32051f0e223",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Periodismo de Izquierda",
+  "titulo": "Reforma de la Ley Nacional de Salud Mental. La puja por la vuelta a un modelo manicomial",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83cjFQUm5rbE5wOC1YQVppMHBwQmVUZV9BQjJodGl3RVpXT3VlbmhjaDVSWUVnd09FSXlFc0hEZnRGbFNfaHJmb01RRXNGVklQeXZJbG9mOVUyaUFrYVhqV003b0ZDSnl3M1RVV2x6X09RWHctMkV0V0Z4VQ?oc=5",
+  "clave": "manicomial modelo nacional puja reforma vuelta",
+  "capturado": "2026-11-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2d016368cae3",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "AFmedios Noticias",
+  "titulo": "Por fin tenemos una Ley de Salud Mental en Colima: una lucha de muchos años",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejBZN0ZqbnVyMTkzcVBqMU41UlFJbFl3MjZhdkFvTDFyU19qSHNjY1Z0QW5RV093N2J3bWN0OVV4TVA0blhsa1pSZjd1NTF6c1RZUm1fNUJJWEZXLWw0N0FXZ09BTzc0ZmZGWEQ3ZTRmVm9nOW9xOGFmSm9uaHQ3MjdyY21kU2otZG9hMldJWGtLSUt3WXBMT1Bpby1wdFVMdXc?oc=5",
+  "clave": "anos colima lucha muchos tenemos",
+  "capturado": "2026-11-17",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "87febd400080",
   "fecha": "2026-11-16",
   "carpeta": "01 ESPAÑA",
@@ -131,6 +383,25 @@
   "categoria_auto": "research",
   "topic": [
    "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b829a923d4d0",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "The Independent",
+  "titulo": "Cats are the only pet linked to more mental health problems in children, study finds",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeThna25XbnhCS1hsT3JkSTJpMFpEaVRzM0Vwb3A2M0lIMWFLS0x0X0RKLXV4XzBteDJuS3VteGRkdm10Umw2SkNjNl9XZzd2SFFZNUYyX0xtT2VjRVgzMm5ETUVIUGFXbE5XSEpfZE5xOURLdXROSmMwVmNoNm5MVEpmcGhYOFctR1J4am11ZTdndGRBc0JtSm5TdkFWRnl5VGxheQ?oc=5",
+  "clave": "cats children finds linked more only problems study",
+  "capturado": "2026-11-17",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -170,6 +441,44 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "82b167783ded",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Constitucional",
+  "titulo": "Corte de San Miguel ordena a Isapre Vida Tres igualar cobertura de salud mental y física en planes anteriores a 2022",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPME4ya19TNVN5U2NTcmhuVWFpTjNROU9hRGpyMkVMQkRQVHVKZnN6MzF5YTIzdHhVNG8zeDIwOV9WN1FZOHNTQ0JlbzFuX0hVTWNYVUZiWTEtajExY2paYm9OeEJFLU1WZFlXX1M3SEQzWEhLZnJTdHczMGhqTWQ4VXZZS3JGNVdRekpORUFkYWRFNlFmTjAyb0wxbDEyTHlVUHpFcmFMb0I1YkI1aHdqYUZHZTgxUkNldkJDblR1WlJQY1lueURYMUV2YmlBOHZ3aDZGWVJlMWtDRnNZcmxYbFhaeUNFU1l2RzA0?oc=5",
+  "clave": "2022 anteriores cobertura corte fisica igualar isapre miguel",
+  "capturado": "2026-11-17",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f489f2448924",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura Municipal De São José",
+  "titulo": "Prefeitura de São José promove encontro sobre saúde mental e relações raciais nesta quarta-feira (18)",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObUNtU0YwMnlob0VDS1g0aXdKUl9Md2JPam91VU95eTBqR3UwSWRzR0g3SWpYUHJLR0k0dUFXZkdoX1FKUFQ0WktodHdYVXpMbHB6Y3RtazhQalRmR1ZuWnJUcktrdXpkZmd1bjRCWGY4QXZIdklkTVRFeXlsa1pvRWJDV2pjNVpZZzNwT3BmX2dIUXpYZWFiVXlNb3MwRlRIamF0c2VVOFFwNnF5WDZqSTBzM2JNNFluaWcwam1TaExYWHlHZzNWamxobFpTUQ?oc=5",
+  "clave": "encontro feira jose nesta prefeitura promove quarta raciais",
+  "capturado": "2026-11-17",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -326,6 +635,27 @@
    "salud mental"
   ],
   "ruido": []
+ },
+ {
+  "id": "23f7ffe7782c",
+  "fecha": "2026-11-15",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "agenciasp.sp.gov.br",
+  "titulo": "Compras por impulso como alívio de emoções causam ciclo vicioso e afetam a saúde mental, mostra estudo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wY0dEMGVnLWkzck1Eb2RaVXdRYzA4cTBHU0lSZVFXYW52ZkxFNDVkRWlsTktfS0gxSGxHUy1vVUtWZzZnMUVpTlZRWjVQLVVYY3h6b1J2UXFUdW1oZ05mbUZ4UFp6S3B6LVFrZGVsdVYycUhmZ3lEVi1JRG11QQ?oc=5",
+  "clave": "afetam alivio causam ciclo compras emocoes estudo impulso",
+  "capturado": "2026-11-17",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "research",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "mostra"
+  ]
  },
  {
   "id": "4f4fa69e5bf1",
@@ -33489,6 +33819,25 @@
   "ruido": []
  },
  {
+  "id": "6e1501a43b60",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Comunidad de Madrid |",
+  "titulo": "Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uOTI0eGlTQTJwbmpOQ3hxMmtHR0xfZkVYV2t2dml5UmhRNTVjWmRRNGYxZkdvYUtid2pKQURQVWVtMk4zVnVIVHNucjBRaFgtb19RVWFSWlBneFU?oc=5",
+  "clave": "",
+  "capturado": "2026-11-17",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "40dc8497adea",
   "fecha": "2026-09-07",
   "carpeta": "01 ESPAÑA",
@@ -36689,124 +37038,5 @@
    "saude mental"
   ],
   "ruido": []
- },
- {
-  "id": "b075da567496",
-  "fecha": "2026-08-18",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "O GLOBO",
-  "titulo": "STF confirma por unanimidade suspensão de penalidades da NR-1 sobre saúde mental no trabalho",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTHJPTlp0b1lYTnJzcE85RUM2aHdRTXNlcVhub2x0ZUNRczc3S2hzaERBTkZiUTFON2RsZTdfVEhEOVFtWUFqV3F2TXF0Q2REdmJpRlgyZmx5UkZpcFBGUnp4anZqMkRJZUhVUWdXbHh5TWZvZm53ekc5M2pxWDYxbHVVdEdfeG4xM21jOFVMZWdOaDl4OHNRWjl1NmhaNjlBY0Y5RzBPSUFQSjlPZG52aHNaRXYxRm11cVNzZk1JZXRxSmNTRmJDRjByYnppQnhESW1OS0NmUEVWMU5qZndZV3JsbEdXd9IB9AFBVV95cUxPODlSZ0ZGLXFlY2E2UGx0UU5URDl0NWVmVWhDRXNQX1k5YmJjRmgwejV5ZTFQQTFySTM2a1JIWE1uSUJ5TmNGZGZCdVhSSHVzOEVoaHNLTEJHdkd6ajZyYXE3d0kweGZJS1puNFF6QmxfcWpKYWQzdDlFOUtNRGVtaGFPeV9QdnZpVm5YUXM3aGRWSERpbVBIN0dNaVN5U3dVdnJDRFR2dTZZVDA2U3JkS2tRZFJHLWRSYlZTNGdaUFBXNThvTGVwclFZZHh5dXUwNGtzeFZtbW41bDRDUE1QbmxrTVNLbFVhQXhQU2FMTUQySnZh?oc=5",
-  "clave": "confirma penalidades suspensao trabalho unanimidade",
-  "capturado": "2026-09-18",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "e6bc4f0e3e90",
-  "fecha": "2026-08-18",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "ladiaria.com.uy",
-  "titulo": "Salud mental: Senado aprobó proyecto que restituye la prohibición de internar en centros monovalentes y crear nuevos dispositivos",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNENtb3ZvSEw3ZzVYNTUwSWI5VVdYWkd3TW13ZUdobEVkOTlwUmw2Vy0yQ0NiWHk2R1VYOWJ3UGRjMlJhRDMzclR6cnNuUnRYYURkTzlIM1ppRzlTVFpJMjdOQkJxQVJCUHU4ZThOZjNZRUJVTkh6OFpoY0Y5a3NOb2RyeVJOU2dzZ1ZIUHVBZHFJTWRXZFM0SjI4cnNKeXRUMnlnQWM2QlpnYnF6bDJiSDBLWE44aEYxSXAwVUFoQ1IwWmZ5UWxKNHI0eHhIX3JDdnduZWtJRlNidWFlQlBSTDRlbTBFd0VQdHRCQkZYR0F4a2RtRDdxcFF3V2t0ejQ2eGJ6ZWlB?oc=5",
-  "clave": "aprobo centros crear dispositivos internar monovalentes nuevos prohibicion",
-  "capturado": "2026-09-05",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "488ed29fe356",
-  "fecha": "2026-08-18",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Consultor Jurídico",
-  "titulo": "Mantida suspensão de punições sobre saúde mental no trabalho",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjZLdXFDQlh5ZF9QbTBWWm53Y2ZsQmMzeTNxNFR4eGR5QXNQajBhazNpTmpIV1hCNE02S21XcGpnWUhLNFExNURybEUyRTFLWmUxM3FHZ2VxR0M5WG0zR3I2VnA1VW9BYUNDTG1KUEhaa185aFN1bXJXYlB4Y3loLU83MUFrSE4tOTA0X19OYTJtd2xJT0ptaU1fNUM3cVFaUHZWWW5n?oc=5",
-  "clave": "mantida punicoes suspensao trabalho",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "085c176ef3c8",
-  "fecha": "2026-08-18",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "laopinion.co",
-  "titulo": "Selena Gómez enfrenta demanda por millonaria inversión en su empresa de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY1Z2d2NKOTMwLWN3VFFhc3Bfb1dFejlGdW5qVW4tN0tiSFdWWGlVM2E4ZWk1VUxRcjAwTW5rUjRaQ0xDcTQzVlh0MU5IbkJYbmtXQXVDZnE3TGpKcmFHM0ZGYUhCVi00eWVOT1RBZGpQRzB3aEZuLVk3UTB3bXRYQjM4TVdBTWlyVXpVYngyWHktTG5HQWltcnRhVEdkbVdGMnZBQWUyeHdqRlZfUjhMVDhSRnM?oc=5",
-  "clave": "demanda empresa enfrenta gomez inversion millonaria selena",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "433cf63c4a51",
-  "fecha": "2026-08-18",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "rdmonline.com.br",
-  "titulo": "Senac-MT debate nova regra sobre saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PRi1kMm40UE5CLTRjTksxN1ZiU2ExTWw1eEU2cl9YTXVyWWVJanJWV0l1cVNPN2pjeHVQNjVXNVBOZldhQ3BneUNiaUMxX3g4dkg4V3NISDVsX0hzc19vQllpVVRmd0hJcThoRXk0eXJvMDROLXRaZWhDTQ?oc=5",
-  "clave": "debate nova regra senac",
-  "capturado": "2026-09-05",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "f8627b7473a0",
-  "fecha": "2026-08-18",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Revista Sarah",
-  "titulo": "Selena Gomez y su madre enfrentan demanda por presunto fraude en startup de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS3VGWTVYaktIRWZRM3hCejdYbWhsVEhfQ0JLQXNacHV4dUF0bVNGVlU0X1ZZVjZpSjBSNHRDVWlDa1dVZmt6a21IeHFzaWVKWERpR3lwTmNtVEctUmFpcUsxc3RBclpEZU5qWVhCMkUwQVN3V0hONWx0dVp1X1VnMk5sT3BJUU1iX0YybTlsSG5Fa1JwTWF2SFFfRlFDdFdYMzRJZV9ISEx1bDFETnlLVnB6Nk9IRlZO?oc=5",
-  "clave": "demanda enfrentan fraude gomez madre presunto selena startup",
-  "capturado": "2026-10-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
  }
 ]
