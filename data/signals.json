@@ -1,5 +1,138 @@
 [
  {
+  "id": "fbfbf531920c",
+  "fecha": "2026-11-18",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción Médica - Home",
+  "medio": "Redacción Médica - Home",
+  "titulo": "Montalvo (PSC): \"La sanidad pública tiene que protegerse para que los fondos de inversión no la vean como un nicho a explorar\"",
+  "resumen": "la medica, gerente y cabeza de lista socialista al congreso por tarragona, ione montalvo, se compromete a legislar para profesionalizar la gestion sanitaria y ademas: la sanidad, la \"gran prioridad\" del psoe: garantizar un gasto del 7% del pib, psicologo en 30 dias y adios a la privatizacion",
+  "url": "https://www.redaccionmedica.com/politica/20261118/montalvo-psc-la-sanidad-publica-tiene-que-protegerse-para-los-fondos-de-inversion-no-la-vean-como-un-nicho-explorar/364975_0.html",
+  "clave": "explorar fondos inversion montalvo nicho protegerse publica sanidad",
+  "capturado": "2026-11-18",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1da900c43d3d",
+  "fecha": "2026-11-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Uno Entre Rios",
+  "titulo": "Trabajadores del Hospital Escuela de Salud Mental definieron un paro para este miércoles",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZk5PcXNlU3E2Unl2MjNZSFItbGp3RlY5d2I0MDJ4LTZmZTQ0NHRCNGM0TTZERXp1M2hWYUEwako2R3Y1WGFpaFR4amhiOTZ5eDZ3aDBKaTFsMUN4bEZaU2pBZ0o0ZDBJYTN4dVlBN1ZWUGltcE9CVEEtaXhzczhtZS1JNnU4OVlHMG5aczBKcE9aZkRjbndhQzRNbjh6NmcwN3JOSXFsTThqSEhIVUR0UU1IazZsQ3F5SnNPZjJXNU1nWnZlVjhjM2tVUUpDRGg2bDhBcC15b9IB3AFBVV95cUxNVE1OUDM4Z1llVEcyX0JNQmZDR3FjdlgzRWxxZ3ptRmUyTlBxRTdXWXpYYkVLRmtpM2xyNjBwcHdnRUZFY0tYejJqSi02eV9KNGhIVEdhbHN0aG5WLWxFQ0d4VUhJRzRVTnBKQktWYkpiZVJvZ21SdjlVN05sdml6eDU2U1R4UU4zb0o4NVV5bE9NWkxRaldLVFVTMkJWc1JWaG5udlo3dzFCZTllRzFLblpzNklnWG41X29QVmVFT25hTzJBeVlzSmR2aTZyaWJJSWt3cEZZT3VuZTZq?oc=5",
+  "clave": "definieron escuela este hospital miercoles paro trabajadores",
+  "capturado": "2026-11-18",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "336a533b2ba2",
+  "fecha": "2026-11-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Lages",
+  "titulo": "2º Natal no Pace da Saúde Mental promove integração e inclusão social com corrida e caminhada para comunidade",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPY0VIVEN1T0hDUGJTY3JSOTRhQ1Rkb0FWQ29IV1BqV1ZjTU0zTzRxekwwQUh3Y3VOZmtSeTVhZzVPSHg3RDgtb0xpMEpYWjVXbzUwWkpoTjNSVnFfWGx0dXNfaUdWbUc3VWllM0s5SDZQREZvTU5iaTNDQjY2ZzBCaHg2S0dzRUw1b3Vrc0F2ZGlQcnI0ODVqM3ZKUjhtZm1JeGFvOXZ5cFRrQW8tT1ljSnNGcko4ZFcxcEdHNnJ0b1o2RVoyTk4zbTF3Q1VESW9FWWswbjdSQUtFUVAwMDZuYlYtZmY3SUJYWS10UVlyOU5mdw?oc=5",
+  "clave": "caminhada comunidade corrida inclusao integracao natal pace promove",
+  "capturado": "2026-11-18",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0238a52588dc",
+  "fecha": "2026-11-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "www.examedia.com.ar",
+  "titulo": "Sin turnos para pacientes nuevos, el hospital de salud mental de Paraná tendrá paro",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV1NHRklQWWFYRy1YMWxicTRwVENXbkF2aWJwRjBhWFRRV2VGbDlOVkgtYUVIZWtLU1N2UnVMZVVKV2ZkMEZTYUFTWGdRQ3Rjbm9pY0EwX2wwZE1jUy14eHhlT19hUVFLRjdjRnRqQ2RpM3VYUS1fQVhVbzh4czctTW1MajN2d1hjaHNPbkRqR3puZFRpV1BtTFp1NU1CNnY4TmhRV2FR?oc=5",
+  "clave": "hospital nuevos pacientes parana paro tendra turnos",
+  "capturado": "2026-11-18",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "97a3eac46186",
+  "fecha": "2026-11-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Coren-SP",
+  "titulo": "28º CBCENF recebe 9º Encontro Latino-Americano de Enfermagem em Saúde Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQODFNUjZiQlFxZkZ2dklUUE0xYms3MlNYNTQ0QWlXM1ZIbV93MEdXMWJ5eDhMRnQzdnF4MkRYdVdvWlJUb2Zrc20wdzR5WlpZVUFTVFhoeHQ5dWozdkxlYUxmdkJlaGZyQUppRDBoLWp1bFR3Y3BlNktBWEZQVzV3WWtRZWhKcFdzc1dmcmgzZUY0UWVqNjk1ak9jQXJUb2J4LUJyMW1CMjB3ZUR0dHluVTF2Ry1PeDhY?oc=5",
+  "clave": "americano cbcenf encontro enfermagem latino recebe",
+  "capturado": "2026-11-18",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c59656f3083c",
+  "fecha": "2026-11-18",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Lucía Redondo, experta en nutrición: \"El estrés emocional no resuelto tiene un impacto profundo en la salud digestiva\"",
+  "resumen": "las prisas, las preocupaciones, la ansiedad, o los conflictos emocionales no resueltos pueden influir mucho mas de lo que imaginamos en nuestra salud digestiva. el intestino y el cerebro estan estrechamente conectados y, cuando vivimos bajo un estres mantenido, esta comunicacion puede alterar el funcionamiento del aparato digestivo, y favorecer la aparicion de molestias.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-lucia-redondo-experta-nutricion-estres-emocional-no-resuelto-tiene-impacto-profundo-salud-digestiva-20261118083347.html",
+  "clave": "digestiva emocional estres experta impacto lucia nutricion profundo",
+  "capturado": "2026-11-18",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "ansiedad"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "0abdf05c6a0b",
+  "fecha": "2026-11-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Revista Espejo",
+  "titulo": "Ciudadana busca que haya psicólogos de planta en escuelas de Sinaloa",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdzhxMV9BdjVDemFVUzIzRHhzM21iRUFfNDdlRTloXzhCMDM5MThpbEw1akdqcjI5SVF3TS1lbm1BVE9HYi1PZ19kdEk0bThNbnUyMHMtNy1vaXdtaWxOYmNJdnNMbTBBWkM4VkdpUVU5aHVDbUJGSTNUeUR1UmE4VExlNFVqZC1kWWZGeVoyV0JXVFpLb04tNlBuLWwySGNRS0RaY1AxZFpnUQ?oc=5",
+  "clave": "busca ciudadana escuelas haya planta psicologos sinaloa",
+  "capturado": "2026-11-18",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
   "id": "f1ee827f3b7e",
   "fecha": "2026-11-17",
   "carpeta": "05 GOOGLE NEWS",
@@ -38,6 +171,83 @@
   "ruido": []
  },
  {
+  "id": "01fed84d3abe",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Medias Tintas SLP",
+  "titulo": "APROBADAS REFORMAS A LA LEY DE PERSONA JÓVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, PARA INCORPORAR CONTENIDOS EN PREVENCIÓN DEL SUICIDIO Y SALUD MENTAL EN CAMPAÑAS INSTITUCIONALES",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxORHVyblkwRXZqc1pOZlY1Y2d0aks2Q0lsdFI3ZG9GTlRHeGN3NmJ6dlgtZVh1RzdkNlJEVk51Nl9lcm1ucGhyNFhRejdPQTdHVDhvc2ZJRnkzcmpsd0ctZ2ozSUg1Ty13dlJYc0RxV1ROZXo2VThTcG1ydzB2eDUxaWpucmtSa0xGQkswQlc1OEktZGVNd0xhU19WUmRNcmlPX0FUaHg3WlZtcmhxRnNDMmZiYWI3X2pCTjVlalcxMUYxbVBBWEtNM0dYelFUMWp6MWJSbkVXS2dGQnVZU0hKS0JsUmxTem5NdXdvcGU1RDU4NFRnZ19BLW9qNzJ2UW9aa0ZOemR5N3UzeHg5el9tZnMzVGRBWUJYNFYweTNlNWpXdVpzLTVuZDNtR3RkM3JWVkhvSFhzTzVVUXI4QkZyNkZnbVE4ekpxS0F5Ymlfdko?oc=5",
+  "clave": "aprobadas campanas contenidos estado incorporar institucionales joven luis",
+  "capturado": "2026-11-18",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "889a78e6173d",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Neuquino",
+  "titulo": "Salud pública en Neuquén: crean 43 cargos para hospitales y nuevos dispositivos de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHBneHpPalY5OU9zY0tWdzFmdTNFWGY2bnBTb1pPSFViT1BLeEhJd01kaEZnVC1DRExQOE1BSE5zVmlibUhZMTc1QVdObmhtT0ppZGNxME9Mc3R4NExLcXQ2YmpYaHFLMkxUczUzSDVETllHUHNLMGl3bTktV01qYUYwLUtsWjBkeTZSNzFrVE03b1RlRlpBWXZWNVJpUHZJMFVaSmRZcWh2RHJzcXZCSFFYSU9NcmJDRDA5c1d5NGJmVHc?oc=5",
+  "clave": "cargos crean dispositivos hospitales neuquen nuevos publica",
+  "capturado": "2026-11-18",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f5b5e1c91c58",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Diário de Curitiba",
+  "titulo": "Comissão aprova projeto com diretrizes para reforçar atenção à saúde mental em regiões isoladas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeUhXVlBnZm9yd2hxeWs5c2k5LXE5LV9MRDFhLS1IMG5pazhiRGZzWTFGeWYwY1ZtOGlaRS1zanZRZEtBRFR6Ny1Zcm5OTDBjQ0dCRnA1cjAxZV9UUE50TFR0ZEFKMXlpVGxNaXFjS0NYeHFZSF9rUWtPUjEtVGR3S1RxeDhwOHY1WGhUSXdyOVVIbUR2bXlMQTVGcGhnWkh6MTFyWWJLU05FdE9qZm1iZVJFWkU3eWEyOWR1SUYzMWpsYVd6bDN1MmFBWjFMVS1JMmc?oc=5",
+  "clave": "aprova atencao comissao diretrizes isoladas projeto reforcar regioes",
+  "capturado": "2026-11-18",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b47f74ad162a",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Bioengineer.org",
+  "titulo": "Children Recover Faster Than Adults in Migrant Mental Health Care Study",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMG03NkNjdGtZUXpDemRMb3A5SWlLa3JaYkxkU2hidUJhb3lWU0hOSHRUc25xWU85S01WLWR4YTkyZU12OFpWSWxvcUFIWC1xSjFjSktwdnRzMXRFRW5idkpHcHFJeFIwTVRMaXBBNHY5YXhRVFVmT3QtQ3M0UjRyOVZJa3BQdVRBc0EyMHBFUV9wZ1BWSUhaQVFHbzA?oc=5",
+  "clave": "adults care children faster migrant recover study than",
+  "capturado": "2026-11-18",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
   "id": "6edb576076a9",
   "fecha": "2026-11-17",
   "carpeta": "05 GOOGLE NEWS",
@@ -53,6 +263,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7111272a50d1",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Bioengineer.org",
+  "titulo": "Informal Mental Health Care in Spain Required 1.85 Billion Hours Annually",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRTFHdks1XzQ2OHhUS1kyN0gza2hfdE51OUo0eVh2YnBYN0NDZzk3ZW9wQTQ1Rmw2TFRvSk9PTnZKZ29UeV9hV0hacURnakFveTdScVBtZDBFeHlVUGRfOEtUazFwRjUxVktRd24xWk5CbHRXNlFnSzRlVjVkT3FCXzNJWW5haHhmUWFwX25UakhoZi1LeUluei03bDl5NDg?oc=5",
+  "clave": "annually billion care hours informal required spain",
+  "capturado": "2026-11-18",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -114,6 +343,44 @@
   "ruido": []
  },
  {
+  "id": "5aa67d563634",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Río Negro",
+  "titulo": "Arte, teatro y cine gratis en Roca: vuelve a la Patagonia el festival de salud mental contra el encierro",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcXhUcVJqbmNaUk4zclpCa3NQNWJ6YmhQQVJPaFZWNS1hQjg3VUgyLUJTQTV1dU5rXzI1SllyUVhTMjdyZm1HZXVHMUZWOEhuLWlxOHNtVjdZYmlnQjJ3cG8zbGtVX2U4N24yZV9JbWM1NWpWdnF3N1UtV2sxZTQwSGVNeEJhalhGNmNlVE9pcXd0VzdURjdHN2N2czVsNmIyNDBUNTJrNEJ0ZFBpYmRtMktLMmN0VTJ6M29jVFl1dGhYSVR3QWttdFRPbDhRSzhjc2ZzdVhLeVVNMjBHVTd0TzVn0gHqAUFVX3lxTE9TOU9zMGJYODhMYTB1Z3pHTmQ3bzJraDIwQ29qNy0wUDlUQmRWRWdFbHZ6N3E5YW1GM3J0ZUpSM2NOSldWcTVObDI5aXMwQmRadi04cnQya1ZHM0k0UVlYLWxmVnhXdG5WVnlSLVVvMm9YRVhpYTlTMFpmaTBfRnJxUE84WlFZLTVaaGNoNk5pUkttOUhyUWl0M0tYYTdSVVRPSW1rMm9NRXhrcWNWdG9YdklKeDlHaG05RDl4a1lqU0FSM2N2Uks3X2E2bUFqVnh4aGljMVhNNnFyaWtMdHhQd3doV3NzYlVRUQ?oc=5",
+  "clave": "arte cine encierro festival gratis patagonia roca teatro",
+  "capturado": "2026-11-18",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "334450f23893",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Goias.GOV",
+  "titulo": "Ouvir e Acolher: Podcast da Seduc/GO destaca impacto do programa na saúde mental dos estudantes e profissionais da rede estadual",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUnQ3TVBNdUhVZE9fdzNKSUpsbHBDTnR0TFJsYXlhb2J3Ml9ha3I4NkpaWlplUG5tVE5EUlM1ZExOUzNqVEdEMFVWT2JCcFNuTFk1NkJkaHl4NmE4TjB1VlJvTkQ2OWg2MHpHRXEyb09Mb29VQzNMSGlxVjZOcUNKWFRYRG1mM1NWSHdHY0FxMzlqcVBRRzk1a1pRWlFSeDkxclhBbzBNMDhoOS1pNkNXWlM0c2hxeFQ3ZkhiYmpIS0t1VFlwTEQ4M3Q3TUQwcjlPSGw2MTBZemY2MEkyQlgxc1lBeE42LTFPOEszNXRJVQ?oc=5",
+  "clave": "acolher destaca estadual estudantes impacto ouvir podcast profissionais",
+  "capturado": "2026-11-18",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "aaf9e8c3f56e",
   "fecha": "2026-11-17",
   "carpeta": "01 ESPAÑA",
@@ -132,6 +399,27 @@
   ],
   "ruido": [
    "concurso"
+  ]
+ },
+ {
+  "id": "ca88d819f5ee",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Polícia Civil RS",
+  "titulo": "Cuidado com a saúde mental dos policiais é tema do 1º Seminário do Departamento de Saúde da Polícia Civil",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQWxCaWRRcTlnTnpHSExvWnJucWJtcDItSkJ3ZUtNNGI3SlVNN05ud3kyWFNnc2ZJQ0hwNGtpTXN0MW1MV0JGbW1DNUpJVHdFRXJhNU9TYVVmNTJUS0xxYVRPdm9OdEtJVnppLXQ2TTdXWGlxVS1CT0JDUUhPWWFQMV9CbEhoS3VJU1NPbGlzMGNDaXJ4ckxYR2dCMDlQbEJaRWNyZ2hFS3VBOHBfTVRFNlcyZ25oVFhOdXpmVnJhLVZZQkp0b2gtUw?oc=5",
+  "clave": "civil cuidado departamento policia policiais seminario tema",
+  "capturado": "2026-11-18",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "seminario"
   ]
  },
  {
@@ -479,6 +767,25 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "998dba65181f",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Radio Sintonía",
+  "titulo": "La Federación Salud Mental Canarias denuncia que \"la salud mental vuelve a quedarse fuera de los presupuestos de Canarias\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObEdId0VXUHlzUUtrSzg0bFR0UGs3eEVPZy1NeDdCWF91M29Xc2dybVBjemc3bTljYjVuWEhDYlFhaUtPNmU4RkVVOEt0NHlPR0dnR0JMT0EtdHBmSkJ1MnFVRGtLTUxSZWNJcDA1LWR2THJmOG5IQlo5UHJaek1BN2ZFVFVfV1FjeWJLRnZ0ci0zTVI1Y1BVcFRmMUE2TVhydm5wNHZOdTViNV9iMFdzcFg5RUZDeTl0aWluN2FsbFhySlV0eTlxZWdTTHhxUk9mYV9GZkdQUEQ0Zk90eHY0cQ?oc=5",
+  "clave": "canarias denuncia federacion fuera presupuestos quedarse vuelve",
+  "capturado": "2026-11-18",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
   ],
   "ruido": []
  },
@@ -36859,178 +37166,6 @@
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWFkYUl1YTFzaGFLTzZUQ3RVVnBiVkwzRzFFbV9VM19JdW42c0xTQXpaY2JPY0NSLW15dFRSTG1kaW1hbnh4a0EtQVhObXFnYzVjal9YRFhQeVJLUXZVcTA2Z2dfbXBjVThPMGNLSlJNMTJmOGQ3cU1NRmg1SUIwS2NCS3d3Ul8tWFRJbEhONXRqU0ZhLUljbU9iR0Q0eG42NnZERGJkeFVYZDdVMTFRVFVhV01VZ2FN0gG-AUFVX3lxTE9MMVpyUThaY1IwTWlsOTNMUU5BcndQYjZKYVJFbW1TX21QbldpMWtJQXhqWjZXUk5QSTN6ejZCUlRPWUNSeEItcGR5dGxyNWNFekc1VE5WSnM1RnJPQ1dVVllubl9LRloxSFlKaDVTaW9PZ2VzOVlES1hfZnZ6ZzFvSTQySGxWUnFjWE5fR0ZtWFNlNm1ub1B1blBZdldDNmdrT0FwczhIbFpXQzRrT1JCdG54T2lzR1ZxMXJIOHc?oc=5",
   "clave": "entra este norma trabalho vigor",
   "capturado": "2026-09-16",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "a83cb80b3574",
-  "fecha": "2026-08-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "iclnoticias.com.br",
-  "titulo": "STF suspende multas a empresas por descumprir regras de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQbzY2WHZ3cFg1QkZGaEJBUUczVktPN0gyODk1S2h0SlpxajMzUlNJVmdaMWk4V2pvX05qV3hySGVEUWd2UV9rRXo5bm1UdzVvaW8wWXhnMm5RQ2tYbVZ2TVEzS09XR25xNnIwTHViZ3dQd1ZoSTEzaVk1N3VlQQ?oc=5",
-  "clave": "descumprir empresas multas regras suspende",
-  "capturado": "2026-09-05",
-  "puntos": 7,
-  "prioridad": "A",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "98d046146a9a",
-  "fecha": "2026-08-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Jornal Correio",
-  "titulo": "STF confirma suspensão de multas para empresas que descumprem regras de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdUhHRzd4M2ZyQjlZaTR1ZGxHYUU4N3VzTkFUMFJaYjRnc1hicl9ncWpmck9DTzZ5ckdzQ2JMQzhjaFJYeW9xWEs0dnJLNVFvN2gwY0JLVEJON2M0bEFTTWFsSGx5OUt6NzhJVHRVakNkZ2JSQVdYQ2RkZ3hURWxoaXpfb3RMVkF1ck9DMXZmdUZETXNsSVNUT1hwT29QclpMYURaelgzOFJZMzVtU3FMMmNhYlp5MFhiVldZUFVybXBJZHBLNFlRU0l3?oc=5",
-  "clave": "confirma descumprem empresas multas regras suspensao",
-  "capturado": "2026-09-07",
-  "puntos": 7,
-  "prioridad": "A",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "f193b481ddfd",
-  "fecha": "2026-08-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Jornal do Comércio",
-  "titulo": "STF confirma suspensão de multas para empresas que descumprem regras de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQXdVV2VWd1ZxZ2t1QzVDeV9pLU1wX05KYUQwRkltTlJUbklZdmVsczh3WWpQSVYybndSanRKelJYcmE4SjJRZl9rTXJSU2RUbTNEX1lGYWFfdVFkQWdRQVR3U1hKUklsaVVkbmxyTHYtYWRUWlM0OFVlUW01WmpCY2d5X2I5WnQ3Nks2NlpXUDVFUmF6ZXFmaDZ4d21RUkpjRWJETkQ3LTZmTzRobDNmSUdvcG9yVnMtVWFadXZvaHpOdXlweU1Ub0lHZUlFNHE0NTdGZkR0aW1nX3BCVU5LRA?oc=5",
-  "clave": "confirma descumprem empresas multas regras suspensao",
-  "capturado": "2026-09-10",
-  "puntos": 7,
-  "prioridad": "A",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "5532d7f7c242",
-  "fecha": "2026-08-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "UOL Economia",
-  "titulo": "STF confirma suspensão de multas para empresas que descumprem regras de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMEtIX0ZjX0dCLW8xeDFpeGs3VHJ3VTIyVVVIcEI0aV81RmlIV3AtQnc5MW54My11ZVN0RkdaYzBzRFQ1X1dndHlJZl9VdDVEeHNNTFVmeS1RM0ZtZjduSTM5N3dWT3lYZWl2Znh4cVNFOTFnN2VxX1U5VWdtQVZPTHhfVU53WEJIXzRkay0xc1dhLTh1YmI3cUFURndPQ2lJTDV5Y0dObnROR2RJd0hMQ2lFdnktRlVqRWl5emVnOURpc0Fra1ZRMnJXYlA2cmgzTTFGT05Dby1QTXk0aFc1TE0wZmxHWTY3?oc=5",
-  "clave": "confirma descumprem empresas multas regras suspensao",
-  "capturado": "2026-10-01",
-  "puntos": 7,
-  "prioridad": "A",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "a7433ec7ef26",
-  "fecha": "2026-08-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "JOTA Info",
-  "titulo": "STF decide manter liminar que barrou punição por descumprir NR-1",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelpHVFJZb2ZUNE1aMmZCanhhUl9jZ0xXM29TRnZ4UGljUWFJYWhGMURLZ0ZtUDYxWUhELVZjMGpMVFctZTI2d0tNbmlzQjdHVFRMdEdmOXJoS1M3bkhGRi1WT1d6NGw5aTRMVmJ3MTc3MzlBajJZeExBaXd1M21oQ0pDRFNPeDhaOFA0Q3hLMFVId0UtTVZYYzZoOA?oc=5",
-  "clave": "barrou decide descumprir liminar manter punicao",
-  "capturado": "2026-09-04",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "26281d681f71",
-  "fecha": "2026-08-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "InfoMoney",
-  "titulo": "STF confirma suspensão de penalidades da NR-1 sobre saúde mental no trabalho",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGo1aHg5S0FvMzFIOHVkemYtLThldmhKbFhFTDhmN2pxSkxaanY1aHV3c2xhM0d5bnQyTEM2UHNOelZkTy1TZ2d6SlI3aXh1Vk04VkYwTG9DeXJYMU1OZ1FOdndQRk1jRWI1S0lYLXlWQzUybHZNcE5PQzlCWDJ4aFQ2eUFjRzkyYW9EUGtvNi1tVGdFV0ltVVpoRXFHZWVoR3Bic1M0UFQtOGFZM281Y3NHUGpQd9IBuwFBVV95cUxQcWhNMjBKTVJkMllGRW9CdnRhLXk5X2pxbHBQX0dUU2lhLVJhSTdickxYcWtzOHJQWXBYdUlRMkwxRjFRZmZCZGVnRHZzZjdpUmc3Q0diQVRXT3FSWXJneWY2enNGZDVwbDZmZkZEUldiOEdCclQ5QlBoYzVSZGtpcjJfZkx3WEVXaWp3R2QxczZYeG1SNGxwMWZMeEhaSEE2OGVYeDJESGNfUE9JZ0pJcFBUMGhCUjhNLXVv?oc=5",
-  "clave": "confirma penalidades suspensao trabalho",
-  "capturado": "2026-09-06",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "962e639cbae9",
-  "fecha": "2026-08-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Tribuna do Norte",
-  "titulo": "Vice de Flávio, Alfredo Gaspar critica regulamentação das bets: “destruiu a saúde mental do brasileiro com a jogatina”",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMDhFakpnLUNUWnM3UnZNQXpvZFZqSzE0ZTFtaXI4Q08xbDdZNjI5SERpSVRoM3ZSUzZxdnktd1poRmN5Wk9ESkotODhYRW5neTE5eHU0cUdlMmxHdTJ1YTZvZGstaDhodjZneHJZa1NXTWpDLUYyckpLY0xoNjlwT1FWYS1QaWRJbFhRelRPSGxQNE1aRkc3TXJ1YnZPNHV6aHhWQV9UNzJNcEd3d1B6NmR1MFZTeGZRUlVsaWRKR3ltandta0V3WjVVSkQydE45b0hIcS0wM3B5ZWZ4Q3EzOE4tcU5NU2RyY2c?oc=5",
-  "clave": "alfredo bets brasileiro critica destruiu flavio gaspar jogatina",
-  "capturado": "2026-09-04",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "0b047805952b",
-  "fecha": "2026-08-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "bra1.com.br",
-  "titulo": "Saúde mental no trabalho: lei chegou, mas falta cultura?",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHYtdWgxYm5QWHFOYThCYVpSdHZad09fZ1ZEbThFY1JxMFhWMDJBbzJ1cTJLOEpsTFhQLTJObDhlZ2ZCeEJQMXBVRHVEd2xNMDl2dWNrTnpzTFlPVzAwamdlblV1MUNaLTdKVTJEUnpjNTVVekRLU2xON29mZG5MelM2ZGR4R2JpSnY3N2VlMVVpQzFSQ01rWHQ3RmZJQ1lj?oc=5",
-  "clave": "chegou cultura falta trabalho",
-  "capturado": "2026-09-11",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "0a69e1c2831a",
-  "fecha": "2026-08-19",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Consultor Jurídico",
-  "titulo": "Punições sobre saúde mental no trabalho permanecem suspensas",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUJWc2FkNDhYcU1CcUxULUt4Qk1seTAzLXRxZGJBSkJUbGdhaXZlS0JfcHctakJhZ3Zvbkpic2JHOWN2eUJHU0FjUXFCSDZyaTZDeEZPa1ZOWXp4dEY2VG1USXdrV3lpYmdJXzFEdE5Xdjl6TVQzaTMyc0JjY0twSjRoN1h0YTdfN1gzUHozV2Y4ZzNkcVQ3S1k4eHBSLUZORENr?oc=5",
-  "clave": "permanecem punicoes suspensas trabalho",
-  "capturado": "2026-10-01",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
