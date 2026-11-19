@@ -1,5 +1,295 @@
 [
  {
+  "id": "94600f8c7aac",
+  "fecha": "2026-11-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Enfoque Sindical |",
+  "titulo": "Salud mental: convocan a una asamblea federal contra la reforma de la Ley 26.657",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjhsSWluUHhfVEctWWVqcnM2U0dqRUpjY19xMjZNN0JJVTJTQ1FXR3ZZTDdGTWtKamJFYUpGR3RKSDB5NjZuRExOYlFYbDZOYTdPNzZnOHpLX1JWOU43NkZrS1NhcFh0ZFcwVmZ0TnVXUHBNejlBZXhxcG9xNjFDMktJcFpFdXlVZV91NlZZTTRBWjViX3ZnMlB4QV9iZm1nUWg4MkJTd1Y2eTVEWjB4V1A4eUloU2VqeXZzY0dieXZjQQ?oc=5",
+  "clave": "asamblea convocan federal reforma",
+  "capturado": "2026-11-19",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a6d5b3686117",
+  "fecha": "2026-11-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Afya | Home",
+  "titulo": "19/11/2026 | FDA, Botox e IA na saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zMXVKSGdvbW9oZHFzZEIwWWRBb3JUUDlyTFNJUjd5OHB3dFF4M0J6OS1JdFFxeFFkSVpnVktOeDM2QVdiY2d5NWZGSkwtaGZuQ3RIVy1Fc1BMQ0tveFdhcGJwX0JPZE0?oc=5",
+  "clave": "2026",
+  "capturado": "2026-11-19",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "307e85d9fb4e",
+  "fecha": "2026-11-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Onda Cero",
+  "titulo": "Qué propone cada partido sobre sanidad y listas de espera para el 29N: asegurar la sostenibilidad, refuerzo de la atención primaria o salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZFRLQmptWEVUUXh3S3dVR1E0QlM2SU9TazIzdjAtM2prbkFldEZORFVPRW84WlZKdDZpZjVpVFJ6am05cHdBWVBQTGN5MTMwdjN1QTdvVS1RQzFEVkozdEpkZUliMzY2MnI2dDhrRjVPNEpKSEtXVm9JeUFGSXJLWTF4RGJUaW91UEVDR1Z1NlNCaE9xUEdKLUpjNTEwTXVwY09KcjItSUI3c2xRbnVxSEhWS3JTQk1SVjQxcmdLblJ4cDM3RzlWTmxzbWV4aTdYREZZbjdjdmdZT1BKaUVibkdfS3lXb0U1eTNnaWcwTkdMSEEwN1Vzem5VLUtaRmFnZDRUTG9tNFI5ZHI2QUcwQkVvLWVuZjRGbFhrM3VoUF9IbEnSAaMCQVVfeXFMUC13Q2l0QnFRTlRXMHc2TDRNa1pZSWZyd3BoTHZ6WkczQVowOHpxQk1HbjM4WTM5elFhQ3VHQmpTVjhlNFMwV2x4RlEzMjk3eXVlTzJId0VCX2pRMmw1NEZSNUxhUEwxTXhFR0lMVVhoYVptYl9mWGJLYVlSTG51aWE3UzcxZE1wajJHWEE3d0NRWXhrTXNmMXRNYWhMU0hweURjMDNjZmNHV1N3LVhUYTNCc3U5YThDMXZJSS13VVpPaEdKZ3NXbUxrNU9uTGRVZThKSFViLUxUT3MwYkhJS0NqY25NNmIwT2k3TmhyRktQV1FrQlExLXJFdllkbUJBazRZc04ybElId0tnMFhuRm5INVlQcXUtNnFoQWE5SV9MeGpZ?oc=5",
+  "clave": "asegurar atencion cada espera listas partido primaria propone",
+  "capturado": "2026-11-19",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5c280d5a9e81",
+  "fecha": "2026-11-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Elonce.com",
+  "titulo": "Organizan un festival por la salud mental en Paraná para defender la ley nacional y reclamar mayor atención",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaVZ5ODhoRVlnNk1NZ2VEbG9wZXBycVBYaVlRZzZkclFFV3c0Y2dxTjRDQ2dXN3lBZVdITUo0NnlmN0prUnNDV3YxZXF2YlRya2d4Y1phQzFLNmlPY1N5MWFFWlM5eGJPY2t4T0VkVlhFWnoyRzZfZVJPVGg5blN3eDRsZWxUYmlSbnhwRkt2eHpscUZiQmk4ZzdhONIBhwFBVV95cUxNVWZSU1ZYbUFxQkRrLVlYMGJ3NGx5NjdJMHpRNVVfYkdCMHRlY0gtN0FsVVp6ajA4NmZieUtyM3FCY3BDSGpyTWNsLWNWdHB5XzJnR21OTFQ5TUozdnVCWS16dlZWSjZoeUpPekwtM0FpR2RCUjkxcG5xX01mZl92c1lZbHVYYkE?oc=5",
+  "clave": "atencion defender festival mayor nacional organizan parana reclamar",
+  "capturado": "2026-11-19",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "e6ff45db9355",
+  "fecha": "2026-11-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "EntreMedios",
+  "titulo": "Organizaciones de salud mental harán un festival en Paraná en defensa de la ley nacional",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0UwV3FNaDlOZjJjaXJ0MkpkdjM0LVZpMXFxN3RNRlVMbjNnTE1iT3JJSzNVU3FwZFhOV21BSjhNUDhnSG5EUnVjRUxpZDYxZnR0OHI2X056SzVpeFBUWG5DQk9vUmxzS1BzZm1vbGJUQzU0X2g3aDBPWWlxWm1mU00wUDBFQzFTTjFHYlRqTFNmRE1FSVhsNEtBeUNHLTVNZFRvdlJLdnl0WEl2M19McGNuVnVzems?oc=5",
+  "clave": "defensa festival haran nacional organizaciones parana",
+  "capturado": "2026-11-19",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "66571b747440",
+  "fecha": "2026-11-19",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "profesionales | Dos exalumnos de la Universidad Europea desarrollan una IA que entrena a sanitarios ante el riesgo suicida de pacientes con cáncer",
+  "resumen": "profesionales: dos exalumnos de la universidad europea desarrollan una ia que entrena a sanitarios ante el riesgo suicida de pacientes con cancer",
+  "url": "https://www.consalud.es/profesionales/dos-exalumnos-de-la-universidad-europea-desarrollan-una-ia-que-entrena-a-sanitarios-ante-el-riesgo-suicida-de-pacientes-con-cancer.html",
+  "clave": "ante cancer desarrollan entrena europea exalumnos pacientes profesionales",
+  "capturado": "2026-11-19",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "suicid"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2971c515cccc",
+  "fecha": "2026-11-19",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Desarrollan un enfoque terapéutico experimental que reduce la fibrosis pulmonar después de un trasplante",
+  "resumen": "una investigacion internacional coliderada por un equipo del instituto de salud carlos iii (isciii) ha desarrollado un enfoque terapeutico experimental que reduce la fibrosis pulmonar despues de un trasplante pulmonar y abre la puerta a prevenir el rechazo cronico del organo trasplantado.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-desarrollan-enfoque-terapeutico-experimental-reduce-fibrosis-pulmonar-despues-trasplante-20261119152623.html",
+  "clave": "desarrollan despues enfoque experimental fibrosis pulmonar reduce terapeutico",
+  "capturado": "2026-11-19",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4fdbd8ae19f4",
+  "fecha": "2026-11-19",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Los hombres viven menos, utilizan menos los servicios sanitarios, son peores sus hábitos de vida y tiene más adicciones",
+  "resumen": "los hombres viven menos que las mujeres, acuden con menor frecuencia a los servicios sanitarios y presentan habitos de vida menos saludables, con un mayor consumo de alcohol, tabaco y otras drogas, asi como una mayor participacion en juegos de azar y posible juego problematico. ademas, registran mayores tasas de mortalidad para la mayoria de las causas analizadas y una mayor prevalencia de distint",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-hombres-viven-menos-utilizan-menos-servicios-sanitarios-son-peores-habitos-vida-tiene-mas-adicciones-20261119115705.html",
+  "clave": "adicciones habitos hombres menos peores sanitarios servicios tiene",
+  "capturado": "2026-11-19",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "research",
+  "topic": [
+   "adicci"
+  ],
+  "ruido": [
+   "habitos"
+  ]
+ },
+ {
+  "id": "0a7be201f767",
+  "fecha": "2026-11-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "boletinbien.com",
+  "titulo": "La CEU-Cardenal Herrera recibe 20.000 € para salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOenY5RDZQOWt1WjdPemQtVmhMQ0Y1aDdQc2RrZGVQaXVROE5kNnhjcnRhQVhoSkpIWE5ROHZTLUJoQUNnYmFPNUFjUmlPbmJka2FIZ29vVlgyTWVSaG9rOVB1NHNXS1lWRDZEamd5WFNHbXdmZTZldjJzamFPNDNvZlF5Rlg5NkZlM0NzRWlfRzBCUmJLMGlTQVc3bC1VY0cwUnI4dEN4RTNkNFlVRjFkRE9tcVNlRUtWRDJ3MXNn?oc=5",
+  "clave": "cardenal herrera recibe",
+  "capturado": "2026-11-19",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fc306564b4e6",
+  "fecha": "2026-11-19",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/regulatory/department-labor-moves-end-expedited-green-cards-nurses-physical-therapists\" hreflang=\"en\">Department of Labor moves to end expedited green cards for nurses, physical therapists</a>",
+  "resumen": "the trump administration proposed eliminating a longstanding exemption to the permanent labor certification program, the latest in a string of policies raising the bar for foreign-born healthcare workers seeking employer sponsorship.",
+  "url": "https://www.fiercehealthcare.com/regulatory/department-labor-moves-end-expedited-green-cards-nurses-physical-therapists",
+  "clave": "cards department expedited green labor moves nurses physical",
+  "capturado": "2026-11-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "therapist"
+  ],
+  "ruido": [
+   "trump"
+  ]
+ },
+ {
+  "id": "d53be58547b6",
+  "fecha": "2026-11-19",
+  "carpeta": "04 GLOBAL (solo con ángulo local)",
+  "feed": "Fierce Healthcare",
+  "medio": "Fierce Healthcare",
+  "titulo": "<a href=\"https://www.fiercehealthcare.com/providers/how-bait-and-switch-tactics-complicate-search-mental-healthcare\" hreflang=\"en\">How bait-and-switch tactics complicate the search for mental healthcare</a>",
+  "resumen": "in the latest episode of \"podnosis,\" we explore how deceptive online marketing tactics and other barriers make it harder for people to find appropriate mental healthcare.",
+  "url": "https://www.fiercehealthcare.com/providers/how-bait-and-switch-tactics-complicate-search-mental-healthcare",
+  "clave": "bait complicate healthcare search switch tactics",
+  "capturado": "2026-11-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2639559ae010",
+  "fecha": "2026-11-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Gaceta",
+  "titulo": "Salud mental: “Prevenir sale más barato que llegar tarde”, advierte un psicólogo sobre los adolescentes",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObkJNamMtcUFkajZ4VThCVnd3Sk1JeXpWd3lPYXZhRklzeE10bl9LcjZ6bHNKTzlpalNLbk9lWGJVUWI0WUdvOEx2eXlYVUk5d2JfOGszbUJaSTlHbVdzMmw3OERhWHdOdjkxRzJQQWxrSU9UdEZxZlNGdk4zOFRrd0JsZzhUN0c1aUVjR0cwRWR6X1kyenRiVlV0LVdSeUlQMFJEYjg2ZzROWXVMbWpTQ3hiZkFIY3JzMmVLbmp2YXZ2S1VGM3VLOVBQSUtEWW5DWHVXeXJkeUtnclXSAeABQVVfeXFMTjBCR0FmLVRZdkQxVGlabjl2ZVRMNTB1VEZrTE1jcThxeURZRENuTUFpTzRWTG1xa1hQWG1uRktRNUQ1RkcyU3dPTUhIbl92MnI5XzRqOVVoaEdCTmRnZXRtT0Y1aExVMXJLdzFQSFpDZGJpbHVHNHJPZVFJaEd6ZE1sNlNNQnpKY3N5d09LY3QxcDdDaXBtNUpKVUQ1RTczTmh1b2NJbnBwODR5clQ0aUZzemhNa281emF0Y05pUGFXMDNfZU1zaC04S3dVYVRJQU9PS19nYUs5ZEdZZHg3OU8?oc=5",
+  "clave": "adolescentes advierte barato llegar prevenir psicologo sale tarde",
+  "capturado": "2026-11-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8e92100d7c3d",
+  "fecha": "2026-11-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Nueva Comuna",
+  "titulo": "Salud mental: la Mesa Intersectorial realizó su anteúltimo encuentro del año en el Concejo Deliberante",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZlpkbl9rNVMtVDVsU3RfdnZCaEpsT1BQVzFvYnhqbmUyRU1ZQ2dPT2JEVUFsYjJnRWFxQ1JWVEZoZjYzT2RjNVpNM3daR19wMDMwUXRKLXBCdTlqcElXT1VYeFo1YmR1RmYzRVdvMk1EcjFMbk1KUVZfUXRzT25LY2RwRncxbld2dks2bEhxY3RMWnJwNXJ2VklQRldjbzlPbVBLcWpuckpJRVJnZC1RRGl2aGZMRUlXUHY0V29ZSGZEaWg4SEhzUVNwTVpPWGwzVnNVUVVySjNRd3c?oc=5",
+  "clave": "anteultimo concejo deliberante encuentro intersectorial mesa realizo",
+  "capturado": "2026-11-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "65c196b8ad0d",
+  "fecha": "2026-11-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Erechim",
+  "titulo": "Grupo Florescer promove atividade de saúde mental no Parque Natural Municipal Longines Malinowski",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeVdHLWJGZVJYUXE1ODczamM4ejl3cnBmdzJfNDRvR3RHLVBsTDN1YzNMeW5yUXgzRDlITnl4aTdZVkktSkd3bko2bUZMRWtmLU9NSERsLUN2M2hIbU5UcklFMDJBYjlHTl8zcXlfa19sUld6WVlLRTFDcXlhZmc2RVBpNF94MWE2UWd1SzEzc1Yza0gycXlQaU5lN2V1b0FVQkZ6SU4xUlB4NUlteG83bnFvSnpuR2R1dkdHeklOQ1pQNU9hUjBtSktvNDF2N2ZmandDUTNydl9fRkk?oc=5",
+  "clave": "atividade florescer grupo longines malinowski municipal natural parque",
+  "capturado": "2026-11-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5af98f69b78d",
+  "fecha": "2026-11-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "0343 Noticias",
+  "titulo": "Trabajadores del Hospital Escuela de Salud Mental realizan un paro de 24 horas por salarios y presupuesto",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHoyM0lhNU5XX01ZSHYyRWFseF90T2J3R1BPZUNxWlJmQWVzYmhxcDFOUC1EOU85ek5hT3NRZnFDXzNIdHhnNGVlYnVQQnJ6cktHcGNvcVFtSXBUZUtacmZJLTBmMWdCa3JqLW94NTJnWExXcDV3WFFmSzBUcFlpS1pGZ3VTaGpqdHlwMjNvYWxvRlJScU92MHdvOVNBNlJIOEhDUENQeHNtQndINkY1TS01NHlLd2dGbDNXN1dwQlBoY1BNeV9kTkkwcEZKdGdmcGhwa2dSdkRmNHFaVkZTaw?oc=5",
+  "clave": "escuela horas hospital paro presupuesto realizan salarios trabajadores",
+  "capturado": "2026-11-19",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "fbfbf531920c",
   "fecha": "2026-11-18",
   "carpeta": "01 ESPAÑA",
@@ -95,6 +385,26 @@
   "ruido": []
  },
  {
+  "id": "a973a699e0c2",
+  "fecha": "2026-11-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura Municipal de Araçatuba",
+  "titulo": "4º Agita Raps de Araçatuba debate protagonismo dos usuários da saúde mental e combate às iniquidades",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSkdEYk9wMzRyOUtBYjhiR2w5dTU2dkJ2SHhsMGxXQ0t5YTVTN1MxTERQU0pDaTRWS01BQ1M4SkFEOF8yM05tT0FDbkhIRkFDeFNYcG9pWUQ4dTZ4c1BmMzF0enBtcVZHMHU2a3NNNUhkUlhBdmJFQktndjhUN1F6RU5xdmpaS0xwVG5lX1NncTFOUXE3d0tBZi1HUmxUMHo1enFQUEVlbUVqRHM3NnB4aGtEVGxTLUZMYUtVcTFoZExxRDFZbEpJRVVkS2g?oc=5",
+  "clave": "agita aracatuba combate debate iniquidades protagonismo raps usuarios",
+  "capturado": "2026-11-19",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental",
+   "raps "
+  ],
+  "ruido": []
+ },
+ {
   "id": "c59656f3083c",
   "fecha": "2026-11-18",
   "carpeta": "01 ESPAÑA",
@@ -133,6 +443,82 @@
   "ruido": []
  },
  {
+  "id": "e3fad547ee44",
+  "fecha": "2026-11-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Politicadesantafe",
+  "titulo": "Castellani quiere que el Estado no abandone a quienes atraviesan una crisis de salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDlTMURSdk14QjlXU0c4VUREdXBzQjRxXzNkMlNkOFo1d0RSc0FoVkhvTlcyeEs1QkZ4bXVQQ2hUUFZQd1pMQUdhSVEzN2YweWFPa0N1YjlURmkyMlUyR1B4aVJabll0N2Jnd2tRdVNrMGtoYUxMblUtMnVDZDBCNlNaWmgzbF9ZWlVJclRXZU5ULWV5a2U5V2pnaXIyXzRQc2gzdHZyby1JN2xLNE1KUHd0WS1DRHZ5SUJLSnBJaw?oc=5",
+  "clave": "abandone atraviesan castellani crisis estado quienes quiere",
+  "capturado": "2026-11-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c1f29106a402",
+  "fecha": "2026-11-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "laizquierdadiario.cl",
+  "titulo": "La provincia de Buenos Aires, ¿capital mundial de la salud mental?",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR1VSOHlkLVJOT2RGdHVOMFIyc2RvTlY1RlBueG5WWXZxRWFQSVZacGNsZTFNRXVpTVhxZkc5Si1EMVJ0QmhDcEJUQTliMTRRaGc0S3BIUVZsNVYtRkk3dDN2RlVHWVBud1JUeExDNVJPZHBnUV9Xd0VLczQ3MDY1QjFSR3ZxTTFoZUdWbzJIanprSV9TS3ZpaDJSSFY?oc=5",
+  "clave": "aires buenos capital mundial provincia",
+  "capturado": "2026-11-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b6c54e553eb6",
+  "fecha": "2026-11-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Jornada",
+  "titulo": "Psicólogos alertan sobre efectos de nuevas reglas escolares",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRDVJektCY3RUbzB4aHVpMjNJd0hOR3c1bkxyZmhnZkNVOTdYeTZ6QnRHUEduWGk5UURUQXdRZ1R4bl9KaEg5Zk9uVG85NzhDdTA0TlJacTQ1NmtDZXd1UEdhWmU0b0d2WVFRYkpKT2lsQXI0aGc1dnFnZ3VaT3UtYml3Si00Z1VSX2JBT25uRFNWOGQ3c3VKZXRYbUhQYmtidWxvNUJ1aDBtamJyVERsd3dDR1YtY2s?oc=5",
+  "clave": "alertan efectos escolares nuevas psicologos reglas",
+  "capturado": "2026-11-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "becc6e0e33b5",
+  "fecha": "2026-11-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Agência Brasília",
+  "titulo": "Projeto atende crianças com foco na promoção da saúde mental infantil",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY0xUN1BOV3l5WFhkUVhuMjA0YjNxSEhJS0NzZk1nRHlnV2ZBQWUzckh6R2pnektUNXhpRE1Xd3VjbTlmQUtIVGlNZVd1N0VSdVZZaExKUlF5MVZJdFZRbkU2TzlId2d3cktiMk1OSHJWVzIwQ01EbzU5RG5pSE1HajBfa0R4cVpBVnNXblBpbENSTnFhc1ppZl9GVUo2Tk5ZN2ttRlJKaDFveTMzLWVJLVdvNmlVNW5MRWt1YnFLS084OUNaZzNBY3g2X0ozeGtRRzNnLVVGU0ZRclQ4anBvdElnVnNmVmkyR1FN?oc=5",
+  "clave": "atende criancas foco infantil projeto promocao",
+  "capturado": "2026-11-19",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "f1ee827f3b7e",
   "fecha": "2026-11-17",
   "carpeta": "05 GOOGLE NEWS",
@@ -148,6 +534,25 @@
   "categoria_auto": "regulacion",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bc27f25ee098",
+  "fecha": "2026-11-17",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "GOV.BR",
+  "titulo": "MinC, Ministério da Saúde e Fiocruz lançam curso sobre Arte, Cultura e Saúde Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNERhS2YtX09XUE5QQUR3MGlQQl84RFlORUMtbUd5MDFuTHRyVWltZjhKR1JUSFg4bFdtcERWNVl5VjZiMTEtU1dldE1CNWtKaVpteDhjUm1HVHBDVjUxb2tFc2ZfbDREMUNkajFvekFHMVRSbElRWW04UUhfdHBCa1ZJbmlTTE1POEZ6MmpEcjU1VUhsMU1xQmR4dEtOdTVXdXlDLUJsWE1Mdy1WOFVHLVplRnh3U3BsaXFnSmk4R1FkUUxSM0dwX1pFRkM?oc=5",
+  "clave": "arte cultura curso fiocruz lancam minc ministerio",
+  "capturado": "2026-11-19",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -784,6 +1189,44 @@
   "puntos": 2,
   "prioridad": "C",
   "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5dd44f179729",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Neuquen Informa",
+  "titulo": "Crean 43 cargos en Salud para reforzar la enfermería, dispositivos de salud mental y sumar especialistas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQVZlN0tQQjBDbEdBbE02Y1NBOWpPZGh1M0VRQy1XT3RLZlZWZUU2T2p3dTBpbFdQTUY1SGY0MjZmaDQzZmRNNTJDOUkwQjJ1anZLTXh5Zml3WmQzVUFXZElscUZVYWxpLUpHMlJWVVAxcnIxM2RhQ0RlelJ5a3RfM1VVRnRCdDF0Wk9ibFhZYnM2X1E4MXdQbWx2R19RMzRtZWVxRElIMEJ2TkxrTFYxeVg1WGVwNjFpcTR6UlQ1LTVXVnotRXhUSjJYbDBiOUw3VV9wTVNFdElaZ004R0t4cVpiZldBQVVPVU9rSUJyU2RIWWJNZV9B0gH8AUFVX3lxTE0xalN5VTNYQ1hIWjM1OW44cENHbU0tcmIzRFEzb3NmMU84Nmw5U0h3aEFwTlBzTXN4Nm1uZ1prYkZQZVUwQTBpZnRrT0N1dDZ0S3lyckxZZVVaQUlVb1hJbnljZ3dYTXhrbFV2RmRQeTN5M1BrUkFxeHIwdUphWVVyakdTaEYyMUdZekZRSzhJbzQxVXg5MlBjS3FlT3ZERVJMelFqTmJBU3ZFVEVBMWhib0JWVFhHaGNwTlYxZC04U2dYZFc5ZFNHRGJJMTc0bmptLXBIX3ZsQTluTDJHalJrOGUyUlBIa0lKRjl6TGtNdjljYXFHZjlka0hYUw?oc=5",
+  "clave": "cargos crean dispositivos enfermeria especialistas reforzar sumar",
+  "capturado": "2026-11-19",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d15fe954ccde",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Cadena SER",
+  "titulo": "La Fundación Salma cuestiona el plan de salud mental de la Xunta: \"177 millones sin garantías y menos compromisos sobre las listas de espera\"",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOc0JpeXZQeTFCN0taWnZIbUNrVmNuTDAtOElyc3ZsUnBmajlXUkxkLVJ6OEJ2eU45Rm9zeldJQUVsd0FVdHptdW9NVldQWUVTMEJ3UnVCaE55c3hvVkhFOVdmTHJEVEQ2d0pXaE9OY2ZCZVRRUnVjYmJNdlpLMUhVcVg3OGJkdWlBSDJHT0duYVlCYWFxbl9wT1ZtQjVBOHRnY0VvSzdfbWstVE9HNzZKV29YOHdJSkpNUWNoM21DOVFFNmZUQlBVaW9neC1lXy1TcDUzb0tXX0hnRTBtMFJ1c0d3RzNkbE1ZUlRqSnA4RXBwU2V3M2lZTk9ucWNWVk5LTlZzTUNDcnF4YXE1ajRORDVHTkJNZHk0cllPbDdn0gGyAkFVX3lxTFA5VmFzQ29GenJuQWRXZ3Q3Nko4c2l4cExXb09Sa29jNjhpVkNISlBHa3V3NDVkZXFPczUtQmp4S1liWFRoV19YRUlZU01mYWkxaUJpY0dic2QzaTM3SFR3WWhVYVNvZV9XVU5RWW9tNmNvdkExOExnVno4T1hPRWhVazZuNzlEQ2xJU1E0S1haTUJSZ3pmWU5DTDFScGR4MTFUdGFWWnV4ZUxaUXVLcVNzbXZjc2sxb0t3Z2pmZnlPYnM4R05rSnBWdm9GdmpIb2Foc1RmUXNrWkpLcUMtNnBvRzZCS3l6c3dwdDBOemVNN3NTUC1sU1JHSjdBeFNlMW5QV3BzaU1nNGJJUmlWTDhWN3RTSTRPLXU4a3B5c2hCR3RZTkxNN3RsU2FGdjJVc3gyZw?oc=5",
+  "clave": "compromisos cuestiona espera fundacion garantias listas menos millones",
+  "capturado": "2026-11-19",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
   "topic": [
    "salud mental"
   ],
@@ -37036,141 +37479,6 @@
   "topic": [
    "mental health",
    "psychiatr"
-  ],
-  "ruido": []
- },
- {
-  "id": "71d4c4c08771",
-  "fecha": "2026-08-20",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Jornal de Beltrão",
-  "titulo": "STF suspende multas de empresas que descumprem regras de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTk1DY3VzRE1wbzVTdHFYbk5HdHBnclR0N3djNWhEeVUxTzFhUk1kM25TaGpkTG4tOU1BdEo5akZDZVJ2dnZfMEpwbTI0d1lPTEdwU2FKblNRLUxLSVNNTmRZUHV4QVJURDd6b2hhUjk1OTFXMEpvZHJaT0U0VHhjeUJRU1UtVEZBQ0hZYUpqYUxFaDZEQi1jZEk4dnJSd1NLOWhCQzBtLUdlNlhaNU9J?oc=5",
-  "clave": "descumprem empresas multas regras suspende",
-  "capturado": "2026-09-04",
-  "puntos": 7,
-  "prioridad": "A",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "15ca88eb4b35",
-  "fecha": "2026-08-20",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Diário da Guanabara",
-  "titulo": "NR-1 amplia atenção à saúde mental no ambiente de trabalho",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONS1BYnZyNTRWcERGUnh3YWVfWlZBOG1kSzZnaUx6U1NLZ0VUb0dZdy04RU5nTDBpSVZfUnhSOHRXSmhULWVZMUhBbDdlbTlsVy1YZTc3V0VJSHo5UnRHbUJNOUg5aHlBSEFTdmgtOE5RRlJYMjh2WXdXSGREQVVFQXBTbDNsTnNjQzVXQQ?oc=5",
-  "clave": "ambiente amplia atencao trabalho",
-  "capturado": "2026-09-05",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "4d81525fd651",
-  "fecha": "2026-08-20",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Gazeta Digital",
-  "titulo": "Saúde mental e segurança do trabalhador ganham destaque com aplicação da NR-1",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYU95TDdnZlBNVTVHVUdLMjdUN2ZHelZ4MGtVVVlSaUl0dGFES1JpamZqWWF6clZBZC0yUVh1N1BQNW9mVUNLcUgyOXdwWWUxUkF2YVhTWEdkRFRsWmZ1aEpYZ2RtcjVaTkdWVml5UWVNV0dBOHIxbk5yTjV5UzZxRWxXMy1rc0tMOXdVTlpDQVJ0YldxUnlHOTBXVFVyUm04dUpnTXV2WnZOaUJsc0tacDg2a3preUpCN3ozVmxnN3k5dG1Pd3QzMWY0akhQQWs?oc=5",
-  "clave": "aplicacao destaque ganham seguranca trabalhador",
-  "capturado": "2026-09-10",
-  "puntos": 5,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental",
-   "nr-1"
-  ],
-  "ruido": []
- },
- {
-  "id": "2f034f08d03f",
-  "fecha": "2026-08-20",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Europa Press",
-  "titulo": "Chivite visita el centro psicosocial Baztán y destaca la inversión del Gobierno foral para reforzar la salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNFdlTEVmTGhwbWpHTlc2bk0zajdLa3o5Q3FSU3l0UnBRNWdlX2VaUHNkZk9sRGRDTjRObE1ZcVJ5WENyME9kNDN2SGw1THZMZEp6QW56ek1VbHZ3em9wWW5RUVkxQmVURjNWaTZDQkNIR01OUVZZaHEzck5sckVLemMzSXE4WWRqZGw2eWoxdHZZZmsxNWM5cG5vc3hwNV9Ua0cwT0xya2piZDlLMU1ZVEUtUzU3c0ZMNnJrYXBmejg3b3FFWE5pekZ0X25Oenc3b3dfX2lyRV9Oc3luY0luSHNOR2NxbG9mNGxtTDJlNA?oc=5",
-  "clave": "baztan centro chivite destaca foral gobierno inversion psicosocial",
-  "capturado": "2026-09-05",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "deal",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "e629e7c79ab7",
-  "fecha": "2026-08-20",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Agência Brasil",
-  "titulo": "Saiba como empresas devem prevenir riscos à saúde mental no trabalho",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVkEzbXVaZGdaazV6TktfbkFIRjNTQmRNeTR0V2w0bU45T2hVV185TDB4NkR6blNKNXhXMmxFdVVNM08tRS01SnllUmFqSnBrR3VFcDh0VEVpUWgzTWZPWXlqVEIySk5raTVkXzB5Y3dybzZfaC1md2xic1RkQW9SelVRVE5tS25YTlFxTk53aG1KOUV3bFhpUGkwS1NNby1uSWJXdEZnaF9zN1hBeHhYUVVGaUszeEQzNzhMNlF3NzFsclJLOTVUSldyeUNldw?oc=5",
-  "clave": "devem empresas prevenir riscos saiba trabalho",
-  "capturado": "2026-10-13",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "empleador_aseguradora",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "8ac2ed73266d",
-  "fecha": "2026-08-20",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Portal Piauí Hoje",
-  "titulo": "Norma de saúde mental no trabalho entra em vigor este mês",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUGRySTh2dmZ0Uzc5YWc1YmRoNFppa1VucmhqS0x4NVF3aE5aWGxzMGx0QVFNS3htX2ZZRlpKUUJsLTAzZ2QzYkV1VXhhYUNrNDZfM0g4QkhjTHV1Qm94MGxLUklGU010OEtoX2JzY2VoR2lrR3RMWkJSSFRQQ0FOSXAxVHBuMWotNTV1VmYwTTBER28yWnN6ZlRaZnZ4S3kyZEN0NGsxWWhrWXPSAbABQVVfeXFMT1FiYzA5dUJ2X1VSWENheGpfU0VpWEQwWVg2QU9CUnVLMTc5eFVvczhmdHh3SEJKdDNNRVhFTWxYNWJUTlRlNWdzNno5cF9TOGVVdHNMWnAwZFJSemhwSV90Sy12cDhrekw2OWl0clFhNS1hSWhaR2dnMmV2dGQ4Z1d2V2RyR2V5UjZfUHBfaS01a0szWUM2aWpwNy1kNFA0VVNGcHR0ZXJrZDNycXFEWUk?oc=5",
-  "clave": "entra este norma trabalho vigor",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "0875175f0f7e",
-  "fecha": "2026-08-20",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Portal Piauí Hoje",
-  "titulo": "Norma de saúde mental no trabalho entra em vigor este mês",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWFkYUl1YTFzaGFLTzZUQ3RVVnBiVkwzRzFFbV9VM19JdW42c0xTQXpaY2JPY0NSLW15dFRSTG1kaW1hbnh4a0EtQVhObXFnYzVjal9YRFhQeVJLUXZVcTA2Z2dfbXBjVThPMGNLSlJNMTJmOGQ3cU1NRmg1SUIwS2NCS3d3Ul8tWFRJbEhONXRqU0ZhLUljbU9iR0Q0eG42NnZERGJkeFVYZDdVMTFRVFVhV01VZ2FN0gG-AUFVX3lxTE9MMVpyUThaY1IwTWlsOTNMUU5BcndQYjZKYVJFbW1TX21QbldpMWtJQXhqWjZXUk5QSTN6ejZCUlRPWUNSeEItcGR5dGxyNWNFekc1VE5WSnM1RnJPQ1dVVllubl9LRloxSFlKaDVTaW9PZ2VzOVlES1hfZnZ6ZzFvSTQySGxWUnFjWE5fR0ZtWFNlNm1ub1B1blBZdldDNmdrT0FwczhIbFpXQzRrT1JCdG54T2lzR1ZxMXJIOHc?oc=5",
-  "clave": "entra este norma trabalho vigor",
-  "capturado": "2026-09-16",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
   ],
   "ruido": []
  }
