@@ -1,5 +1,62 @@
 [
  {
+  "id": "72c16f6f4399",
+  "fecha": "2026-11-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Digital",
+  "titulo": "Pablo Petrecca reclama una ley de salud mental para policías ante 56 auto-decesos en la fuerza - Cadena Nueve",
+  "resumen": "pablo petrecca reclama una ley de salud mental para policias ante 56 auto-decesos en la fuerza cadena nueve - diario digital",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2pqdGt1aG8wZ29iRU9sMjBCanBIVDhiY1dJcDhwdGpTNWl2dHFxNTk2M1lNQm5SWGpYVldYS0RnWEwtMV9WVnE0c25mU0hrOFMyd2hLSS1RakpBb1R1WVliSWgyaEd0c3hPc1BkWEwyam92c2dlZEFQSExaay1XS0RObFl1eXZIWUpHamtCcW52YV96VW1hdURHUzZRdU5DTHR3VS1EbGI3TGhseURVLUZMVlFpeW13UUwzVFdBY243UzR2QlIzVUJMRF9lS00?oc=5",
+  "clave": "ante auto decesos fuerza pablo petrecca policias reclama",
+  "capturado": "2026-11-21",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b639c8f64784",
+  "fecha": "2026-11-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Perfil",
+  "titulo": "Sobre el intento de modificar la Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVm5xN2pjZy1CdHZGcTVxam9ZQkhFUkFmV09wSXM2LXRTUmtkNG1qdGZuTmhMTF85R1BTbmpxalNDTEtmZ3FQN0tTZnZVbTJBdHN3Q20xTENPUWZ6WkVFbVF4NDQwMnp5NkxoM0dMVExWUVhtN0lxTkFFYXE3TFVxWVphMUhaRXl2STZLZVBxSXRBaFE1WFpHQzlFR2Q?oc=5",
+  "clave": "intento modificar",
+  "capturado": "2026-11-21",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5bfe38e8b2da",
+  "fecha": "2026-11-21",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción Médica - Home",
+  "medio": "Redacción Médica - Home",
+  "titulo": "Feijóo llama al voto de los sanitarios: \"Necesitamos una sanidad pública con más médicos\"",
+  "resumen": "el presidente del pp pide a los profesionales que tomen partido en las urnas el proximo 29n y ademas: el pp anuncia un plan nacional de refuerzo de profesionales para la salud mental",
+  "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261121/feijoo-llama-al-voto-de-los-sanitarios-necesitamos-una-sanidad-publica-con-mas-medicos/366297_0.html",
+  "clave": "feijoo llama medicos necesitamos publica sanidad sanitarios voto",
+  "capturado": "2026-11-21",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "7446259cca61",
   "fecha": "2026-11-20",
   "carpeta": "05 GOOGLE NEWS",
@@ -86,6 +143,44 @@
   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaE1pdHk0MTBhbk1PdnkweTItWW45M09WR1NhRFpUcFdialAzMFFWMGNmQk4tMzlFWElzaVBNbzh6REx6dE1HeXdFWk1ZMExmdmJqNWRLd3hiU1VQQXBnN1FERW1xdGp5aExMazYxZWtOcXRtNlRnbHZXNjBrWEtDM2g0LXdyRVFNRWdKUWU5VTBLT1JPc1lTNU5Uc19aR0NW?oc=5",
   "clave": "colegios convencion coordinado lleva mijas nacional policia programa",
   "capturado": "2026-11-20",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1f675dba4238",
+  "fecha": "2026-11-20",
+  "carpeta": "02 LATAM",
+  "feed": "Saludiario",
+  "medio": "Saludiario",
+  "titulo": "Científicos crean peine eléctrico que recupera 97.85% del cabello",
+  "resumen": "la perdida de cabello podria encontrar una nueva alternativa en la tecnologia. investigadores de la universidad de beihang, en pekin, desarrollaron un peine electrico experimental capaz de estimular el crecimiento capilar mediante impulsos electricos y sustancias terapeuticas. bautizado como detangle, el dispositivo consiguio recuperar hasta 97.85% del pelo en ratones despues de 28 dias de […]",
+  "url": "https://www.saludiario.com/cientificos-crean-peine-electrico-que-recupera-97-85-del-cabello/",
+  "clave": "cabello cientificos crean electrico peine recupera",
+  "capturado": "2026-11-21",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9b74ae7700c9",
+  "fecha": "2026-11-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Prensa Cba",
+  "titulo": "APROSS incorpora a equipos del Ministerio Público Fiscal a su programa de atención en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYUl0dnJnZkE1WVhsb0FXMUhtYVY0dDBmNkdPQW93UnVFSUtUbW9IbTRhdTlfUk1PQUhDUFktcHNqLVQ0Qmh1dU1DX3cycTFhNnBESEY2ZXg4WVVQZmtvZXdjNXZrUDFZMWdLNXFNbTVRTkJsbUhpR0xLWnZZeXpBeUFPVEc0eHI2TUxjdkFJSDlKQ0pEaDBLYVFiMVhmdVZTa1FEbWsxTTJGSURCTEhXM1V0LU5RSjJ1RGM3amNRSEZoS3c?oc=5",
+  "clave": "apross atencion equipos fiscal incorpora ministerio programa publico",
+  "capturado": "2026-11-21",
   "puntos": 2,
   "prioridad": "C",
   "categoria_auto": "sistema_publico",
@@ -204,6 +299,84 @@
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGc3WVA1SUFtdVNIN1dBOHNWdVlUTlFoSXR5QUZldnZvTHdNZ0JXTWpOUDVPZHAyWWpBRjBXY1RCUGJGMF9uSHk2STNfc1hONWRDMkhxX1Z3NmxQQ1BuOFZlZTF2b05DSV9yai1NZWlsNk05OUJITTZjTmNIQmlWMXoyODNsQjRYVm0ybXphMU5IMF9KOVpSWXpWVGpHOEN2aWJCbw?oc=5",
   "clave": "amplia apross atencion equipos telemedicina",
   "capturado": "2026-11-20",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "edb043c5433f",
+  "fecha": "2026-11-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Izquierda Diario",
+  "titulo": "Salud mental en emergencia: contra la contrarreforma manicomial de Milei. ¿Qué perspectivas para la salud mental en la PBA?",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaGdsbHdDVUNaQmlnVjZfZjNtbkJ0Zm5lTzFkLXM5aThZaGFqbmV4SWRxb1dsNDVORzFseFNBNHlvTjNCVnRPYTROa2E0TjdmUmszTTlYb2lzVGlid1NkMmQtM2o5QWg3ZkVMdkE3bUV1N1ZPeGJhMDFBWFdNV2VCVzJMYzYzN1BsY1Vrd0tBV2JIWEktbFo0Qmlha25SQ0RjMTdNZGNuOXVEYnV5YW1YdjdheE41am5NVWYxT1daR0NHa2JjWm5Fd05B0gHSAUFVX3lxTE42ZERkN01IWFQtb254RWVTVHI5LVhjbVQyTl92Wk9sZFo3T2NScklDdU5lUHY2QUl2cmhoVzh6TjgxTldsTEhhRWp1VHp1TEdYRDI3YVRlMk1kM01Dd0pLcFhTdW4xaGlOek1sT1ZZTEh5YVNmZ3Fsc0dFZ19aZTVIc3ZhYzhsR3RtZktBalZ6T1lWTkl4czBYczdzdTl6c0FOTUN3M3lpT1lHZDlmVFdLSldKN2FuQjRyNXczbFg2TUVZVzhXdjRmWjM4Ny1wcXZFUQ?oc=5",
+  "clave": "contrarreforma emergencia manicomial milei perspectivas",
+  "capturado": "2026-11-21",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "78aaa6e0e8cc",
+  "fecha": "2026-11-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "News Hidalgo",
+  "titulo": "Presentan proyecto de telemedicina para atender salud mental y adicciones en Tulancingo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXVRWDFzQTBhWjNWZFNMT0t0UVo5WWtQcjh1a3VPZnE4cDFUVTU5dVNiT2cxajBfUC01TDRtcVBvaEV5OW5SRFpXR1FxZjFmRGJVWjM1NUVWdk8yMmZLMVdMWk0yTkRGX1dER0t5YTdlNDVmV0t4a2VtbVBBMUdESnp6bnFzTThpcW82aE1TR1NFdm1meDMtRDBsWHRGdHNGVkd3Y3ZRSl9XZEZtaGFzV3M0QXNEZTdLN3VB?oc=5",
+  "clave": "adicciones atender presentan proyecto telemedicina tulancingo",
+  "capturado": "2026-11-21",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7e924d2111dd",
+  "fecha": "2026-11-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "El Sol de México",
+  "titulo": "Impulsan telemedicina para atender salud mental y adicciones en Tulancingo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV1ZBZ2JEeWkxM0JLamZqZnFLNWZuNTJoWGdqWXVUU1VpZ1RUTkU2RU8xdFB6TmswSFloOFlMWmRfdDBRaGI4a1JLVzVtaHIyVy1jc1JSNEJad1ltdlhrY29pekRua2xDWm5POXBCVHVZZzV3STZWM1VoS0V3Z3ZxY0d3YUhuSjQzNjlvZ2FvUFNJellWSl95Q1JOcUh1SjBrQVRpTFc3SGhSY2trQTNnMlBIRm9jTFg2ckw5MlJmZlBuTkFNYlRzRGpnR2ZMUGI2akI1aUlQZFRiX0ZyTkFxZGhBaU8?oc=5",
+  "clave": "adicciones atender impulsan telemedicina tulancingo",
+  "capturado": "2026-11-21",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "17dea56a5d5c",
+  "fecha": "2026-11-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "La Estrella de Panamá",
+  "titulo": "Agua, salud mental y educación: los retos que UNICEF pide atender para la niñez panameña",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZmhqZE9ZRFhsNlFtZ3prOGMwclo4TEl4VUxGR3FQd0diRFdiRTFaUkFHczhuZnkwbUh6U3QxeG1KSERHanRqZHhtMGlLMm96N09mdTh2cWpzZ0xBYkM0MkFRczIwcXJOemlEYjVZZmE2UEpVV1VfZkZoYzBDeEJmN0k3Vjl4MGQ5X0NGVUZwalNTMU44U1FtTERGNTEyRVRMREg4SDNPNnpMek15YjRqaUR0LUFCX3BrbkdnTWM5VWRIYlp3WnhpOGRPWENKdVZXeUNtSlFtd3NuWFXSAeABQVVfeXFMUFlPRDVDY1VPd2dmMjBoNmVtLWlZY0FEYTkwTUxCTVZWaVhQUGpDRFFNUFZsZDJsZHdBZWJUSklVNVB4UElwci1TUVNUbWR4TnRXUTZhYlNWM3p2RWxzT3A1SFVlbmJ1YU0wYWJUSmQwcm1hVGEya09McnEzejN5MjBJc1VwMnEyMUdUbFZJUG10TjNmUWUtaFVvZy02LWhhQ3prUGYzYUxxUmlROEpZVldQNEtqLU90Wk1CbVdHZzF5czhiQjJHMkoxMXotb3A3UWxwU3RNRk9nM3pDTzI4N1I?oc=5",
+  "clave": "agua atender educacion ninez panamena pide retos unicef",
+  "capturado": "2026-11-21",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -658,6 +831,25 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7d3ebbe1be5a",
+  "fecha": "2026-11-19",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "The Avondhu Newspaper",
+  "titulo": "Strategic Interagency plan launched for infant and early childhood mental health in the south east",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeUhRaV9yU0dTM3RmZ1hJeVU1NG9HdnZJNnppRUNaSTVUU2F2NGxhdzJVVWpqUGE2X3ctdzFxeFNRNFdTUkdxcE1Wc3NhcjFjelpLREtqUjZoX3M2ZjNnX1B1dVFIT2x5Wmo5TWNrOVZPdV9FeV9XM2h3WVo5Qk5BXzNWUnNRVlBpb2tCb1MyLUk1dXp4SXFPMTRELTNZTFZ0MUU5MG9HdVJuOEItR1UxYzcwZmdERHpqUEFUUjZjXzI?oc=5",
+  "clave": "childhood early east infant interagency launched plan south",
+  "capturado": "2026-11-21",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -1679,6 +1871,25 @@
   "topic": [
    "saude mental",
    "caps "
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c3b58be74505",
+  "fecha": "2026-11-16",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "www.gov.br",
+  "titulo": "Huap-UFF promove simpósio sobre saúde mental no trabalho",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa3lXTnVBb3F5WFYtM1NmVTBXbEpxS3dTcWxlbHJzcEJsOHNyNDh2VjN0MmFDRDNWc0VSNXBya2gtel9vWUNYOTlpR2NMNDB1TDlwcWNTa3kzV0ZoU1V3dGlMZnBwV0dpX2cwNWRZaVNEQ2V2M1RqdFAtMHMzVHRFTHZfQjZOQ3I1Z2stOHJnWFJHdjRzRGFHdmN3cENqQzlvQTNhRzhSZTZqdWQ5X1RPVk5JbmlCLXZ1VEVfMlBBb3hzRTE4R21YajhhQ1BPZnlUSXEteXZadUcyWnAzdHlJVVdoVUVVM0w4WmxKT0hJbzJmZw?oc=5",
+  "clave": "huap promove simposio trabalho",
+  "capturado": "2026-11-21",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -38022,26 +38233,5 @@
    "salud mental"
   ],
   "ruido": []
- },
- {
-  "id": "c18ccdc1fcca",
-  "fecha": "2026-08-22",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "Times Brasil | CNBC",
-  "titulo": "Selena Gomez é processada por investidores de startup de saúde mental após aporte de US$ 1,2 milhão",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKTERydkphQkdSYm9xUDI4OE1vRFgwbWtrdE5uODBWazI4bkk1WTU4bGdwMEJaWktYWmh4R1FMdW5vdzBoVUJnMFdwWURZV0Ztdi1wZFZhRGFsdkNWRTB5S2FGdEhURjVYVXAwV0RjZTNVcVVBYnV3bkJR?oc=5",
-  "clave": "aporte apos gomez investidores milhao processada selena startup",
-  "capturado": "2026-09-04",
-  "puntos": 6,
-  "prioridad": "A",
-  "categoria_auto": "deal",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
  }
 ]

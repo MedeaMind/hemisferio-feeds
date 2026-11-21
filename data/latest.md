@@ -1,9 +1,7 @@
-# Hemisferio — señales 2026-11-12 → 2026-11-20
-160 ítems con tema salud mental de 815 leídos · 151 historias únicas · A=11 B=53 C=87
+# Hemisferio — señales 2026-11-13 → 2026-11-21
+138 ítems con tema salud mental de 714 leídos · 134 historias únicas · A=11 B=43 C=80
 
 ## PRIORIDAD A — hechos con datos (leer artículo completo)
-- [2026-11-12] [05] **Sanidad publica los primeros resultados del estudio sobre la salud mental de la población afectada por la DANA** — La Moncloa. Gobierno de España · cat≈research · 8 pts
-  https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGQ2MzJFM3lwdi1hSjRyNHl1VkFpTWowVi1tV2dGNTZ5UDVYYzNBam1zUFhkOG9QVWdIQU1fYUZIczFpZ01KN1VCckVlTFgtZ3RPNDdsT0VyTTNQNWxJUnVPUzNGU2Qza0Q4ZzRwNmpEZVp6X2JSd2lUdkRZR1RrMzNIc1ZSVWJ0T0RMN0tYNGtvaUE2ZUN6dWVyVm1ZUHJiam1JNGJlMDdUaUJyWUM5Mw?oc=5
 - [2026-11-13] [01] **El número de inscritos provisionales para el examen PIR 2027 cae ligeramente** — Redacción médica - Home · cat≈sistema_publico · 7 pts
   casi 4.000 psicologos competiran el proximo 23 de enero por una de las 293 vacantes ofertadas y ademas: examen mir 2027: sanidad prorroga hasta 2028 a las empresas de la ultima y "polemica" prueba
   https://www.redaccionmedica.com/formacion/fse/20261113/el-numero-de-inscritos-provisionales-para-el-examen-pir-cae-ligeramente/365110_0.html
@@ -28,10 +26,11 @@
   https://www.redaccionmedica.com/politica/20261118/montalvo-psc-la-sanidad-publica-tiene-que-protegerse-para-los-fondos-de-inversion-no-la-vean-como-un-nicho-explorar/364975_0.html
 - [2026-11-19] [05] **Salud mental: convocan a una asamblea federal contra la reforma de la Ley 26.657** — Enfoque Sindical | · cat≈regulacion · 6 pts
   https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjhsSWluUHhfVEctWWVqcnM2U0dqRUpjY19xMjZNN0JJVTJTQ1FXR3ZZTDdGTWtKamJFYUpGR3RKSDB5NjZuRExOYlFYbDZOYTdPNzZnOHpLX1JWOU43NkZrS1NhcFh0ZFcwVmZ0TnVXUHBNejlBZXhxcG9xNjFDMktJcFpFdXlVZV91NlZZTTRBWjViX3ZnMlB4QV9iZm1nUWg4MkJTd1Y2eTVEWjB4V1A4eUloU2VqeXZzY0dieXZjQQ?oc=5
+- [2026-11-21] [05] **Pablo Petrecca reclama una ley de salud mental para policías ante 56 auto-decesos en la fuerza - Cadena Nueve** — Diario Digital · cat≈regulacion · 6 pts
+  pablo petrecca reclama una ley de salud mental para policias ante 56 auto-decesos en la fuerza cadena nueve - diario digital
+  https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2pqdGt1aG8wZ29iRU9sMjBCanBIVDhiY1dJcDhwdGpTNWl2dHFxNTk2M1lNQm5SWGpYVldYS0RnWEwtMV9WVnE0c25mU0hrOFMyd2hLSS1RakpBb1R1WVliSWgyaEd0c3hPc1BkWEwyam92c2dlZEFQSExaay1XS0RObFl1eXZIWUpHamtCcW52YV96VW1hdURHUzZRdU5DTHR3VS1EbGI3TGhseURVLUZMVlFpeW13UUwzVFdBY243UzR2QlIzVUJMRF9lS00?oc=5
 
 ## PRIORIDAD B — contexto útil
-- [2026-11-12] [05] **Sanidad destaca la inclusión de su modelo de Salud Mental en Emergencias en informe europeo de cambio climático de OMS** — Infosalus · cat≈research · 5 pts
-  https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd3BTcjNUeVNjWkMxdW5RNHdhVUJRSGI5YlBFaTM0bDVaNmJSM1M5TXh6cFF4ajY5YXdlbzhvU1dib243ZHl3WHJYdTFVZzRtaDZIY0t2bVA5NFFBVmhQSi1sZ2JzMHJtdVBPZ3ExX1NQOG5jdi1vSlA2UlJ4VmJJeDdnVkdOaHBqaFBZcnFyM3lxRTdreTFlMWVldm1hNmJ1WDE1WU1DY0pRZGV4S3RwTzNrLUhIc1dYVTVzYTYyQ2xOR1M5UTF3c1E2cFBJSkZtamhkcEYwWkY3ZWlsdUNEaGJnc1Iyb1N1cTNxR0hXeFk?oc=5
 - [2026-11-15] [05] **Emergencia en salud mental: en Santa Rosa hubo 324 consultas en un mes** — Diario Textual · cat≈research · 5 pts
   https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1RobjRjSkR5anQyWndmMHMyc1JoUG5QaEVLZnl1YlFHRjVOUG16TEZzVjB6MFR6WEFTeENLRFpaY1RfVnV3bkxycnJLWE92MF9tZkYzWlhuelp5c19ESWhiN1gxOUtLb1dTZDc1UGdCaHlfdk9tSHRpQXI5YjVKUGxHdTgzLW9KY0NZTnNjUXlnaWFWcGhDY21fblhneGpVS2NkaWR0MGFWMW04QjZZSFpqS3pVSW5XaWxmeUtRNDRNZw?oc=5
 - [2026-11-16] [05] **NR-1 vira pauta: o que a nova regra sobre saúde mental no trabalho exige das empresas** — bra1.com.br · cat≈empleador_aseguradora · 5 pts
@@ -44,24 +43,6 @@
   https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZk5PcXNlU3E2Unl2MjNZSFItbGp3RlY5d2I0MDJ4LTZmZTQ0NHRCNGM0TTZERXp1M2hWYUEwako2R3Y1WGFpaFR4amhiOTZ5eDZ3aDBKaTFsMUN4bEZaU2pBZ0o0ZDBJYTN4dVlBN1ZWUGltcE9CVEEtaXhzczhtZS1JNnU4OVlHMG5aczBKcE9aZkRjbndhQzRNbjh6NmcwN3JOSXFsTThqSEhIVUR0UU1IazZsQ3F5SnNPZjJXNU1nWnZlVjhjM2tVUUpDRGg2bDhBcC15b9IB3AFBVV95cUxNVE1OUDM4Z1llVEcyX0JNQmZDR3FjdlgzRWxxZ3ptRmUyTlBxRTdXWXpYYkVLRmtpM2xyNjBwcHdnRUZFY0tYejJqSi02eV9KNGhIVEdhbHN0aG5WLWxFQ0d4VUhJRzRVTnBKQktWYkpiZVJvZ21SdjlVN05sdml6eDU2U1R4UU4zb0o4NVV5bE9NWkxRaldLVFVTMkJWc1JWaG5udlo3dzFCZTllRzFLblpzNklnWG41X29QVmVFT25hTzJBeVlzSmR2aTZyaWJJSWt3cEZZT3VuZTZq?oc=5
 - [2026-11-19] [05] **19/11/2026 | FDA, Botox e IA na saúde mental** — Afya | Home · cat≈producto · 5 pts
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zMXVKSGdvbW9oZHFzZEIwWWRBb3JUUDlyTFNJUjd5OHB3dFF4M0J6OS1JdFFxeFFkSVpnVktOeDM2QVdiY2d5NWZGSkwtaGZuQ3RIVy1Fc1BMQ0tveFdhcGJwX0JPZE0?oc=5
-- [2026-11-12] [01] **andalucía | Sanz anuncia que la Junta pondrá en marcha en 2027 un programa específico de Salud Mental Perinatal** — https://www.consalud.es/rss · cat≈sistema_publico · 4 pts
-  andalucia: sanz anuncia que la junta pondra en marcha en 2027 un programa especifico de salud mental perinatal
-  https://www.consalud.es/autonomias/andalucia/sanz-anuncia-que-la-junta-pondra-en-marcha-en-2027-un-programa-especifico-de-salud-mental-perinatal.html
-- [2026-11-12] [05] **La Junta impulsará en 2027 un plan específico para cuidar la salud mental perinatal de las mujeres** — Andalucía Información · cat≈sistema_publico · 4 pts
-  https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUElucHc5a2M4MXRxb1FueGlsZkdkN1JYcFRPT2NyTnpoeDFHN2t3cDRrY05Ib091NUNmaHIxZUFjVmZCSGdKOEZDTWVSa1dpZlJpLWEzTFJvLXpjaC1IZFUzRlBvT0ZtSC14eTMxQ2F1WmFFY1I1MWxXVldUM2hwbVpvdHY1M3J5S3VLdmZzdzlnY0JaQVdINE5zdGdaMHR5bFQ4NldCZE5zSjhUaE1pREJ6djc2NGxoSUhBMk5XdUtUcExQSUhsM2xSTjQyVFNyeGYzc2s3Mm5nMjV2OTNYQjhPa0FfVmRZMDJRWg?oc=5
-- [2026-11-12] [05] **Casi la mitad de los adultos afectados por la dana de 2024 seguía con malestar psicológico 18 meses después, según Sanidad** — Demócrata (+1 medios más) · cat≈sistema_publico · 4 pts
-  https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTlBxd05tWmNyQXpvRXkteGpKVUQtdl9tdU1uYmtsVFg1V3ljb0VRMzNhanZ1RnVjLW5tZnZ5SWdHQ1dBcFFQVVBLQVJpMk5Tbk1NQVJnM0lMMlR0eTkzZVdzTF9CY3R4Mm5JX1REOEZPVzFiV0xMUEd2SEZfRWQxeUtIZ0plM1M0QmV4SXo0ZXdSWWJBekRpRTVwZVY4YXVxNFZpREl3c01EdHBzUjRMMEZtdHdUNG9GclJObEFrSjQ3UGZFNW1sQkRUVGt0RUxSbmdpVHdYNVFQUWlDSDJoU2Y2a1J0WlBrRUc00gHwAUFVX3lxTFB2d0ExOE1TODZoUm1oY3FyMDB2NG93NGFvZGlPS01CVDJKVFZNUld6Wl9BeXNWQm9fcHNVUDRROVhjdlZBam0xd2ZtN2JlSEluSFZ2bURpb1JRTVI4SVoxb2tEMmJpM1FPTWRCUnk2clJJZWFCYXBzOTQ2WUwzUjZGYmVCTU9MYzc3d2FfNzEza29HNG5KTDRFN0RJZmxtOVlyb21oSi1VbW10bVk3d0dvdU1pS0pJb2hpQ1RJM2E1U3pXV2hONEFvckxZTDhha2F6THNERWZHV1k4eURQWnBlczF0c0ZtZ0liQ1JtcXZfVw?oc=5
-- [2026-11-12] [05] **Críticas a la reforma de la Ley de Salud Mental: "La entendemos como una restricción"** — La Nueva Provincia · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0RUSE5uakk3WXJ3VXlrelIzZWFxQTVQbWtjemd3RGFITVRHel9hclVpallOMGI0d1dBQlF5cW1GcUdpRmhWakgtUTJRYklEOTJ3ZTJmaG1waGxBWjRnYnZmSzh5dkVLQlBaNmlLTWd4WUpVM0xaMGh2ak5Zb25fdlEtUEZZb1lZRjF1dkZydVpjWlVVRjk2YVV4RThhTnNvNE0wZ3RpUzZPN2dYVHVLQ01hZ2QwVk9lcWlBT2g0YUxCSEo5VDMtdQ?oc=5
-- [2026-11-12] [05] **Seed promove palestras sobre saúde mental e valorização da vida em oito escolas estaduais** — portal do governo de roraima · cat≈deal · 4 pts
-  https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmdBZEdmYkNGckVRTTFJMHpSRHJTMmE5SWItVDFNcE9VVm5wOWpZU0FiU2c2Rm5pdTQtNHNCVlVBYlB1SHlGYmhSVWt6NFhRSFEwUmJZZGF6N2FBWWNSX3BFUEc1eElLTjhHYkNqQlNfT19RVVZMRUFheGpUNVVuUVJKeFlWYXBJOUtxSW1UNGNjNmpSckU1Tzc4WXZhaDhlT0NUYkt5YzRYdFhnenF1S0l0amgtdw?oc=5
-- [2026-11-12] [03] **CFP defende fortalecimento da política de saúde mental e do cuidado em liberdade no CNS** — Conselho Federal de Psicologia (+1 medios más) · cat≈regulacion · 4 pts
-  a conselheira-secretaria do conselho federal de psicologia (cfp) e conselheira nacional de saude, ana carolina freire lopes, defendeu o fortalecimento da rede de atencao psicossocial (raps), do cuidado em liberdade e do 
-  https://site.cfp.org.br/cfp-defende-fortalecimento-da-politica-de-saude-mental-e-do-cuidado-em-liberdade-no-cns/
-- [2026-11-12] [05] **Casi la mitad de afectados por la DANA de 2024 presentaba malestar psicológico 18 meses después, según Sanidad** — Cadena SER · cat≈sistema_publico · 4 pts
-  https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbC1KRFo1aVB6ZTVsNzNJU0l3MXU4WlhDSUFaaVZJdW8yc2V2YjZndm10b0xqNjVRLWVqaEJhbUdMYUdxOE9iRlA5ZGFJQ05BTUtPTzZleDR2N09sbHpaa3JfT29kU01lZUc5NllXcVRKYUNaVk50LU5EV2dRejlFV3pjejBJajZabUZOYnM1ZzRXemJQMFZvVUROS2xnbFFkSEo3ZXpKYUtnOEJocERacTgzOFl5ZXlaRjNadW96QlFkcERmRjBLaXJvbUthRUlNa0wtUFBTWWRmMml1c2E3UG1DSWoxTm1SbnlUOTU4ZDVtUERCZ3FjSlQzbHRGYTR0RDRjSy13ZEVTR1nSAZ8CQVVfeXFMTm1WQXJrXzlWX1FoTGUxTEFreENWUkVSOUhFODV5ZFZKWXBvTmt0WGN3UGJoNVlIX1ZQdkdNNVdaUklsejZGWkw5VXVsMGNIOUhxc1M0eFFWVXVwTmZkbmFKaUU2cWZDYk9QaHo5emN1T3J5bHNBVGhULW9MbnY1ajBmMnpPYlBxZG5KZWptY2ItMkd1NlNPc2RfeWJ0dkFWSktOWFMxeS1yZElVUXRpT2pBa05Ga0JuLWVwYkpTVldqUFBaNjZyVFp4SVFGaDJ1TklfLXYxSjFEWjlTUVpCcEE2M0oyUmZ4aU9PMXdNTURoMy12VG5BNEs5Qkw3Y3V2TDgzREEtd2hoSTFCMU5KZGV2d3Y2bGEyajkzSkt1VDQ?oc=5
-- [2026-11-12] [05] **Mar del Plata alberga el Congreso Internacional de Psiquiatria y Salud Mental** — LU9 | Mar del Plata · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFF5WnB4cVV2RlBhMFltdktETlZmVW9Vbi00T3d5Wl9QRXNmQWk1Y3R4M1VtenVyU3pPU1hvV3Zyc2w3cVZDM2kyUHpsSmp1RzJXd2t0NUtaVjNZV1ZXdF85ZkVMa1lRTzZ1eDMxUjlqU1V5Y0s3MnJsYjhJOXZwMFBEMDVjMUFYR3RSdFJEZ0ltZ184Q0tpTWxzR3JvLUNhX19HLXYwMC1USlctQ2RfRA?oc=5
 - [2026-11-13] [01] **Aumentan las prescripciones pediátricas de psicofármacos: ¿están bien indicados?** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈regulacion · 4 pts
   psiquiatria mariasanchezmonge congreso nacional de psiquiatria las indicaciones pediatricas mas recientes de psicofarmacos son eficaces y seguras, aunque en depresion y en el trastorno obsesivo-compulsivo (toc) funcionan
   https://www.diariomedico.com/medicina/psiquiatria/aumentan-prescripciones-pediatricas-psicofarmacos-estan-indicados.html
@@ -121,10 +102,8 @@
   https://news.google.com/rss/articles/CBMizgFBVV95cUxOSFFxX1hpSVpwbTBieDFGVWl2UmdISkhXandSYkh5NVFKVWlLbDV6cGlaMzZ1WGNVeERSMUFBRHF3U1l0RTRJQ1Q2QzAwcU1GZTRXcGdFUnpjUTFPZm5yT3J1VDFIWW5Oc1h6UHAwQWRQb2JQTW9xSEdxVFlLUUNrMTR1cFlXWC1xYkxGbWcxYXlWakVXM0tmMVJBRTllZGxRa291bkpUdEs1V0JPTE1SckxrSWhtV2syOTBDeWxxazk5c1lpRVc3M2FZRkxBQQ?oc=5
 - [2026-11-20] [05] **Qué cambios proponen para la histórica Ley de Salud Mental de Río Negro** — https://literal.ar/ · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDdSR2N1Vm43UnV1T1ZEYnNLdDFNeTQ4dFdiLW1QcnhQQ2JnQ0pmSFRxdHphak1GZklqdXF4MnI5N2V6WXlMVUV4TU9Jb2dIY2VSX2NvQUViS3JReFIyc1VLd3lubGR5QVlYMWdWbXNPMGFnWk0wUnc4NW1FOHc2OEFBUnd0VUVrWDVyZXZQVHRSQ1l5THc?oc=5
-- [2026-11-12] [05] **La OMS incluye el modelo español de Unidades de Salud Mental en Emergencias en su informe europeo sobre cambio climático** — Gaceta Médica (+1 medios más) · cat≈research · 3 pts
-  https://news.google.com/rss/articles/CBMijAFBVV95cUxOcEhVMlpuZVFUZXRWRkt4T19SbkVGMWtYVF92ZWtLRm9MNFNFM0ZUSk91cWcwblBuRHZKTENKLThpWUN4Q05GWVlQS19YR2pncl9OdExJUHg5bUtXN0F1MV9ITk9ST2I4eE9XWXVTcElDdkRXY2ZIdjVCLU1JSXZ0VE5HZEVmdUlteHZGRg?oc=5
-- [2026-11-12] [05] **Pesquisa inédita identifica fatores que afetam saúde mental e qualidade de vida no trabalho** — www.gov.br · cat≈research · 3 pts
-  https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY19jZEJXZGlYX2dKRzRCdmg4RDQ4dGc5ejFjNC1RVXdNMkxJeHN6MU5fUjhyY19udzJxd2tBUkUydXhTbjhmRzB5ejNHQ3RyWGhsZFh1cnViNmpvVTM2LTZtaWlRYVZ6QkxZOHloUTRIQkVDTmRraENHM3lnTGVVQjhDRmNBR0JqOUdSdEpNdWpHNGNoYktJcnpOSjcxeEdvQVFFTEhlcWs5SHhkVTE4Y2loTXE0ekd1VEFpQnlKeFpLOUhoNHVVcmhkSGM4WDNLbEpfeA?oc=5
+- [2026-11-21] [05] **Sobre el intento de modificar la Ley de Salud Mental** — Perfil · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxPVm5xN2pjZy1CdHZGcTVxam9ZQkhFUkFmV09wSXM2LXRTUmtkNG1qdGZuTmhMTF85R1BTbmpxalNDTEtmZ3FQN0tTZnZVbTJBdHN3Q20xTENPUWZ6WkVFbVF4NDQwMnp5NkxoM0dMVExWUVhtN0lxTkFFYXE3TFVxWVphMUhaRXl2STZLZVBxSXRBaFE1WFpHQzlFR2Q?oc=5
 - [2026-11-13] [01] **Desarrollan una nueva estrategia terapéutica contra el cáncer con resultados prometedores** — infosalus.com · cat≈mercado · 3 pts
   investigadores de la universidad de michigan (estados unidos) han desarrollado una nueva estrategia terapeutica contra el cancer que modifica las interacciones de las proteinas para mejorar la eficacia y reducir los posi
   https://www.infosalus.com/salud-investigacion/noticia-desarrollan-nueva-estrategia-terapeutica-contra-cancer-resultados-prometedores-20261113081150.html
@@ -152,10 +131,6 @@
   https://www.infosalus.com/salud-investigacion/noticia-estres-infancia-puede-aumentar-riesgo-dolor-cronico-ansiedad-edad-adulta-20261120074247.html
 
 ## PRIORIDAD C — probable ruido (solo títulos)
-- [2026-11-12] <a href="https://www.fiercehealthcare.com/payers/carelon-agrees-pay-10m-settle-ghost-network-coverage-denial-allegations-new-york" hreflang="en">Carelon agrees to pay $10M to settle ghost network, coverage denial allegations in New York</a> — Fierce Healthcare
-- [2026-11-12] UNICEF advierte de que la sanidad no cubre la salud mental infantil y adolescente — Qué.es
-- [2026-11-12] Sanidad destaca la inclusión de su modelo de Salud Mental en Eme — Torrijos Today
-- [2026-11-12] Enfermaria de saúde mental do Huol celebra 15 anos — HU Brasil — GOV.BR
 - [2026-11-13] Ministério da Saúde facilita acesso a teleatendimento de Saúde Mental no Meu SUS Digital — Governo Federal
 - [2026-11-13] 800 mil pedidos de demissão em um mês: entenda o alerta sobre a saúde mental no trabalho — bra1.com.br
 - [2026-11-14] El laberinto asistencial tras el coma etílico en menores: entre la falta de protocolos homogéneos y la atención fragmentada — Redacción Médica - Home
@@ -176,22 +151,13 @@
 - [2026-11-19] Médix prepara medicamentos para adelgazar hasta 50% más baratos en México — Saludiario
 - [2026-11-20] 20 de Novembro: Psicologia reafirma compromisso com o enfrentamento ao racismo — Conselho Federal de Psicologia
 - [2026-11-20] Mijas lleva a una convención nacional su programa de salud mental coordinado entre policía, colegios y sanidad — La Noción
+- [2026-11-20] Científicos crean peine eléctrico que recupera 97.85% del cabello — Saludiario
+- [2026-11-20] APROSS incorpora a equipos del Ministerio Público Fiscal a su programa de atención en salud mental — Prensa Cba
+- [2026-11-21] Feijóo llama al voto de los sanitarios: "Necesitamos una sanidad pública con más médicos" — Redacción Médica - Home
 - [2026-11-13] Javier de Castro, presidente de la SEOM: la desescalada gana peso en oncología — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-11-13] Congreso de Sonora recibe propuestas sobre salud mental, educación, ganadería y cuidado ambiental — El Diario de Sonora
-- [2026-11-12] La oncología de precisión avanza para curar más y tratar solo con lo necesario — DiarioMedico - Plataforma de profesionales sanitarios
-- [2026-11-12] Seguimiento epidemiológico de la salud mental en la zona DANA (SEDANA-SM) — Ministerio de Sanidad
-- [2026-11-12] Casi la mitad de los adultos afectados por la DANA presenta malestar psicológico más de un año después — Gaceta Médica
-- [2026-11-12] Los internistas reclaman abordar la salud mental en los pacientes con diabetes — Demócrata
-- [2026-11-12] Salud mental: convocan a organizaciones sociales y civiles para integrar el Órgano de Revisión del Chaco — Litigio Periodismo Judicial
-- [2026-11-12] Programa Saúde da Escola aborda saúde mental na infância na Escola de Educação Infantil Copas Verdes — Prefeitura de Erechim
-- [2026-11-12] Fundación Familia Feliz ofrece telemedicina en salud mental a todo el país — Canal 9 Bío Bío Televisión
-- [2026-11-12] Sabrina estudia Abogacía, creó una app para cuidar la salud mental en la minería y es la Emprendedora de Rivadavia — Diario La Provincia San Juan
-- [2026-11-12] Bayeux inicia articulação entre serviços para fortalecer atendimento em saúde mental — Prefeitura de Bayeux
-- [2026-11-12] Polícia Penal do Paraná lança campanha permanente voltada à saúde mental e à qualidade de vida dos servidores — Polícia Penal do Paraná (+1 medios más)
-- [2026-11-12] Shared Telepsychiatry Training Prepares Brazilian Residents for Indigenous Mental Health Care — Bioengineer.org
-- [2026-11-12] Sabrina creó una app de salud mental y es candidata a Emprendedora del Sol por Rivadavia — Diario La Provincia San Juan
 - [2026-11-13] CST vai cobrar recursos para ampliar atendimento e reduzir filas da saúde mental — Assembleia Legislativa do Estado de Mato Grosso
-- [2026-11-13] Agora é Lei: Política estadual associa saúde mental masculina à prevenção da violência contra a mulher — RO Acontece (+1 medios más)
+- [2026-11-13] Agora é Lei: Política estadual associa saúde mental masculina à prevenção da violência contra a mulher — RO Acontece
 - [2026-11-13] Child Mental Health Gets BRICS Push at AIIMS Delhi Conference — Urban Acres
 - [2026-11-13] La 'baja por menopausia', la ampliación de las CUME y las ayudas a la Dependencia, a la Diputación Permanente — Redacción Médica - Home
 - [2026-11-13] Colabora.cwb reúne especialistas para discutir saúde mental e longevidade — Prefeitura de Curitiba
@@ -204,6 +170,7 @@
 - [2026-11-15] Compras por impulso como alívio de emoções causam ciclo vicioso e afetam a saúde mental, mostra estudo — agenciasp.sp.gov.br
 - [2026-11-16] Salud mental: psicólogos reclaman financiamiento — Entre Ríos Ahora
 - [2026-11-16] Prefeitura de Altamira entrega CAPS II revitalizado para fortalecer atendimento em saúde mental — Prefeitura Municipal de Altamira
+- [2026-11-16] Huap-UFF promove simpósio sobre saúde mental no trabalho — www.gov.br
 - [2026-11-17] Salud mental en Santa Cruz: un proyecto plantea reforzar guardias y sumar especialistas — Diario Nuevo Día
 - [2026-11-17] La Asamblea de Salud Mental de Entre Ríos rechazó el proyecto del Gobierno y pidió la declaración de emergencia en el sector — horadigital.com.ar
 - [2026-11-17] Conselho Municipal de Saúde inicia Semana do Controle Social com debate sobre endividamento e saúde mental — Prefeitura de Manaus
@@ -226,12 +193,17 @@
 - [2026-11-19] Busca Sandra Aguilar garantizar la salud mental y emocional de los policías en Tlaxcala (Video) — Gente Tlx
 - [2026-11-19] Presentan en Tulancingo, proyecto de telemedicina para atención en salud mental y adicciones a distancia — agendahidalguense
 - [2026-11-19] Saúde de Toledo promove terceiro módulo de capacitação em Saúde Mental — Prefeitura de Toledo
+- [2026-11-19] Strategic Interagency plan launched for infant and early childhood mental health in the south east — The Avondhu Newspaper
 - [2026-11-20] "La Psiquiatría española debe revisar con urgencia la resistencia de los tratamientos" — Redacción Médica - Home
 - [2026-11-20] política | El PP propone un Plan Nacional de Refuerzo de Profesionales para hacer la salud mental una política de Estado — https://www.consalud.es/rss
 - [2026-11-20] pacientes | Psicólogos reclaman reforzar el apoyo al duelo: "Ninguna persona debería afrontar una pérdida por suicidio en soledad" — https://www.consalud.es/rss
 - [2026-11-20] El PP promete un plan de refuerzo para convertir la salud mental en política de Estado — La Rioja
 - [2026-11-20] ¡Universitarios de Delicias crean Mindy! Una app que busca ayudar a prevenir el suicidio y cuidar la salud mental — El Sol de México
 - [2026-11-20] APROSS amplía la atención de salud mental por telemedicina a equipos del MPF — Reporte Regional
+- [2026-11-20] Salud mental en emergencia: contra la contrarreforma manicomial de Milei. ¿Qué perspectivas para la salud mental en la PBA? — La Izquierda Diario
+- [2026-11-20] Presentan proyecto de telemedicina para atender salud mental y adicciones en Tulancingo — News Hidalgo
+- [2026-11-20] Impulsan telemedicina para atender salud mental y adicciones en Tulancingo — El Sol de México
+- [2026-11-20] Agua, salud mental y educación: los retos que UNICEF pide atender para la niñez panameña — La Estrella de Panamá
 - [2026-11-17] andalucía | Un centenar de psiquiatras consiguen una plaza fija en los concursos de oposición de 2022, 2023 y 2024 en Andalucía — https://www.consalud.es/rss
 - [2026-11-17] Cuidado com a saúde mental dos policiais é tema do 1º Seminário do Departamento de Saúde da Polícia Civil — Polícia Civil RS
 - [2026-11-20] De la soledad al relevo generacional: los retos de los jefes de Anestesia para una gestión adecuada de sus equipos — Redacción Médica - Home
@@ -241,17 +213,17 @@
 - [2026-11-20] Do recebimento da denúncia ao recurso: Encontro Nacional reúne Comissões de Ética para alinhamento de processos disciplinares na Psicologia — Conselho Federal de Psicologia
 
 ## Estado de los feeds (hoy)
-- 01 ESPAÑA · Redacción Médica - Home · leídos 30 · nuevos 2 · ok
-- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 2 · ok
+- 01 ESPAÑA · Redacción Médica - Home · leídos 30 · nuevos 1 · ok
+- 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 0 · ok
 - 01 ESPAÑA · Gaceta Médica · leídos 10 · nuevos 0 · ok
-- 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 2 · ok
+- 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · El Referente · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 0 · ok
 - 01 ESPAÑA · Agencia Española de Medicamentos y Productos Sanitarios · leídos 30 · nuevos 0 · ok
 - 02 LATAM · https://www.contxto.com/en/feed/ · leídos 100 · nuevos 0 · ok
 - 02 LATAM · LatamList · leídos 10 · nuevos 0 · ok
 - 02 LATAM · LAVCA · leídos 10 · nuevos 0 · ok
-- 02 LATAM · Saludiario · leídos 10 · nuevos 2 · ok
+- 02 LATAM · Saludiario · leídos 10 · nuevos 1 · ok
 - 02 LATAM · iProUp.com - Últimas noticias sobre economía digital, c · leídos 6 · nuevos 0 · ok
 - 03 BRASIL · Saúde Business · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · https://futurodasaude.com.br/feed/ · leídos 0 · nuevos 0 · ERROR HTTPError
@@ -259,16 +231,16 @@
 - 03 BRASIL · Startups · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Startupi · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Brazil Journal - Latest news · leídos 15 · nuevos 0 · ok
-- 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 2 · ok
+- 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Portal Médico · leídos 1 · nuevos 0 · ok
 - 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 0 · ok
 - 05 GOOGLE  · Google News · ES deals · leídos 42 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES regulación · leídos 48 · nuevos 5 · ok
-- 05 GOOGLE  · Google News · MX / LATAM · leídos 44 · nuevos 3 · ok
-- 05 GOOGLE  · Google News · BR deals · leídos 43 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 18 · ok
-- 05 GOOGLE  · Google News · PT Portugal · leídos 45 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES regulación · leídos 51 · nuevos 3 · ok
+- 05 GOOGLE  · Google News · MX / LATAM · leídos 47 · nuevos 4 · ok
+- 05 GOOGLE  · Google News · BR deals · leídos 42 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · BR regulación · leídos 62 · nuevos 1 · ok
+- 05 GOOGLE  · Google News · PT Portugal · leídos 44 · nuevos 0 · ok
 - 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 10 · nuevos 0 · ok
 - 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 10 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 2 · ok
+- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 33 · nuevos 1 · ok
 - 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 26 · nuevos 0 · ok
