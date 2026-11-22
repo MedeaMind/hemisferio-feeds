@@ -1,5 +1,84 @@
 [
  {
+  "id": "e601e309dbcc",
+  "fecha": "2026-11-22",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción Médica - Home",
+  "medio": "Redacción Médica - Home",
+  "titulo": "De cobrar 1.400 euros como enfermera en Barcelona a ahorrar 2.000 al mes: \"Ahora siento que tengo muchísimo prestigio social\"",
+  "resumen": "lua porteiro, enfermera malaguena, cuenta a redaccion medica lo que le motivo para dejar espana y trabajar en australia y las diferencias en el salario y el trato que existen en el pais oceanico y ademas: angel, el medico que sobrevivio a la residencia y hoy ayuda a otros mir: \"sufri mi primer ataque de ansiedad en una guardia\"",
+  "url": "https://www.redaccionmedica.com/profesionales/enfermeria/20261122/de-cobrar-euros-como-enfermera-en-barcelona-ahorrar-al-mes-ahora-siento-que-tengo-muchisimo-prestigio-social/364755_0.html",
+  "clave": "ahora ahorrar barcelona cobrar enfermera euros muchisimo prestigio",
+  "capturado": "2026-11-22",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "ansiedad"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bf4ccbc3dd13",
+  "fecha": "2026-11-22",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción Médica - Home",
+  "medio": "Redacción Médica - Home",
+  "titulo": "¿Hay consecuencias desastrosas tras situaciones de catástrofes?",
+  "resumen": "jose luis pedreira massa es psiquiatra y psicoterapeuta. ha sido profesor de psicopatologia, en el grado de criminologia de la universidad nacional de educacion a distancia (uned)",
+  "url": "https://www.redaccionmedica.com/opinion/20261122/hay-consecuencias-desastrosas-tras-situaciones-de-catastrofes/365485_12.html",
+  "clave": "catastrofes consecuencias desastrosas situaciones tras",
+  "capturado": "2026-11-22",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psiquiatr",
+   "psicoterap"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "fb49e133c4ec",
+  "fecha": "2026-11-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "El Ecosistema Startup",
+  "titulo": "Psicólogos y ChatGPT: caída de pacientes y autodiagnóstico",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEs3LUw2UVVNRUp2aDg1VTFiZ1BZRGZvYnh4dGpMY1pZWFJDSTRVOGNPTFYzMWtra2lVZGdqd0VyZEpNY18xYVVQcXlnWHE1eFRnRFlLZThhVElBcUJzaEVELTluVmdXQUlaWVgteVpMdUl4MzIxdzJQQkpaZ3VBMExnT0t4Tmd3NVJWVXBaSlVjdw?oc=5",
+  "clave": "autodiagnostico caida chatgpt pacientes psicologos",
+  "capturado": "2026-11-22",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "ef564c02e8c3",
+  "fecha": "2026-11-22",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Ocho semanas entrenando la compasión para afrontar el impacto emocional del cáncer",
+  "resumen": "oncologia naiarabrocal esmo 2026 el miedo, la incertidumbre, la ansiedad y los sentimientos de culpa son algunas de las emociones que pueden acompanar a los pacientes con cancer y a su entorno durante el diagnostico y el tratamiento de la enfermedad. las intervenciones basadas en la atencion plena o mindfulness cuentan con una evidencia cientifica creciente sobre sus beneficios para el bienestar e",
+  "url": "https://www.diariomedico.com/medicina/oncologia/ocho-semanas-entrenando-compasion-afrontar-impacto-emocional-cancer.html",
+  "clave": "afrontar cancer compasion emocional entrenando impacto ocho semanas",
+  "capturado": "2026-11-22",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "ansiedad"
+  ],
+  "ruido": [
+   "mindfulness"
+  ]
+ },
+ {
   "id": "72c16f6f4399",
   "fecha": "2026-11-21",
   "carpeta": "05 GOOGLE NEWS",
@@ -53,6 +132,26 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "98f5059c8ffc",
+  "fecha": "2026-11-21",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Diario Noti7",
+  "titulo": "Presentan proyecto de telemedicina para atención en salud mental y adicciones a distancia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vOHNpTmxqWGVsbTY4VEFaZW5pWUszSUlhd2xTaVFhQVJhTzhzUktkZmowdThSMl9PaHhndzNhRFgxR3h3WFB6UnU4TzlNSVdhUGc?oc=5",
+  "clave": "adicciones atencion distancia presentan proyecto telemedicina",
+  "capturado": "2026-11-22",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "adicci"
   ],
   "ruido": []
  },
@@ -36990,6 +37089,25 @@
   "ruido": []
  },
  {
+  "id": "dade8eacfe87",
+  "fecha": "2026-09-01",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Câmara Municipal de Novo Hamburgo",
+  "titulo": "Projeto cria Plano Municipal de Promoção da Saúde Mental e Valorização da Vida para crianças, adolescentes e jovens — Camara Municipal",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1J6RjJGLUxGT3dQMUJuU2NNWTh1LWRoRjd0MFNwWGphMHVscF9FWHJ2V1dkcjdoNnQ0UEVXMnUzbHJ3T2hfeHBYY3dvT3FMZW1sNk0xNHB6aERPWk8xTEpDTzlhaXZ6YXZZRDRzNEJMNlhJeWpxWHdackNlWDBHS2E1ZXFEdElsY1FMMHJTY0hIc2VBVXM4R1FnWWlOR1NmZ21aZGFYbzNCa0RhRWJ5ZFNyUGNPaGYySUZzbi1YR3JYZkxWZWFOSDBQcGFLMjB0ZmFWWE1kbWFvT1Utd2M2WkVQcWtaZTdELTVfN0ZuV2YxXzBDUGJNQjlxVXRiTDE0a1hvNE1CVkVwRFA3NGptWnM2NVhsdw?oc=5",
+  "clave": "adolescentes camara cria criancas jovens municipal plano projeto",
+  "capturado": "2026-11-22",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "7bb082ba02ee",
   "fecha": "2026-09-01",
   "carpeta": "05 GOOGLE NEWS",
@@ -38214,24 +38332,5 @@
   "ruido": [
    "receta"
   ]
- },
- {
-  "id": "5a413bdbc8b8",
-  "fecha": "2026-08-23",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "iSanidad",
-  "titulo": "La sanidad privada realiza hasta el 42% de las intervenciones quirúrgicas y concentra el 75% de los hospitales de salud mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbmUxRUVYaFVfZ3BCcGZlcExzWDFVUWJtWnV6ZTdlbFNTUVpURkJjWVNtcHQwX3MySURaek9mb1c3M2l4dFpXdUhtaUJZYV9tMFRBMndfeWpnWnpNSFdYQ0sxY0pvWFRFY2FYYjBLUzV2WmVyZ0l1a1lVdkhtMjNFci1NRmJNNWVESk1aQnFGTVlnRUN4SEJkVTJnUnVvbFhhY09hYlN4MnZpTDhXTE1aSk10RXFKU3UtdFM5QlJ1dV9QV3pRd2FJWnY5RkRqVnV5X3lMcV9pcjNQenVBd2ZJQzVwcXJMSjFV?oc=5",
-  "clave": "concentra hasta hospitales intervenciones privada quirurgicas realiza sanidad",
-  "capturado": "2026-10-05",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
  }
 ]
