@@ -1,5 +1,237 @@
 [
  {
+  "id": "4de33322a90e",
+  "fecha": "2026-11-23",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP reúne comissões de Saúde para debater a inserção e as diretrizes da Psicologia no âmbito do SUS",
+  "resumen": "o cfp recebeu, em sua sede, os 24 conselhos regionais de psicologia (crps), nos dias 9 e 10 de novembro de 2026, para debater a insercao e as diretrizes da psicologia no ambito do sistema unico de saude (sus) a … o post cfp reune comissoes de saude para debater a insercao e as diretrizes da psicologia no ambito do sus apareceu primeiro em conselho federal de psicologia .",
+  "url": "https://site.cfp.org.br/cfp-reune-comissoes-de-saude-para-debater-a-insercao-e-as-diretrizes-da-psicologia-no-ambito-do-sus/",
+  "clave": "ambito comissoes debater diretrizes insercao psicologia reune",
+  "capturado": "2026-11-23",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "273a96b8ebfc",
+  "fecha": "2026-11-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura Municipal de Araçatuba",
+  "titulo": "4º Agita Raps encerra programação com premiação de experiências exitosas em saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeEtjX21oOEFBN2VWRDUwbEQ5cjZOQkt0aVBFWEI1LUNGZmR1WUtmd0l2c0dnZFhsa1F1TzAwQUE2Qy15YzRNNjZlTVFXMXYwZGRjYTdudVpSTlRWTjdHM0VUYWZibXZ6VnZST3dGWGFRVEc4MFB4NVNDTFJBSmo5dTdoXzZTUEIwekRFaUhwNzVESXlSeF9oRHhXdGxzb3FVb3k1ZkhjM04xRE8weFZaUWR0ZVZHM2swbmc?oc=5",
+  "clave": "agita encerra exitosas experiencias premiacao programacao raps",
+  "capturado": "2026-11-23",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "mercado",
+  "topic": [
+   "saude mental",
+   "raps "
+  ],
+  "ruido": []
+ },
+ {
+  "id": "7449e6d3d5e2",
+  "fecha": "2026-11-23",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Câmara aprova projeto para reforçar saúde mental em regiões remotas",
+  "resumen": "a comissao de saude da camara dos deputados aprovou um projeto de lei com diretrizes para o fortalecimento dos servicos de atencao a saude mental no sistema unico de saude (sus), com foco nas regioes de baixa cobertura assistencial e de dificil acesso. o texto aprovado foi elaborado pela relatora, deputada silvia cristina (pp-ro), e […] the post camara aprova projeto para reforcar saude mental em ",
+  "url": "https://medicinasa.com.br/diretrizes-atencao-saude-mental/",
+  "clave": "aprova camara projeto reforcar regioes remotas",
+  "capturado": "2026-11-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "467bb1956c84",
+  "fecha": "2026-11-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "GaliciaPress",
+  "titulo": "Frente Amplio promete reducir por ley las listas de espera en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdmhOMUxjR0RDNkE3OEhUejB2WlU0VHZ3bE55aXF0bzVSLXJPZDloQXhMN2FJRExvUHNTd01XUlhmd2stZFM2R3R6bHFrODU0MGVXLVpHelFMWHp2Rk5PUFd3dXlCVEVyUUFCdWxGei1hbEJScDJGVHdnOGVNYWNiUUZ4Nng2TFhfLXlhZTJkLS1xRFB6dDlyaVVhNTZMY3MwcElvMVd0WXB1MExWWFNWVEVDaFVueS1YTVZYc19DdGlCWElzbHN3ZVpaWEw?oc=5",
+  "clave": "amplio espera frente listas promete reducir",
+  "capturado": "2026-11-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "31d1c4ee223b",
+  "fecha": "2026-11-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Faro de Vigo",
+  "titulo": "Frente Amplio propone reducir por ley las listas de espera en salud mental y reforzar la atención en los colegios",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjZ5V0pQanMtTEk3VXZaVVVXUEpYR21hdlVmV0N6aTlpVXlhTHZhYzEybHNfOHNKU2o4MDNzNG45OWRmWmlDYVAwZkZYb09QcGVqNVlDZWxKU05MaTg5cE9YZFFpemtiRlNsTnB3SHc5bmVucXJUVmV0RWNFQzZUYmNTQ3d5dDJEZmNtSmkzNHltMmtTX3VhetIBngFBVV95cUxPZGdQR1RwQzB3MHl3N2hESUpvdnhTR3lLUm82UUxFU1VWSXdod1pFMjlDS2Y0SUctMDF3VlhndTJKZ0tqZVljdnUwQmY4aWJ2WjNTMmk3cll4bHZlcjlDdkcxb3VWRTgtVVVqUUdxODdTTU9BcjRoMWVvR3dSZ1doNGNmQ2VkQ0JyZ2dXT19JcUtjaHp1b3pDSlJzZHp1dw?oc=5",
+  "clave": "amplio atencion colegios espera frente listas propone reducir",
+  "capturado": "2026-11-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9ce4508ac0eb",
+  "fecha": "2026-11-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "ACoruñaXa",
+  "titulo": "Fronte Ampla propone reducir por ley las listas de espera en salud mental y crear equipos multidisciplinares en los colegios",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZzNFR3Z4VmdUalYxTGllT1FOaHNnbERGSWxDb1VhTG5FLXdxS2hQLXdnNG1KRWR2a3dWUkhHc1lVWXVfSDBlcjEyOHB6VVZxUnNsWVRxOFczUXpJcUNuZUp6Z3NQNkNKMFM0TFFZdWUwTmV6NU1uTFJScUd6LU13WWVnMDluM1lPaDktVnZfWTIyeUJXdjBVb21iajd5WHdvYlQ5eXRzTGFheGNlTG5oNTVvSkw2SVdjZzBnUkFhMVpYeTlNbVRtU25ZRTVXZ1JSd0M2SFNfRkg0TGlMbTBQX1ctX0hWS0dfTHhRdUFfZHhNR1Ay?oc=5",
+  "clave": "ampla colegios crear equipos espera fronte listas multidisciplinares",
+  "capturado": "2026-11-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3e069aa57eb4",
+  "fecha": "2026-11-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Diario Salud",
+  "titulo": "Salud mental con garantías: la propuesta de la Sociedad Dominicana de Psiquiatría al Senado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2x0OXRKZHpsYWRMMXFjTWRtWmF4SzZuSER1Rmo1TTBQQWc3RmgxR1BlTlJ2cUtPMHZiUmtiSElWZmxTZ2xTX1VPenBLaEphTmd6d1NSVkpZR0RINU5pNVFZY1kxTjEybW1XeUJhbk1wWmk4M0xGQnlYczFpU2NUdjJuc05fOUx1X25TRFl3?oc=5",
+  "clave": "dominicana garantias propuesta psiquiatria senado sociedad",
+  "capturado": "2026-11-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4becccb17257",
+  "fecha": "2026-11-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Tendencia de Noticias",
+  "titulo": "La Ley de Salud Mental está a un paso de su reglamentación en Tucumán",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXpzSVRrc3pnRE9HaUZNazZaMy1NNTlYZC1xSFhMSkxHOElSOUlWeGZOclU3V2YwZVJPUDZ6SHpWcE1IMFFwMVhRMjcyOHZ4OVlKaEVqbU9fTDVxUXo3b0pVZmlONnRUaUFPN184ajFpN0VMYk5wd2F4aWhwd3U1SUVlMjV3U0hLWlpCVUZoS2l3LUQ4UUk2eFlBdTFvNDIzcFY0RTBKMnIwSVRTc25obm4wWQ?oc=5",
+  "clave": "esta paso reglamentacion tucuman",
+  "capturado": "2026-11-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "cccfcbfa8b18",
+  "fecha": "2026-11-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "MiMorelia.com",
+  "titulo": "Salud mental animal requiere criterios científicos y educación: abogado animalista",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWo3ZnBHVXFXZ3lYOHVRcUNZZjlvMGRiMnIzRVlqV3Bmb0NIYnZDNkRYVXZOOW1LU3N5cVoyZ3gzclFfNnFPRkVkdzRoa3BnMTlleXlia01PM3JUWjZiUkdSR014U2NZSHNFTnNCS2xfRG4wbVZMTUVycGI1S0JLUDNwclAtbFNXRlNYUXM0cEhWQTlLSzFrNm15eUVMVkhZcXJPbVJkaUdRdU5NN1A4b1RXMWhPNVVscUHSAb8BQVVfeXFMTW1WNF92clZJYWtQYmhYMFBlbVlqWHI4NUlySUdITjQ2Q3dwUGxhWjVXa0F0Z3U5anAxZ0k5eHpmMlY3dlM0NXBSZzFUeTk1dkJtQm15aEk4LVZEQkVheHpaNmpJcy1uSWxyNWluVW9xalVHOTNBX0FyNldpLTZ6d1ByVXpEX2pDZWlEMmtuZVFKeU5QQV9LV0ZPNjlSMXg2ejRYc21PaEZSS0RxLVB1a1BjWi1GeVNKTUJpTFVJMkU?oc=5",
+  "clave": "abogado animal animalista cientificos criterios educacion requiere",
+  "capturado": "2026-11-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "995561a54824",
+  "fecha": "2026-11-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "Criterio Hidalgo",
+  "titulo": "Tulancingo apuesta por la telemedicina para atender adicciones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTW9iLTExd04xV0I4Zkw2VmY5VXdiUGJvbG55YldGaGdYa1RUcXNYS1BTNWl4WWFqcTB1bF9NZmd2eXpCS3pzbnhwNkRmWnpyTTQyTzdnUmE4RVFaeTMtSS03Mmo1NzVDTXhFbmdiZ2JmaEVZNEVQMHY2ejVUYWRod1R0MXlwVllnZi1rUWh3RWR1cUQ4VklQVWJJWWk5N3VuSUhoOU9VaGpVRGJmbkU0Mk5WTkdtZw?oc=5",
+  "clave": "adicciones apuesta atender telemedicina tulancingo",
+  "capturado": "2026-11-23",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6d78d26831cc",
+  "fecha": "2026-11-23",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Ayuntamiento de Orihuela",
+  "titulo": "Orihuela acogerá el 27 de noviembre una jornada sobre la salud mental en la infancia y la adolescencia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUo3NXZkYk9OcGwzMVFoQVRveV81MkpJN1NhY0tWQWdvOTlod0RUNjl0eXpoR25qSU5xWTNMTkdwSUNEOWpuVFRvSlZWYVJsRXZvNmFZUkN2U1hfUzRRY1NkWHZLQXZfeXMtUnpFQkwzTVczdlFOMU9XTlZ4M0lUQkdNcEh3NXd4dVIwaGxPa0VyWV9QUzZFcy1BOFpwY1JnN2d1Sm1rcGdnblBoekhLNE5oeU01QUhQLUx5SFJwQW9BRHgzWnc?oc=5",
+  "clave": "acogera adolescencia infancia jornada noviembre orihuela",
+  "capturado": "2026-11-23",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "jornada"
+  ]
+ },
+ {
+  "id": "b0905e203086",
+  "fecha": "2026-11-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Hoja de Ruta Digital",
+  "titulo": "Proponen expedir ley de educación socioemocional y promoción de la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjd4UE52eVVmUENxbV9YaVczSGV6bi1WTDlBWkpicmJjeXU1MG13RHRZejJrRHpDdVV5U01tOFZKQk1ib2NLc0lFeURzR1ctc1JLOERxUzhDSU9QblJLLU1PMGtlUUdmQWcyTkJ4WHNGRUM0MVRFUGstQmw5Zmh2RXhZZUg2QjdST2ZUMkRicWpIcklvcGlfQTFaQXdxQkpkbWRTSktXb01JbXpZWWc?oc=5",
+  "clave": "educacion expedir promocion proponen socioemocional",
+  "capturado": "2026-11-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "e601e309dbcc",
   "fecha": "2026-11-22",
   "carpeta": "01 ESPAÑA",
@@ -2786,6 +3018,25 @@
   "ruido": []
  },
  {
+  "id": "95afbec48e45",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Moncloa. Gobierno de España",
+  "titulo": "Sanidad publica los primeros resultados del estudio sobre la salud mental de la población afectada por la DANA",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHJwVFY1MlpxRjFpV2xYNFdwRFk1aHJXeExmMVRNQnJnOEZSS0tNX2NfOFA5NC1DcXdmdW8xd05zQXJVTDg5MnRLZWdZdnZNWjl2OWJwWGRKZ1hZLWVQcnZjb3FLdDFOVjRmUmlveWlZQVVmZ2hNbC03Um1UanlpMVEwcjRtQnpUa2hDemY5SHBTSXlKTHg2cWF1bUZlV1J0eTY4UUhsLS1MaVhDQ1NpRQ?oc=5",
+  "clave": "afectada dana estudio poblacion primeros publica resultados sanidad",
+  "capturado": "2026-11-23",
+  "puntos": 8,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "47f77cd3c0ec",
   "fecha": "2026-11-12",
   "carpeta": "05 GOOGLE NEWS",
@@ -2974,6 +3225,26 @@
   "categoria_auto": "regulacion",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "90f90ed187a6",
+  "fecha": "2026-11-12",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "IM Médico",
+  "titulo": "Congreso Nacional de Psiquiatría: España, a la cola de\nEuropa en atención a la salud mental pese a su creciente presencia en el debate\npúblico",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnFvUE5vU195WGZFS1RCaFJQQ01mQVZlTHJuWEp6VmJ4T1VYMk9pcXZaV0o0MEtYTUx0Y280dmpxbEVMN05DbFlnR3BQcU9qc2FYb0NuanJXS1huelg3anZwLTVYcmgxTnI0WkRfWWNQaDhkZ1FKaDlxRFFTbzZVaVFKUEhnTU95ZVNQSlRjZUpQN0hKRUs4aTFHQlM3a3lUNldkWTk2WDVTVGNNWG92b3pwYUY1LS0yT19J0gG2AUFVX3lxTFBZTDlVZG5HQV9Ha0tSNFJQQmNMbGZ1VEYyWVFiNXE1SzRnbDI4d0NxUjJCNlEzQW5sUkpzRDRYb2hBUk56MjVpTExrNE5fZWZyR19jUURBZWNLS2NnLVdDcmFpZzBleE9URGdoY1dmMkNUYm9XN0JIaDFRQ3VTM1pCdEh1T3RIUjJydW5NNWFmTHVsOUdsYk0yODhZYnBJUndqNHBuUGtCWmlrcE9SZFJBVXdkV2V3?oc=5",
+  "clave": "atencion cola congreso creciente debate espana europa nacional",
+  "capturado": "2026-11-23",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
   ],
   "ruido": []
  },
@@ -7262,6 +7533,25 @@
   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYVc5Y2FnSFhiUmhFdTdRZVEwaEFmM3E0VFZGUGpCdHluNEh0VjI2YkJUMlFHOVVDbjNtakpGRUVDTnBid2h3bVBBRi1EV2ttN3dCY2RpT3JMZUN6RXhjdmpnZ2E4ZWFCRXZmYjRrTF9icW1ERlZVdE5wYm9sNU5xbmgtTEhXanRuRE13MUVOd2diX1RCaEx6RFdrSU1uUXVycklSVVE3akxLVzVEMDVFYTZGc2FKTWp1czVYVkZsUFBGWGNYQkVOaUhFdmxkSWZJUnN5LWhEdXE1SnRr?oc=5",
   "clave": "abad concretas coordinacion estado inversion necesita niveles respuestas",
   "capturado": "2026-11-05",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "00151a38c0be",
+  "fecha": "2026-11-02",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Punto Noticias",
+  "titulo": "Abad: “La salud mental necesita respuestas concretas, inversión y coordinación entre todos los niveles del Estado”",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU05qMXFOdVdqUE9lS3h5UTJkY2VZeUEyYnZlQ2szd1VxUlRJQkZ3OVRNc2MtNkdoUmN2Z2wzOTlnTGZaNkc0WUQwSHJOR1hBeGJfQllxeTBJSFVLRmFvRE5kTjhpc3dydkx6X0R3aFdsTXQ3WGFfVF9pNDlkdnZpeUpSNmhwVTBKeUsySXZlSGF6czBfQ1lpZE9QOS1KNGthUnRtM3YzZDUyek1TaDk2N2l2Ti1zbmlaUFZFTWUyLWhRdkFmRmZlU09PeFBiajNZejJr?oc=5",
+  "clave": "abad concretas coordinacion estado inversion necesita niveles respuestas",
+  "capturado": "2026-11-23",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -35518,6 +35808,26 @@
   "ruido": []
  },
  {
+  "id": "da6ae5a4f82b",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Galiciae",
+  "titulo": "La Xunta dobla la inversión en salud mental y fichará a 357 especialistas en psiquiatría y otras ramas hasta 2030",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMWxSZEdqUDFuV2l0N1RwS0ZwV3ZrUnEtVEVpRkdfVFR4YU5iVWw1c3VQc3R2cUxVNEZhM2t5OEw4UEhyMWdXckpvenVwTE4xZHRVNDVTQ3BJanF5U3ozS0dSYlhTUUhaeXh4TmY1UDdwaC10Tml3YVhuY19QY2MxY3BUNXdXQ1VmaHlKd1dmMU9NN1RQWU5yalZpOGpMbGdCRUhwZTM2anNZa2xLY0N2UzBVd3g3dGJBY2ZObVlVcEJXR2lrb2wxbmRSS1pBV0tiT1ZZcVNLUHF4R181ZGkyX2pIMG01Q3ZNMHptdmV0RXpFVVJW0gHuAUFVX3lxTE5Vb1RQbEhoMkdremptaUx4YVNsTEllY0JlUHpFcTV2VUUzd0lVNkVqdFhtOXpXd1R0TXZXY3FURkpHTVNpa2M3eDhEOFZScG5Vb2pNT2dCdDM0SklNN1ZNYkUwRGhYZzNlM3h4WW41bnVXbFhmNmc2MkQtT2lELTlJM0hOYVRtWnVnV05SUnFQRXJnbjRtcEdJY3NLR2h0X2NzdE5sNThGR2Q1b2NJOVZvdjF0NktDZGIza3VCNFh2MzJfREJEV1hCOVZoeHg3VWV6MTlaUG5rYko4RzdTNVlqVE92MkdyWVRqSTBFYXc?oc=5",
+  "clave": "2030 dobla especialistas fichara hasta inversion otras psiquiatria",
+  "capturado": "2026-11-23",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
   "id": "52e82c160797",
   "fecha": "2026-09-07",
   "carpeta": "01 ESPAÑA",
@@ -38121,216 +38431,5 @@
    "depres"
   ],
   "ruido": []
- },
- {
-  "id": "f2ce4487ae8d",
-  "fecha": "2026-08-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "Valencia Plaza",
-  "titulo": "La sanidad valenciana atiende al 4,5% de la población por salud mental en 2025 tras la subida de consultas",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa3VPNDlqWV9ndDY4SW9pX3ZkMTZYeVFTMlNJOE4yRFpLa1RqN29XZGR3dlBQd1NMSTNCV1lkNllDSUJlM0J4Sk5lMlg2MXc3eFVtTWlSc2lUSWotM0YtQmFOV1U5dmszSzlYTmlPOVdxV01zVXVUNFlLdTRWeEEyd1hrakFieUZCbHU0VExDZk5SMVBLMUpWMFdFUENZcmZvT0cxU1ctMEFFdmFHNHY1SVhwSzV5bU8xLWRFQjl2Z3RXb1QtTUt4MUhhU2xNR0RCd3JaZE5BUU5MX0RsY3h2Mzd3R2lob2FTa0ZDVVkxRkV5SDF1S1NIbGp3?oc=5",
-  "clave": "2025 atiende consultas poblacion sanidad subida tras valenciana",
-  "capturado": "2026-09-04",
-  "puntos": 7,
-  "prioridad": "A",
-  "categoria_auto": "research",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "e06d14722bd3",
-  "fecha": "2026-08-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "NewsDigitales",
-  "titulo": "La pelea por actualizar la Ley de Salud Mental entra en una semana decisiva",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0liY3dKdmliVGJLSmFyTC11WUdQdk1mVW1jNmJ2bjBjWDhqSWFkeUZtZldwZ1pGVU9lbVBmUzRqTWlJU3AyZ3BfMjNFVkp0eVhaTDE2WTFJTG12OEVVTDlIWUY4NkRhUXM2V053bjFyZlNGZlZORGhWeEQ2TzNQaDFOOG9zQm1hTGdvbFNhWmozOXNRRlZnVFFaUVhmazZ0b2JQRnVmdy1vMElqcjQtSEtJYkNZN0R0SlE?oc=5",
-  "clave": "actualizar decisiva entra pelea semana",
-  "capturado": "2026-09-29",
-  "puntos": 7,
-  "prioridad": "A",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "dc95bf9ca831",
-  "fecha": "2026-08-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
-  "medio": "ndmais.com.br",
-  "titulo": "Teleatendimento em saúde mental para mulheres no SUS já está disponível no aplicativo Meu SUS Digital; veja como ter o atendimento 100% remoto em até 10 sessões",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWDg3NDVic0R5MnBISldZNk9ScWk1T2d5ODFnTG54WDRmUFEzSFB5NjMwWjh2amQyY3pOVi15VXE2RWVpNnI5VU1oZndpMWFFSkZvUlF3U1Nyd0VlRWZlZUI1TDhIODFrTHhUNEJ6WjdrZGxtWEVmZlNWdzRLWUJrSEhCWU13T0hiTE9EWVY3ZThYM2lZUE5FNjVzMA?oc=5",
-  "clave": "aplicativo atendimento digital disponivel esta mulheres remoto sessoes",
-  "capturado": "2026-09-04",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "0fc10882cca4",
-  "fecha": "2026-08-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "TN",
-  "titulo": "Bullrich impulsa una reforma de la Ley Nacional de Salud Mental y negocia apoyos en el Senado: cuáles son los principales cambios",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTUU3akUxOGl0UjlieTNkLXlKSk91VzVKcjl1YzB6eWZSeGxuZ09SNmdlVWVKdm1semZlMGY2NWt4SktWZnFnTzlwV1dqbWplVEROZEFKMXpiLXlsYmRJY2Z6Y2JSX2RUZnh4Zk42cUhqRTJIbTRLRkpXYXBwcGNsQ1daUjdOU1RqZTlNQTlIdmpRbkctbkFjY3ktQzBOd3ZaWE5yMGdjV2VDOTI5OVlCb01Fa0VFSjZoMVBtaFVrUVY4bTlSVzJ4MzlkaGZOY0JtajBhakJ5Q2k5el93UFBXY3BZdWxOM1V3OHpLWnJMempmYS1HRzNaV1Fmd9IBjwJBVV95cUxOeVl3N09icjdyazVXeUNUWnNGdlY5UW11SHI0RHRhclFBYVlKM2VuY3Fyc2RTWFZVUktLZHBaajhSb0FETE9YbmJiWjNQQ0FIcTVhQ3h2TlRGeFMxR2FTMU9LWWtub3pKS28tVm9CZGNteEc4aVI4TC1zTHlreUF3ay1XdHJpOGk5VXk0NVhSRGxVbTgxanZjc2VuR043Z0FDLWtId0otRUVjU3FiRGpLdmgtY0FCVm54N1FrSTZMODZyUnI2dU5RYmVEOVh4cXI3cjQwS1FZUFRaTXlsR2prUGxVSFRHbV9FUUJ4UUNOUXBRblNVcS1XSFFud2o5Vk5OMXJsQmVVMERkdmNSZUVZ?oc=5",
-  "clave": "apoyos bullrich cambios cuales impulsa nacional negocia principales",
-  "capturado": "2026-09-07",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "4b611e9ec96d",
-  "fecha": "2026-08-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "GOV.BR",
-  "titulo": "SUS oferece 100 mil teleatendimentos mensais de saúde mental para mulheres em situação de violência e mães atípicas — Ministério da Saúde",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZFBQRjlmT3dmZnJJaURfYm43bTdyQmJNV2tkTWxOeE4zLTA0My1IYjVkNGRSejdqcGQ2bTBiUEZpandLWGJTTTQ3MUFING9pOXpHMmFxRDVzTElpdjFQZ3NnS2VQT04yMmZ2dDV3U3I3ZDR2ZTc0SW1jOU5ZM2V1UkZ1ZS01RlNHbi0td2lFY0tmVmlZemx1ZVRvOFNzcmotcWhUMHlsV2tMS2JnY0NOemZhUFV0QVNKQ0pYLVR5dGhEdGFfeHRmODVQQzJJdkh5dEZwaWp3Y0dIWXlsVnJTRUxNdmZOVDFyelpCakxjOTU0X0dSQmJxMW02aEJlYmtzOGdLMkVhQW0yMXM?oc=5",
-  "clave": "atipicas maes mensais ministerio mulheres oferece situacao teleatendimentos",
-  "capturado": "2026-10-28",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "48d1c83d43a5",
-  "fecha": "2026-08-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Governo Federal",
-  "titulo": "SUS oferece 100 mil teleatendimentos mensais de saúde mental para mulheres em situação de violência e mães atípicas — Ministério da Saúde",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQLXZCMGd2UnhBVEU2cU05RkNKcDRHeXFjSWF1N19xOVRSLV9wdHo0VUoybzJFU2NuUzRFbk9tSndiZ01YSFNsdi1uNzFvQzc4LURQWHNrUlY5X3JTam5LS0lmUW00WVM5amJ5SUFzUmw4UnRaYnBneFpqbWVzNFc5VXlSdzdaZE0ySDlzZ2hmcHN1TmFBNTlFVndpSm5Oa1RyNkhNZVJzS3h5LW1nMV9iUDV1cGk1X3U1Z1dDdF9iZWRkQW5RaVc2T0pHZnZGLWluT09NRWdtRGd3cUxFUjFQbUVLcnZVczYxaFE3RE15RHBPYTZNOTZ2d0pxR3RiUm1wbHhpdXcwWQ?oc=5",
-  "clave": "atipicas maes mensais ministerio mulheres oferece situacao teleatendimentos",
-  "capturado": "2026-10-30",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "sistema_publico",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "c66ab323a9d4",
-  "fecha": "2026-08-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
-  "medio": "ndmais.com.br",
-  "titulo": "'Parem de nos matar, nos deixem viver': Janja desabafa sobre violência contra a mulher durante lançamento do teleatendimento de saúde mental no SUS",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0JGZ2pyTC1RbU96MVhtWWxfOXNDWk1NQ0tMaEFpWDd0ZmR0Z0pKR3dCSC0tQ1hCTDNFTk9MTUkxa3pQUUg3UGVEbTE0cXptUmp3WHI2TGVubWtQd2oxc2RrSURveGpScV84ZGpFVk5XblpvM2ZjeEloRnNkRWw0WU00VDZ3U0RPVHhhd3JLajhST3NpQ1RJNA?oc=5",
-  "clave": "deixem desabafa durante janja lancamento matar mulher parem",
-  "capturado": "2026-09-04",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "b501357faf2c",
-  "fecha": "2026-08-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · MX / LATAM",
-  "medio": "consultorsalud",
-  "titulo": "Salud mental en Lima recibirá 1.070 equipos tecnológicos para fortalecer seguimiento y gestión clínica",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GM1gyWHJsV25TVERKYm5yZHJUT1RMRkhGMGNJS183UkdzZnZ3SUNncU9jblRIMHdhUzgxYS16TUZlTC1ZaGF5NTVvbXpZTkJSWFh2bGZncFRqbnBIUDZLMEJyYm16MjF4QlZ1Ry1jMWQtODRKN0tGMG1PWXJSMEk?oc=5",
-  "clave": "clinica equipos fortalecer gestion lima recibira seguimiento tecnologicos",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "c95088a46cfb",
-  "fecha": "2026-08-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "FIEMG",
-  "titulo": "SESI Vida promove encontro gratuito sobre saúde mental, fatores psicossociais e dependências, em Ipatinga",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdEtvSG1NYno3elZXd3dUMzBkZ00zdDh2THRSVlBicnBydTJsb0gwaFFVSmtpZFZiWXZfWWJ2WThHdFV1elRob2pEWnBhdTdSNVA3Mld4MFVtclZuTzlPWmhLcG5xNU8zZW91NWNoOUF4LW02eUhDUWJtekJWY2pFVjVTa0JxZE4zMHU0eWotN0d1VU10eFYtMzVMSFM2azR2X2k1emd3NkhyTWhCajIwTnJXTE5mV2hTcUxzYjJFSVRscnViZ3NFSWJTNFdLOHBDN0o1U2VndUY3bUtUN2xrMzQ0WHgya01SXzlOOEo1UFI?oc=5",
-  "clave": "dependencias encontro fatores gratuito ipatinga promove psicossociais sesi",
-  "capturado": "2026-10-06",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "0ed539b6907b",
-  "fecha": "2026-08-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Prefeitura de São Pedro da Aldeia",
-  "titulo": "Arraiá do Ambulatório de Saúde Mental promove integração e fortalece vínculos entre usuários e familiares",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb2YwVTFyRDB2Q04wM1kwUnFaS3Jmby1xS05WaGZHSm9CdEh0NW1OblVOZTI2NXVGRG5lUWoyUUhlVWdmdTdtR2JsSjJleERXUEpMY1FHVkNIYy1jTGV3YU11R25UYl9IZmVHYjdHeWpsQVRTOHN5dm1WLUw1OF85UFlHdTM3cFpESkJadnNwekFycG1xd3ZweDJSZTlpV24zdE9rd3ZEU3FRREFPS2s5RmtsaXY5VTctdkdiNC1rN1BDX2ZqbVhEdFRR?oc=5",
-  "clave": "ambulatorio arraia familiares fortalece integracao promove usuarios vinculos",
-  "capturado": "2026-10-29",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "fa49bd8b11a3",
-  "fecha": "2026-08-24",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "El Ecosistema Startup",
-  "titulo": "PlaySmart: videojuego recetado reduce depresión juvenil un año",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekU3NEI3a0o5eDZLOTRUTU56cUx6T1dDc09JelA4eDhjMW44YVhfejVVaTdURUJhYTVjM1h3dU56dWp2Y3d3cXNoYWRtbFNiUW82R1NtczhJVnMwaFZLRWNxWWhVRl9IZ1V0SUo5cEdYU3hTVG01LU1iUm9JdWI4MUtubXVIY1NXRGFuOGhpUGF6Sm01R0Q4?oc=5",
-  "clave": "depresion juvenil playsmart recetado reduce videojuego",
-  "capturado": "2026-09-05",
-  "puntos": -3,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "depres"
-  ],
-  "ruido": [
-   "receta"
-  ]
  }
 ]
