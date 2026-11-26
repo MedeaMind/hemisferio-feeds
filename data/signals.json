@@ -1,5 +1,297 @@
 [
  {
+  "id": "0ec74208b19f",
+  "fecha": "2026-11-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "Parar antes de entrar en las redes: un pequeño gesto que puede marcar la diferencia",
+  "resumen": "las personas con mayores niveles de atencion plena tienen mas probabilidades de experimentar un uso positivo de las redes sociales y mejores resultados en materia de salud mental, segun un nuevo estudio dirigido por la university college de londres (reino unido).",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-parar-antes-entrar-redes-pequeno-gesto-puede-marcar-diferencia-20261126080047.html",
+  "clave": "antes diferencia entrar gesto marcar parar pequeno puede",
+  "capturado": "2026-11-26",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "deaa83d9a36b",
+  "fecha": "2026-11-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "https://www.consalud.es/rss",
+  "medio": "https://www.consalud.es/rss",
+  "titulo": "farmacia | La coordinación entre farmacia hospitalaria y comunitaria eleva hasta el 95% la adherencia terapéutica en pacientes trasplantados",
+  "resumen": "farmacia: la coordinacion entre farmacia hospitalaria y comunitaria eleva hasta el 95% la adherencia terapeutica en pacientes trasplantados",
+  "url": "https://www.consalud.es/profesionales/farmacia/la-coordinacion-entre-farmacia-hospitalaria-y-comunitaria-eleva-hasta-el-95-la-adherencia-terapeutica-en-pacientes-trasplantados.html",
+  "clave": "adherencia comunitaria coordinacion eleva farmacia hasta hospitalaria pacientes",
+  "capturado": "2026-11-26",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d78dafbe785e",
+  "fecha": "2026-11-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "201 farmacias comunitarias y 3 servicios de FH logran aumentar la adherencia de trasplantados",
+  "resumen": "farmacia comunitaria lucia de mingo colaboracion la intervencion coordinada de farmacia hospitalaria y comunitaria ha conseguido mantener una elevada tasa de adherencia terapeutica de al menos el 95% en pacientes recien trasplantados a los 18 meses de seguimiento. ademas, en ese mismo periodo de seguimiento en farmacia comunitaria, se ha logrado aumentar la tasa de adherencia en 11 puntos porcentu",
+  "url": "https://www.diariomedico.com/farmacia/comunitaria/201-farmacias-comunitarias-3-servicios-fh-logran-aumentar-adherencia-trasplantados.html",
+  "clave": "adherencia aumentar comunitarias farmacias logran servicios trasplantados",
+  "capturado": "2026-11-26",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a08a0e956ac9",
+  "fecha": "2026-11-26",
+  "carpeta": "03 BRASIL",
+  "feed": "Medicina S/A",
+  "medio": "Medicina S/A",
+  "titulo": "Câmara aprova projeto que autoriza apoio telefônico em saúde mental",
+  "resumen": "a comissao de constituicao e justica e de cidadania (ccj) da camara dos deputados aprovou proposta que permite que o poder publico crie um servico telefonico gratuito para atendimento sigiloso de pessoas com transtornos mentais e de seus familiares. o texto altera a lei 10.216/01, que trata da protecao e dos direitos das pessoas com […] the post camara aprova projeto que autoriza apoio telefonico ",
+  "url": "https://medicinasa.com.br/servico-telefonico-saude-mental/",
+  "clave": "apoio aprova autoriza camara projeto telefonico",
+  "capturado": "2026-11-26",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "291fc28d4588",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Congreso Nacional de Honduras",
+  "titulo": "Comisión legislativa dictamina favorable la Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uU0hlaWNMRUdpeWFzSzJCRFlfRFI3bG5pTGJTVzBoNDNjc3V4T1hrWWlBelFrRTl1WVdGdUloY1UtTGNqZ0FFclZBX2RGWlZ6RjZ4REdKLTJMdW1mNkdDUjdoUkU0eWVhY3V2Mm9OY3FjRVE?oc=5",
+  "clave": "comision dictamina favorable legislativa",
+  "capturado": "2026-11-26",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bd23f33f1894",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Medicina S/A",
+  "titulo": "Câmara aprova projeto que autoriza apoio telefônico em saúde mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vOURvVkdwMFEyV2otWTctWWU0QUxXLTBHOFpERFVfVzFROTlDcnNfRmlsS01ubkZ3aTdmdGlIZ2UzaWJQUnNKYlVYS04xV09qc2VHZFJSUTZFYm5QZHg3YmpsbTV1TmVhNVE?oc=5",
+  "clave": "apoio aprova autoriza camara projeto telefonico",
+  "capturado": "2026-11-26",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f7f1bfb01160",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Radio Faro del Noroeste",
+  "titulo": "Sanidad formaliza la concesión del local para la nueva Unidad de Salud Mental Comunitaria de Gáldar",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNzdoVmQ4ZlVsMnR3ZWNaQ3M5YWFCbFZpWjlJN3kyb0drSkd1MF9EcnhXN2RlQ3V1YzZfVzAyQkNNUDgyT1NDaDJOVnFlMzFYMjVHVldXNkY0dERua3ZEYjluUWxTNUxFSE1UTWRNSkZyeTJKSUp6NjhBMndwLVQwWExCQlVuN3FRWXpOaGFfRFM5al92dzY1X2FnNEthVTV1eVNJWGhfNmlPenE3aVZvZGF3RXZ6RjRpb3EtSkRoM1FCRmVhbW9aYUxqSFZpd3d2WldtLTB1UFRwOXJSbFczYkMxVTJnNFgtS3ROY2ZzclRvZ0pPM0x1NkpvTDhwQnRnRlowMjRURzVUSVhK?oc=5",
+  "clave": "comunitaria concesion formaliza galdar local nueva sanidad unidad",
+  "capturado": "2026-11-26",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "5b3ae6629f99",
+  "fecha": "2026-11-26",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Seis de cada diez personas bipolares que son juzgadas no estaban en tratamiento",
+  "resumen": "politica y normativa soledadvalle tribunales un estudio en el que ha participado la clinica universidad de navarra, realizado por psiquiatras espanoles, ha concluido que 6 de cada 10 personas diagnosticadas de trastorno bipolar, y sometidas a un proceso judicial en espana, no recibian ningun tipo de tratamiento en el momento de cometer el delito. los investigadores anaden que su perfil se caracter",
+  "url": "https://www.diariomedico.com/medicina/politica/seis-diez-personas-bipolares-son-juzgadas-estaban-tratamiento.html",
+  "clave": "bipolares cada diez estaban juzgadas personas seis tratamiento",
+  "capturado": "2026-11-26",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "research",
+  "topic": [
+   "psiquiatr",
+   "bipolar"
+  ],
+  "ruido": [
+   "tribuna"
+  ]
+ },
+ {
+  "id": "871c9d119b1a",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Canarias en Pleno",
+  "titulo": "Vivienda y salud mental: el coste dispara las alertas en Canarias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEWEUxV0l4WUxORVJCRWY4Uk1CY284RF9GTW5scmxfUGo5TGVUbm5zd1hWQlhxTllScmViWTlPOTNDdUxidjBjV3MzQ2xydzdGdFFGMUtLUFhyQm5BRmREODZ3TktmeDZtQkZ4WHFpMDc?oc=5",
+  "clave": "alertas canarias coste dispara vivienda",
+  "capturado": "2026-11-26",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "30a7a443b126",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Tiempo Sur",
+  "titulo": "Mariana Savid: “No hay negocio que valga más que la salud mental”",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOelBJR2lrUHQ5TEZSQUhLNkw3R3hIckVpN3ZwNXN4eFV6OTB4aFFYYklPTzBkby1PTDRxdVdHY2lnRUlQVVkyaE5BV1dBRUZSdThuOHQ4NjNLZXlXMFBXYzY4YmNGaG5mSzZEbDhULVo2QVFmdFVlZ3pGVlBTSVM3UEZDbVVtcDA5TWN1M3FyMnAzdV9UWVVmMV9hT0ZwRGVyRnVSU1c3SdIBrAFBVV95cUxQUDFiUmFxaldIajYzdGp0SGJydlZWUUxlU1JIeWdfcEtsU3N3bExJb3dabmppam1yZXZLZmp4OU5OWGZyUWg5TWV6MjRxM0lKaUlVZ3dfLTdyTjV2emxieXNHQ3ZiZ3RQa1dVTFFfdVRhRmFXVmtiVDhHTWkxOVVjN1RMc3lQdnRIMTBCV0lzRDdNN1ZwSkliWS1QTDNkSXdoa016bnZTaTgxR0pn?oc=5",
+  "clave": "mariana negocio savid valga",
+  "capturado": "2026-11-26",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "d508f583941e",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "saluddigital.com",
+  "titulo": "Tulancingo presenta proyecto de telemedicina para atención a distancia en salud mental y adicciones",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS2ctcXh6MlQ1WTh5Zm5kSVE1eTlqa3EtRUlaT0J5UFhSNEpqamJiSFJ2VE9xTHFsMFRiR3RUVVRHUXRkdFpVTjY2SWNGNFB6NjdpY1ZKZ002cVE5eHZ3U05YT1FFOXFwMV9ISjNuMU0tZmVwNnlGZ1hlWGNIUW1fU01DRFk5eWY1NWJ1ZEE1dXNCdUdfZUJZZlo4UGdES29EVC1zYnpjZUJZZDg1dHdWUUgzOXlXT1RybkxtSEozWUcwc2dFblRTbDUzWk5tZzNlU0J2cmRSSS0zQ1pNc1VYUkVR?oc=5",
+  "clave": "adicciones atencion distancia presenta proyecto telemedicina tulancingo",
+  "capturado": "2026-11-26",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "adicci"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "39eb5f0c277e",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura de Barra Mansa",
+  "titulo": "Barra Mansa promove fórum intersetorial para fortalecer a rede de atenção à saúde mental e discutir políticas sobre álcool e outras drogas | Notícias",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVVBYWhCY2hoSUttQ3AzR0hjYjJDTmwtbVpGNlBrSWJXTl9CZ01GbkF2aHVCT3ZzVm94QjVvYWh5VTlQREM0c0R1VFAxaF9yMDFuWk5HSEp3MmtONmRaVVJ4RWpRdXN6SVZfRnJVRXYtVGpJUlgwcDVUUERPSTJpSG5MY0VITWtvRVFsblcycnk4N0JJ?oc=5",
+  "clave": "alcool atencao barra discutir drogas fortalecer forum intersetorial",
+  "capturado": "2026-11-26",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bb231286682b",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "São Lourenço do Sul",
+  "titulo": "São Lourenço do Sul envia equipe de Saúde Mental e Defesa Civil para auxiliar a população de...",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPY3lSdXgwNjNnWnBLM1ZxM3NFc1RtLW01a182SkVMSUZadDlqUkg5dmYzS0U4X0lkMk5Lakg2NnVzVHBIQWp6UjhkQ0ZGMWprSWxWazhlUWRFQUttbTNyR2hnbjJaNkdHZ0V4TUxmeUZnZk9pRUNrVUdaaWRIcWdtQ0t2SEt0RWpxU3hwdUhib3JMbDVxaWV4U0FHY2lmOXRuMl9mM1N1TG1lLWJZS2pKOUZfak83YmVRcFdzbVBvdjZBZG5pb2hEa2dJaWN4VGxxYXNWSER2dmNLMHd2a2QzTGd0OVh4aTlLeUZQYlk3MEVZb2MySlhmRjJRNnU?oc=5",
+  "clave": "auxiliar civil defesa envia equipe lourenco populacao",
+  "capturado": "2026-11-26",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3496226b8915",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "MS",
+  "titulo": "Novembro Azul: CAPS I Regionalizado de Brasilândia promove ação de saúde mental e autocuidado... - Prefeitura Municipal de Brasilândia",
+  "resumen": "novembro azul: caps i regionalizado de brasilandia promove acao de saude mental e autocuidado... prefeitura municipal de brasilandia - ms",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRHp1cEMxeXl0bGJyN09wcVAwd1hZMjNFX2Y2RzNHRlR3VW13SFBqZlVOQTU0aW9US1pzOHBsRGNhR0tVMXpnTVdzRV8zWEd0WTBXR3NLbzBINVRtVjVoMzJyOWNPUzJPRTF1NXZCY0Z5TXBLblQ1NHdRVUxCVlk3NURuLUFQV0hVVjJ5cko5VzRzY1p0Qi1WNnVtczVURzRfbTk1c2JEX19leDZTeGs5NHQ1aVR1SlFrcXFQc0lWSEZPLUwyUGlvdEdDcVJWb0VDLXhaRFhXbHB5R2kwR3lNR3U3YjRiUUJpRE5WOTJwbElDN1YxWDNUZkZlSXdIS3M?oc=5",
+  "clave": "acao autocuidado azul brasilandia caps novembro promove regionalizado",
+  "capturado": "2026-11-26",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental",
+   "caps "
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6d600796cb7e",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Agência Brasília",
+  "titulo": "Jornada Acadêmica de Residência Multiprofissional em Saúde Mental do Adulto celebra dez anos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZVVWb0k1NE8tMExyTzJubVRvcE1tRTI2c2lTeTRRYmxRSEVMMjV1b042VjRRSU5QZnNYc1RRQlpyRnNYaC1LZGx5cThES1owMzh0Mno5eVNBaGE1LTMzZUhtUTNhYlJrb1B5alNWajVOQjRrLVoxVTI5WVdyeFBjQWFLMy15dlF6R0k2ZmpQbVNUVHk4Mm1VSDBRWWlLWnNYeGRsX2tuVXdDNWRsemlnSUZQb3JNdnZZVF93dFR2YlRsM1dRZW9MZ1VUc2x2X2lwNFF6NnEtMS1YMF95VVpRcnJlMjF3akU1RWtISQ?oc=5",
+  "clave": "academica adulto anos celebra jornada multiprofissional residencia",
+  "capturado": "2026-11-26",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "jornada"
+  ]
+ },
+ {
   "id": "7f1c3cd5a65b",
   "fecha": "2026-11-25",
   "carpeta": "03 BRASIL",
@@ -114,6 +406,46 @@
   "ruido": []
  },
  {
+  "id": "28a9eee8bcca",
+  "fecha": "2026-11-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Perfil",
+  "titulo": "Mónica Frade habló en RDI sobre la importancia de la Ley de Ludopatía: “Es en beneficio de la salud mental de toda la población”",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOG1hTnZLSHk3OFpkbkNLaTFuRjVIdk9ETGdEMkowTFE5QW5XRHZqQmV4Z3ZuQ0dDQVR4UDh1M3g4U2FndlR4aDdYM0xrMTBpTUFIeXJQQTZoeDNkR1dNdEJMc2lySVluMHZNSGoyUGNNbU9FZjV0NkpiUUhudFlyMG9oTDlLY04xZVJyd1VLd2dFY3JoSHJEQTdkekZtOWhMWXVmQVB4SUVlWnpBU2d4N2RzQml3c1V5UmIwY1NyLThacjRjeDBqa3FOUUMwZHJwR2gtSjZCd1d1WW5lYkNoTEFTekRZZWsydDNTZ3g3Mzh0anNUSEEwMFpFbUZWcXVCaEE?oc=5",
+  "clave": "beneficio frade hablo importancia ludopatia monica poblacion toda",
+  "capturado": "2026-11-26",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "ludopat"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "1e2db7fac82a",
+  "fecha": "2026-11-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "100.5",
+  "titulo": "Mónica Frade habló en RDI sobre la importancia de la Ley de Ludopatía: “Es en beneficio de la salud mental de toda la población” - FM del Sol",
+  "resumen": "monica frade hablo en rdi sobre la importancia de la ley de ludopatia: “es en beneficio de la salud mental de toda la poblacion” fm del sol - 100.5",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMHNxT2wwb3lhMWg1eUJTVFFycUd2R3g1MG15U3lZSmItSk9SY2ZLTGs4WmRhOU5HUGpYV3N4VjJYYXJscE52aHJnSUNpdzR3d05GV3B1dXc3OFVvNzdQRGNaejhZLTJPQWJvVmMtR18xMmZlNUt5LWZTbWVWZlVYazM3MVVrSlBDTTlBUmZkWWoyMzY0Z0lQWFRGMGhMRGFMcHNHLU02SmJYbU1lck5JMFRmckZwMExkZVhVNkR2NHo3UHQyQ3pwY2NWUVNuekw5ZEZsNTdnaHNfQW0tN29NTVBJVXhyQnVMYVhMOHcwMEhjaGpGZWNZVTd1M1prQy0yVlhFTlNwNmFEcURk?oc=5",
+  "clave": "beneficio frade hablo importancia ludopatia monica poblacion toda",
+  "capturado": "2026-11-26",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental",
+   "ludopat"
+  ],
+  "ruido": []
+ },
+ {
   "id": "befda0c4ac78",
   "fecha": "2026-11-25",
   "carpeta": "01 ESPAÑA",
@@ -148,6 +480,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "aa6b93d8f90a",
+  "fecha": "2026-11-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "www.gov.br",
+  "titulo": "Robótica e saúde mental são temas do Futuro em Construção — Ministério da Educação",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHhZU3owTExpRl9nS1dIVkdKNkpMNEM3Ty03UnVmb0tDeE9mZUEtS0llMGprNC1zVFBYQm5Ic1ZQM2xWVzNnVDBURFd1d29SUHZ6enFCbUJjOVV0ODJ2MHl6eW5BOUxJSkRMVk1yek5ncVBuT3hUNmdzWFc1NzV0eVp4bmFONlFtS0ZmU0dNdUhfYlNnVmxWc1lnc3JoekJZaGxHYklYcDNTem9qa2NLdWdHbTh3R0pjZ2c?oc=5",
+  "clave": "construcao educacao futuro ministerio robotica temas",
+  "capturado": "2026-11-26",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -4455,6 +4806,25 @@
   "categoria_auto": "research",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2ffa284dd024",
+  "fecha": "2026-11-11",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "Estadão",
+  "titulo": "‘Amor e Empatia’: bet ilegal operava empresa de saúde mental para aplicar golpes, diz Polícia",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMGVXZlotaUtmS0Nfc3hIemhvWVpvN1ZaMUVrLXZVSTlUbmROVmx5di14UUdlTm91RlRjVWZMR0s4SEFoNEhKbUhzdTN6YkVLdlc3T0xfMXNTRHVxcmJfWDBEel91bDVWRjM3a3NPV2l6cnVqOVpZVmIyaWNYa1gwdm16VURtM0w3dkZxZEt3YnFQT3hlcGlzb0JDMHhNMVJpOWdJYVdsSG9PcC1mWlp1c0RodWRNWENFOTFWa1VucklfQ0tpaDVyNVFBOXAyU21zaWtjOG5yR3NLWmdHOTk5WmpFdldPcE0xNmdubw?oc=5",
+  "clave": "amor aplicar empatia empresa golpes ilegal operava policia",
+  "capturado": "2026-11-26",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "empleador_aseguradora",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -26705,6 +27075,27 @@
   ]
  },
  {
+  "id": "cb4b75f96236",
+  "fecha": "2026-09-29",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Andalucía Información",
+  "titulo": "ARPEM y FAISEM presentan la I Marcha por el Día Mundial de la Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHBWYllFcTJodE5sZ3ZnRjltWXRDckoyUTBmZ3g4XzN6cW91UEhpNHc2QloxekdDN2RjRFJKckNxZ0xpcWlydmxoaHZ6bWZzeEVaZnVLNm1vUXQ4WTZWUTNKaHdpbVZPNENrUjZzRU9NaFVOaEhGTjV4RVlKZC1yRWpCWWpBNV8wanRXYjVrS05FSURnMWM2eGZSLXdiUUt6QTl0TGZaLVhta0Q4MmJTLTBPT0kxNzI2dnBLOV9HNGdySTjSAcgBQVVfeXFMTjZkMS0zdkx2S2g5QmlQWVBPRjl3SkNaSnBXQWlIZHQzR21lYmpBRTJnMDRXdXNQbHhFREhVZUZENEpEOEs2Ny16VFRlSHNCaXBMano0dWJzejBjWW1Xd2dxQ1l6M3NXSEs4c0dZaGdfNEhTRzZ6bzd3VkNfeWRjVHFMTG1wRzA0WHBIQ0Z0WF93azQ0dWdNVVFrTVRlTC1pQzJLTlRpbHNCZW54N09wWGtCbTVtZEpiUFR1b0EtVVYxN25kUnF0OVc?oc=5",
+  "clave": "arpem faisem marcha mundial presentan",
+  "capturado": "2026-11-26",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": [
+   "dia mundial"
+  ]
+ },
+ {
   "id": "8046b76a2349",
   "fecha": "2026-09-28",
   "carpeta": "05 GOOGLE NEWS",
@@ -36541,6 +36932,26 @@
   "ruido": []
  },
  {
+  "id": "e370ca99cd77",
+  "fecha": "2026-09-07",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES deals",
+  "medio": "Galiciae",
+  "titulo": "La Xunta dobla la inversión en salud mental y fichará a 357 especialistas en psiquiatría y otras ramas hasta 2030",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaDhlMGpxUUdDekV4c1czcFFhOUgxRXM1QXFVYkR0dU1kdENRb0UxYjJtWFBEWHlSdHBiY3htdUo2amJkWkFPbEdubllGcThjbHVoU3REUzdUcVBCMzBVSk41ZE02SmltNFI1Z3FHbnNrR1BSbFczVUlmMFdVYnlEaHp6TnBGMENNUzdRVlZEYnZmS2V3cW5FRmFKZU9qRlJndHVYOUVjM0JfVXlvMm1mLU4wMlJIeTd1dzNLMlMzMGFES2ZVWHpMNDNmVUJkWTA1cDJfTnpYWWNXMXNndkZzSDdhQXNPNmZs0gHuAUFVX3lxTE5Vb1RQbEhoMkdremptaUx4YVNsTEllY0JlUHpFcTV2VUUzd0lVNkVqdFhtOXpXd1R0TXZXY3FURkpHTVNpa2M3eDhEOFZScG5Vb2pNT2dCdDM0SklNN1ZNYkUwRGhYZzNlM3h4WW41bnVXbFhmNmc2MkQtT2lELTlJM0hOYVRtWnVnV05SUnFQRXJnbjRtcEdJY3NLR2h0X2NzdE5sNThGR2Q1b2NJOVZvdjF0NktDZGIza3VCNFh2MzJfREJEV1hCOVZoeHg3VWV6MTlaUG5rYko4RzdTNVlqVE92MkdyWVRqSTBFYXc?oc=5",
+  "clave": "2030 dobla especialistas fichara hasta inversion otras psiquiatria",
+  "capturado": "2026-11-26",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "psiquiatr"
+  ],
+  "ruido": []
+ },
+ {
   "id": "52e82c160797",
   "fecha": "2026-09-07",
   "carpeta": "01 ESPAÑA",
@@ -38560,142 +38971,5 @@
    "webinario",
    "mostra"
   ]
- },
- {
-  "id": "7f624f39e2cc",
-  "fecha": "2026-08-27",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES regulación",
-  "medio": "ladiaria.com.uy",
-  "titulo": "Ley de Salud Mental: borrar oraciones es asunto grave",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODhnY29ObXB5VDFIU2xWeWppcTVZTlFOVHMtRnNZN2FiMEVoZ05Ua3NVWmpzQW05QzQyVU45dktHOGJtbGxqODlqSjJ2ei05WlRTVUN3dmw1WklGTEhZLU85UUxGeHJvNk80T3pyVGZUbmVyX1NfaktZd3JpZkFqem9ISzZKa0NsYVlEalJXZi1PNFcwNXhheWRvUmgxRlNUbF9z0gGzAUFVX3lxTFBrQm1CUklkNWhTN1NPcWJ2M2F4OXRuUTNrY0h2c2M0QmlQXzVjZXhTN29iUGZ2bHhncUs4LW9HS2hGSzdJcTYtUkNnUXhHNFZOSDJJSXdjci1YTVZWVlJjX1pDbnZNNEpFVjVoa21WYjdrS3JFTmtKM2o5TENDNDI5RmRXOTFhSUsyVkdNZmNXQ2JKaWhLaElTaXVCYU5EckJOMW9RZk5vcE9OaHBDeklHS0V3?oc=5",
-  "clave": "asunto borrar grave oraciones",
-  "capturado": "2026-09-05",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "0183648305e7",
-  "fecha": "2026-08-27",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · ES deals",
-  "medio": "Eduardo German",
-  "titulo": "La Rioja negocia cambios a la Ley de Salud Mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNejlteW5BLU1PYTNPUlg1ZkdabjRhZnNpYVUyQTgyYzdFRXowU1BLZFVWd0pZNXlfMmkycFVvU1hfVnMyUU1zWmNvMVFqUVVvRHdoaHhvbUFwRE9HZlRXNXZDdlktTG9DZXZRWkRHSklaMmk2NFVHbDROVFB4ZlU1cURGRERYSU8xT1A3dUdsQTU5SmlSV2RxU1I1Sk5pMXNHeDUySWtTZTk2aUJDRklCTEVKRTczc0REcVg4NnBtSXN3ZEZxLWVXOHotbkROYktCaWdv?oc=5",
-  "clave": "cambios negocia rioja",
-  "capturado": "2026-09-06",
-  "puntos": 4,
-  "prioridad": "B",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "salud mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "285e9d6dd972",
-  "fecha": "2026-08-27",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "business-it.pt",
-  "titulo": "Mena.ai quer ser «o sistema operativo da saúde mental europeia»",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZU9FNXNUZk8xZmJ1LW9TWTVkQWItV1lTVmxuOFFnTDBROWI2SkJxMVVZZHdjVWlIVVA3M3pUR1hFWWhPM2k3a21iYUk3ZlFrMGRvdnhmbU5lTWR4Znc2YmhZSy00cEh4VDlMaFRMdHlYZmZBV1FPaUZlSXR2N2pUaTNTQ3VYcDdYMGxpT2ZPamJMTGo5SktqOWFGN3E?oc=5",
-  "clave": "europeia mena operativo quer sistema",
-  "capturado": "2026-09-04",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental",
-   "mena.ai"
-  ],
-  "ruido": []
- },
- {
-  "id": "a89d442a3d55",
-  "fecha": "2026-08-27",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "082noticias.com",
-  "titulo": "Startup de Alagoas é escolhida para testar tecnologia de saúde mental na China",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblRIUFRLeHV4bW1vbzF0N0FEQlNtVEF0d01CenZCc1FFa2lnU1BNSFhjNzdrZUlQcmFVUnlVdDRJTk50WDVZYmpRS0ZJTWxpVXMtOWFjeU5OZ1BIcGtvTndfaWdPQV9GWTRlblM4ZjlyMHl5MmJuUmkyaTFxSm8wSDJuY2VaNUZuQlYwd2wxazlaXy1faVlpRE12cG1CemVrLXY1Nlc3aUFyZWZfS3I3UWtn?oc=5",
-  "clave": "alagoas china escolhida startup tecnologia testar",
-  "capturado": "2026-10-06",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "10cbb1bbc2af",
-  "fecha": "2026-08-27",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "ECO",
-  "titulo": "Sword Health vai comprar aplicação de saúde mental Headspace por mais de 170 milhões",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkFISjJBQnlKcmEwbURrald3QVJOTE5QeVlCVmk3ZUR6bVdLTDFud0hrMnRRd1FZb3d2QmprQ2xNRDA5S3FlZkNqemZscFRjSV9zcXZSWFFIV3ZBZm1Ec0pPYVBPTHRqU1dMQ1YzOHl2RmZOaU50YTJsUjhTZHJsMUN1blJweFVRazR3eGplQjQySDZjV1dnenhySjhIVVA3WGZfSGN5Z2NYTlprWTREX0ZHRm4?oc=5",
-  "clave": "aplicacao comprar headspace mais milhoes sword",
-  "capturado": "2026-09-25",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental",
-   "headspace"
-  ],
-  "ruido": []
- },
- {
-  "id": "5bb55f89c70f",
-  "fecha": "2026-08-27",
-  "carpeta": "03 BRASIL",
-  "feed": "Conselho Federal de Psicologia",
-  "medio": "Conselho Federal de Psicologia",
-  "titulo": "Sistema Conselhos lança campanha para dialogar com as candidaturas aos Poderes Executivo e Legislativo sobre agenda estratégica em áreas prioritárias para a Psicologia brasileira",
-  "resumen": "o sistema conselhos de psicologia, no marco do processo eleitoral brasileiro de 2026, torna publica a campanha psicologia que transforma – 10 compromissos para transformar as politicas publicas. mais do que apresentar demandas da categoria, o conselho federal de psicologia … o post sistema conselhos lanca campanha para dialogar com as candidaturas aos poderes executivo e legislativo sobre agenda e",
-  "url": "https://site.cfp.org.br/sistema-conselhos-lanca-campanha-para-dialogar-com-as-candidaturas-aos-poderes-executivo-e-legislativo-sobre-agenda-estrategica-em-areas-prioritarias-para-a-psicologia-brasileira/",
-  "clave": "agenda areas brasileira campanha candidaturas conselhos dialogar estrategica",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "psicolog"
-  ],
-  "ruido": [
-   "campanha"
-  ]
- },
- {
-  "id": "aefa40489317",
-  "fecha": "2026-08-27",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Congresso em Foco",
-  "titulo": "Por que o cuidado com a saúde mental ainda não é lei?",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTk2YU5CY3c2RXg5X1lwcG5mOTI0SG1MOHJQbkNva19PSEd0czVGRXpLZE12VElFbUMyY2dxN3hjYW9xRnFra0tCU0lleE95NGFkbjA3NWVIUzB6cnVOcl92MHQySE11R2R0Ny15aUoxdmxhcHFIWlg2akh2R0VlRl85TVRrLUJ4MXJLX183YTBURjdPTjVnQkpLYmZPYkJYWWxF?oc=5",
-  "clave": "ainda cuidado",
-  "capturado": "2026-09-21",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
  }
 ]

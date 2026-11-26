@@ -1,12 +1,10 @@
-# Hemisferio — señales 2026-11-17 → 2026-11-25
-120 ítems con tema salud mental de 1105 leídos · 119 historias únicas · A=10 B=36 C=73
+# Hemisferio — señales 2026-11-18 → 2026-11-26
+120 ítems con tema salud mental de 1036 leídos · 117 historias únicas · A=10 B=35 C=72
 
 ## PRIORIDAD A — hechos con datos (leer artículo completo)
 - [2026-11-25] [03] **Brasil avança na busca por uma vacina terapêutica contra o câncer** — Medicina S/A · cat≈sistema_publico · 8 pts
   o ministerio da saude e a universidade de oxford avancam em uma parceria para o desenvolvimento de uma vacina terapeutica contra o cancer, com participacao da fundacao oswaldo cruz (fiocruz) e de outras instituicoes bras
   https://medicinasa.com.br/vacina-terapeutica-cancer/
-- [2026-11-17] [05] **Trabajadores de la salud y la cultura organizan un festival en defensa de la Ley de Salud Mental** — Análisis Digital · cat≈regulacion · 7 pts
-  https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM3FuVEJPRjI3a0hKQ3E3azVVV2VRYV9McGdFNFpGbFQ1WnBteGM4bFdiUjJNUlY2Nk82djBSbnc2Z0VuT2hYTkJBc2ZNbUtWNXdvUWttN2FiLW1NZWxfLVlSVEJnbjBCcGl2TGI2Wk5GbFVlTlVCN0pGZ3JyNHljWUkyS21YV0NTNXhYTGpzeXRvUW9USFVLM1hXa2JHTThKS2QtamRSOUhGNXBIQjZYbkFaZkVFQlVCVkI0aFlsc1dvcW9abmthWDhkUVJqYXhEMXlhd0VZaHFKSG14U1JMZWltWHE?oc=5
 - [2026-11-18] [05] **Trabajadores del Hospital Escuela de Salud Mental realizan un paro de 24 horas por salarios y presupuesto** — 0343 Noticias · cat≈sistema_publico · 7 pts
   https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHoyM0lhNU5XX01ZSHYyRWFseF90T2J3R1BPZUNxWlJmQWVzYmhxcDFOUC1EOU85ek5hT3NRZnFDXzNIdHhnNGVlYnVQQnJ6cktHcGNvcVFtSXBUZUtacmZJLTBmMWdCa3JqLW94NTJnWExXcDV3WFFmSzBUcFlpS1pGZ3VTaGpqdHlwMjNvYWxvRlJScU92MHdvOVNBNlJIOEhDUENQeHNtQndINkY1TS01NHlLd2dGbDNXN1dwQlBoY1BNeV9kTkkwcEZKdGdmcGhwa2dSdkRmNHFaVkZTaw?oc=5
 - [2026-11-25] [01] **Ocho de cada diez españoles ocultan cómo se sienten realmente a sus familiares y amigos en algunas ocasiones** — infosalus.com · cat≈research · 7 pts
@@ -28,24 +26,17 @@
   https://gacetamedica.com/politica/promesas-sanitarias-psoe-balance-2023-2026/
 - [2026-11-24] [05] **Por la implementación de la Ley Nacional de Salud Mental No a la Reforma de Milei y sus cómplices** — Periodismo de Izquierda · cat≈regulacion · 6 pts
   https://news.google.com/rss/articles/CBMidEFVX3lxTE9tTFdObTlveF8zZzZ6cEFCQ3BHR3hnYjZnV2FBN2JNeEhCT2dGdzNoY3RDS3hqUkg3X3hZQ2t5NWc2UWRkRHNPT0lxa0I0TkROWlZ4Rm0wbV90V004REVTTGFtQmZSWHVNS3JXT1RLSHNrMG05?oc=5
+- [2026-11-26] [01] **Parar antes de entrar en las redes: un pequeño gesto que puede marcar la diferencia** — infosalus.com · cat≈research · 6 pts
+  las personas con mayores niveles de atencion plena tienen mas probabilidades de experimentar un uso positivo de las redes sociales y mejores resultados en materia de salud mental, segun un nuevo estudio dirigido por la u
+  https://www.infosalus.com/salud-investigacion/noticia-parar-antes-entrar-redes-pequeno-gesto-puede-marcar-diferencia-20261126080047.html
 
 ## PRIORIDAD B — contexto útil
-- [2026-11-17] [05] **MinC, Ministério da Saúde e Fiocruz lançam curso sobre Arte, Cultura e Saúde Mental** — GOV.BR · cat≈sistema_publico · 5 pts
-  https://news.google.com/rss/articles/CBMizAFBVV95cUxPNERhS2YtX09XUE5QQUR3MGlQQl84RFlORUMtbUd5MDFuTHRyVWltZjhKR1JUSFg4bFdtcERWNVl5VjZiMTEtU1dldE1CNWtKaVpteDhjUm1HVHBDVjUxb2tFc2ZfbDREMUNkajFvekFHMVRSbElRWW04UUhfdHBCa1ZJbmlTTE1POEZ6MmpEcjU1VUhsMU1xQmR4dEtOdTVXdXlDLUJsWE1Mdy1WOFVHLVplRnh3U3BsaXFnSmk4R1FkUUxSM0dwX1pFRkM?oc=5
 - [2026-11-18] [05] **Trabajadores del Hospital Escuela de Salud Mental definieron un paro para este miércoles** — Uno Entre Rios · cat≈sistema_publico · 5 pts
   https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZk5PcXNlU3E2Unl2MjNZSFItbGp3RlY5d2I0MDJ4LTZmZTQ0NHRCNGM0TTZERXp1M2hWYUEwako2R3Y1WGFpaFR4amhiOTZ5eDZ3aDBKaTFsMUN4bEZaU2pBZ0o0ZDBJYTN4dVlBN1ZWUGltcE9CVEEtaXhzczhtZS1JNnU4OVlHMG5aczBKcE9aZkRjbndhQzRNbjh6NmcwN3JOSXFsTThqSEhIVUR0UU1IazZsQ3F5SnNPZjJXNU1nWnZlVjhjM2tVUUpDRGg2bDhBcC15b9IB3AFBVV95cUxNVE1OUDM4Z1llVEcyX0JNQmZDR3FjdlgzRWxxZ3ptRmUyTlBxRTdXWXpYYkVLRmtpM2xyNjBwcHdnRUZFY0tYejJqSi02eV9KNGhIVEdhbHN0aG5WLWxFQ0d4VUhJRzRVTnBKQktWYkpiZVJvZ21SdjlVN05sdml6eDU2U1R4UU4zb0o4NVV5bE9NWkxRaldLVFVTMkJWc1JWaG5udlo3dzFCZTllRzFLblpzNklnWG41X29QVmVFT25hTzJBeVlzSmR2aTZyaWJJSWt3cEZZT3VuZTZq?oc=5
 - [2026-11-19] [05] **19/11/2026 | FDA, Botox e IA na saúde mental** — Afya | Home · cat≈producto · 5 pts
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zMXVKSGdvbW9oZHFzZEIwWWRBb3JUUDlyTFNJUjd5OHB3dFF4M0J6OS1JdFFxeFFkSVpnVktOeDM2QVdiY2d5NWZGSkwtaGZuQ3RIVy1Fc1BMQ0tveFdhcGJwX0JPZE0?oc=5
 - [2026-11-23] [05] **4º Agita Raps encerra programação com premiação de experiências exitosas em saúde mental** — Prefeitura Municipal de Araçatuba · cat≈mercado · 5 pts
   https://news.google.com/rss/articles/CBMiugFBVV95cUxOeEtjX21oOEFBN2VWRDUwbEQ5cjZOQkt0aVBFWEI1LUNGZmR1WUtmd0l2c0dnZFhsa1F1TzAwQUE2Qy15YzRNNjZlTVFXMXYwZGRjYTdudVpSTlRWTjdHM0VUYWZibXZ6VnZST3dGWGFRVEc4MFB4NVNDTFJBSmo5dTdoXzZTUEIwekRFaUhwNzVESXlSeF9oRHhXdGxzb3FVb3k1ZkhjM04xRE8weFZaUWR0ZVZHM2swbmc?oc=5
-- [2026-11-17] [05] **Denuncian que los presupuestos de Canarias para 2027 dejan fuera una partida específica para salud mental** — Diario de Avisos · cat≈sistema_publico · 4 pts
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzJvenRlTEhQbGIxNkcyanh2NXE5Q0dDUzdEdkNiYnQ5WlJOR0xKVUVsR3N5VU40YjZSUTM1cFZmci1LS0l5dGUxZHVqSTJzUzJfblNqdjV2UUZiNEpPUk42NnFlN1NYYUR2OEJHWU5jR3NwQXhGSlZKSnc5Q3pQbzRDeVpiTlpUUWF3ajR30gGTAUFVX3lxTE0zZ3MyV09LUDFGckdmZEV1VVdXOVQ3UmdVal82dWxtLTItSGg5anNLbzdQS1hfeWdkZHhhRFFYZTFNdVBRUkk5X3pSQXNpZG54R1BSZXRjMnVPb05EbFotTmFLcXU4eVFUZXNfYVRib05WWFNmeF82N2pmVzQ3bUFzUmwzQThZLUc2RTN1M0VKZjk0TQ?oc=5
-- [2026-11-17] [05] **APROBADAS REFORMAS A LA LEY DE PERSONA JÓVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, PARA INCORPORAR CONTENIDOS EN PREVENCIÓN DEL SUICIDIO Y SALUD MENTAL EN CAMPAÑAS INSTITUCIONALES** — Medias Tintas SLP · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMi0AJBVV95cUxORHVyblkwRXZqc1pOZlY1Y2d0aks2Q0lsdFI3ZG9GTlRHeGN3NmJ6dlgtZVh1RzdkNlJEVk51Nl9lcm1ucGhyNFhRejdPQTdHVDhvc2ZJRnkzcmpsd0ctZ2ozSUg1Ty13dlJYc0RxV1ROZXo2VThTcG1ydzB2eDUxaWpucmtSa0xGQkswQlc1OEktZGVNd0xhU19WUmRNcmlPX0FUaHg3WlZtcmhxRnNDMmZiYWI3X2pCTjVlalcxMUYxbVBBWEtNM0dYelFUMWp6MWJSbkVXS2dGQnVZU0hKS0JsUmxTem5NdXdvcGU1RDU4NFRnZ19BLW9qNzJ2UW9aa0ZOemR5N3UzeHg5el9tZnMzVGRBWUJYNFYweTNlNWpXdVpzLTVuZDNtR3RkM3JWVkhvSFhzTzVVUXI4QkZyNkZnbVE4ekpxS0F5Ymlfdko?oc=5
-- [2026-11-17] [05] **Salud pública en Neuquén: crean 43 cargos para hospitales y nuevos dispositivos de salud mental** — Diario Neuquino · cat≈sistema_publico · 4 pts
-  https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHBneHpPalY5OU9zY0tWdzFmdTNFWGY2bnBTb1pPSFViT1BLeEhJd01kaEZnVC1DRExQOE1BSE5zVmlibUhZMTc1QVdObmhtT0ppZGNxME9Mc3R4NExLcXQ2YmpYaHFLMkxUczUzSDVETllHUHNLMGl3bTktV01qYUYwLUtsWjBkeTZSNzFrVE03b1RlRlpBWXZWNVJpUHZJMFVaSmRZcWh2RHJzcXZCSFFYSU9NcmJDRDA5c1d5NGJmVHc?oc=5
-- [2026-11-17] [05] **Comissão aprova projeto com diretrizes para reforçar atenção à saúde mental em regiões isoladas** — Diário de Curitiba · cat≈regulacion · 4 pts
-  https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeUhXVlBnZm9yd2hxeWs5c2k5LXE5LV9MRDFhLS1IMG5pazhiRGZzWTFGeWYwY1ZtOGlaRS1zanZRZEtBRFR6Ny1Zcm5OTDBjQ0dCRnA1cjAxZV9UUE50TFR0ZEFKMXlpVGxNaXFjS0NYeHFZSF9rUWtPUjEtVGR3S1RxeDhwOHY1WGhUSXdyOVVIbUR2bXlMQTVGcGhnWkh6MTFyWWJLU05FdE9qZm1iZVJFWkU3eWEyOWR1SUYzMWpsYVd6bDN1MmFBWjFMVS1JMmc?oc=5
 - [2026-11-18] [05] **2º Natal no Pace da Saúde Mental promove integração e inclusão social com corrida e caminhada para comunidade** — Prefeitura de Lages · cat≈sistema_publico · 4 pts
   https://news.google.com/rss/articles/CBMi8gFBVV95cUxPY0VIVEN1T0hDUGJTY3JSOTRhQ1Rkb0FWQ29IV1BqV1ZjTU0zTzRxekwwQUh3Y3VOZmtSeTVhZzVPSHg3RDgtb0xpMEpYWjVXbzUwWkpoTjNSVnFfWGx0dXNfaUdWbUc3VWllM0s5SDZQREZvTU5iaTNDQjY2ZzBCaHg2S0dzRUw1b3Vrc0F2ZGlQcnI0ODVqM3ZKUjhtZm1JeGFvOXZ5cFRrQW8tT1ljSnNGcko4ZFcxcEdHNnJ0b1o2RVoyTk4zbTF3Q1VESW9FWWswbjdSQUtFUVAwMDZuYlYtZmY3SUJYWS10UVlyOU5mdw?oc=5
 - [2026-11-19] [05] **Qué propone cada partido sobre sanidad y listas de espera para el 29N: asegurar la sostenibilidad, refuerzo de la atención primaria o salud mental** — Onda Cero · cat≈sistema_publico · 4 pts
@@ -89,8 +80,19 @@
   https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNHhEcEJxMXJjSXJvTktianpJOHEyNzFxZlFKVjVldnF6d0dGbV8wQ3RCRXNVMHFDZ3o1YXlDXy1FNXZMbTFBX3V3eXZkRnBuT0JGWmNXSVFCU0dGcjlSVjZ0cC1yUDZkRWJ1bFg3Q1NhLUxsaTZxQVEwVDlDUU5ILWhUNDFpV092Ql80VVJhcHZGUFVXdTRaaVk2bXVXdk9mb2hnX0gxdmxCUkE?oc=5
 - [2026-11-25] [05] **Comissão de Saúde aprova projetos sobre saúde mental, prevenção da dengue e atendimento à população idosa** — Assembleia Legislativa do Estado de Santa Catarina · cat≈regulacion · 4 pts
   https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdC1wTW5pVEtabmpGSWJIc0NaYnVkdDg0clEwOVpjVmNQSjRPV3NDbTZMS1pRbGFyZWptbnMyVm1fbEVYY1daeDZiLWp1c1E3Tm8wMzJjR3p6R0d6S3NvS3ZxVlJ4aUx3bTFmR3BZblFCc2pfTFA2Q1YzVFRDdDAzYzJKZ2JyUDZpblUtVUpmbEo5akctS1pBMXpjQjZ0SDZjQ0FfakxMMWI4SmFZNmlvaFd6Qm4xWDBMY3BSZW5VeF9Bb2VYaTM1bGVUYXhXZVpUdW9VYjlSeW1aRURjZ1FuTl8xQQ?oc=5
-- [2026-11-17] [05] **Children Recover Faster Than Adults in Migrant Mental Health Care Study** — Bioengineer.org · cat≈research · 3 pts
-  https://news.google.com/rss/articles/CBMinAFBVV95cUxOMG03NkNjdGtZUXpDemRMb3A5SWlLa3JaYkxkU2hidUJhb3lWU0hOSHRUc25xWU85S01WLWR4YTkyZU12OFpWSWxvcUFIWC1xSjFjSktwdnRzMXRFRW5idkpHcHFJeFIwTVRMaXBBNHY5YXhRVFVmT3QtQ3M0UjRyOVZJa3BQdVRBc0EyMHBFUV9wZ1BWSUhaQVFHbzA?oc=5
+- [2026-11-25] [05] **Mónica Frade habló en RDI sobre la importancia de la Ley de Ludopatía: “Es en beneficio de la salud mental de toda la población”** — Perfil (+1 medios más) · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMiggJBVV95cUxPOG1hTnZLSHk3OFpkbkNLaTFuRjVIdk9ETGdEMkowTFE5QW5XRHZqQmV4Z3ZuQ0dDQVR4UDh1M3g4U2FndlR4aDdYM0xrMTBpTUFIeXJQQTZoeDNkR1dNdEJMc2lySVluMHZNSGoyUGNNbU9FZjV0NkpiUUhudFlyMG9oTDlLY04xZVJyd1VLd2dFY3JoSHJEQTdkekZtOWhMWXVmQVB4SUVlWnpBU2d4N2RzQml3c1V5UmIwY1NyLThacjRjeDBqa3FOUUMwZHJwR2gtSjZCd1d1WW5lYkNoTEFTekRZZWsydDNTZ3g3Mzh0anNUSEEwMFpFbUZWcXVCaEE?oc=5
+- [2026-11-26] [01] **farmacia | La coordinación entre farmacia hospitalaria y comunitaria eleva hasta el 95% la adherencia terapéutica en pacientes trasplantados** — https://www.consalud.es/rss · cat≈sistema_publico · 4 pts
+  farmacia: la coordinacion entre farmacia hospitalaria y comunitaria eleva hasta el 95% la adherencia terapeutica en pacientes trasplantados
+  https://www.consalud.es/profesionales/farmacia/la-coordinacion-entre-farmacia-hospitalaria-y-comunitaria-eleva-hasta-el-95-la-adherencia-terapeutica-en-pacientes-trasplantados.html
+- [2026-11-26] [01] **201 farmacias comunitarias y 3 servicios de FH logran aumentar la adherencia de trasplantados** — DiarioMedico - Plataforma de profesionales sanitarios · cat≈sistema_publico · 4 pts
+  farmacia comunitaria lucia de mingo colaboracion la intervencion coordinada de farmacia hospitalaria y comunitaria ha conseguido mantener una elevada tasa de adherencia terapeutica de al menos el 95% en pacientes recien 
+  https://www.diariomedico.com/farmacia/comunitaria/201-farmacias-comunitarias-3-servicios-fh-logran-aumentar-adherencia-trasplantados.html
+- [2026-11-26] [03] **Câmara aprova projeto que autoriza apoio telefônico em saúde mental** — Medicina S/A (+1 medios más) · cat≈regulacion · 4 pts
+  a comissao de constituicao e justica e de cidadania (ccj) da camara dos deputados aprovou proposta que permite que o poder publico crie um servico telefonico gratuito para atendimento sigiloso de pessoas com transtornos 
+  https://medicinasa.com.br/servico-telefonico-saude-mental/
+- [2026-11-26] [05] **Comisión legislativa dictamina favorable la Ley de Salud Mental** — Congreso Nacional de Honduras · cat≈regulacion · 4 pts
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE1uU0hlaWNMRUdpeWFzSzJCRFlfRFI3bG5pTGJTVzBoNDNjc3V4T1hrWWlBelFrRTl1WVdGdUloY1UtTGNqZ0FFclZBX2RGWlZ6RjZ4REdKLTJMdW1mNkdDUjdoUkU0eWVhY3V2Mm9OY3FjRVE?oc=5
 - [2026-11-19] [01] **profesionales | Dos exalumnos de la Universidad Europea desarrollan una IA que entrena a sanitarios ante el riesgo suicida de pacientes con cáncer** — https://www.consalud.es/rss · cat≈producto · 3 pts
   profesionales: dos exalumnos de la universidad europea desarrollan una ia que entrena a sanitarios ante el riesgo suicida de pacientes con cancer
   https://www.consalud.es/profesionales/dos-exalumnos-de-la-universidad-europea-desarrollan-una-ia-que-entrena-a-sanitarios-ante-el-riesgo-suicida-de-pacientes-con-cancer.html
@@ -110,8 +112,6 @@
   https://www.infosalus.com/mujer/noticia-salud-mental-espana-recuerda-mujeres-problemas-salud-mental-son-mas-vulnerables-violencia-machista-20261125134922.html
 
 ## PRIORIDAD C — probable ruido (solo títulos)
-- [2026-11-17] Corrección en la ayuda a salud mental de Asfeme para 2026 — boletinbien.com
-- [2026-11-17] Informal Mental Health Care in Spain Required 1.85 Billion Hours Annually — Bioengineer.org
 - [2026-11-18] Sin turnos para pacientes nuevos, el hospital de salud mental de Paraná tendrá paro — www.examedia.com.ar
 - [2026-11-18] 28º CBCENF recebe 9º Encontro Latino-Americano de Enfermagem em Saúde Mental — Coren-SP
 - [2026-11-18] 4º Agita Raps de Araçatuba debate protagonismo dos usuários da saúde mental e combate às iniquidades — Prefeitura Municipal de Araçatuba
@@ -127,12 +127,8 @@
 - [2026-11-23] Emre Mor, tercer fichaje más caro del Celta, se retira por "problemas de salud mental" con 29 años — MARCA
 - [2026-11-24] La Psicología toma el mando de las candidaturas sanitarias de Podemos al 29N — Redacción Médica - Home
 - [2026-11-25] navarra | Envejecimiento, cronicidad y salud mental marcan la hoja de ruta sanitaria de Navarra hasta 2030 — https://www.consalud.es/rss
-- [2026-11-17] Salud mental en Santa Cruz: un proyecto plantea reforzar guardias y sumar especialistas — Diario Nuevo Día
-- [2026-11-17] La Asamblea de Salud Mental de Entre Ríos rechazó el proyecto del Gobierno y pidió la declaración de emergencia en el sector — horadigital.com.ar
-- [2026-11-17] Conselho Municipal de Saúde inicia Semana do Controle Social com debate sobre endividamento e saúde mental — Prefeitura de Manaus
-- [2026-11-17] Arte, teatro y cine gratis en Roca: vuelve a la Patagonia el festival de salud mental contra el encierro — Diario Río Negro
-- [2026-11-17] Ouvir e Acolher: Podcast da Seduc/GO destaca impacto do programa na saúde mental dos estudantes e profissionais da rede estadual — Goias.GOV
-- [2026-11-17] EMEB Nair de Oliveira promove diálogo sobre saúde mental com acadêmicos de Medicina - Prefeitura Municipal de Várzea Grande — Página Inicial
+- [2026-11-25] Robótica e saúde mental são temas do Futuro em Construção — Ministério da Educação — www.gov.br
+- [2026-11-26] Sanidad formaliza la concesión del local para la nueva Unidad de Salud Mental Comunitaria de Gáldar — Radio Faro del Noroeste
 - [2026-11-18] Lucía Redondo, experta en nutrición: "El estrés emocional no resuelto tiene un impacto profundo en la salud digestiva" — infosalus.com
 - [2026-11-18] Ciudadana busca que haya psicólogos de planta en escuelas de Sinaloa — Revista Espejo
 - [2026-11-18] Castellani quiere que el Estado no abandone a quienes atraviesan una crisis de salud mental — Politicadesantafe
@@ -160,7 +156,6 @@
 - [2026-11-20] Presentan proyecto de telemedicina para atender salud mental y adicciones en Tulancingo — News Hidalgo
 - [2026-11-20] Impulsan telemedicina para atender salud mental y adicciones en Tulancingo — El Sol de México
 - [2026-11-20] Agua, salud mental y educación: los retos que UNICEF pide atender para la niñez panameña — La Estrella de Panamá
-- [2026-11-21] Presentan proyecto de telemedicina para atención en salud mental y adicciones a distancia — Diario Noti7 (+1 medios más)
 - [2026-11-22] ¿Hay consecuencias desastrosas tras situaciones de catástrofes? — Redacción Médica - Home
 - [2026-11-22] Psicólogos y ChatGPT: caída de pacientes y autodiagnóstico — El Ecosistema Startup
 - [2026-11-23] Salud mental animal requiere criterios científicos y educación: abogado animalista — MiMorelia.com
@@ -169,28 +164,34 @@
 - [2026-11-24] La miastenia gravis fija un nuevo horizonte terapéutico: "Estar estable no significa estar bien" — Redacción Médica - Home
 - [2026-11-24] La salud mental lidera las preocupaciones sanitarias globales y redefine las expectativas sobre el bienestar — Mi Punto de Vista
 - [2026-11-24] High consumption of reels on the internet linked to worse mental health in youth — Plataforma Media
+- [2026-11-24] Presentan proyecto de telemedicina para atención en salud mental y adicciones a distancia — Tulancingo (+1 medios más)
 - [2026-11-24] Seas e ESP/CE promovem curso em saúde mental para profissionais do sistema socioeducativo — Governo do Estado do Ceará
 - [2026-11-24] Nova regra amplia atenção à saúde mental no ambiente de trabalho — G1
 - [2026-11-25] <a href="https://www.fiercehealthcare.com/providers/how-messaging-could-be-next-source-clinician-burnout" hreflang="en">How messaging could be the next source of clinician burnout</a> — Fierce Healthcare
 - [2026-11-25] Coordinación de enfermería en Salud Mental del Nordeste de Jaén — boletinbien.com
 - [2026-11-25] Proponen declarar la emergencia en salud mental por dos años en Santa Cruz — Señal Calafate
 - [2026-11-25] Escolas de Poconé recebem projeto sobre saúde mental — Assembleia Legislativa do Estado de Mato Grosso
-- [2026-11-17] andalucía | Un centenar de psiquiatras consiguen una plaza fija en los concursos de oposición de 2022, 2023 y 2024 en Andalucía — https://www.consalud.es/rss
-- [2026-11-17] Cuidado com a saúde mental dos policiais é tema do 1º Seminário do Departamento de Saúde da Polícia Civil — Polícia Civil RS
+- [2026-11-26] Seis de cada diez personas bipolares que son juzgadas no estaban en tratamiento — DiarioMedico - Plataforma de profesionales sanitarios
+- [2026-11-26] Vivienda y salud mental: el coste dispara las alertas en Canarias — Canarias en Pleno
+- [2026-11-26] Mariana Savid: “No hay negocio que valga más que la salud mental” — Tiempo Sur
+- [2026-11-26] Tulancingo presenta proyecto de telemedicina para atención a distancia en salud mental y adicciones — saluddigital.com
+- [2026-11-26] Barra Mansa promove fórum intersetorial para fortalecer a rede de atenção à saúde mental e discutir políticas sobre álcool e outras drogas | Notícias — Prefeitura de Barra Mansa
+- [2026-11-26] São Lourenço do Sul envia equipe de Saúde Mental e Defesa Civil para auxiliar a população de... — São Lourenço do Sul
+- [2026-11-26] Novembro Azul: CAPS I Regionalizado de Brasilândia promove ação de saúde mental e autocuidado... - Prefeitura Municipal de Brasilândia — MS
 - [2026-11-20] De la soledad al relevo generacional: los retos de los jefes de Anestesia para una gestión adecuada de sus equipos — Redacción Médica - Home
 - [2026-11-22] Ocho semanas entrenando la compasión para afrontar el impacto emocional del cáncer — DiarioMedico - Plataforma de profesionales sanitarios
 - [2026-11-23] Orihuela acogerá el 27 de noviembre una jornada sobre la salud mental en la infancia y la adolescencia — Ayuntamiento de Orihuela
 - [2026-11-23] Caps Ilha celebra 30 anos com programação especial e seminário sobre saúde mental — Prefeitura de Vitória
-- [2026-11-17] Com apoio do CFP, I Seminário Nacional de Saúde da População Negra e Ancestralidade promove diálogo entre Psicologia e saberes tradicionais — Conselho Federal de Psicologia
+- [2026-11-26] Jornada Acadêmica de Residência Multiprofissional em Saúde Mental do Adulto celebra dez anos — Agência Brasília
 - [2026-11-20] Do recebimento da denúncia ao recurso: Encontro Nacional reúne Comissões de Ética para alinhamento de processos disciplinares na Psicologia — Conselho Federal de Psicologia
 
 ## Estado de los feeds (hoy)
 - 01 ESPAÑA · Redacción Médica - Home · leídos 30 · nuevos 0 · ok
 - 01 ESPAÑA · https://www.consalud.es/rss · leídos 20 · nuevos 1 · ok
 - 01 ESPAÑA · Gaceta Médica · leídos 10 · nuevos 0 · ok
-- 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 2 · ok
+- 01 ESPAÑA · infosalus.com · leídos 10 · nuevos 1 · ok
 - 01 ESPAÑA · El Referente · leídos 10 · nuevos 0 · ok
-- 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 0 · ok
+- 01 ESPAÑA · DiarioMedico - Plataforma de profesionales sanitarios · leídos 10 · nuevos 2 · ok
 - 01 ESPAÑA · Agencia Española de Medicamentos y Productos Sanitarios · leídos 30 · nuevos 0 · ok
 - 02 LATAM · https://www.contxto.com/en/feed/ · leídos 100 · nuevos 0 · ok
 - 02 LATAM · LatamList · leídos 10 · nuevos 0 · ok
@@ -205,14 +206,14 @@
 - 03 BRASIL · Brazil Journal - Latest news · leídos 15 · nuevos 0 · ok
 - 03 BRASIL · Conselho Federal de Psicologia · leídos 10 · nuevos 0 · ok
 - 03 BRASIL · Portal Médico · leídos 1 · nuevos 0 · ok
-- 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · ES deals · leídos 43 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 6 · ok
+- 04 GLOBAL  · Fierce Healthcare · leídos 25 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES deals · leídos 100 · nuevos 3 · ok
+- 05 GOOGLE  · Google News · ES regulación · leídos 100 · nuevos 5 · ok
 - 05 GOOGLE  · Google News · MX / LATAM · leídos 100 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · BR deals · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 10 · ok
-- 05 GOOGLE  · Google News · PT Portugal · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 32 · nuevos 1 · ok
-- 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 56 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 100 · nuevos 0 · ok
-- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 27 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · BR deals · leídos 43 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · BR regulación · leídos 100 · nuevos 6 · ok
+- 05 GOOGLE  · Google News · PT Portugal · leídos 47 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES deals (edición US, hl=en) · leídos 33 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · ES regulación (edición US, hl=en) · leídos 54 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · EN sobre nuestros mercados · leídos 34 · nuevos 0 · ok
+- 05 GOOGLE  · Google News · BR ANVISA (sustituye al feed de gov.br, q · leídos 78 · nuevos 1 · ok
