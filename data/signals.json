@@ -1,5 +1,119 @@
 [
  {
+  "id": "001ddaa919ca",
+  "fecha": "2026-11-27",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Agencia Española de Medicamentos y Productos Sanitarios",
+  "medio": "Agencia Española de Medicamentos y Productos Sanitarios",
+  "titulo": "La AEMPS publica el Informe Anual del CODI-VET sobre Vacíos Terapéuticos",
+  "resumen": "generar pdf fecha de publicacion: 27 de noviembre de 2026 categoria: medicamentos veterinarios, codi vet referencia: mvet (codi vet), 02/2026 el objetivo del documento es identificar los principales vacios terapeuticos en las distintas especies animales para orientar a la industria en sus investigaciones y desarrollo de medicamentos veterinarios el informe identifica necesidades profilacticas, ter",
+  "url": "https://www.aemps.gob.es/informa/la-aemps-publica-el-informe-anual-del-codi-vet-sobre-vacios-terapeuticos-3/",
+  "clave": "aemps anual codi informe publica terapeuticos vacios",
+  "capturado": "2026-11-27",
+  "puntos": 9,
+  "prioridad": "A",
+  "categoria_auto": "research",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "94eac413e656",
+  "fecha": "2026-11-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "El Sol de México",
+  "titulo": "Jóvenes proponen reformas en salud mental, discapacidad y empleo durante Parlamento 2026",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON0xHS2R6bEczN2NHd1NWbElDdU8ydVBqc1VzTzNZcVU4WllzeUJhUExpVjlvc0lJclg1NmFvWHBkc2FvQWYyV005amZKb2M4RzNURTEyOGQwM1lFajM5dDdBVDZNOGR2QWJjQmZWNHk4MTVpYU1sNXpwWk1iUkJrUUxVOGQ5RVdMQ2lVOEdFWjVQSG1IR3laMWd0SXJLWVp6V2lTcW14d0lnUGloWl8wQi1xVnhrajRZYWs1OGFQeU95SkpYV3dzYW1BREF5ZlZUbUE?oc=5",
+  "clave": "2026 discapacidad durante empleo jovenes parlamento proponen reformas",
+  "capturado": "2026-11-27",
+  "puntos": 6,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "4d455df651d2",
+  "fecha": "2026-11-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "boletinbien.com",
+  "titulo": "La Generalitat destina 30.000 € a salud mental en la UMH",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcW1DS1l4djV0Y0xfTl9qYWtBa3JHbUxfT3BaUXlLaDBnUU90ZDVKbWt5NUFNT2M0MTlqaWFIQ3RWWUdPdHVkc05xbHBGNXhqOFRGcmk0ZFJQTXpVNWstNjRWSF9BMWEyRWxjdUJlRVhNa0l6MDczNlU4SXg5UTl5cGp2TUEwMlFtVWphWFdpZGZmd0llQ19ta0djQ2l2dTdRNm5XQ3hJYnAxM1pFTjhpR0ZvUkZYUlItVlpycF9KLWs?oc=5",
+  "clave": "destina generalitat",
+  "capturado": "2026-11-27",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "a9b460af76cb",
+  "fecha": "2026-11-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "O Xadrez da Política",
+  "titulo": "Casa de Leis sedia lançamento de livro que aborda saúde mental e cuidado humanizado",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSUdVNXp3aS1FU0JiaHNBbVBuaVRMSnNGcXdDNzRHcmZpd2tUNmVyT0NFR3JmWTQwaVVLNktNQk1tUE5PcGpKWUdBdGhnaUcyaHU4VEFTWHFiZGJfVEZFcGJLenJfUXVlc0pMSWRsMGFJTTBXSTZqa05uRkEyb2tVXzZhWW0wN2RwLTYyN0xmU2VzbXpvY2ZrU2xxZlNlbGY0QlI4UVo2ODRMZjlNaVA4OFMyaGpMZVQx?oc=5",
+  "clave": "aborda casa cuidado humanizado lancamento leis livro sedia",
+  "capturado": "2026-11-27",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "producto",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "9f15a1a97459",
+  "fecha": "2026-11-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "boletinbien.com",
+  "titulo": "La Politécnica de València desarrollará avatares para salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTJoejI5eURHT2sxWkp2dkVycTVTbFBZMU5HRXFKU0lPSGtheGs4TC1scktpd3pnQlV2bnpUWEJycVNDOEJId0lWSUpRWnR3bDRrcXRKWU5ZOVI5dFlKaG5BU1I1Rmc3SktLM2xRX08wRDVyV0hjMXlsV2ZMa1JJYXc2UUdwc2x1dklRWm9NMWpLNWxtOUEzTlVXVFVJemNOMjBNOGtqVjRRMjNDXy0tV1VGT3owR0hRRW1tWHRMSnBkV3RXSjQ3WDZHbzZlR2oyWFgxREFsdnlBVTg?oc=5",
+  "clave": "avatares desarrollara ncia politecnica",
+  "capturado": "2026-11-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6ff9c2d05fe0",
+  "fecha": "2026-11-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "AIM Digital",
+  "titulo": "Convocan a un festival para exigir la emergencia en salud mental en Entre Ríos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVpaWWV1WFAxUHV0VHpscFN2SERIcmN0ZDd3MXZKM3FkeXdnTl95cTV6TjZ3MGZOVjA4MzVXNDNXYXBqblpCMGZ0ZkFhRFVyckQ4N0hicndIQnJ6NEs2aWRPN0NJYTZfNHU3NHR5ZnhudWxmbXhTWmNyVGJvMnZ2RFR2OVVVVE85eE9QV2pUQTJNWkhUWGlYMS1wbGZkZ3ZfSW5tMjFFTDlYcHBXNEprc2p6N1dFTy1haVlVUzU5SDRJUQ?oc=5",
+  "clave": "convocan emergencia exigir festival rios",
+  "capturado": "2026-11-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "0ec74208b19f",
   "fecha": "2026-11-26",
   "carpeta": "01 ESPAÑA",
@@ -129,6 +243,44 @@
   "categoria_auto": "sistema_publico",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "c8841f91aff4",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Canarias7",
+  "titulo": "Sanidad concede el local para la nueva Unidad de Salud Mental Comunitaria de Gáldar",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkhJMDVweTZWNVlTSDRHeWRjel9ZVE9MM1ItME9xZ2RhZGJsblVDNnA1ZGZmYkpiOTQtLTB4N0kwOVFZTVZwdjhuaEt2aXdkalhwa2NVN2N4dHpZOC01ZFY4dGNrcVhTNWtIa2pEbktzVlJRbTlpUkUxV2htNy1Yc0R4Zjh1NnZwWFdtZkZoeGxPeXZnMzBNUHhCeElJVVlrMUd1UFd4MmllOVVXbDdTLXRhR1lBd2c50gG-AUFVX3lxTE5mYXFheGxiZDhMRlp5aGppT2lFYm1yX2YwUm5hWnlvaWFYWTkxLTdyZ2dvTVNyeFJza1dzU0FaRnRTQ21COU02eG5LaDV2UzVVOXJXcXpTOTZTaTdJYkQ3WF9HUWRBaWpLd2lPRVlwUUxocTRneWYwcVJ6cGFUX3F3eU5IRVRFMVpDRzNlV1FyV0h0RElacjhUTWsydmFsMHNuNFNrNGV1TzNoY3ZtZXY3Y3lDcnppZldNWjNwcHc?oc=5",
+  "clave": "comunitaria concede galdar local nueva sanidad unidad",
+  "capturado": "2026-11-27",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "f0b73f32f7e1",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Governo Federal",
+  "titulo": "Saúde Indígena: Governo Federal atualiza política nacional após 24 anos e cria ação inédita para saúde mental nos territórios",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUDhCVmQ0LXFoanVIaGhld3IwSWxTWTFxc0NmYkRjOG1yZUdYUFBRMWIyYjVub0dIVTNYb0p4OWMtZF9EX0NWTE9VXzdUMzVXYXJVQWpvRV85MG5KUlhwRFR3UHB1cEg0cGJMUUtweGRKNm1CaEVyRG9rN05ZQVFxU1haZWpVVHFTWVg4SC1hX096WDhacHhUelNsYWdZU1dZcElPeHJ1M3pTR2hBRy1vQTJUYnYwRWpON3BRbk83OW1jUWJZWGN3U0tMbldubWJOR3drRkVrNThTdE9kRW5xeDFSUE9ONTdsaDJIb0FucXdSeG9aLW1pZzVSRGhzNnRrZ0VzQjBZVXk0QQ?oc=5",
+  "clave": "acao anos apos atualiza cria federal governo indigena",
+  "capturado": "2026-11-27",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -271,6 +423,46 @@
   "ruido": []
  },
  {
+  "id": "5a3828ac8231",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "R2820",
+  "titulo": "Desde Gualeguaychú respaldan el Festival por la Salud Mental en Paraná",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXZDaU9IeHVhWE5VRTFqR2dzVEpMUmUzX3dHc0xqRGNRZEoxc0VxbnNfNGlwdGt3UXNsWWZIUnQ1bzRKZGs4dlBvZlRXbzNVc0pBN19LLU1SUGw5OTBvRmNVU1hycUE2ZWlKWFp6SE9WdkJHamtiN0V2SkxGZUZNZS1yU042a1g5QVBGOUI3amRFc0t6TmFhU1RYMHBJTXVyZUV0WmNCVWhpTHBYUVBVeDYwbmJoTzg1dGtn0gHAAUFVX3lxTE9aeXNjT19tM1hVOEZQRW5nQ3h5b3I4QmxiWTllUEhLV2FuYjJrUXI1WjhQLTl0b2ROY2FNelFGbkJDbTQ1VFlyMnZQVW5KTFU3ajh1MkRXZ2lrT3huMlBmbVl6SHZTQUtzV0hKUkpoUUtBMVgtcUVidlpJZGpTMGZKam5RdXA4c01lMktDc0x6YXFWUnVLU3A1cVdoSGNpOWM5aHI4NGRKN3hJZWZReUVzc3kya3g3YVJQZW5FZ2c0ZA?oc=5",
+  "clave": "festival gualeguaychu parana respaldan",
+  "capturado": "2026-11-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "bb5df6f5bb17",
+  "fecha": "2026-11-26",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "13º Seminário Nacional celebra os 20 anos do CREPOP e o compromisso da Psicologia com a transformação das políticas públicas",
+  "resumen": "os 20 anos do centro de referencia tecnica em psicologia e politicas publicas (crepop) foram tema do 13º seminario nacional de psicologia e politicas publicas, realizado pelo conselho federal de psicologia (cfp), nos dias 16 e 17 de novembro. com … o post 13º seminario nacional celebra os 20 anos do crepop e o compromisso da psicologia com a transformacao das politicas publicas apareceu primeiro e",
+  "url": "https://site.cfp.org.br/13o-seminario-nacional-celebra-os-20-anos-do-crepop-e-o-compromisso-da-psicologia-com-a-transformacao-das-politicas-publicas/",
+  "clave": "anos celebra compromisso crepop nacional politicas psicologia publicas",
+  "capturado": "2026-11-27",
+  "puntos": -1,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": [
+   "seminario"
+  ]
+ },
+ {
   "id": "6d600796cb7e",
   "fecha": "2026-11-26",
   "carpeta": "05 GOOGLE NEWS",
@@ -286,6 +478,27 @@
   "categoria_auto": "otro",
   "topic": [
    "saude mental"
+  ],
+  "ruido": [
+   "jornada"
+  ]
+ },
+ {
+  "id": "6b55ac0af232",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "La Tribuna de Talavera",
+  "titulo": "La jornada de Atafes analiza la importancia de combatir el estigma de la salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ0hIYkdEZDZ5Sk5taVh5QTUwWUE3T3UtdkUyRG00VTNhSVdTT3NHc0J1NnRWZVRSTWtmeDdkLTBuYTFXNkhMVGlwQnJMMXd6NS10VHhpMGd6VnNCNmY3eXpXcnk2SDdHd21VS0NER0s5dFlELVpwLWEtV3RIUk5HOHdHcEdnZW9hVzdOZjRUWkg2SmlZenBYeG8zd1B0SFA4SVA0WGZxeWpQME9INlF1VG5ORnU1ZmhnR1praHp6SndpY1FjZllOMjVZeExaWUZicHpOX2xMWS04YzQ?oc=5",
+  "clave": "analiza atafes combatir estigma importancia jornada",
+  "capturado": "2026-11-27",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
   ],
   "ruido": [
    "jornada"
@@ -442,6 +655,44 @@
   "topic": [
    "salud mental",
    "ludopat"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3bc2f87f60f2",
+  "fecha": "2026-11-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "B15 Digital",
+  "titulo": "Próxima a presentarse iniciativa de Ley de Salud Mental en Zacatecas",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRENQamMwR2FRbWY4cE9LeWgwRVNpa1EzRUt5NENJZ1VrMUNNaEdURFV5Nl9NYm83MzdxRXlSLXhYZUI0S1BlWHM2aGZ6UlVTUHdleS0tdXBIWHQyNExmM3pzVkpiLTZHOFJpanV1Y2FMQjFlU0ZfdEJXRVhKSHVPU2E4TlhpVjZGYkhjLURocVhPRE5hUWJzdFRlWnUzYzJMdkppbGNZUHRFaUU?oc=5",
+  "clave": "iniciativa presentarse proxima zacatecas",
+  "capturado": "2026-11-27",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8c3566ad3b9b",
+  "fecha": "2026-11-25",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "www.gov.br",
+  "titulo": "V Congresso Científico do Huol-UFRN debate inovação, saúde mental e segurança do paciente",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOQXFhYVhDcm4wYlNiYVVCd25CbTBWdmhuRldYb1VoNzhXSzBMSG9HTHlCUXV6NTRvNnNNOUZZcFdGNklOMkRKbW9hajRyOGw2ZDlEY1BVN1kwQ01EendaQWZsN0EzQ2M1bmxDSjc2WmV4OXRNTGtINkl4V2hCZk41OWc3Q1BmYjJoTnJSLUJkdHlPTTI1OFN1VTNSbnQyX0txdkppX3BCdkJVQ3VxbURKYXg0Mm11VGZNeGRvcGxrS1BheHZDemEzdllFSm5rYkgwdGNYWFJMaTEyejczTFJPWXl6RVl5dzV4ZGd2M0RmN0gxYmFRZFNTbzE4UDN3OHNxRUFYQndNYUlxMkg4X3RQQkV5X2ZPMGI1Nm1rTjBTdw?oc=5",
+  "clave": "cientifico congresso debate huol inovacao paciente seguranca ufrn",
+  "capturado": "2026-11-27",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "saude mental"
   ],
   "ruido": []
  },
@@ -26167,6 +26418,27 @@
   ]
  },
  {
+  "id": "227b37b8a0e4",
+  "fecha": "2026-10-01",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "Prefeitura Municipal de Barra dos Coqueiros",
+  "titulo": "Grupo Mulheres Mais participa de roda de conversa sobre saúde mental na aposentadoria",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSVNsZUhrQU9LYV9GYU9sWnE5cVAyTTNXWHdrUld1b0ZXMkMyUVNMWGVTNkxiMGU1cmxZOWR5OURjaVhfVzFVbzRzTnA0bHVFb3FwRkNKN19YcW0xd1lvdDNUUlZzMlFXaWtpWmpLVnFuekRTbFJVbTBrb3VoVFRZR252SDVibEZib0QwRjFDZmw5M1dRckhmMVIzT1VyUzNFUS00TUFPaDQ0ZF9faHB5aHlLdFZMSUt0d3pDRWl5ejgyS2JaYzQ1ZnJ1YXl6WFN2bXlQRHpB?oc=5",
+  "clave": "aposentadoria conversa grupo mais mulheres participa roda",
+  "capturado": "2026-11-27",
+  "puntos": -3,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": [
+   "roda de conversa"
+  ]
+ },
+ {
   "id": "ca9f317aa803",
   "fecha": "2026-09-30",
   "carpeta": "05 GOOGLE NEWS",
@@ -31453,6 +31725,25 @@
   "ruido": []
  },
  {
+  "id": "f93bc5d6cd50",
+  "fecha": "2026-09-18",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR regulación",
+  "medio": "BA",
+  "titulo": "Saúde Mental no Território leva cuidado, cidadania e serviços de saúde ao Residencial Juazeiro II - Prefeitura Municipal de Juazeiro",
+  "resumen": "saude mental no territorio leva cuidado, cidadania e servicos de saude ao residencial juazeiro ii prefeitura municipal de juazeiro - ba",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTU9VY0ttV1g1MHFPQTJZeG5ZNTFzcXRHVjNhOV9WTkVqQlFRU3ZhaktRdlBQVTdTaU9VTVhCQkNpZXZrU2hGY0xxYkZoVlpSVjZaeDNRbXoxU0pVa1F3WWZDbmQxTWFUT1NTR01WVmNqWnpCNHlwUFJGYXpkOVlNR1Zad1dRSG1zbExZN2xfTHFMNWVMa2hydFhfak9GUFpZNlZLUVJUMU1Ia2tGT3ZyS25kODdjZkkzREczVWR6OHBRMGl1c1FR?oc=5",
+  "clave": "cidadania cuidado juazeiro leva residencial servicos territorio",
+  "capturado": "2026-11-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "saude mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "7f1c9b481513",
   "fecha": "2026-09-17",
   "carpeta": "04 GLOBAL (solo con ángulo local)",
@@ -33678,6 +33969,25 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "24b5b4b714c7",
+  "fecha": "2026-09-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · EN sobre nuestros mercados",
+  "medio": "Grants and Resources for Sustainability",
+  "titulo": "Call for Mental Health, Psychosocial Support and Child-Friendly Spaces Initiative (Mexico) - fundsforNGOs",
+  "resumen": "call for mental health, psychosocial support and child-friendly spaces initiative (mexico) fundsforngos - grants and resources for sustainability",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNzJMa05fcmZhLVlfRTZxMV9DRkJUdTRmWll1YzJTTHljN3FpZzdRd1c4QXdSb2VWOWRGQmQtaVkyT292UlpFcXpuU245QjFYN2k3WmxyMlBTNWhsdmJPc3JCYlFCTW9aekd5YjBQbl9nZlBJSzdOWi1IZ2RDbThFajB2Y0JBcVVpTTZuc05NY0ZTbzhhRTgzdHVuNzMwSGsxLTNrbGt0dkhRZlk4T0xWRGZaanYtTTlYQXZ1UEhfWDNKQlZwVTNYN3I2SkZEZ3MxcUd6eXlKTkVfcjQ00gHiAUFVX3lxTE1lbzJCdGVvYVpwNDVMdTlpTEJPcVB3NWhIcEdoV0xmSkFGYVd3WWw5WTFvYVNpSm5zenVab1h6M0hQb19nSHBTcmhfZGJOdnREQUZDd3pCeVBsVjZQLUtmdWgzZjFaN0JWUnlsOGpqc2xIc21odmxiNlZESW9JcVJMZlQ1MUUxYUE5UHp1RHJtV1ZWRXVtbkpITzF4TzBjMGszZWZyRHh5MXpIRDRDdkVLVDNyRjRuX2d4RklGcXU3UFQ1aHNIc2liemZMOF9GTDk0LTBTWmVkTlY2QkszOUNTRGc?oc=5",
+  "clave": "call child friendly initiative mexico psychosocial spaces support",
+  "capturado": "2026-11-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "mental health"
   ],
   "ruido": []
  },
@@ -38829,147 +39139,6 @@
   ],
   "ruido": [
    "roda de conversa"
-  ]
- },
- {
-  "id": "995b64c1d518",
-  "fecha": "2026-08-28",
-  "carpeta": "03 BRASIL",
-  "feed": "Conselho Federal de Psicologia",
-  "medio": "Conselho Federal de Psicologia",
-  "titulo": "Conselho Federal de Psicologia e DPU firmam acordo para promover a saúde mental no Sistema Penitenciário Federal",
-  "resumen": "o conselho federal de psicologia e a defensoria publica da uniao firmaram acordo de cooperacao tecnica para desenvolver acoes voltadas a promocao e a protecao da saude mental no sistema penitenciario federal. a parceria tera vigencia de 24 meses e … o post conselho federal de psicologia e dpu firmam acordo para promover a saude mental no sistema penitenciario federal apareceu primeiro em conselho ",
-  "url": "https://site.cfp.org.br/conselho-federal-de-psicologia-e-dpu-firmam-acordo-para-promover-a-saude-mental-no-sistema-penitenciario-federal-2/",
-  "clave": "acordo conselho federal firmam penitenciario promover psicologia sistema",
-  "capturado": "2026-09-04",
-  "puntos": 3,
-  "prioridad": "B",
-  "categoria_auto": "partnership",
-  "topic": [
-   "saude mental",
-   "psicolog"
-  ],
-  "ruido": []
- },
- {
-  "id": "f71ac511d1b4",
-  "fecha": "2026-08-28",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "SAPO",
-  "titulo": "Sword Health prepara aquisição da Headspace por até 257 M€",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZVI1VlltZjh2QkJ3UXZmM0hwSGNobmZJQ2Z3MG9NZHJReU1VRnBGaU9Va3VKVUhZVnlwWHRoV1RTbUNvQjlKd2VvS0doZ1NydU1lRlQ3akJLZ3VxRmxMZ1pOc0NnMDVlLVpPOU1DTWJHeldNU2cxaUZOTm5YZmxSYnp1aU9HMzRJWERBS1VSU2E?oc=5",
-  "clave": "aquisicao headspace prepara sword",
-  "capturado": "2026-09-04",
-  "puntos": 2,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "headspace"
-  ],
-  "ruido": []
- },
- {
-  "id": "3b3365b991c1",
-  "fecha": "2026-08-28",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Conselho Federal de Psicologia",
-  "titulo": "Conselho Federal de Psicologia e DPU firmam acordo para promover a saúde mental no Sistema Penitenciário Federal",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR0FEcGE0TWRVR0xQbkdjdERGZ0ZkR2xoZnNrY21ZZG5DVXVNQWFtMC1kWThpZlVzbnd3UGtFOU1jclpPQ0xydEVpOUhVU1FTamNUR0tDaU1IaDl5bklHMjNxRWhRVmdUdmxvV21CRlpkUWdCclhJRTFpdjhpTlFHWmJpc1RrUmFSY0lYTlhZakNwYVZlODVEUkhVR2hSQUVPcnMxM0V4N1RuUDFzNTRPaEVVTGdyM05sdVFJdG1XSE1lSXhsSjV6LWxJc1JaMWs3ZFZsQkR3?oc=5",
-  "clave": "acordo conselho federal firmam penitenciario promover psicologia sistema",
-  "capturado": "2026-09-04",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental",
-   "psicolog"
-  ],
-  "ruido": []
- },
- {
-  "id": "47c8e292209b",
-  "fecha": "2026-08-28",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR deals",
-  "medio": "bra1.com.br",
-  "titulo": "Selena Gomez quer arquivar processo que a acusa de fraude em startup de saúde mental",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTkFISWVnbmZfRm1vdGJ1Y0otb0ROVGllb3VjYjJsV1BpTVFRR2xBU010Y1ZOSzFsSTBoZ0tHMW9TTzNxZzdDaE91OFFVTjdBbDJOeXJZLTMzR2dlSjAzUU5FVkFVMlM4cDJMbUZoZWRGd2xnek94RGRWbU9EcUl2bE9VUWdMRlMwR09tdDhEUkdqNGVJSWRoQ0FqNHd1NFV5VGFTeWpidHRiY3lHSDNBTjdMT01JZmNOZWduWGdkaDMydw?oc=5",
-  "clave": "acusa arquivar fraude gomez processo quer selena startup",
-  "capturado": "2026-09-06",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "producto",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": [
-   "selena gomez"
-  ]
- },
- {
-  "id": "df1d956b373d",
-  "fecha": "2026-08-28",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Prefeitura de Maricá",
-  "titulo": "Maricá promove fórum de saúde mental com foco no cuidado humanizado e na inclusão",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3ZJUWdtUkFhdi1BLXNpakg5WDdTVExpVHJSd3B1MmxOQndsdGg2T0VqRW5NZGNORW12N1BuVFlRMGRDTlhaVjZXRHpqMDhwMmpoMDRkUG9PUnZXejN4alNZVzBxZDJXRWFRNldvNy15N2EtZVJLMV9ueXd6N0FFRUNHaUp5QmtpaFVPWEIyX280bUxTOUZ4Z3VDYXd4a05HRzZia3VVTG5WUjIwSExRZDNiaGJ0OTZORDlZ?oc=5",
-  "clave": "cuidado foco forum humanizado inclusao marica promove",
-  "capturado": "2026-10-28",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "3b4709b2029b",
-  "fecha": "2026-08-28",
-  "carpeta": "05 GOOGLE NEWS",
-  "feed": "Google News · BR regulación",
-  "medio": "Cofen",
-  "titulo": "Cofen inicia as atividades da Central de Atendimento e Suporte à Saúde Mental para profissionais e estudantes",
-  "resumen": "",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVpFSlktWWFROFRlTTV4eDZaU245bU5rYmVFZ0dFaHNWd0lSNkszdUt2bFBHOFpPNnFSYTgzcHctMzNzdF9qVzlvY2xocERqTXJBNk5ZLU81OThzc0ZKbXlHWDRZSGx3U3pTY3ljckwteF9aTjJaZjljMW1GdU9SaU56ajY1UUtzWEE0c0pIVGYxTTh5Uzc4d3JxWm84LUFtelk1R1N0ZUdJa3NkSmJLYmtoSEZtQmFyR2hBYlkzdUZseFBNYW9aQVg5ZWgzdTNh?oc=5",
-  "clave": "atendimento atividades central cofen estudantes inicia profissionais suporte",
-  "capturado": "2026-11-20",
-  "puntos": 0,
-  "prioridad": "C",
-  "categoria_auto": "otro",
-  "topic": [
-   "saude mental"
-  ],
-  "ruido": []
- },
- {
-  "id": "b70f1854ffb1",
-  "fecha": "2026-08-28",
-  "carpeta": "03 BRASIL",
-  "feed": "Conselho Federal de Psicologia",
-  "medio": "Conselho Federal de Psicologia",
-  "titulo": "4ª Mostra SUAS: CFP realiza diálogo para mobilizar participação da categoria na etapa Sul",
-  "resumen": "o conselho federal de psicologia (cfp) realiza na proxima segunda-feira (31), a partir das 18h30, o ultimo webinario preparatorio para a 4ª mostra de praticas em psicologia no sistema unico de assistencia social (suas). direcionada a psicologas e psicologos interessadas/os … o post 4ª mostra suas: cfp realiza dialogo para mobilizar participacao da categoria na etapa sul apareceu primeiro em consel",
-  "url": "https://site.cfp.org.br/4a-mostra-suas-cfp-realiza-dialogo-para-mobilizar-participacao-da-categoria-na-etapa-sul/",
-  "clave": "categoria dialogo etapa mobilizar mostra participacao realiza suas",
-  "capturado": "2026-09-04",
-  "puntos": -3,
-  "prioridad": "C",
-  "categoria_auto": "regulacion",
-  "topic": [
-   "psicolog"
-  ],
-  "ruido": [
-   "webinar",
-   "webinario",
-   "mostra"
   ]
  }
 ]
