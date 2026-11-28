@@ -1,5 +1,101 @@
 [
  {
+  "id": "0e48e473e9a2",
+  "fecha": "2026-11-28",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "¿Qué relación tiene la comida basura con la salud mental y el rendimiento escolar de los niños? Alertan de sus efectos",
+  "resumen": "un nuevo estudio dirigido por la universidad de flinders (australia) ha revelado como las malas elecciones alimentarias durante la infancia y la adolescencia pueden contribuir a problemas de salud mental y cognitivos, y potencialmente a otras enfermedades.",
+  "url": "https://www.infosalus.com/nutricion/noticia-relacion-tiene-comida-basura-salud-mental-rendimiento-escolar-ninos-alertan-efectos-20261128082950.html",
+  "clave": "alertan basura comida efectos escolar ninos relacion rendimiento",
+  "capturado": "2026-11-28",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "6de7bca11f22",
+  "fecha": "2026-11-28",
+  "carpeta": "01 ESPAÑA",
+  "feed": "infosalus.com",
+  "medio": "infosalus.com",
+  "titulo": "¿Solo una manía? Morderse las uñas o arrancarse el pelo, causa (y señal) de un malestar que pasa desapercibido",
+  "resumen": "un nuevo estudio ha revelado que comportamientos repetitivos centrados en el cuerpo como arrancarse el pelo, pellizcarse y morderse las unas pueden ser una fuente importante de angustia, especialmente entre los jovenes que tambien han experimentado ansiedad, depresion y acoso escolar.",
+  "url": "https://www.infosalus.com/salud-investigacion/noticia-solo-mania-morderse-arrancarse-pelo-causa-senal-malestar-pasa-desapercibido-20261128081456.html",
+  "clave": "arrancarse causa desapercibido malestar mania morderse pasa pelo",
+  "capturado": "2026-11-28",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "ansiedad",
+   "depres"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b8ef4bb45fd3",
+  "fecha": "2026-11-28",
+  "carpeta": "01 ESPAÑA",
+  "feed": "Redacción Médica - Home",
+  "medio": "Redacción Médica - Home",
+  "titulo": "Frente común de los médicos europeos ante la crisis de personal: \"El deseo de seguir la carrera está disminuyendo\"",
+  "resumen": "las organizaciones medicas comunitarias advierten que la contratacion de mas efectivos no basta si no va acompanada de mejoras en las condiciones laborales y ademas : sobrecarga laboral y problemas de salud mental: el circulo vicioso que agrava la crisis de plantillas medicas y enfermeras en europa",
+  "url": "https://www.redaccionmedica.com/profesionales/medicina/20261128/frente-comun-de-los-medicos-europeos-ante-la-crisis-personal-el-deseo-seguir-carrera-esta-disminuyendo/367140_0.html",
+  "clave": "ante carrera comun crisis deseo disminuyendo esta europeos",
+  "capturado": "2026-11-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "694fe75b776a",
+  "fecha": "2026-11-28",
+  "carpeta": "01 ESPAÑA",
+  "feed": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "medio": "DiarioMedico - Plataforma de profesionales sanitarios",
+  "titulo": "Ingeniería tisular: La piel artificial, un medicamento más con su propio prospecto",
+  "resumen": "hematologia y hemoterapia saradomingo diana la medicina regenerativa constituye una novedosa disciplina biomedica centrada en la busqueda de estrategias terapeuticas que permitan reparar, regenerar o sustituir tejidos y organos danados, con el objetivo de restaurar su integridad estructural y recuperar su funcionalidad, teniendo en cuenta que regenerar es un paso mas alla de reparar, porque lo que",
+  "url": "https://www.diariomedico.com/medicina/hematologia/ingenieria-tisular-piel-artificial-medicamento-mas-propio-prospecto.html",
+  "clave": "artificial ingenieria medicamento piel propio prospecto tisular",
+  "capturado": "2026-11-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "terapeut"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "81e9058ae149",
+  "fecha": "2026-11-28",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "https://www.elmonitoredomex.com/",
+  "titulo": "México y Dinamarca acuerdan cooperación en salud mental, atención materna y medicamentos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXRqUXQ5Y29KWmRnYnVRSEN3YUFrSFdmeUdKUmYyXzUtUy1fWDRjVkVqelYtemVLc290QUp6TC1nQkV4TDBKaVpndmJCY1pVd1Y4ZWV4blp6RThNWUd3TndTQzZySGs3TTBDUVhWOFBYbmo5RzJOZzFWZm9iaTgxVm8wV2FPeG1Pd0UwS2poQjg5VDNYVF9OZ1ZJSFE3d1NnaEIzVm10TkhMQXlhVnE5VWl6cFdTVXUyS0xKZmFnb092QmFXWjhJdzAtUQ?oc=5",
+  "clave": "acuerdan atencion cooperacion dinamarca materna medicamentos mexico",
+  "capturado": "2026-11-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
   "id": "001ddaa919ca",
   "fecha": "2026-11-27",
   "carpeta": "01 ESPAÑA",
@@ -57,6 +153,25 @@
   "ruido": []
  },
  {
+  "id": "a25638ed311a",
+  "fecha": "2026-11-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "LV16.com.ar",
+  "titulo": "Miguel Besso sobre la ley de Prevención de la ludopatía: La reglamentación debe respetar el espíritu de la ley",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNakthOHB5WDdzVkczd1BxRmx5bG1EYVg5RWVDeDRWeVpkZXRDUGI3ZVdRdjVGb0I4ODU5VWJaaWhOblFBSEMwUUFxcUt3NjU1R1F6V3huT3dXUXphVG15UkF0by1WUXlBNjBTX1pNQVJQNzQyOGlCeG5uR0ZjSXdKamZnc21fai14SHlZTmlaTjNRbEZqQVdEakVLcU0wWmpmX0NVMlRpRGwyWFBEX2pNaThaOEtYY2J3clU5OUhfUE1yUEMtcXpBNWQtdzdXUm5OcVJaRWNNcEotNUFab1YwcTI2RQ?oc=5",
+  "clave": "besso debe espiritu ludopatia miguel prevencion reglamentacion respetar",
+  "capturado": "2026-11-28",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "ludopat"
+  ],
+  "ruido": []
+ },
+ {
   "id": "a9b460af76cb",
   "fecha": "2026-11-27",
   "carpeta": "05 GOOGLE NEWS",
@@ -105,6 +220,47 @@
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVpaWWV1WFAxUHV0VHpscFN2SERIcmN0ZDd3MXZKM3FkeXdnTl95cTV6TjZ3MGZOVjA4MzVXNDNXYXBqblpCMGZ0ZkFhRFVyckQ4N0hicndIQnJ6NEs2aWRPN0NJYTZfNHU3NHR5ZnhudWxmbXhTWmNyVGJvMnZ2RFR2OVVVVE85eE9QV2pUQTJNWkhUWGlYMS1wbGZkZ3ZfSW5tMjFFTDlYcHBXNEprc2p6N1dFTy1haVlVUzU5SDRJUQ?oc=5",
   "clave": "convocan emergencia exigir festival rios",
   "capturado": "2026-11-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "2c35269b6318",
+  "fecha": "2026-11-27",
+  "carpeta": "03 BRASIL",
+  "feed": "Conselho Federal de Psicologia",
+  "medio": "Conselho Federal de Psicologia",
+  "titulo": "CFP realiza cerimônia de premiação do IV Prêmio Profissional Virgínia Bicudo em 10 de dezembro",
+  "resumen": "o conselho federal de psicologia (cfp) realiza, no dia 10 de dezembro de 2026, a cerimonia de premiacao da quarta edicao do premio profissional virginia bicudo – “praticas para uma psicologia antirracista”. o evento acontece das 17h as 20h, na … o post cfp realiza cerimonia de premiacao do iv premio profissional virginia bicudo em 10 de dezembro apareceu primeiro em conselho federal de psicologia ",
+  "url": "https://site.cfp.org.br/cfp-realiza-cerimonia-de-premiacao-do-iv-premio-profissional-virginia-bicudo-em-10-de-dezembro/",
+  "clave": "bicudo cerimonia dezembro premiacao premio profissional realiza virginia",
+  "capturado": "2026-11-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "psicolog"
+  ],
+  "ruido": [
+   "evento",
+   "premio"
+  ]
+ },
+ {
+  "id": "74983a7f0185",
+  "fecha": "2026-11-27",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Elonce.com",
+  "titulo": "Convocan a un festival en defensa de la salud mental en Entre Ríos",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTEIxRDZEZGdQRkdQaUh3dmJDbzI0SWtUZWQyWk9KY2hWNHJVYlVRUzZQTk4yaGRMcXF4Wm1yUDZJbWxfMGxPV3lhbUp5SzBnVE5iRmo2RTdETllzTWVUczh3dVh6Ui1kbkRRa0x0bm00NExlYkJlR2RJblNXQmNNS1RNdGEzSzVSRk0wZElOMENoTFNOaDJIcnFuZ1R0ZWxTU1RVbmZNbHl2ZGtUZF9CVW1R0gGeAUFVX3lxTE5JNW11OTlLa2JCUzZEUW00bGY0VU5YQnNvMkhBdWZJZmZZTVdvN0k5TlhMQU9leUNxRWpQbk5MSEhZVFVGSzlCYkFCR2d3MTBRc0xRX3BfRWZ2eXlLOHFOQm9uSHdGYlhROGd4QWp1cmVCTHRtaEtGM18xdTdKVEVUeXc4TEphWHM5Z3Z0alhJRzV1UGpTQzZkNmdlR0l3?oc=5",
+  "clave": "convocan defensa festival rios",
+  "capturado": "2026-11-28",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -224,6 +380,44 @@
   "categoria_auto": "regulacion",
   "topic": [
    "saude mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "255b40a363c3",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Congreso Nacional de Honduras",
+  "titulo": "Comisión legislativa dictamina favorable la Ley de Salud Mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OQ0hhR3FPRnBPXy1WN0hnV0dHU2VDWmM4QThPaEVIcTVjdGFObndWZmczYmM0Q0dqa2VnaE9vVlR5Zm96SGZudlpGSTFuSkRZbXlEdW1oc1BVeU43a3FsWnpTVF9wQ1RJRi1wRlln?oc=5",
+  "clave": "comision dictamina favorable legislativa",
+  "capturado": "2026-11-28",
+  "puntos": 4,
+  "prioridad": "B",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "b0f9faaab696",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · BR ANVISA (sustituye al feed de gov.br, que rechaza conexiones)",
+  "medio": "Metrô News Jornal",
+  "titulo": "Sedentarismo e depressão aumentam risco cardiometabólico em adultos, revela estudo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON3MyYlZhUk5oN2FRN0EwMnE2c1Jqck1SRmNzSllGdHhOMHJGNG1NVEE5b2FmaW9yd2RNZjQyQXZPbXJ0bXllekhkcERtSTBiSHBnTTFrd0hwM1Y3b1Z1X0ZLY0FhNU0zUExNdkluM2ZRdjFid0RzNS12NnBxRmh0WE1QVEJkQi1ZMjd4ZTlOU2l6U2VzRGlyTUloeksxVkdMbklSWkpKSlk0cVE?oc=5",
+  "clave": "adultos aumentam cardiometabolico depressao estudo revela risco sedentarismo",
+  "capturado": "2026-11-28",
+  "puntos": 3,
+  "prioridad": "B",
+  "categoria_auto": "research",
+  "topic": [
+   "depres"
   ],
   "ruido": []
  },
@@ -433,6 +627,25 @@
   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXZDaU9IeHVhWE5VRTFqR2dzVEpMUmUzX3dHc0xqRGNRZEoxc0VxbnNfNGlwdGt3UXNsWWZIUnQ1bzRKZGs4dlBvZlRXbzNVc0pBN19LLU1SUGw5OTBvRmNVU1hycUE2ZWlKWFp6SE9WdkJHamtiN0V2SkxGZUZNZS1yU042a1g5QVBGOUI3amRFc0t6TmFhU1RYMHBJTXVyZUV0WmNCVWhpTHBYUVBVeDYwbmJoTzg1dGtn0gHAAUFVX3lxTE9aeXNjT19tM1hVOEZQRW5nQ3h5b3I4QmxiWTllUEhLV2FuYjJrUXI1WjhQLTl0b2ROY2FNelFGbkJDbTQ1VFlyMnZQVW5KTFU3ajh1MkRXZ2lrT3huMlBmbVl6SHZTQUtzV0hKUkpoUUtBMVgtcUVidlpJZGpTMGZKam5RdXA4c01lMktDc0x6YXFWUnVLU3A1cVdoSGNpOWM5aHI4NGRKN3hJZWZReUVzc3kya3g3YVJQZW5FZ2c0ZA?oc=5",
   "clave": "festival gualeguaychu parana respaldan",
   "capturado": "2026-11-27",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "8b24756c040e",
+  "fecha": "2026-11-26",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Ministerio de Sanidad",
+  "titulo": "Seguimiento epidemiológico de la salud mental en la zona DANA (SEDANA-SM)",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOalR3bU5BdVhHZ083TEVJZmtJQlZMOGFzVTdWTzgxVERMVjJlQXZrZlBXaXlNaWdjWlhhZFRXTHdsZmZlbVYzSDBFZnNBdTFJTFdDQ1VfVVhQa0piTXpTQzAtZDZ2QlFqTTJZVGZNMkgtMEZWWlBNVWoyMDBRbzJCeW1RN1ZUc3MtRUI3N1ZnWHNTSVotbmlMbTVYWlE4QQ?oc=5",
+  "clave": "dana epidemiologico sedana seguimiento zona",
+  "capturado": "2026-11-28",
   "puntos": 0,
   "prioridad": "C",
   "categoria_auto": "otro",
@@ -1852,6 +2065,26 @@
   "categoria_auto": "otro",
   "topic": [
    "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "3918f89d181a",
+  "fecha": "2026-11-20",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · MX / LATAM",
+  "medio": "El Sol de México",
+  "titulo": "Impulsan telemedicina para atender salud mental y adicciones en Tulancingo",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0lycG5aTkNMeWk1S0NuSXBtQ0tpdFdTZkhfMmw4dFBYeFRmd2Z4amJvZnFlWnB6dF91NjJwbjdsOUNqdUZQMlhJaUEyalpiZlYzZVBKQ1JaTGFsejVoX0hEWVU0NUJERXdOVnlfM1ozcGZJc0lWdGYtSVl3RURXRWlpUF91RWFfSHdYYjBMNlRTVDFHY3AteldLb3Vrc1lUQU1TZUZrYVBMMDB0cU1zaFlIQ2VibmpaN3ZTdENIVm9aSFZteXZfN1dpOEQweTV4OUE?oc=5",
+  "clave": "adicciones atender impulsan telemedicina tulancingo",
+  "capturado": "2026-11-28",
+  "puntos": 0,
+  "prioridad": "C",
+  "categoria_auto": "otro",
+  "topic": [
+   "salud mental",
+   "adicci"
   ],
   "ruido": []
  },
@@ -3666,6 +3899,25 @@
   "puntos": 7,
   "prioridad": "A",
   "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "475019f3ffe8",
+  "fecha": "2026-11-13",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Xunta de Galicia",
+  "titulo": "Comienza el refuerzo de los recursos de salud mental de Ourense con la renovación del hospital de día, que gana cinco consultas y nuevos espacios humanizados",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzM4bE5yR2VGYkM3SFlUR0tEQjFxM21yOHI2QXVINllPOTJKMFZJUEY1b2psZVhSZ3owQTMtVEVJLXdzSXV6dXZJOWFWSm1Ed1lUXy03dFpyZGJqRG1UQ0JnaHM1bXp3NTJmaGs4eTZIRGNZWVpuZF9rZEtXV2ExdmZ6VHVfWFUwTExGTFUyNFQwZnBCM09lUlY0SWh0XzNVNFR1MGN2RUs0MnFKejIyZnFGZnZQbzBTWENiRFhicDQzZTE2TTBVYzZPVXpnM0E?oc=5",
+  "clave": "cinco comienza consultas espacios gana hospital humanizados nuevos",
+  "capturado": "2026-11-28",
+  "puntos": 5,
+  "prioridad": "B",
+  "categoria_auto": "research",
   "topic": [
    "salud mental"
   ],
@@ -7160,6 +7412,25 @@
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2x0eTZ5ODNTUUlhRkIzX1RQTUs0b1hqQ3JWaUVpYW84aWFnZ2xQbTZqa1laSWw3REdfWGlfaDVpQ3FQckNQcWJMLTdhMjV2SXJ5YlZ6SG5aaFZ1TExOeVF5cS0yb3dSb1VBWC1Tem1CeWZMRm5uOTVYRDhzTE00T21GM0x0ZlRvNEdvbWlDS213cDhNTG9TLWJia2JqR2NoeDUxNzN4NEtONjg4SjlN?oc=5",
   "clave": "diamante hospital inauguran segundo",
   "capturado": "2026-11-06",
+  "puntos": 2,
+  "prioridad": "C",
+  "categoria_auto": "sistema_publico",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "473286ce0840",
+  "fecha": "2026-11-05",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Xunta de Galicia",
+  "titulo": "La Xunta prevé que la unidad de salud mental vuelva a estar operativa en pocas semanas en Ponteareas, tras finalizar las actuaciones para mitigar la presencia de gas radón",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSFI5YkFiYU5DQ2xidTc1aG9XcW1yTFJyUS1uWndlalo4QzZNeUhVQjUtcDdlT3ZEMFd2OERKbmItelZnQzRZMnpjc1FzN1pXaW9Pa0tadjBlUEoyNGlPRDVXY0QwVnNoSF9laHV3b01NRmp5RFl3c1dnR2hpY2FDSnhMQzV4dVIwemdnR0FyaFpVcmt6OU1uVjI4ZTlGcXZPM3hmc3RQZE9kZUNiQl80Q1B6OU9Xb2tNVDRLeXNzYWgxdnZGSXBxVGlkQkNRSFRydkNrMQ?oc=5",
+  "clave": "actuaciones estar finalizar mitigar operativa pocas ponteareas presencia",
+  "capturado": "2026-11-28",
   "puntos": 2,
   "prioridad": "C",
   "categoria_auto": "sistema_publico",
@@ -15681,6 +15952,25 @@
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBa1ktU1haRHdKTF95U0tOUlRkLW5fZFlDLUx4ZmowWndhaTJOQWxjNUNwbEg4eHBzTWNRX3FzX2lOczJKZEM4WXNDY2EzVktvcFFtVE11YzhVX2M2VTdYeC1PcUlwSDhaZ1U0TE53?oc=5",
   "clave": "ante derechos entra garantiza intervenciones involuntarias pacientes reforma",
   "capturado": "2026-11-04",
+  "puntos": 7,
+  "prioridad": "A",
+  "categoria_auto": "regulacion",
+  "topic": [
+   "salud mental"
+  ],
+  "ruido": []
+ },
+ {
+  "id": "57f49f98ca2e",
+  "fecha": "2026-10-22",
+  "carpeta": "05 GOOGLE NEWS",
+  "feed": "Google News · ES regulación",
+  "medio": "Ministerio de Sanidad",
+  "titulo": "Entra en vigor la reforma que garantiza los derechos de los pacientes ante las intervenciones involuntarias en salud mental",
+  "resumen": "",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QOHFsUGtRY0NDZWptUnlUNVc3WDVscmZuTjVfd0pLRjI5SjlNX1h6bnp2MjItYWVnTWs5NGlCNXhrb1AxWWs1V1g1TUFFMEl1aG5pYk55QW1fNXVrd1hnWEs4TFVqa05TY053d253?oc=5",
+  "clave": "ante derechos entra garantiza intervenciones involuntarias pacientes reforma",
+  "capturado": "2026-11-28",
   "puntos": 7,
   "prioridad": "A",
   "categoria_auto": "regulacion",
